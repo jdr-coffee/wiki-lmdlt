@@ -9,4 +9,4 @@ Ceci est une page de test hébergée dans le repo `wiki-lmdlt`.
 Un wiki construit avec **Next.js** et du contenu en Markdown, édité dans Obsidian.
 
 ## Alpha
-Déclement du hook action ?
+Déclement du hook action si il vous plait :pray:

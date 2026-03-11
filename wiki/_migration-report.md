@@ -1,0 +1,692 @@
+---
+title: Rapport de migration Notion
+draft: true
+---
+
+# Rapport de migration Notion
+
+Migration du 2026-03-11.
+
+---
+
+## Fichiers créés (431)
+
+- index.md
+- bestiaire/bestiaire/anathemes.md
+- bestiaire/bestiaire/les-etres-sylvestres.md
+- bestiaire/bestiaire/furets.md
+- bestiaire/bestiaire/loups-de-peau.md
+- bestiaire/bestiaire/ondines.md
+- bestiaire/bestiaire/robots-d-attaque.md
+- bestiaire/bestiaire/sole-reveuse.md
+- bestiaire/bestiaire/vampires.md
+- bestiaire/bestiaire/les-hommes-poissons.md
+- bestiaire/bestiaire/la-souris-d-agener.md
+- bestiaire/bestiaire/_collection.yaml
+- bestiaire.md
+- comment-contribuer.md
+- contributeurices/contributeurices/zatzat.md
+- contributeurices/contributeurices/leflopla.md
+- contributeurices/contributeurices/kazoart.md
+- contributeurices/contributeurices/lemon-pie.md
+- contributeurices/contributeurices/_collection.yaml
+- contributeurices.md
+- cosmogonie/cosmogonie/chat-borgne.md
+- cosmogonie/cosmogonie/dieu-immole.md
+- cosmogonie/cosmogonie/corbeau-cramoisi.md
+- cosmogonie/cosmogonie/louve-mere.md
+- cosmogonie/cosmogonie/adelphes-serpents.md
+- cosmogonie/cosmogonie/taureau-tricephale.md
+- cosmogonie/cosmogonie/canard-gardien.md
+- cosmogonie/cosmogonie/dieu-suffoque.md
+- cosmogonie/cosmogonie/dieu-decapite.md
+- cosmogonie/cosmogonie/l-araignee.md
+- cosmogonie/cosmogonie/_collection.yaml
+- cosmogonie.md
+- dictionnaire/dictionnaire/botan-herboriste.md
+- dictionnaire/dictionnaire/captain-croc-en-jambes.md
+- dictionnaire/dictionnaire/chelinkarisme.md
+- dictionnaire/dictionnaire/neptunerie.md
+- dictionnaire/dictionnaire/oeufer.md
+- dictionnaire/dictionnaire/_collection.yaml
+- dictionnaire.md
+- fanarts/fanarts-de-leflopla/inktober-de-leflopla.md
+- fanarts/fanarts-de-leflopla.md
+- fanarts/fanarts-de-lemon-pie.md
+- fanarts/fanarts-de-zat.md
+- fanarts.md
+- histoire.md
+- invitees/sans-titre/louise-diceyclipe.md
+- invitees/sans-titre/zoe-la-belliqueuse.md
+- invitees/sans-titre/perseides.md
+- invitees/sans-titre/agnes-4e-de-couv.md
+- invitees/sans-titre/charlotte-4e-de-couv.md
+- invitees/sans-titre/sarah-petitevitesse.md
+- invitees/sans-titre/alex.md
+- invitees/sans-titre/roxane-de-roll-play.md
+- invitees/sans-titre/_collection.yaml
+- invitees.md
+- les-conseils-de-l-equipe/comment-creer-son-univers-de-jdr-d-apres-steve.md
+- les-conseils-de-l-equipe.md
+- magie/magies/la-magie-elementaire.md
+- magie/magies/la-magie-des-esprits.md
+- magie/magies/la-magie-des-dieux.md
+- magie/magies/sortileges-de-flammes.md
+- magie/magies/la-magie-de-la-cuisine.md
+- magie/magies/les-occultes.md
+- magie/magies/_collection.yaml
+- magie/pierres-magiques/fulgurite.md
+- magie/pierres-magiques/_collection.yaml
+- magie.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e01-la-nuit-des-tresors.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e02-le-chalet-aux-v-ux.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e03-bienvenue-a-veloria.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e04-le-college-des-mages.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e05-soiree-mousse-a-la-taverne.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e06-le-temple-du-chat-borgne.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e07-cauchemars-et-chocolat.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e08-les-dossiers-d-inscription-magiques.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e09-la-rentree-des-magiciennes.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e10-l-archimagicienne-de-verre.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e11-la-bibliotheque-de-l-invisible.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e12-cours-de-pratique-magique.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e13-le-club-des-distingues-du-destin.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e14-la-mysterieuse-heritiere.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e15-la-petite-boutique-d-objets-magiques.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e16-le-qg-des-persifleurs.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e17-faux-objets-en-pagaille.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e18-la-guerre-des-guildes.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e19-le-nouveau-mage-de-l-esprit.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e20-viree-shopping-a-la-capitale.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e21-conspirations-nouvelles-theories.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e22-le-grand-festival-de-la-louve-mere.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e23-neptune-les-gardiens-de-l-art.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e24-la-valeur-du-velour.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e25-la-dynastie-des-heaumetoile.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e26-la-nuit-des-manteaux.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e27-la-seance-d-accusation-publique.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e28-le-chef-de-la-cour-des-manteaux.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e29-la-nouvelle-taverne-de-veloria.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e30-le-gateau-au-chocolat-ultime.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e31-le-mariage-du-prince-leomir.md
+- mise-a-jour-des-episodes/sans-titre-2424-ca7f/s02e32-le-retour-de-callum.md
+- mise-a-jour-des-episodes/sans-titre/s02e01-la-nuit-des-tresors-episodes-s02e01-20-20la-20nuit-20des-20tr-c3-a9sors-2013c4d690237c802d85d4e9ca600db047-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e02-le-chalet-aux-v-ux-episodes-s02e02-20-20le-20chalet-20aux-20v-c5-93ux-2013c4d690237c804886bce48ff5c678b3-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e03-bienvenue-a-veloria-episodes-s02e03-20-20bienvenue-20-c3-a0-20veloria-2013c4d690237c80189316c167daea321d-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e04-le-college-des-mages-episodes-s02e04-20-20le-20coll-c3-a8ge-20des-20mages-2013c4d690237c80b1acc4fb81283d2a37-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e05-soiree-mousse-a-la-taverne-episodes-s02e05-20-20soir-c3-a9e-20mousse-20-c3-a0-20la-20taverne-2013c4d690237c802abde2d0ebc21a7534-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e06-le-temple-du-chat-borgne-episodes-s02e06-20-20le-20temple-20du-20chat-20borgne-2013c4d690237c8065bd62c748795ea09e-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e07-cauchemars-et-chocolat-episodes-s02e07-20-20cauchemars-20et-20chocolat-2013c4d690237c804699bad35c4458c0d8-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e08-les-dossiers-d-inscription-magiques-episodes-s02e08-20-20les-20dossiers-20d-inscription-20magiques-2013c4d690237c80869485eb5130b38dfc-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e09-la-rentree-des-magiciennes-episodes-s02e09-20-20la-20rentr-c3-a9e-20des-20magiciennes-2013c4d690237c80938850df4ea81fce7b-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e10-l-archimagicienne-de-verre-episodes-s02e10-20-20l-archimagicienne-20de-20verre-2013c4d690237c805ca041ce269d12ca4a-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e11-la-bibliotheque-de-l-invisible-episodes-s02e11-20-20la-20biblioth-c3-a8que-20de-20l-invisible-2013c4d690237c8047a58cf8d329084dfc-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e12-cours-de-pratique-magique-episodes-s02e12-20-20cours-20de-20pratique-20magique-2013c4d690237c80c28eafea721f822715-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e13-le-club-des-distingues-du-destin-episodes-s02e13-20-20le-20club-20des-20distingu-c3-a9s-20du-20destin-2013c4d690237c802db513cbb1e7583404-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e14-la-mysterieuse-heritiere-episodes-s02e14-20-20la-20myst-c3-a9rieuse-20h-c3-a9riti-c3-a8re-2013c4d690237c80a0b212d48fc4cf7708-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e15-la-petite-boutique-d-objets-magiques-episodes-s02e15-20-20la-20petite-20boutique-20d-objets-20magiques-2013c4d690237c80159cc0f99c27861db7-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e16-le-qg-des-persifleurs-episodes-s02e16-20-20le-20qg-20des-20persifleurs-2013c4d690237c80de8a27e2c6a4a13fa5-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e17-faux-objets-en-pagaille-episodes-s02e17-20-20faux-20objets-20en-20pagaille-2013c4d690237c80a3a2cef47ac3230339-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e18-la-guerre-des-guildes-episodes-s02e18-20-20la-20guerre-20des-20guildes-2013c4d690237c802cb571d4625f691f9e-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e19-le-nouveau-mage-de-l-esprit-episodes-s02e19-20-20le-20nouveau-20mage-20de-20l-esprit-2013e4d690237c80ae83c9f9133a8e8c9f-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e20-viree-shopping-a-la-capitale-episodes-s02e20-20-20vir-c3-a9e-20shopping-20-c3-a0-20la-20capitale-2013e4d690237c80e88e70c84d3be4535f-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e21-conspirations-nouvelles-theories-episodes-s02e21-20-20conspirations-20-20nouvelles-20th-c3-a9ories-2013e4d690237c80f2ab8cdbd9dbacdf11-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e22-le-grand-festival-de-la-louve-mere-episodes-s02e22-20-20le-20grand-20festival-20de-20la-20louve-20m-c3-a8re-2013e4d690237c8000ab7bf11c848423b3-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e23-neptune-les-gardiens-de-l-art-episodes-s02e23-20-20neptune-20-20les-20gardiens-20de-20l-art-2013e4d690237c80aabf1ac17d285dcb6e-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e24-la-valeur-du-velour-episodes-s02e24-20-20la-20valeur-20du-20velour-2013e4d690237c80958197c2690e573f71-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e25-la-dynastie-des-heaumetoile-episodes-s02e25-20-20la-20dynastie-20des-20heaum-c3-a9toile-2013e4d690237c80c4b2acc351c17b69c9-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e26-la-nuit-des-manteaux-episodes-s02e26-20-20la-20nuit-20des-20manteaux-2013e4d690237c80738117d331365b8306-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e27-la-seance-d-accusation-publique-episodes-s02e27-20-20la-20s-c3-a9ance-20d-accusation-20publique-2013e4d690237c807ab191e0625dd9651f-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e28-le-chef-de-la-cour-des-manteaux-episodes-s02e28-20-20le-20chef-20de-20la-20cour-20des-20manteaux-2013e4d690237c80fab267ce3de2a330d1-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e29-la-nouvelle-taverne-de-veloria-episodes-s02e29-20-20la-20nouvelle-20taverne-20de-20veloria-2013e4d690237c80b5894cf3fda9d2acce-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e30-le-gateau-au-chocolat-ultime-episodes-s02e30-20-20le-20g-c3-a2teau-20au-20chocolat-20ultime-2013e4d690237c801abbc7ea4f3033fcf8-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e31-le-mariage-du-prince-leomir-episodes-s02e31-20-20le-20mariage-20du-20prince-20l-c3-a9omir-2013e4d690237c80299bbfd70331c1c12f-md.md
+- mise-a-jour-des-episodes/sans-titre/s02e32-le-retour-de-callum-episodes-s02e32-20-20le-20retour-20de-20callum-2013e4d690237c801ebea6c8b1168d1506-md.md
+- mise-a-jour-des-episodes/sans-titre/_collection.yaml
+- mise-a-jour-des-episodes.md
+- plantes/allangium.md
+- plantes/anthurium.md
+- plantes/coridalice.md
+- plantes/gattilier.md
+- plantes.md
+- episodes/s01e01-les-morts-disparus.md
+- episodes/s01e02-baston-generale-a-la-cantoche.md
+- episodes/s01e03-l-adoption-de-cid-le-robot.md
+- episodes/s01e04-la-meilleure-pizza-du-royaume.md
+- episodes/s01e05-l-art-du-combat.md
+- episodes/s01e06-une-tres-tres-mauvaise-nuit.md
+- episodes/s01e07-chasse-a-la-sorciere.md
+- episodes/s01e08-la-nuit-des-morts-vivants.md
+- episodes/s01e09-la-reunion-secrete.md
+- episodes/s01e10-arnaques-crimes-et-botaniques.md
+- episodes/s01e11-l-affrontement-de-tous-les-dangers.md
+- episodes/s01e12-les-secrets-de-la-magie-interdite.md
+- episodes/s01e13-les-imposteurs-moustachus.md
+- episodes/s01e14-cauchemar-en-cuisine.md
+- episodes/s02e01-la-nuit-des-tresors-2.md
+- episodes/s02e02-le-chalet-aux-v-ux-2.md
+- episodes/s02e03-bienvenue-a-veloria-2.md
+- episodes/s02e04-le-college-des-mages-2.md
+- episodes/s02e05-soiree-mousse-a-la-taverne-2.md
+- episodes/s02e06-le-temple-du-chat-borgne-2.md
+- episodes/s02e07-cauchemars-et-chocolat-2.md
+- episodes/s02e08-les-dossiers-d-inscription-magiques-2.md
+- episodes/s02e09-la-rentree-des-magiciennes-2.md
+- episodes/s02e10-l-archimagicienne-de-verre-2.md
+- episodes/s02e11-la-bibliotheque-de-l-invisible-2.md
+- episodes/s02e12-cours-de-pratique-magique-2.md
+- episodes/s02e13-le-club-des-distingues-du-destin-2.md
+- episodes/s02e14-la-mysterieuse-heritiere-2.md
+- episodes/s02e15-la-petite-boutique-d-objets-magiques-2.md
+- episodes/s02e16-le-qg-des-persifleurs-2.md
+- episodes/s02e17-faux-objets-en-pagaille-2.md
+- episodes/s02e18-la-guerre-des-guildes-2.md
+- episodes/s01e15-dernieres-revelations.md
+- episodes/s01e16-la-revanche-des-mort.md
+- episodes/s01e17-surprises-au-petit-dejeuner.md
+- episodes/s01e18-le-conseil-de-guerre.md
+- episodes/s01e19-la-bataille-d-agener.md
+- episodes/s01e20-pt-01-la-derniere-ligne-de-defense.md
+- episodes/s01e20-pt-02-la-derniere-ligne-de-defense.md
+- episodes/pilote-pt-01-l-auberge-de-la-bonne-table.md
+- episodes/pilote-pt-02-la-cheftaine-des-mercenaires.md
+- episodes/pilote-pt-03-le-festival-de-la-guistoche.md
+- episodes/pilote-pt-04-confrontation-au-concert-de-minuit.md
+- episodes/hors-serie-01-la-grande-election.md
+- episodes/hors-serie-02-course-a-la-poule.md
+- episodes/s02e19-le-nouveau-mage-de-l-esprit-2.md
+- episodes/s02e20-viree-shopping-a-la-capitale-2.md
+- episodes/s02e21-conspirations-nouvelles-theories-2.md
+- episodes/s02e22-le-grand-festival-de-la-louve-mere-2.md
+- episodes/s02e23-neptune-les-gardiens-de-l-art-2.md
+- episodes/s02e24-la-valeur-du-velour-2.md
+- episodes/s02e25-la-dynastie-des-heaumetoile-2.md
+- episodes/s02e26-la-nuit-des-manteaux-2.md
+- episodes/s02e27-la-seance-d-accusation-publique-2.md
+- episodes/s02e28-le-chef-de-la-cour-des-manteaux-2.md
+- episodes/s02e29-la-nouvelle-taverne-de-veloria-2.md
+- episodes/s02e30-le-gateau-au-chocolat-ultime-2.md
+- episodes/s02e31-le-mariage-du-prince-leomir-2.md
+- episodes/s02e32-le-retour-de-callum-2.md
+- episodes/debrief-saison-2-secrets-anecdotes.md
+- episodes/faq-saison-2-annonce.md
+- episodes/betisier-saison-2.md
+- episodes/hors-serie-royal-01-la-famille-cherrington.md
+- episodes/s03e03-les-6-chevaliers-du-roi.md
+- episodes/s03e02-la-grande-persiflade-annonce.md
+- episodes/hors-serie-royal-02-qui-veut-epouser-elina.md
+- episodes/s03e00-recap-saisons-1-2.md
+- episodes/s03e01-retrouvailles.md
+- episodes/s03e04-la-chasse-royale.md
+- episodes/s03e05-les-persifleurs-prennent-le-large.md
+- episodes/s03e06-a-bord-du-cristal-des-mers.md
+- episodes/s03e07-la-loi-de-l-oie.md
+- episodes/s03e08-cousinade-royale.md
+- episodes/s03e09-le-palatinat-de-sabrenas-feat-diceyclipse.md
+- episodes/s03e10-donjons-oursons-annonce-feat-diceyclipse.md
+- episodes/s03e11-la-soiree-des-ambassadeurs.md
+- episodes/s03e12-les-grands-de-sabrenas.md
+- episodes/s03e13-porte-disparu.md
+- episodes/s03e14-crise-et-croissants.md
+- episodes/s03e15-pactiser-avec-l-ennemi.md
+- episodes/s03e16-retour-a-la-case-depart.md
+- episodes/s03e17-l-etrange-cas-d-alienor.md
+- episodes/s03e18-l-archimage-tombetoile.md
+- episodes/s03e19-les-fils-du-temps.md
+- episodes/annonce-episodes-20-21.md
+- episodes/s03e20-pt-01-les-persifleurs-de-sabrenas.md
+- episodes/s03e20-pt-02-thyvald-le-magnifique.md
+- episodes/s03e21-les-jeux-de-la-liberation-annonce-feat-la-belliqueuse.md
+- episodes/s03e22-l-epreuve-finale-feat-la-belliqueuse.md
+- episodes/s03e23-le-retour-du-chat-borgne.md
+- episodes/s03e24-la-quete-de-neptune.md
+- episodes/s03e25-le-quartier-des-mecaniciens-grosse-annonce.md
+- episodes/s03e26-le-secret-de-l-horloge.md
+- episodes/s03e27-les-erreurs-du-passe.md
+- episodes/s03e28-dans-la-toile-de-l-araignee.md
+- episodes/betisier-saison-3.md
+- episodes/s04e01-le-zephyr-d-obsidienne-feat-perseides.md
+- episodes/s04e02-le-palatinat-contre-attaque-feat-perseides.md
+- episodes/s04e03-la-ville-flottante.md
+- episodes/s04e04-les-dieux-defunts.md
+- episodes/s04e05-la-dame-d-ebene.md
+- episodes/s04e06-nuit-blanche-a-cautel.md
+- episodes/s04e07-amourette-et-gueule-de-bois.md
+- episodes/s04e08-les-12-mercenaires.md
+- episodes/s04e09-adieux.md
+- episodes/s04e10-duel-de-dames-feat-petite-vitesse.md
+- episodes/s04e11-le-bois-des-legendes-feat-petite-vitesse.md
+- episodes/s04e12-la-baronnie-de-nival-pt-01.md
+- episodes/s04e13-le-temple-du-taureau.md
+- episodes/s04e12-la-baronnie-de-nival-pt-02.md
+- episodes/s04e14-colere-divine.md
+- episodes/_collection.yaml
+- guildes/guilde-des-persifleurs.md
+- guildes/guilde-des-marchands.md
+- guildes/guilde-des-cuistanciers.md
+- guildes/guilde-des-epiciers.md
+- guildes/guilde-des-serviteurs.md
+- guildes/guilde-des-vide-poches.md
+- guildes/guilde-des-messagers.md
+- guildes/guilde-des-murmures.md
+- guildes/guilde-des-flambeurs.md
+- guildes/guilde-des-loyaux.md
+- guildes/guilde-des-herboristes.md
+- guildes/guilde-des-eclaireurs.md
+- guildes/guilde-de-la-joie.md
+- guildes/_collection.yaml
+- heroines/neptune.md
+- heroines/chelinka.md
+- heroines/someul.md
+- heroines/maitre-du-jeu.md
+- heroines/artemis.md
+- heroines/_collection.yaml
+- l-equipe/sam.md
+- l-equipe/steve.md
+- l-equipe/ninon.md
+- l-equipe/camille.md
+- l-equipe/angela.md
+- l-equipe/_collection.yaml
+- lieux/prison-d-agener.md
+- lieux/arpalian.md
+- lieux/bardache.md
+- lieux/le-jarrier.md
+- lieux/galefretier.md
+- lieux/happelourde.md
+- lieux/crestelet.md
+- lieux/place-de-la-liberation.md
+- lieux/palais-palatin.md
+- lieux/quartier-des-mecaniciens.md
+- lieux/vesperale.md
+- lieux/village-de-plussoie.md
+- lieux/refuge-du-repos-merite.md
+- lieux/cite-de-veloria.md
+- lieux/_collection.yaml
+- objets-notables/plenimythe.md
+- objets-notables/epee-de-l-uf-d-or.md
+- objets-notables/clwood-luth-de-jazz.md
+- objets-notables/ceinture-de-la-louve-mere.md
+- objets-notables/bague-de-neptune.md
+- objets-notables/dark-en-ciel.md
+- objets-notables/pierre-anti-requin.md
+- objets-notables/stan.md
+- objets-notables/cid.md
+- objets-notables/gantelet-de-force-de-someul.md
+- objets-notables/_collection.yaml
+- pays-royaumes/royaume-de-veloria.md
+- pays-royaumes/palatinat-de-sabrenas.md
+- pays-royaumes/cautel.md
+- pays-royaumes/empire-d-ambrelin.md
+- pays-royaumes/verte-cime.md
+- pays-royaumes/_collection.yaml
+- personnages/heckel.md
+- personnages/roger.md
+- personnages/eogan-keller.md
+- personnages/jeckel.md
+- personnages/yana.md
+- personnages/jeffrey-doyle.md
+- personnages/ulgar.md
+- personnages/carissa-skyke.md
+- personnages/izzy.md
+- personnages/general-beausoleil.md
+- personnages/cornelius.md
+- personnages/mira.md
+- personnages/cid-2.md
+- personnages/izen.md
+- personnages/febastien.md
+- personnages/alice-holloway.md
+- personnages/plutarch.md
+- personnages/desdemona-vertecime.md
+- personnages/maggie.md
+- personnages/herevard.md
+- personnages/meuleuwa.md
+- personnages/cody-berryman.md
+- personnages/sarah-petrova.md
+- personnages/timothy-charlton.md
+- personnages/agibail-brent.md
+- personnages/fox-sherman.md
+- personnages/adeline-roberts.md
+- personnages/billy-quattermack.md
+- personnages/jonas.md
+- personnages/cassandra-tastrophe.md
+- personnages/romeo.md
+- personnages/nicholas-de-benevent.md
+- personnages/gorthor-le-cruel.md
+- personnages/roberto-le-querelleur.md
+- personnages/fyrlinel.md
+- personnages/les-jumeaux-milford.md
+- personnages/igor-hector.md
+- personnages/alienor.md
+- personnages/victor-appleby.md
+- personnages/gregor.md
+- personnages/edric.md
+- personnages/hadrian.md
+- personnages/duncan.md
+- personnages/tristram.md
+- personnages/brunhilde.md
+- personnages/eriksen.md
+- personnages/cera.md
+- personnages/irena-von-kamerling.md
+- personnages/saoirse-keller.md
+- personnages/isembart.md
+- personnages/lelias-morton.md
+- personnages/percy.md
+- personnages/lars.md
+- personnages/thorpe.md
+- personnages/thyvald.md
+- personnages/rickard.md
+- personnages/estragon.md
+- personnages/jaspe.md
+- personnages/la-vipere-azurine.md
+- personnages/orban.md
+- personnages/ervin.md
+- personnages/erasme-tombetoile.md
+- personnages/alexander-faust.md
+- personnages/mercure.md
+- personnages/barton-glover.md
+- personnages/magdalena-hart.md
+- personnages/melchior.md
+- personnages/constance-defontaine.md
+- personnages/arakel.md
+- personnages/andrea.md
+- personnages/mme-bourrechantal.md
+- personnages/gareth-bretailleur.md
+- personnages/tilika-murano.md
+- personnages/la-dame-d-ebene.md
+- personnages/automne-vertecime.md
+- personnages/jupiter.md
+- personnages/venus.md
+- personnages/leonard-montgomery.md
+- personnages/laurina.md
+- personnages/guillaume-le-simplet.md
+- personnages/emelyne.md
+- personnages/darryl.md
+- personnages/modele-personnage.md
+- personnages/seigneur-murano.md
+- personnages/callum-le-mage.md
+- personnages/jacob.md
+- personnages/kratour.md
+- personnages/herve.md
+- personnages/paolo.md
+- personnages/jacques-serge.md
+- personnages/jean-christophe.md
+- personnages/fabio.md
+- personnages/bertrand.md
+- personnages/lorina.md
+- personnages/gregory.md
+- personnages/gordon-henry.md
+- personnages/phillipe.md
+- personnages/jazz.md
+- personnages/ernest-batoncreux.md
+- personnages/pauline-l-ondine.md
+- personnages/seigneur-ademar.md
+- personnages/lame.md
+- personnages/roi-theodorique-1er.md
+- personnages/monsieur-cascade.md
+- personnages/irina-van-camerlang.md
+- personnages/modele-personnage-2.md
+- personnages/maxime.md
+- personnages/melowa.md
+- personnages/_collection.yaml
+- saisons/saison-1.md
+- saisons/saison-3.md
+- saisons/saison-2.md
+- saisons/saison-4.md
+- saisons/pilote.md
+- saisons/hors-serie.md
+- saisons/debrief.md
+- saisons/faq.md
+- saisons/betisier.md
+- saisons/_collection.yaml
+- univers/fantasy.md
+- univers/le-dap.md
+- univers/terres-bannies.md
+- univers/_collection.yaml
+
+## Fichiers ignorés (2)
+
+- Empty title row in /Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Bestiaire/Bestiaire 28b4d690237c8038a038d4957d16ab46_all.csv
+- Empty title row in /Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Objets notables 28b4d690237c8094b9cbf589ceabf46d_all.csv
+
+## Emojis de callouts rencontrés
+
+À mapper manuellement vers les types Obsidian (`note`, `tip`, `info`, `warning`, `danger`).
+
+- `💁` → ?
+- `📮` → ?
+- `💭` → ?
+- `💡` → ?
+- `☝` → ?
+
+## Liens notion.so non résolus (85)
+
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+- **** — `https://www.notion.so` (notion.so external link)
+
+## Conflits de slug (34)
+
+- Slug conflict: "s02e01-la-nuit-des-tresors" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E01 - La nuit des trésors 2424d690237c800b9a67f90ac2def94a.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e02-le-chalet-aux-v-ux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E02 - Le chalet aux vœux 2424d690237c8060a4a7fa85201a02d1.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e03-bienvenue-a-veloria" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E03 - Bienvenue à Veloria 2424d690237c8057a101e77d49b91cd5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e04-le-college-des-mages" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E04 - Le Collège des Mages 2424d690237c80e2a508fac63f24cb28.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e05-soiree-mousse-a-la-taverne" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E05 - Soirée mousse à la taverne 2424d690237c8075a089e55facfd5f22.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e06-le-temple-du-chat-borgne" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E06 - Le Temple du Chat Borgne 2424d690237c80d5a66ecd370080c464.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e07-cauchemars-et-chocolat" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E07 - Cauchemars et chocolat 2424d690237c80d68553fafdd0fee607.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e08-les-dossiers-d-inscription-magiques" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E08 - Les dossiers d'inscription magiques 2424d690237c8073b10bde0df02cfc79.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e09-la-rentree-des-magiciennes" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E09 - La rentrée des magiciennes 2424d690237c80abbd81c69c35414e30.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e10-l-archimagicienne-de-verre" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E10 - L'archimagicienne de verre 2424d690237c8045a569d1b7db6219c5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e11-la-bibliotheque-de-l-invisible" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E11 - La bibliothèque de l'invisible 2424d690237c80ad9121f1234a137920.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e12-cours-de-pratique-magique" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E12 - Cours de pratique magique 2424d690237c805da604f45df6d22153.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e13-le-club-des-distingues-du-destin" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E13 - Le club des distingués du destin 2424d690237c80deab90eeba7b43c706.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e14-la-mysterieuse-heritiere" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E14 - La mystérieuse héritière 2424d690237c80e9ab85cd7805725d53.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e15-la-petite-boutique-d-objets-magiques" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E15 - La petite boutique d'objets magiques 2424d690237c801c89f2fc7ed08bd1d3.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e16-le-qg-des-persifleurs" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E16 - Le QG des persifleurs 2424d690237c803e9071cc9ecb3f3822.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e17-faux-objets-en-pagaille" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E17 - Faux objets en pagaille 2424d690237c80ada246c9fafa4f8cb5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e18-la-guerre-des-guildes" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E18 - La guerre des guildes 2424d690237c809ba957ddbcedbdc230.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e19-le-nouveau-mage-de-l-esprit" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E19 - Le nouveau mage de l'esprit 2424d690237c807c939cf250f87d3e35.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e20-viree-shopping-a-la-capitale" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E20 - Virée shopping à la capitale 2424d690237c8005a346f9700ff13e55.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e21-conspirations-nouvelles-theories" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E21 - Conspirations & nouvelles théories 2424d690237c803fbc79dbe20f0c7001.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e22-le-grand-festival-de-la-louve-mere" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E22 - Le Grand Festival de la Louve Mère 2464d690237c808cbe14fe2981962284.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e23-neptune-les-gardiens-de-l-art" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E23 - Neptune & les Gardiens de l'Art 2464d690237c80a29f9cd0795342da27.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e24-la-valeur-du-velour" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E24 - La valeur du velour 2464d690237c80f6ad77d3ca5ea68e1c.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e25-la-dynastie-des-heaumetoile" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E25 - La dynastie des Heaumétoile 2464d690237c80738b94f66ce4a0c7af.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e26-la-nuit-des-manteaux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E26 - La nuit des manteaux 2464d690237c80cda967da50d0c45e68.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e27-la-seance-d-accusation-publique" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E27 - La séance d'accusation publique 2464d690237c80ab8e70e7a5d84f4bfd.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e28-le-chef-de-la-cour-des-manteaux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E28 - Le chef de la Cour des Manteaux 2464d690237c80159d0aeb9d10d1a3cd.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e29-la-nouvelle-taverne-de-veloria" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E29 - La nouvelle taverne de Veloria 2464d690237c800386fbe2913b53c383.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e30-le-gateau-au-chocolat-ultime" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E30 - Le gâteau au chocolat ultime 2464d690237c80659dc0f1279aa4d87a.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e31-le-mariage-du-prince-leomir" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E31 - Le mariage du Prince Léomir 2464d690237c80839cbeec79ebec2993.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e32-le-retour-de-callum" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E32 - Le retour de Callum 2464d690237c80c98934d14382ecd300.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "cid" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Objets notables 28b4d690237c8094b9cbf589ceabf46d_all.csv" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv"
+- Slug conflict: "modele-personnage" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv"
+
+## Avertissements (101)
+
+- No page content found for "Anathèmes" in collection bestiaire
+- No page content found for "Les Êtres Sylvestres" in collection bestiaire
+- No page content found for "Loups de Peau" in collection bestiaire
+- No page content found for "ZatZat" in collection contributeurices
+- No page content found for "Kazoart" in collection contributeurices
+- No page content found for "Lemon Pie" in collection contributeurices
+- No page content found for "Louise, Diceyclipe" in collection sans-titre
+- No page content found for "Zoé, La Belliqueuse" in collection sans-titre
+- No page content found for "Perséïdes" in collection sans-titre
+- No page content found for "Sarah, PetiteVitesse" in collection sans-titre
+- No page content found for "Alex" in collection sans-titre
+- No page content found for "S02E01 - La nuit des trésors (Episodes/S02E01%20-%20La%20nuit%20des%20tr%C3%A9sors%2013c4d690237c802d85d4e9ca600db047.md)" in collection sans-titre
+- No page content found for "S02E02 -  Le chalet aux vœux (Episodes/S02E02%20-%20Le%20chalet%20aux%20v%C5%93ux%2013c4d690237c804886bce48ff5c678b3.md)" in collection sans-titre
+- No page content found for "S02E03 - Bienvenue à Veloria (Episodes/S02E03%20-%20Bienvenue%20%C3%A0%20Veloria%2013c4d690237c80189316c167daea321d.md)" in collection sans-titre
+- No page content found for "S02E04 - Le Collège des Mages (Episodes/S02E04%20-%20Le%20Coll%C3%A8ge%20des%20Mages%2013c4d690237c80b1acc4fb81283d2a37.md)" in collection sans-titre
+- No page content found for "S02E05 -  Soirée mousse à la taverne (Episodes/S02E05%20-%20Soir%C3%A9e%20mousse%20%C3%A0%20la%20taverne%2013c4d690237c802abde2d0ebc21a7534.md)" in collection sans-titre
+- No page content found for "S02E06 - Le Temple du Chat Borgne (Episodes/S02E06%20-%20Le%20Temple%20du%20Chat%20Borgne%2013c4d690237c8065bd62c748795ea09e.md)" in collection sans-titre
+- No page content found for "S02E07 - Cauchemars et chocolat (Episodes/S02E07%20-%20Cauchemars%20et%20chocolat%2013c4d690237c804699bad35c4458c0d8.md)" in collection sans-titre
+- No page content found for "S02E08 - Les dossiers d'inscription magiques (Episodes/S02E08%20-%20Les%20dossiers%20d'inscription%20magiques%2013c4d690237c80869485eb5130b38dfc.md)" in collection sans-titre
+- No page content found for "S02E09 - La rentrée des magiciennes (Episodes/S02E09%20-%20La%20rentr%C3%A9e%20des%20magiciennes%2013c4d690237c80938850df4ea81fce7b.md)" in collection sans-titre
+- No page content found for "S02E10 - L'archimagicienne de verre (Episodes/S02E10%20-%20L'archimagicienne%20de%20verre%2013c4d690237c805ca041ce269d12ca4a.md)" in collection sans-titre
+- No page content found for "S02E11 - La bibliothèque de l'invisible (Episodes/S02E11%20-%20La%20biblioth%C3%A8que%20de%20l'invisible%2013c4d690237c8047a58cf8d329084dfc.md)" in collection sans-titre
+- No page content found for "S02E12 - Cours de pratique magique (Episodes/S02E12%20-%20Cours%20de%20pratique%20magique%2013c4d690237c80c28eafea721f822715.md)" in collection sans-titre
+- No page content found for "S02E13 - Le club des distingués du destin (Episodes/S02E13%20-%20Le%20club%20des%20distingu%C3%A9s%20du%20destin%2013c4d690237c802db513cbb1e7583404.md)" in collection sans-titre
+- No page content found for "S02E14 - La mystérieuse héritière (Episodes/S02E14%20-%20La%20myst%C3%A9rieuse%20h%C3%A9riti%C3%A8re%2013c4d690237c80a0b212d48fc4cf7708.md)" in collection sans-titre
+- No page content found for "S02E15 - La petite boutique d'objets magiques (Episodes/S02E15%20-%20La%20petite%20boutique%20d'objets%20magiques%2013c4d690237c80159cc0f99c27861db7.md)" in collection sans-titre
+- No page content found for "S02E16 - Le QG des persifleurs (Episodes/S02E16%20-%20Le%20QG%20des%20persifleurs%2013c4d690237c80de8a27e2c6a4a13fa5.md)" in collection sans-titre
+- No page content found for "S02E17 - Faux objets en pagaille (Episodes/S02E17%20-%20Faux%20objets%20en%20pagaille%2013c4d690237c80a3a2cef47ac3230339.md)" in collection sans-titre
+- No page content found for "S02E18 - La guerre des guildes (Episodes/S02E18%20-%20La%20guerre%20des%20guildes%2013c4d690237c802cb571d4625f691f9e.md)" in collection sans-titre
+- No page content found for "S02E19 - Le nouveau mage de l'esprit (Episodes/S02E19%20-%20Le%20nouveau%20mage%20de%20l'esprit%2013e4d690237c80ae83c9f9133a8e8c9f.md)" in collection sans-titre
+- No page content found for "S02E20 - Virée shopping à la capitale (Episodes/S02E20%20-%20Vir%C3%A9e%20shopping%20%C3%A0%20la%20capitale%2013e4d690237c80e88e70c84d3be4535f.md)" in collection sans-titre
+- No page content found for "S02E21 - Conspirations & nouvelles théories (Episodes/S02E21%20-%20Conspirations%20&%20nouvelles%20th%C3%A9ories%2013e4d690237c80f2ab8cdbd9dbacdf11.md)" in collection sans-titre
+- No page content found for "S02E22 - Le Grand Festival de la Louve Mère (Episodes/S02E22%20-%20Le%20Grand%20Festival%20de%20la%20Louve%20M%C3%A8re%2013e4d690237c8000ab7bf11c848423b3.md)" in collection sans-titre
+- No page content found for "S02E23 - Neptune & les Gardiens de l'Art (Episodes/S02E23%20-%20Neptune%20&%20les%20Gardiens%20de%20l'Art%2013e4d690237c80aabf1ac17d285dcb6e.md)" in collection sans-titre
+- No page content found for "S02E24 - La valeur du velour (Episodes/S02E24%20-%20La%20valeur%20du%20velour%2013e4d690237c80958197c2690e573f71.md)" in collection sans-titre
+- No page content found for "S02E25 - La dynastie des Heaumétoile (Episodes/S02E25%20-%20La%20dynastie%20des%20Heaum%C3%A9toile%2013e4d690237c80c4b2acc351c17b69c9.md)" in collection sans-titre
+- No page content found for "S02E26 - La nuit des manteaux (Episodes/S02E26%20-%20La%20nuit%20des%20manteaux%2013e4d690237c80738117d331365b8306.md)" in collection sans-titre
+- No page content found for "S02E27 - La séance d'accusation publique (Episodes/S02E27%20-%20La%20s%C3%A9ance%20d'accusation%20publique%2013e4d690237c807ab191e0625dd9651f.md)" in collection sans-titre
+- No page content found for "S02E28 - Le chef de la Cour des Manteaux (Episodes/S02E28%20-%20Le%20chef%20de%20la%20Cour%20des%20Manteaux%2013e4d690237c80fab267ce3de2a330d1.md)" in collection sans-titre
+- No page content found for "S02E29 - La nouvelle taverne de Veloria (Episodes/S02E29%20-%20La%20nouvelle%20taverne%20de%20Veloria%2013e4d690237c80b5894cf3fda9d2acce.md)" in collection sans-titre
+- No page content found for "S02E30 - Le gâteau au chocolat ultime (Episodes/S02E30%20-%20Le%20g%C3%A2teau%20au%20chocolat%20ultime%2013e4d690237c801abbc7ea4f3033fcf8.md)" in collection sans-titre
+- No page content found for "S02E31 - Le mariage du Prince Léomir (Episodes/S02E31%20-%20Le%20mariage%20du%20Prince%20L%C3%A9omir%2013e4d690237c80299bbfd70331c1c12f.md)" in collection sans-titre
+- No page content found for "S02E32 - Le retour de Callum (Episodes/S02E32%20-%20Le%20retour%20de%20Callum%2013e4d690237c801ebea6c8b1168d1506.md)" in collection sans-titre
+- Slug conflict: "s02e01-la-nuit-des-tresors" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E01 - La nuit des trésors 2424d690237c800b9a67f90ac2def94a.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e02-le-chalet-aux-v-ux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E02 - Le chalet aux vœux 2424d690237c8060a4a7fa85201a02d1.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e03-bienvenue-a-veloria" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E03 - Bienvenue à Veloria 2424d690237c8057a101e77d49b91cd5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e04-le-college-des-mages" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E04 - Le Collège des Mages 2424d690237c80e2a508fac63f24cb28.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e05-soiree-mousse-a-la-taverne" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E05 - Soirée mousse à la taverne 2424d690237c8075a089e55facfd5f22.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e06-le-temple-du-chat-borgne" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E06 - Le Temple du Chat Borgne 2424d690237c80d5a66ecd370080c464.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e07-cauchemars-et-chocolat" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E07 - Cauchemars et chocolat 2424d690237c80d68553fafdd0fee607.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e08-les-dossiers-d-inscription-magiques" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E08 - Les dossiers d'inscription magiques 2424d690237c8073b10bde0df02cfc79.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e09-la-rentree-des-magiciennes" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E09 - La rentrée des magiciennes 2424d690237c80abbd81c69c35414e30.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e10-l-archimagicienne-de-verre" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E10 - L'archimagicienne de verre 2424d690237c8045a569d1b7db6219c5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e11-la-bibliotheque-de-l-invisible" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E11 - La bibliothèque de l'invisible 2424d690237c80ad9121f1234a137920.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e12-cours-de-pratique-magique" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E12 - Cours de pratique magique 2424d690237c805da604f45df6d22153.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e13-le-club-des-distingues-du-destin" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E13 - Le club des distingués du destin 2424d690237c80deab90eeba7b43c706.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e14-la-mysterieuse-heritiere" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E14 - La mystérieuse héritière 2424d690237c80e9ab85cd7805725d53.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e15-la-petite-boutique-d-objets-magiques" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E15 - La petite boutique d'objets magiques 2424d690237c801c89f2fc7ed08bd1d3.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e16-le-qg-des-persifleurs" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E16 - Le QG des persifleurs 2424d690237c803e9071cc9ecb3f3822.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e17-faux-objets-en-pagaille" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E17 - Faux objets en pagaille 2424d690237c80ada246c9fafa4f8cb5.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e18-la-guerre-des-guildes" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E18 - La guerre des guildes 2424d690237c809ba957ddbcedbdc230.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e19-le-nouveau-mage-de-l-esprit" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E19 - Le nouveau mage de l'esprit 2424d690237c807c939cf250f87d3e35.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e20-viree-shopping-a-la-capitale" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E20 - Virée shopping à la capitale 2424d690237c8005a346f9700ff13e55.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e21-conspirations-nouvelles-theories" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E21 - Conspirations & nouvelles théories 2424d690237c803fbc79dbe20f0c7001.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e22-le-grand-festival-de-la-louve-mere" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E22 - Le Grand Festival de la Louve Mère 2464d690237c808cbe14fe2981962284.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e23-neptune-les-gardiens-de-l-art" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E23 - Neptune & les Gardiens de l'Art 2464d690237c80a29f9cd0795342da27.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e24-la-valeur-du-velour" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E24 - La valeur du velour 2464d690237c80f6ad77d3ca5ea68e1c.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e25-la-dynastie-des-heaumetoile" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E25 - La dynastie des Heaumétoile 2464d690237c80738b94f66ce4a0c7af.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e26-la-nuit-des-manteaux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E26 - La nuit des manteaux 2464d690237c80cda967da50d0c45e68.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e27-la-seance-d-accusation-publique" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E27 - La séance d'accusation publique 2464d690237c80ab8e70e7a5d84f4bfd.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e28-le-chef-de-la-cour-des-manteaux" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E28 - Le chef de la Cour des Manteaux 2464d690237c80159d0aeb9d10d1a3cd.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e29-la-nouvelle-taverne-de-veloria" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E29 - La nouvelle taverne de Veloria 2464d690237c800386fbe2913b53c383.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e30-le-gateau-au-chocolat-ultime" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E30 - Le gâteau au chocolat ultime 2464d690237c80659dc0f1279aa4d87a.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e31-le-mariage-du-prince-leomir" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E31 - Le mariage du Prince Léomir 2464d690237c80839cbeec79ebec2993.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- Slug conflict: "s02e32-le-retour-de-callum" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Mise à jour des épisodes/Sans titre 2424-ca7f/@S02E32 - Le retour de Callum 2464d690237c80c98934d14382ecd300.md" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Episodes 1344d690237c805e88ecd2593ccd682f_all.csv"
+- No page content found for "S03E09 - Le Palatinat de Sabrenas (feat Diceyclipse)" in collection episodes
+- No page content found for "S03E10 - Donjons & Oursons + ANNONCE ! (feat. Diceyclipse)" in collection episodes
+- No page content found for "S03E21 - Les jeux de la libération + ANNONCE (feat. La Belliqueuse)" in collection episodes
+- No page content found for "S03E25 - Le quartier des mécaniciens + GROSSE ANNONCE !" in collection episodes
+- No page content found for "S04E02 - Le palatinat contre-attaque (feat. Perséïdes)" in collection episodes
+- No page content found for "Sam" in collection l-equipe
+- No page content found for "Ninon" in collection l-equipe
+- No page content found for "Camille" in collection l-equipe
+- No page content found for "Angela" in collection l-equipe
+- No page content found for "Epée de l’œuf d’or" in collection objets-notables
+- No page content found for "Clwood (luth de Jazz)" in collection objets-notables
+- No page content found for "Bague de (Neptune)" in collection objets-notables
+- No page content found for "Pierre anti-requin" in collection objets-notables
+- No page content found for "Stan" in collection objets-notables
+- No page content found for "Cid" in collection objets-notables
+- No page content found for "Gantelet de force de Someul" in collection objets-notables
+- Slug conflict: "cid" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Objets notables 28b4d690237c8094b9cbf589ceabf46d_all.csv" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv"
+- External image not copied: https://www.instagram.com/petitevitesse/
+- No page content found for "Bertrand" in collection personnages
+- No page content found for "Gordon Henry" in collection personnages
+- No page content found for "Phillipe" in collection personnages
+- No page content found for "Lame" in collection personnages
+- Slug conflict: "modele-personnage" claimed by "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv" and "/Users/tomo/dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages 1344d690237c800d83acf019913c0a7e_all.csv"
+- No page content found for "Fantasy" in collection univers
+- No page content found for "Le DAP" in collection univers
+- No page content found for "Terres Bannies" in collection univers
+
+## Erreurs (0)
+
+_aucune_

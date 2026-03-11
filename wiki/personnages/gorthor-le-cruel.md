@@ -1,0 +1,31 @@
+---
+title: Gorthor le Cruel
+1ere_apparition: s02e17-faux-objets-en-pagaille
+description_rapide: Acolyte de Fyrlinel
+identifiant: 33
+pr_sent_dans_l_ep: [s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes]
+---
+
+
+# Introduction
+
+X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
+
+# Description
+
+Description : Homme grand et large d’épaule, un visage froid. Il porte une longue cape. Il a des cheveux long mais un côté rasé symbole de son appartenance à la guilde des vides poches.
+
+![[gorthor-le-cruel-image.png]]
+
+*Gorthor-par-ZatZatZatou*
+
+
+
+# Histoire
+
+# Evolution au cours des saisons
+
+> [!note] ☝
+> ## Fun fact
+> 
+> -

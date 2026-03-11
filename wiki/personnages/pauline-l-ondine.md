@@ -61,7 +61,6 @@ Depuis l’emprisonnement de Yana, les deux échangent régulièrement. Pauline 
 Jusqu’à présent, Pauline n’apparaît qu’au **S01E15**, mais son existence laisse entrevoir la présence d’autres **esprits élémentaires** dans le monde du Mythe de la Taverne.
 
 > [!note]
-> ☝️
 > 
 > ## Fun fact
 > 

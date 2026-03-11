@@ -18,7 +18,6 @@ title: Comment contribuer
 ## 1. Se rendre sur l’espace du Wiki via votre Notion
 
 > [!note]
-> ℹ️
 > 
 > En premier lieu connectez vous avec l’email transmise à @Toma .
 

@@ -3,7 +3,6 @@ title: Fanarts de Leflopla
 ---
 
 > [!note]
-> ☝️
 > 
 > *Page de fanarts de [[leflopla]] toutes les images sons soumises aux droits d’auteurs 🙏*
 

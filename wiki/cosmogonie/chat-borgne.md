@@ -15,8 +15,6 @@ Le chat borgne est un dieu double-face, aussi bien perfide et cruel que sage et 
 *cf. post Instagram du 20.01.2025*
 
 > [!note]
-> 🗒️
-> 
 > **Le Chat Borgne - Etude des usages, savoirs et pratiques par le mage Pierre Kubenni**
 > 
 > “**Dieu naissant d’importance majeure**, le Chat Borgne est une divinité imprévisible à la personnalité changeante: **Tantôt dieu de la sagesse et de la sérénité**, doux et réfléchi, doté d’une grande miséricorde, il est aussi le **dieu de l’opulence, de la sournoiserie et de la violence**, agressif et dissident.

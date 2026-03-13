@@ -63,3 +63,14 @@ En théorie oui, dans la pratique, c’est jamais arrivé. Généralement quand 
 ### **Pourquoi ils interviennent pas directement dans le monde des humains pour empêcher des choses, résoudre des conflits ou tuer des gens ?**
 
 On pense que ça leur demande beaucoup trop d’énergie de faire ça, et qu’ils le réservent qu’aux situations vraiment très très exceptionnelles (comme le chat borgne qui a foudroyé sur place l’un de ses champions qui s’est servi de son couteau pour couper du saucisson, ou le chat borgne qui est intervenu directement pour ressusciter Neptune (concrètement ils le font rarement sauf le chat borgne qui fait n’importe quoi et rien comme les autres)). Aussi, parce que ça serait l’anarchie totale si ils s’amusaient à tuer tout et n’importe quoi quand ils le veulent, et que à force ça agaceraient pas mal les humains qui finiraient par trouver un moyen de riposter. Et aussi parce que, contrairement à ce que beaucoup pensent, ils ne sont pas omniscients ; ils ne comprennent pas bien les problématiques humaines, et donc ne sont pas aptes à les régler.
+
+- [Adelphes serpents](adelphes-serpents.md)
+- [Canard Gardien](canard-gardien.md)
+- [Chat Borgne](chat-borgne.md)
+- [Corbeau Cramoisi](corbeau-cramoisi.md)
+- [Dieu décapité](dieu-decapite.md)
+- [Dieu Immolé](dieu-immole.md)
+- [Dieu Suffoqué](dieu-suffoque.md)
+- [L’Araignée](l-araignee.md)
+- [Louve Mère](louve-mere.md)
+- [Taureau Tricéphale](taureau-tricephale.md)

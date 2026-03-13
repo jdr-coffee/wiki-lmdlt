@@ -1,6 +1,6 @@
 ---
 title: Captain Croc-en-Jambes
-description: someul
+description: energie-combative-de-someul
 saisons: saison-1
 ---
 

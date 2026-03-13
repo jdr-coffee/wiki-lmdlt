@@ -5,8 +5,6 @@ pays_royaumes: palatinat-de-sabrenas
 
 
 > [!note]
-> 🗒️
-> 
 > ### L’officine de L’union mécanique - Récits de voyages et tribulations par le mage Phénélon Franpèlerin
 > 
 > **“Au cours de mes voyages**, j’ai eu l’immense privilège d’observer de mes yeux le **Palatinat de Sabrenas**, nation secrète, s’il en est, où les mages de Véloria ne sont pas facilement admis.

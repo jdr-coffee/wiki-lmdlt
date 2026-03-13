@@ -18,8 +18,6 @@ C’est un très joli petit chalet aménagé en bois, avec des petits fauteuils 
 Sur un des murs, près de la porte, un petit écriteau en bois dit
 
 > [!note]
-> 🗒️
-> 
 > “*Chers voyageurs de contrées lointaines, bienvenue dans le refuge du repos mérité. Je suis Ernest Bâtoncreux. Vous pouvez disposer de cette habitation élaborée par mes soins, vous reposer et vous réchauffer avant de reprendre la route sous les meilleurs auspices. Dans ce lieu, vos désirs sont des ordres, mais attention à ne pas être trop gourmand ! Bon séjour*”
 
 Sur un portrait d’Ernest Bâtoncreux, on peut voir que c’est un homme bedonnant avec une petite moustache et une petite calvitie, avec des vêtements violets bordés d’or.
@@ -37,8 +35,6 @@ Cependant, lorsque les voyageurs semblent se plaire dans le chalet, celui-ci ne 
 Au dos du portrait d’Ernest Bâtoncreux, on trouve alors davantage d’indications:
 
 > [!note]
-> 🗒️
-> 
 > *“Chers voyageurs, si ce portrait apparaît devant vous, c’est sûrement que vous avez cherché à me joindre ou que vous avez demandé à me voir, et que vous êtes dans le chalet du repos mérité. C’est un bâtiment de ma conception, qui est magique. Malheureusement, il s’avère que, de temps en temps, il ne laisse pas repartir les voyageurs lorsque ceux-ci apprécient trop le chalet et s’y sentent bien.* 
 > 
 > *Le seul moyen de sortir du chalet est de le faire surchauffer, de souhaiter beaucoup trop de choses pour qu’il puisse le produire.*

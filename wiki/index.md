@@ -90,3 +90,14 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 ## Le Discord pour rejoindre les persifleuses et persifleurs
 
 [Join the Le Mythe De La Taverne Discord Server!](https://discord.gg/mvCyhzWFDB)
+
+- [Bestiaire](bestiaire/index.md)
+- [Contributeurices](contributeurices/index.md)
+- [Cosmogonie](cosmogonie/index.md)
+- [Dictionnaire](dictionnaire/index.md)
+- [Fanarts](fanarts/index.md)
+- [Invitées](invitees/index.md)
+- [Les conseils de l’équipe](les-conseils-de-l-equipe/index.md)
+- [Magie](magie/index.md)
+- [Mise à jour des épisodes](mise-a-jour-des-episodes/index.md)
+- [Plantes](plantes/index.md)

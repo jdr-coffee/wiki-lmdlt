@@ -1,6 +1,6 @@
 ---
 title: Thorpe
-1ere_apparition: feat-diceyclips
+1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: Mage de l’air et mage conseiller du palatinat de Sabrenas
 identifiant: 54
 origine: royaume-de-veloria

@@ -5,7 +5,7 @@ identifiant: 74
 ---
 
 
-![[la-dame-d-ebene-image.png]]
+![image.png](assets/la-dame-d-ebene-image.png)
 
 > [!note]
 > ## Conseils

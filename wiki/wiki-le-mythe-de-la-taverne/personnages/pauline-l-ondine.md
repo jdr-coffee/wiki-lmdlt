@@ -8,7 +8,7 @@ pr_sent_dans_l_ep: s01e15-dernieres-revelations
 ---
 
 
-![[pauline-l-ondine-image.png]]
+![image.png](assets/pauline-l-ondine-image.png)
 
 *Illustration par **Leflopla***
 

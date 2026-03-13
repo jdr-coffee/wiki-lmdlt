@@ -1,8 +1,0 @@
-view: list
-group_by: saison
-sort_by: compteur_d_ep
-sort_order: asc
-fields:
-  - title
-  - date
-  - saison

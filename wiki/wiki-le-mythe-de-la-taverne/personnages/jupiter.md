@@ -5,7 +5,7 @@ identifiant: 76
 ---
 
 
-![[Jupiter_.png]]
+![Jupiter par  ](assets/Jupiter_.png)
 
 Jupiter par  
 

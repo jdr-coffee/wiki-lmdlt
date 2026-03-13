@@ -5,7 +5,7 @@ pays_royaumes: royaume-de-veloria
 ---
 
 
-![[bardache-image.png]]
+![image.png](assets/bardache-image.png)
 
 **Famille au pouvoir** : Adhémar
 

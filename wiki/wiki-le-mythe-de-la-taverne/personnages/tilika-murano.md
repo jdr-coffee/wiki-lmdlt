@@ -5,8 +5,8 @@ identifiant: 73
 ---
 
 
-![[Tilika.png]]
+![Tilika par  ](assets/Tilika.png)
 
 Tilika par  
 
-![[tilika-murano-image.png]]
+![image.png](assets/tilika-murano-image.png)

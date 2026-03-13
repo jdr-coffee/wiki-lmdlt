@@ -14,7 +14,7 @@ membres: steve
 
 Kiki le MJ, Sdeve, Sneve, Smeve, Speve, Sleve [insert surnoms]
 
-![[maitre-du-jeu-image.png]]
+![image.png](assets/maitre-du-jeu-image.png)
 
 *Kiki-le-MJ-par-ZatZatZatou*
 

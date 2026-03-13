@@ -5,7 +5,7 @@ pays_royaumes: royaume-de-veloria
 ---
 
 
-![[arpalian-image.png]]
+![image.png](assets/arpalian-image.png)
 
 ***Famille au pouvoir*** : Murano
 

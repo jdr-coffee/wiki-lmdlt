@@ -6,7 +6,7 @@ identifiant: 65
 ---
 
 
-![[barton-glover-image.png]]
+![image.png](assets/barton-glover-image.png)
 
 S04E06 - 29:50
 

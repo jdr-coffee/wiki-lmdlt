@@ -25,7 +25,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-![[nicholas-de-benevent-image.png]]
+![image.png](assets/nicholas-de-benevent-image.png)
 
 # Histoire
 

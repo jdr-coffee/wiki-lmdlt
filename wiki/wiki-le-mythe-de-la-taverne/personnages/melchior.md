@@ -16,7 +16,7 @@ Melchior est le chef mécanicien du Zéphyr d’Obsidienne, le dirigeable de Sao
 
 Melchior est un grand homme à la carrure grande et imposante portant des habits faits pour lui permettre de transporter le plus d’objets et ustensiles sur lui. Cette apparence cache en  réalité un vrai cœur d’or et un amour passionnel pour les animaux. Il est toujours accompagné de sa fidèle chouette clé-de-douze.
 
-![[melchior-image.png]]
+![image.png](assets/melchior-image.png)
 
 *Melchior-par-ZatZatZatou*
 

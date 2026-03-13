@@ -5,6 +5,6 @@ pr_sent_dans_l_ep: [s02e14-la-mysterieuse-heritiere, s02e15-la-petite-boutique-d
 ---
 
 
-![[Timothy.png]]
+![Timothy par  ](assets/Timothy.png)
 
 Timothy par

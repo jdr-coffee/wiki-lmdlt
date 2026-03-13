@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 - Desdemona est une jeune femme rousse énergique de taille moyenne.
 - La première fois que l’on rencontre Desdemona, elle a la peau verte, les paupières violettes, du lierre lui poussant sur la peau et couvrant la majorité de son corps, cette apparence est due à une malédiction.
 
-![[desdemona-vertecime-image.png]]
+![image.png](assets/desdemona-vertecime-image.png)
 
 # Histoire
 

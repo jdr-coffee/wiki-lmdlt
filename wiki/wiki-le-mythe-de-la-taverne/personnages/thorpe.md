@@ -7,7 +7,7 @@ origine: royaume-de-veloria
 ---
 
 
-![[thorpe-image.png]]
+![image.png](assets/thorpe-image.png)
 
 Première apparition *S03E09 - 44:09* mais n’est pas nommé. Décrit comme un vieil homme qui porte la robe du collège des mages
 

@@ -8,11 +8,11 @@ membres: camille
 
 Elle s’est retrouvée à Agener car elle a déterré des cadavres pour pouvoir étudier les arcanes de la mort.
 
-![[neptune-image.png]]
+![Neptune par  ](assets/neptune-image.png)
 
 Neptune par  
 
-![[Neptune.png]]
+![Neptune par  ](assets/Neptune.png)
 
 Neptune par  
 
@@ -47,7 +47,7 @@ Durant son échappatoire du palatinat de Sabrenas, Neptune appris de la bouche d
 | Dark-en-Ciel | Dague de légende brandie par le champion/la championne du Chat Borgne. Le manche est fait d’un assemblage de bois noir et blanc, incrusté d’un cristal bleu représentant l’œil du Dieu, avec une tête de chat ornant le pommeau. La lame noire courbée présente un aspect iridescent rappelant un arc-en-ciel, d’où son nom. On raconte que cette arme est capable d’aveugler ou paralyser ses ennemis, voire des pouvoirs plus farfelus comme des transformations en félin, des montagnes rendues invisibles et l’incarnation du Dieu dans le corps du Champion brandissant la dague. |
 | Chemise Musclée | Découpée dans un tissu bleu chamarré souple et léger, la chemise musclée pourrait passer pour un simple vêtement coûteux dans une garde-robe excentrique. Lorsqu’elle est enlevée de manière brusque, la chemise musclée révèle soudainement un torse bombé, musculeux et hâlé. Le porteur gagne temporairement une force inouïe et un charisme subjuguant. |
 
-![[dark_en_ciel-removebg-preview.png]]
+![dark_en_ciel-removebg-preview.png](assets/dark_en_ciel-removebg-preview.png)
 
 > Dark-en-ciel
 > 
@@ -61,10 +61,10 @@ Durant son échappatoire du palatinat de Sabrenas, Neptune appris de la bouche d
 | Guérison | La Clerc en appelle à la grâce du Chat Borgne afin de guérir un allié de 1D4 points de vie. |
 | Échec Retardé | La Clerc invoque le Chat Borgne lorsqu’elle rate un jet de dé : ce jet est alors réussi. Cependant, plus tard dans la partie, de façon aléatoire, un jet réussi sera considéré comme raté. |
 
-![[neptune-image-1.png]]
+![Illustration Booster Neptune par  ](assets/neptune-image-1.png)
 
 Illustration Booster Neptune par  
 
-![[neptune-image-2.png]]
+![MiNeptune par  ](assets/neptune-image-2.png)
 
 MiNeptune par

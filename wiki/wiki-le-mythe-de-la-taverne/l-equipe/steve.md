@@ -14,7 +14,7 @@ Steve est contre son gré (et un peu de son gré) affublé de nombreux sobriquet
 
 ## Fanarts
 
-![[steve-image.png]]
+![MouSteve par  ](assets/steve-image.png)
 
 MouSteve par  
 

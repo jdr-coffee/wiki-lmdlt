@@ -6,7 +6,7 @@ origine: cautel
 ---
 
 
-![[gareth-bretailleur-image.png]]
+![image.png](assets/gareth-bretailleur-image.png)
 
 > [!note]
 > ## Conseils

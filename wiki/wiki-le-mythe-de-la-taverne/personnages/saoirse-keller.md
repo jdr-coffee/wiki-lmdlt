@@ -9,7 +9,7 @@ origine: royaume-de-veloria
 
 # Introduction
 
-![[Saoirse.png]]
+![Saiorse par  ](assets/Saoirse.png)
 
 Saiorse par  
 
@@ -19,7 +19,7 @@ Première apparition : “A la droite d'Irena se tient une femme aux cheveux d'u
 
 Ses cheveux sont d’un côté long, d’un côté court, son bras gauche est entièrement fait de pièces de métal, d’engrenages, de tiges et de pièces métalliques. Elle a perdu son bras suite à une explosion. Nos héros apprennent lors de sa défection du Palatinat qu’elle maitrise la flamme bleue.
 
-![[saoirse-keller-image.png]]
+![*Saoirse et Neptune*, par Zat](assets/saoirse-keller-image.png)
 
 *Saoirse et Neptune*, par Zat
 

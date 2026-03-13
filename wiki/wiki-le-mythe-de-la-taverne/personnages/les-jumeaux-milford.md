@@ -6,7 +6,7 @@ pr_sent_dans_l_ep: s02e18-la-guerre-des-guildes
 ---
 
 
-![[Milford.png]]
+![Jumeaux Milford par  ](assets/Milford.png)
 
 Jumeaux Milford par  
 

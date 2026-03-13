@@ -5,7 +5,7 @@ pays_royaumes: royaume-de-veloria
 ---
 
 
-![[galefretier-image.png]]
+![image.png](assets/galefretier-image.png)
 
 **Famille au pouvoir** : Darlington
 

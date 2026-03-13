@@ -4,7 +4,7 @@ type_de_dieu: Dieu naissant
 ---
 
 
-![[canard-gardien-image.png]]
+![image.png](assets/canard-gardien-image.png)
 
       ***Canard Gardien, pixel art par LeFlopla***
 

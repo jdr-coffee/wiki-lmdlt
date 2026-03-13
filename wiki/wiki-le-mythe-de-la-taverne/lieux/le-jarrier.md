@@ -5,7 +5,7 @@ pays_royaumes: royaume-de-veloria
 ---
 
 
-![[le-jarrier-image.png]]
+![image.png](assets/le-jarrier-image.png)
 
 ***Famille au pouvoir*** : Vertecime
 

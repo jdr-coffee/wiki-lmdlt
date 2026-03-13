@@ -2,8 +2,6 @@
 title: Cosmogonie
 ---
 
-[Cosmogonie](cosmogonie/index.md)
-
 # Les Dieux
 
 > D’après [Kiki le MJ](l-equipe/steve/listes-des-sobriquets-de-steve/kiki-le-mj.md) sur le Discord le 25 février 2026 00:09 ([source](https://discord.com/channels/1068521764814065786/1068551678468563025/1475993103511851129))

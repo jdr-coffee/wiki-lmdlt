@@ -1,5 +1,4 @@
 ---
 title: Contributeurices
+draft: true
 ---
-
-[Contributeurices](contributeurices/index.md)

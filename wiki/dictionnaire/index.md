@@ -2,8 +2,6 @@
 title: Dictionnaire
 ---
 
-[Dictionnaire](dictionnaire/index.md)
-
 # Dictionnaire saison 2
 
 - **“C’est Callum !”** : interjection rituelle lancée par les cheffes de la guilde des Persifleurs à chaque nouvelle rencontre. Les historiens pensent que Chelinka, Neptune et Someul auraient développé une paranoïa à la suite des événements d’Agener, leur faisant voir Callum, le célèbre Archimage de l’Esprit, absolument partout. (Note de linguistique : l’expression fût, par la suite, largement répandue sur sa forme réduite “scam”).

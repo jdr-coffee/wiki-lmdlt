@@ -1,5 +1,4 @@
 ---
 title: Bestiaire
+draft: true
 ---
-
-[Bestiaire](bestiaire/index.md)

@@ -1,7 +1,0 @@
----
-title: Coridalice
----
-
-- Aspect : petites touffes de fleurs jaunes qui font des grappes en trompette
-- Effet : soulage les douleurs, mais a comme effet secondaire d’endormir
-- Utilisation : ?

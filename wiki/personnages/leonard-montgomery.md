@@ -35,7 +35,7 @@ Archimage de foudre qui enseigne l’histoire de la magie au Collège des Mages,
 
 Léonard considère nos héros comme de simples distingués, même s’il a un léger dédain pour Neptune
 
-[[sans-titre]]
+[Sans titre](L%C3%A9onard%20Montgomery/Sans%20titre%202474d690237c8063bf55c145b196665c.csv)
 
 # Evolution au cours des saisons
 

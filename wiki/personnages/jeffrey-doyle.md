@@ -37,7 +37,7 @@ Il est souvent emmitouflé dans de grosses peaux de bête ou couvertures, ne lai
 
 Il se trouve à un rang relativement bas dans la hiérarchie de la prison. 
 
-Néanmoins, avec le directeur actuel ([[plutarch]] ) en mission pour le roi, Jeffrey est en bonne position pour les élections visant à désigner le nouveau directeur de la prison. Il a des ambitions de récupérer notamment le poste de [[carissa-skyke]] si celle-ci montait en grade.
+Néanmoins, avec le directeur actuel ([Plutarch](personnages/plutarch.md) ) en mission pour le roi, Jeffrey est en bonne position pour les élections visant à désigner le nouveau directeur de la prison. Il a des ambitions de récupérer notamment le poste de [Carissa Skyke](personnages/carissa-skyke.md) si celle-ci montait en grade.
 
 Il est responsable du bien-être des prisonniers et a inauguré l'intégration du groupe en leur confiant l'enquête sur les cadavres de Nicolas, Jacquelin et Rodin.
 
@@ -49,15 +49,15 @@ Il les considère comme une **"grande famille"** et les trouve **"un petit peu c
 
 Il leur a fourni des tenues de garde (moulantes et colorées) pour faciliter leur infiltration.
 
-### [[herevard]] (Archimage de feu en charge de la sécurité)
+### [Herevard](personnages/herevard.md) (Archimage de feu en charge de la sécurité)
 
 Ils sont amis, et leurs quartiers sont proches. Erevar l'a **sermonné** pour avoir accusé sa femme de chambre, Maggie, de sorcellerie après avoir fait des cauchemars.
 
-### [[carissa-skyke]] **(Capitaine de faction/Directrice de la citadelle)**
+### [Carissa Skyke](personnages/carissa-skyke.md) **(Capitaine de faction/Directrice de la citadelle)**
 
  Il est sous ses ordres. Il a collaboré avec Herevard pour la distraire, permettant au groupe de s'infiltrer.
 
-### [[plutarch]] **(Directeur de la prison)**
+### [Plutarch](personnages/plutarch.md) **(Directeur de la prison)**
 
  Jeffrey le décrit comme "un peu carré carré". L'absence de Plutark est à l'origine des ambitions de Jeffrey.
 

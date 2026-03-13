@@ -2,4 +2,4 @@
 title: Fanarts de Zat
 ---
 
-*Fanarts de [[zatzat]]*
+*Fanarts de [ZatZat](contributeurices/contributeurices/zatzat.md)*

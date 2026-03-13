@@ -2,11 +2,11 @@
 title: Cosmogonie
 ---
 
-[[cosmogonie]]
+[Cosmogonie](Cosmogonie/Cosmogonie%201424d690237c80a0a6cfd33b5f53337f.csv)
 
 # Les Dieux
 
-> D’après [[kiki-le-mj]] sur le Discord le 25 février 2026 00:09 ([source](https://discord.com/channels/1068521764814065786/1068551678468563025/1475993103511851129))
+> D’après [Kiki le MJ](l-equipe/steve/listes-des-sobriquets-de-steve/kiki-le-mj.md) sur le Discord le 25 février 2026 00:09 ([source](https://discord.com/channels/1068521764814065786/1068551678468563025/1475993103511851129))
 > 
 
 Les dieux sont des êtres mystérieux et surpuissants venus d’un autre monde. Ils sont, le plus souvent, des observateurs passifs du monde des humains, et n’interviennent directement que très rarement. Ils habitent un autre plan de réalité, un monde invisible et inaccessible aux humains depuis lequel ils peuvent les observer.

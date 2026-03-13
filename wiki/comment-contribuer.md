@@ -30,7 +30,7 @@ Sélectionner l’espace Notion `Tomo & Friends` via le menu en haut à gauche.
 
 ### Ou via le lien
 
- [[wiki-le-mythe-de-la-taverne]] 
+ [Wiki - Le Mythe de la Taverne ](/wiki-le-mythe-de-la-taverne.md) 
 
 ## 2. Si vous n’êtes pas encore éditeurices, activez le mode modifications
 

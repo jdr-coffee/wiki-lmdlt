@@ -1,3 +1,0 @@
----
-title: Pays Royaumes
----

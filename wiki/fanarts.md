@@ -2,8 +2,8 @@
 title: Fanarts
 ---
 
-[[fanarts-de-leflopla]]
+[Fanarts de Leflopla](fanarts/fanarts-de-leflopla.md)
 
-[[fanarts-de-lemon-pie]]
+[Fanarts de Lemon Pie](fanarts/fanarts-de-lemon-pie.md)
 
-[[fanarts-de-zat]]
+[Fanarts de Zat](fanarts/fanarts-de-zat.md)

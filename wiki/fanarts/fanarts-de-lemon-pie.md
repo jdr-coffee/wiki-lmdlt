@@ -2,7 +2,7 @@
 title: Fanarts de Lemon Pie
 ---
 
-*Fanarts de [[lemon-pie]]* 
+*Fanarts de [Lemon Pie](contributeurices/contributeurices/lemon-pie.md)* 
 
 ![Abigail](assets/Abigail.jpg)
 

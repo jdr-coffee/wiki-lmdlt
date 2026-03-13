@@ -4,29 +4,29 @@ title: Wiki - Le Mythe de la Taverne
 
 Le Mythe de la Taverne, c'est [LE podcast](https://linktr.ee/lmdlt_pod) qui vous embarque dans des aventures palpitantes et des situations délirantes autour d'un jeu de rôles entre potes sans prises de tête, ça ressemble à Game of Thrones mais avec plus de lancés de dés et moins de fesses. Vous n'y connaissez rien aux jeux de rôles ? Vous adorerez le Mythe de la Taverne !
 
-Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [[steve]]. Trois joueureuses l'accompagnent lors des épisodes : [[ninon]]  ([[chelinka]] ), [[sam]]  ([[someul]] ) et [[camille]]  ([[neptune]] ).
+Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [**Steve**](l-equipe/steve.md). Trois joueureuses l'accompagnent lors des épisodes : [Ninon](l-equipe/ninon.md)  ([Chelinka](heroines/chelinka.md) ), [Sam](l-equipe/sam.md)  ([Someul](heroines/someul.md) ) et [Camille](l-equipe/camille.md)  ([Neptune](heroines/neptune.md) ).
 
 # Le Podcast
 
-[[episodes]]
+[Episodes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Episodes%201344d690237c805e88ecd2593ccd682f.csv)
 
-[[l-equipe]]
+[L'équipe](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/L'%C3%A9quipe%201344d690237c801197c8dcd35eeb3eac.csv)
 
-[[saisons]]
+[Saisons](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Saisons%201344d690237c808c84e3e09ce9003277.csv)
 
-[[invitees]]
+[Invitées](invitees.md)
 
-[[les-conseils-de-l-equipe]]
+[Les conseils de l’équipe](les-conseils-de-l-equipe.md)
 
-[[univers]]
+[Univers](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Univers%2028b4d690237c80019981f99794b773dd.csv)
 
 # Ressources
 
-[[fanarts]]
+[Fanarts](fanarts.md)
 
-[[mise-a-jour-des-episodes]]
+[Mise à jour des épisodes](mise-a-jour-des-episodes.md)
 
-[[contributeurices]]
+[Contributeurices](contributeurices.md)
 
 ### Tout les lancés de dés
 
@@ -36,34 +36,34 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 
 # Le Plénimythe
 
-[[lieux]]
+[Lieux](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Lieux%201344d690237c80cc8b39eeaed9c3f2ec.csv)
 
-[[pays-royaumes]]
+[Pays / Royaumes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Pays%20Royaumes%201344d690237c80e89c9de9b1bccd2148.csv)
 
-[[cosmogonie]]
+[Cosmogonie](cosmogonie.md)
 
-[[magie]]
+[Magie](magie.md)
 
-[[histoire]]
+[Histoire](histoire.md)
 
-[[bestiaire]]
+[Bestiaire](bestiaire.md)
 
-[[plantes]]
+[Plantes](plantes.md)
 
-[[dictionnaire]]
+[Dictionnaire](dictionnaire.md)
 
-[[personnages]]
+[Personnages](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Personnages%201344d690237c800d83acf019913c0a7e.csv)
 
-[[heroines]]
+[Héroïnes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/H%C3%A9ro%C3%AFnes%201344d690237c804489d0d3203360b250.csv)
 
-[[guildes]]
+[Guildes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Guildes%201ee4d690237c805db020c31d2a2b4deb.csv)
 
-[[objets-notables]]
+[Objets notables](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Objets%20notables%2028b4d690237c8094b9cbf589ceabf46d.csv)
 
 > [!note]
 > Si vous souhaitez participer au Wiki rien de plus simple il vous suffit de lire la page suivante : 
 > 
-> [[comment-contribuer]]
+> [Comment contribuer](comment-contribuer.md)
 
 ---
 

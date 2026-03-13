@@ -2,7 +2,7 @@
 title: Dictionnaire
 ---
 
-[[dictionnaire]]
+[Dictionnaire](Dictionnaire/Dictionnaire%202964d690237c8074bdcbf30121fc935d.csv)
 
 # Dictionnaire saison 2
 

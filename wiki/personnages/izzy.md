@@ -30,11 +30,11 @@ Assez grand et longiligne, avec de long cheveux blancs dans lesquels se trouve u
 
 # Histoire
 
-C’est un marchand, d’autres diraient un charlatan. Quand les PJ l’abordent, il cherche à leur vendre une potion pour avoir de beaux cheveux. Il n’a pas de lien particulier avec la guilde des épiciers, il se contente de vendre des objets divers, pas de biens de contrebande. Il fait partie de la guilde des serviteurs, et est le bras droit de leur chef, [[victor-appleby]].
+C’est un marchand, d’autres diraient un charlatan. Quand les PJ l’abordent, il cherche à leur vendre une potion pour avoir de beaux cheveux. Il n’a pas de lien particulier avec la guilde des épiciers, il se contente de vendre des objets divers, pas de biens de contrebande. Il fait partie de la guilde des serviteurs, et est le bras droit de leur chef, [Victor Appleby](personnages/victor-appleby.md).
 
 # Relations
 
-[[sans-titre]]
+[Sans titre](Izzy/Sans%20titre%202474d690237c81bba318da7468c96caf.csv)
 
 # Evolution au cours des saisons
 

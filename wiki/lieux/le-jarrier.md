@@ -12,4 +12,4 @@ pays_royaumes: royaume-de-veloria
 La famille Vertecime est une des plus anciennes familles du Royaume de Véloria
 
 
-***Capitale*** : [[vesperale]]
+***Capitale*** : [Vespérale](lieux/vesperale.md)

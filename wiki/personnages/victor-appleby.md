@@ -5,7 +5,7 @@ identifiant: 39
 ---
 
 
-Son bras droit est [[izzy]]
+Son bras droit est [Izzy](personnages/izzy.md)
 
 > [!note]
 > ## Conseils
@@ -30,7 +30,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[[sans-titre]]
+[Sans titre](Victor%20Appleby/Sans%20titre%202474d690237c81b0b794e3aad1684e02.csv)
 
 # Evolution au cours des saisons
 

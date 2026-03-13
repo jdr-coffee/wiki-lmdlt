@@ -2,7 +2,7 @@
 title: Cosmogonie
 ---
 
-[Cosmogonie](Cosmogonie/Cosmogonie%201424d690237c80a0a6cfd33b5f53337f.csv)
+[Cosmogonie](cosmogonie/index.md)
 
 # Les Dieux
 

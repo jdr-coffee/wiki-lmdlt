@@ -43,7 +43,7 @@ On apprend que Desdemona est héritière du fief du Jarrier.
 
 # Relations
 
-[Sans titre](Desdemona%20Vertecime/Sans%20titre%202474d690237c816b88d6edad11c82060.csv)
+[Sans titre](personnages/desdemona-vertecime/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Seigneur%20Ademar/Sans%20titre%202df4d690237c802ab0d8c02a20ac2f65.csv)
+[Sans titre](personnages/seigneur-ademar/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

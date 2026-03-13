@@ -33,7 +33,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Cornelius/Sans%20titre%202474d690237c81848d29e351e5332276.csv)
+[Sans titre](personnages/cornelius/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -8,17 +8,17 @@ Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'ac
 
 # Le Podcast
 
-[Episodes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Episodes%201344d690237c805e88ecd2593ccd682f.csv)
+[Episodes](episodes/index.md)
 
-[L'équipe](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/L'%C3%A9quipe%201344d690237c801197c8dcd35eeb3eac.csv)
+[L'équipe](l-equipe/index.md)
 
-[Saisons](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Saisons%201344d690237c808c84e3e09ce9003277.csv)
+[Saisons](saisons/index.md)
 
 [Invitées](invitees.md)
 
 [Les conseils de l’équipe](les-conseils-de-l-equipe.md)
 
-[Univers](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Univers%2028b4d690237c80019981f99794b773dd.csv)
+[Univers](univers/index.md)
 
 # Ressources
 
@@ -36,9 +36,9 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 
 # Le Plénimythe
 
-[Lieux](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Lieux%201344d690237c80cc8b39eeaed9c3f2ec.csv)
+[Lieux](lieux/index.md)
 
-[Pays / Royaumes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Pays%20Royaumes%201344d690237c80e89c9de9b1bccd2148.csv)
+[Pays / Royaumes](pays-royaumes/index.md)
 
 [Cosmogonie](cosmogonie.md)
 
@@ -52,13 +52,13 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 
 [Dictionnaire](dictionnaire.md)
 
-[Personnages](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Personnages%201344d690237c800d83acf019913c0a7e.csv)
+[Personnages](personnages/index.md)
 
-[Héroïnes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/H%C3%A9ro%C3%AFnes%201344d690237c804489d0d3203360b250.csv)
+[Héroïnes](heroines/index.md)
 
-[Guildes](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Guildes%201ee4d690237c805db020c31d2a2b4deb.csv)
+[Guildes](guildes/index.md)
 
-[Objets notables](Wiki%20-%20Le%20Mythe%20de%20la%20Taverne/Objets%20notables%2028b4d690237c8094b9cbf589ceabf46d.csv)
+[Objets notables](objets-notables/index.md)
 
 > [!note]
 > Si vous souhaitez participer au Wiki rien de plus simple il vous suffit de lire la page suivante : 

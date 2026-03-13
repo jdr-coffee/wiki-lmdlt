@@ -36,7 +36,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Isembart/Sans%20titre%202474d690237c818d8a77ed0a7c458a58.csv)
+[Sans titre](personnages/isembart/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

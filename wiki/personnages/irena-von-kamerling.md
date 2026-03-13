@@ -40,7 +40,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Irena%20von%20Kamerling/Sans%20titre%202474d690237c81349db9e375cb75699d.csv)
+[Sans titre](personnages/irena-von-kamerling/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

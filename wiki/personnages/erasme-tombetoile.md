@@ -34,7 +34,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Erasme%20Tomb%C3%A9toile/Sans%20titre%202474d690237c817d9f09f0b4f0bc3352.csv)
+[Sans titre](personnages/erasme-tombetoile/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -27,7 +27,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Seigneur%20Murano/Sans%20titre%2028b4d690237c8038aa0ddb0f1e2aca2b.csv)
+[Sans titre](personnages/seigneur-murano/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -27,7 +27,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Fabio/Sans%20titre%2028b4d690237c809fb956f05c043b2a8d.csv)
+[Sans titre](personnages/fabio/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

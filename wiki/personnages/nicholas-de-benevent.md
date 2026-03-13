@@ -31,7 +31,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Nicholas%20de%20B%C3%A9n%C3%A9vent/Sans%20titre%202474d690237c81d8abf4da87ed733e21.csv)
+[Sans titre](personnages/nicholas-de-benevent/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

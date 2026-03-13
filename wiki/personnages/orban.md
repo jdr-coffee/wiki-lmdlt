@@ -30,7 +30,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Orban/Sans%20titre%202474d690237c810480baec9e99403c02.csv)
+[Sans titre](personnages/orban/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

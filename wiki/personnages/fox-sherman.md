@@ -29,7 +29,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Fox%20Sherman/Sans%20titre%202474d690237c814488a0d60d2a0af8ea.csv)
+[Sans titre](personnages/fox-sherman/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

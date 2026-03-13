@@ -27,4 +27,4 @@ episodes: [s01e01-les-morts-disparus, s01e02-baston-generale-a-la-cantoche, s01e
 
 # Résumé complet par épisodes
 
-[Sans titre](Saison%201/Sans%20titre%202df4d690237c80499b5aec9b722644d1.csv)
+[Sans titre](saisons/saison-1/sans-titre/index.md)

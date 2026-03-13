@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Jean-Christophe/Sans%20titre%2028b4d690237c803ca741f299e4c515c0.csv)
+[Sans titre](personnages/jean-christophe/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

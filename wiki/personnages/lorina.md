@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Lorina/Sans%20titre%2028b4d690237c80f6826cfe74535c40ca.csv)
+[Sans titre](personnages/lorina/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -38,7 +38,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Ervin/Sans%20titre%202474d690237c81a1aab4ee9d5afa198a.csv)
+[Sans titre](personnages/ervin/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

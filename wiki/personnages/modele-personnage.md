@@ -26,7 +26,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Mod%C3%A8le%20personnage/Sans%20titre%2023e4d690237c80b2811bc0e88ed2f71d.csv)
+[Sans titre](personnages/modele-personnage/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

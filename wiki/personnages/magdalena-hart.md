@@ -32,7 +32,7 @@ ses soins.
 
 # Relations
 
-[Sans titre](Magdalena%20Hart/Sans%20titre%202474d690237c81c9ab73d33be29be066.csv)
+[Sans titre](personnages/magdalena-hart/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

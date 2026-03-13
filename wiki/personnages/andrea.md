@@ -32,7 +32,7 @@ Andréa est le chef de la guilde des Cuistanciers et des cuisines d’Agener,
 
 # Relations
 
-[Sans titre](Andrea/Sans%20titre%202474d690237c813cb54acb4857ac5cef.csv)
+[Sans titre](personnages/andrea/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

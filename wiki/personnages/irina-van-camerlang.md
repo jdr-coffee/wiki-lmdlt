@@ -27,7 +27,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Irina%20Van%20Camerlang/Sans%20titre%202df4d690237c805492e5c79e34158d7f.csv)
+[Sans titre](personnages/irina-van-camerlang/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Jazz/Sans%20titre%2028c4d690237c80b183aacc42dd4c79d3.csv)
+[Sans titre](personnages/jazz/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

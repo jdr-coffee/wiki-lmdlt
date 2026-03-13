@@ -34,7 +34,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Cassandra%20Tastrophe/Sans%20titre%202474d690237c81fba5eee5017338b4da.csv)
+[Sans titre](personnages/cassandra-tastrophe/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

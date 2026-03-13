@@ -32,7 +32,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Mercure/Sans%20titre%202474d690237c81389c21f12aab98daed.csv)
+[Sans titre](personnages/mercure/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -32,7 +32,7 @@ Cuisinier, membre de la guilde des Cuistancier, Fébastienl s’assure de la bon
 
 # Relations
 
-[Sans titre](F%C3%A9bastien/Sans%20titre%202474d690237c815aa154c828ef00980b.csv)
+[Sans titre](personnages/febastien/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

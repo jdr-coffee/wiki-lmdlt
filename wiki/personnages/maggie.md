@@ -31,7 +31,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Maggie/Sans%20titre%202474d690237c81839849dae41a8adfdc.csv)
+[Sans titre](personnages/maggie/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

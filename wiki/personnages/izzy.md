@@ -34,7 +34,7 @@ C’est un marchand, d’autres diraient un charlatan. Quand les PJ l’abordent
 
 # Relations
 
-[Sans titre](Izzy/Sans%20titre%202474d690237c81bba318da7468c96caf.csv)
+[Sans titre](personnages/izzy/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

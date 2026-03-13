@@ -31,7 +31,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Guillaume n’en a rien à faire de nos héros, tant que ceux-ci ne se mêlent pas de ces affaires.
 
-[Sans titre](Guillaume%20le%20Simplet/Sans%20titre%202474d690237c80ecad12e36a15edda1e.csv)
+[Sans titre](personnages/guillaume-le-simplet/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

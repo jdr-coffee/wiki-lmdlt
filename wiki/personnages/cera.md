@@ -24,6 +24,6 @@ Elle a l’air super contente d’être là. *“C’est rayon de soleil 3000”
 
 *Cera-par-ZatZatZatou*
 
-[Équipement](Cera/%C3%89quipement%202254d690237c80d2a8f5d3eab95c1e94.csv)
+[Équipement](personnages/cera/equipement/index.md)
 
-[Compétences](Cera/Comp%C3%A9tences%202254d690237c80149c8ecbdbdee8a9a5.csv)
+[Compétences](personnages/cera/competences/index.md)

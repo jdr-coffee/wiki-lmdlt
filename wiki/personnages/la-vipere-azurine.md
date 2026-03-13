@@ -29,7 +29,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](La%20Vip%C3%A8re%20Azurine/Sans%20titre%202474d690237c81e99f19d93e057528fb.csv)
+[Sans titre](personnages/la-vipere-azurine/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

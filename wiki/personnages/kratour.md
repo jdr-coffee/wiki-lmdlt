@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 # Relations
 
-[Sans titre](Kratour/Sans%20titre%2028b4d690237c80faa06cf1c35196dc16.csv)
+[Sans titre](personnages/kratour/sans-titre/index.md)
 
 # Evolution au cours des saisons
 

@@ -2,7 +2,7 @@
 
 Repo de données du wiki **Le Mythe de la Taverne**.
 
-Ce repo est la source de contenu pour [moulin](https://github.com/tomo/moulin) — l'app Next.js qui rend le wiki en production. Le contenu est écrit et maintenu dans Obsidian, synchronisé via git.
+Ce repo est la source de contenu pour [moulin](https://github.com/tomo/moulin) — l'app Next.js qui rend le wiki en production. Le contenu est du Markdown standard (CommonMark + extensions GFM), éditable dans n'importe quel éditeur — Obsidian, VS Code, ou tout autre outil Markdown. Synchronisé via git.
 
 ## Structure
 
@@ -17,7 +17,7 @@ wiki-lmdlt/
 └── README.md
 ```
 
-Le dossier `wiki/` est la **production éditoriale** — géré dans Obsidian, ne pas modifier à la main sauf pour les fichiers de config (`_theme.yaml`, `_collection.yaml`, `index.md` avec `::collection`).
+Le dossier `wiki/` est la **production éditoriale**. Le format est volontairement générique — Markdown standard avec quelques extensions documentées dans [moulin/specs/SYNTAX.md](https://github.com/tomo/moulin/blob/main/specs/SYNTAX.md). Ne pas modifier à la main sauf pour les fichiers de config (`_theme.yaml`, `_collection.yaml`, `index.md` avec `::collection`).
 
 ## Fichiers de config dans `wiki/`
 

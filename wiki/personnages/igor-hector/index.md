@@ -4,7 +4,7 @@ title: Igor & Hector
 description_rapide: Gardes du corps de Jonas
 identifiant: 37
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s02e18-la-guerre-des-guildes
+present_dans_l_ep: s02e18-la-guerre-des-guildes
 ---
 
 

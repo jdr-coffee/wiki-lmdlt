@@ -3,7 +3,7 @@ title: S01E02 - Baston générale à la cantoche
 1ere_apparition_pour: [carissa-skyke, izzy, general-beausoleil]
 compteur_d_ep: 1
 date: 18 octobre 2020
-pnj_pr_sents: [carissa-skyke, izzy, general-beausoleil, jeffrey-doyle]
+pnj_presents: [carissa-skyke, izzy, general-beausoleil, jeffrey-doyle]
 saison: saison-1
 univers: fantasy
 ---

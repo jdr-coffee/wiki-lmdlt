@@ -15,5 +15,5 @@ fields:
   - description_rapide
   - identifiant
   - origine
-  - pr_sent_dans_l_ep
+  - present_dans_l_ep
   - timecode

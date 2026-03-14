@@ -2,7 +2,7 @@
 title: Général Beausoleil
 1ere_apparition: s01e02-baston-generale-a-la-cantoche
 identifiant: 10
-pr_sent_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes]
+present_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes]
 ---
 
 

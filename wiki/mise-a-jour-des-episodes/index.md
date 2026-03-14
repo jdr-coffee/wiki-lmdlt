@@ -19,5 +19,5 @@ title: Mise à jour des épisodes
 
 # HORS SERIES
 
-- [Sans titre](sans-titre/index.md)
-- [Sans titre](sans-titre-2/index.md)
+- [Sans titre](mise-a-jour-des-episodes/sans-titre/index.md)
+- [Sans titre](mise-a-jour-des-episodes/sans-titre-2/index.md)

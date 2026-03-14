@@ -1,7 +1,7 @@
 ---
 title: Leflopla
 pseudo_discord: leflopla
-r_seaux: "https://www.instagram.com/lefloplart"
+reseaux: "https://www.instagram.com/lefloplart"
 ---
 
 

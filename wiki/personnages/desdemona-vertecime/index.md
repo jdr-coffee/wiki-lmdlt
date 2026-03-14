@@ -4,7 +4,7 @@ title: Desdemona Vertecime
 description_rapide: Herboriste talentueuse et héritière du fief du Jarrier
 identifiant: 18
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts-vivants]
+present_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts-vivants]
 ---
 
 

@@ -4,7 +4,7 @@ title: Cassandra Tastrophe
 description_rapide: Membre de la guilde des persifleurs
 identifiant: 30
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s02e16-le-qg-des-persifleurs
+present_dans_l_ep: s02e16-le-qg-des-persifleurs
 ---
 
 

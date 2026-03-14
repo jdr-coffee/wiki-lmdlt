@@ -2,12 +2,12 @@
 title: Saisons
 ---
 
-- [Bêtisier](betisier.md)
-- [Debrief](debrief.md)
-- [FAQ](faq.md)
-- [Hors-série](hors-serie.md)
-- [Pilote](pilote.md)
-- [Saison 1](saison-1/index.md)
-- [Saison 2](saison-2.md)
-- [Saison 3](saison-3.md)
-- [Saison 4](saison-4.md)
+- [Bêtisier](saisons/betisier.md)
+- [Debrief](saisons/debrief.md)
+- [FAQ](saisons/faq.md)
+- [Hors-série](saisons/hors-serie.md)
+- [Pilote](saisons/pilote.md)
+- [Saison 1](saisons/saison-1/index.md)
+- [Saison 2](saisons/saison-2.md)
+- [Saison 3](saisons/saison-3.md)
+- [Saison 4](saisons/saison-4.md)

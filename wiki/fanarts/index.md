@@ -8,4 +8,4 @@ title: Fanarts
 
 [Fanarts de Zat](fanarts/fanarts-de-zat.md)
 
-- [Fanarts de Leflopla](fanarts-de-leflopla/index.md)
+- [Fanarts de Leflopla](fanarts/fanarts-de-leflopla/index.md)

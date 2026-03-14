@@ -2,8 +2,8 @@
 title: L'équipe
 ---
 
-- [Angela](angela.md)
-- [Camille](camille.md)
-- [Ninon](ninon.md)
-- [Sam](sam.md)
-- [Steve](steve/index.md)
+- [Angela](l-equipe/angela.md)
+- [Camille](l-equipe/camille.md)
+- [Ninon](l-equipe/ninon.md)
+- [Sam](l-equipe/sam.md)
+- [Steve](l-equipe/steve/index.md)

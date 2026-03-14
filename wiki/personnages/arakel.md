@@ -3,7 +3,7 @@ title: Arakel
 1ere_apparition: hors-serie-01-la-grande-election
 description_rapide: Ancien membre de la guilde des flambeurs à Agener
 identifiant: 69
-pr_sent_dans_l_ep: [hors-serie-01-la-grande-election, hors-serie-02-course-a-la-poule]
+present_dans_l_ep: [hors-serie-01-la-grande-election, hors-serie-02-course-a-la-poule]
 ---
 
 

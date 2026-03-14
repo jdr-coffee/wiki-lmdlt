@@ -3,7 +3,7 @@ title: S01E07 - Chasse à la sorcière
 1ere_apparition_pour: [maggie, herevard]
 compteur_d_ep: 1
 date: 3 mars 2021
-pnj_pr_sents: [maggie, herevard, jeffrey-doyle]
+pnj_presents: [maggie, herevard, jeffrey-doyle]
 saison: saison-1
 univers: fantasy
 ---

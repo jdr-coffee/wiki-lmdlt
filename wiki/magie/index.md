@@ -3,5 +3,5 @@ title: Magie
 draft: true
 ---
 
-- [Magies](magies/index.md)
-- [Pierres magiques](pierres-magiques/index.md)
+- [Magies](magie/magies/index.md)
+- [Pierres magiques](magie/pierres-magiques/index.md)

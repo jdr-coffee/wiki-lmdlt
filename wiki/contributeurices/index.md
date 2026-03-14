@@ -3,7 +3,7 @@ title: Contributeurices
 draft: true
 ---
 
-- [Kazoart](kazoart.md)
-- [Leflopla](leflopla.md)
-- [Lemon Pie](lemon-pie.md)
-- [ZatZat](zatzat.md)
+- [Kazoart](contributeurices/kazoart.md)
+- [Leflopla](contributeurices/leflopla.md)
+- [Lemon Pie](contributeurices/lemon-pie.md)
+- [ZatZat](contributeurices/zatzat.md)

@@ -3,7 +3,7 @@ title: S02E14 - La mystérieuse héritière
 1ere_apparition_pour: [cody-berryman, sarah-petrova]
 compteur_d_ep: 1
 date: 25 mai 2022
-pnj_pr_sents: [sarah-petrova, cody-berryman, timothy-charlton, agibail-brent, fox-sherman, adeline-roberts, billy-quattermack]
+pnj_presents: [sarah-petrova, cody-berryman, timothy-charlton, agibail-brent, fox-sherman, adeline-roberts, billy-quattermack]
 saison: saison-2
 univers: fantasy
 ---

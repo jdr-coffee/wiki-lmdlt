@@ -2,7 +2,7 @@
 title: Fox Sherman
 description_rapide: Élève de l’école des mages
 identifiant: 26
-pr_sent_dans_l_ep: [s02e14-la-mysterieuse-heritiere, s02e15-la-petite-boutique-d-objets-magiques]
+present_dans_l_ep: [s02e14-la-mysterieuse-heritiere, s02e15-la-petite-boutique-d-objets-magiques]
 ---
 
 

@@ -3,7 +3,7 @@ title: S02E17 - Faux objets en pagaille
 1ere_apparition_pour: [gorthor-le-cruel, roberto-le-querelleur, fyrlinel]
 compteur_d_ep: 1
 date: 6 juillet 2022
-pnj_pr_sents: [roberto-le-querelleur, general-beausoleil, gorthor-le-cruel, fyrlinel]
+pnj_presents: [roberto-le-querelleur, general-beausoleil, gorthor-le-cruel, fyrlinel]
 saison: saison-2
 univers: fantasy
 ---

@@ -3,7 +3,7 @@ title: S01E06 - Une très (très) mauvaise nuit
 1ere_apparition_pour: desdemona-vertecime
 compteur_d_ep: 1
 date: 15 février 2021
-pnj_pr_sents: desdemona-vertecime
+pnj_presents: desdemona-vertecime
 saison: saison-1
 univers: fantasy
 ---

@@ -3,6 +3,6 @@ title: S01E11 - L’affrontement de tous les dangers
 contenu: No
 description: Yes
 fun_facts: No
-r_sum: Yes
+resume: Yes
 draft: true
 ---

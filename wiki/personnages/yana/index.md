@@ -4,7 +4,7 @@ title: Yana
 description_rapide: Co-fondatrice de la guilde des persifleurs et grande amie de nos héroïnes
 identifiant: 5
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s01e01-les-morts-disparus
+present_dans_l_ep: s01e01-les-morts-disparus
 ---
 
 

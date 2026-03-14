@@ -3,7 +3,7 @@ title: Cid
 1ere_apparition: s01e03-l-adoption-de-cid-le-robot
 description_rapide: [Une armure brandissant une épée, faite de bois et de métal montée sur des roulettes de chariot, avec des cordes reliant les membres, renforcée aux jointures par des rouages de pont-levis.]
 identifiant: 13
-pr_sent_dans_l_ep: s01e04-la-meilleure-pizza-du-royaume
+present_dans_l_ep: s01e04-la-meilleure-pizza-du-royaume
 timecode: "13:30"
 ---
 

@@ -2,8 +2,8 @@
 title: Pays Royaumes
 ---
 
-- [Cautel](cautel.md)
-- ["Empire d'Ambrelin"](empire-d-ambrelin.md)
-- [Palatinat de Sabrenas](palatinat-de-sabrenas.md)
-- [Royaume de Véloria](royaume-de-veloria.md)
-- [Verte Cime](verte-cime.md)
+- [Cautel](pays-royaumes/cautel.md)
+- ["Empire d'Ambrelin"](pays-royaumes/empire-d-ambrelin.md)
+- [Palatinat de Sabrenas](pays-royaumes/palatinat-de-sabrenas.md)
+- [Royaume de Véloria](pays-royaumes/royaume-de-veloria.md)
+- [Verte Cime](pays-royaumes/verte-cime.md)

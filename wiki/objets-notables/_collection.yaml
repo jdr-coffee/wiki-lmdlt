@@ -12,6 +12,6 @@ view: list
 fields:
   - title
   - 1er_apparition
-  - caract_ristique
+  - caracteristique
   - description
   - timecode

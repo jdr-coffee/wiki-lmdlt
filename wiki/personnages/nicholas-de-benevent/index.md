@@ -4,7 +4,7 @@ title: Nicholas de Bénévent
 description_rapide: Grand accusateur royal de Veloria
 identifiant: 32
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: [s02e16-le-qg-des-persifleurs, s02e18-la-guerre-des-guildes]
+present_dans_l_ep: [s02e16-le-qg-des-persifleurs, s02e18-la-guerre-des-guildes]
 ---
 
 

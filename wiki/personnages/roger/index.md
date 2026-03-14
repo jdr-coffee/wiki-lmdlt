@@ -4,7 +4,7 @@ title: Roger
 description_rapide: "Roger est l'ancien chef de la guilde des Vides-Poches."
 identifiant: 2
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s01e01-les-morts-disparus
+present_dans_l_ep: s01e01-les-morts-disparus
 ---
 
 

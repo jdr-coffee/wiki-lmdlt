@@ -14,6 +14,6 @@ fields:
   - contenu
   - description
   - fun_facts
-  - r_sum
-  - derni_re_maj
+  - resume
+  - derniere_maj
   - infos_supp

@@ -3,7 +3,7 @@ title: Izzy
 1ere_apparition: s01e02-baston-generale-a-la-cantoche
 description_rapide: Dit le marchand
 identifiant: 9
-pr_sent_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s01e04-la-meilleure-pizza-du-royaume]
+present_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s01e04-la-meilleure-pizza-du-royaume]
 ---
 
 

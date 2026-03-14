@@ -4,7 +4,7 @@ title: Roberto le querelleur
 description_rapide: Membre de la guilde des vides-poches
 identifiant: 34
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s02e17-faux-objets-en-pagaille
+present_dans_l_ep: s02e17-faux-objets-en-pagaille
 ---
 
 

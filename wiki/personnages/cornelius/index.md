@@ -2,7 +2,7 @@
 title: Cornelius
 1ere_apparition: s01e03-l-adoption-de-cid-le-robot
 identifiant: 11
-pr_sent_dans_l_ep: s01e05-l-art-du-combat
+present_dans_l_ep: s01e05-l-art-du-combat
 ---
 
 

@@ -4,7 +4,7 @@ title: Ulgar
 description_rapide: Fossoyeur d’Agener
 identifiant: 7
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: [s01e01-les-morts-disparus, s01e08-la-nuit-des-morts-vivants]
+present_dans_l_ep: [s01e01-les-morts-disparus, s01e08-la-nuit-des-morts-vivants]
 ---
 
 

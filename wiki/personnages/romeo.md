@@ -4,7 +4,7 @@ title: Roméo
 description_rapide: Chef désigné par nos héroïnes de la guilde des persifleurs à Véloria
 identifiant: 31
 origine: royaume-de-veloria
-pr_sent_dans_l_ep: s02e16-le-qg-des-persifleurs
+present_dans_l_ep: s02e16-le-qg-des-persifleurs
 ---
 
 

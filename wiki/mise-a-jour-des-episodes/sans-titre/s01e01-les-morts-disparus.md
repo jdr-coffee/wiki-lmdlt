@@ -3,6 +3,6 @@ title: S01E01 - Les morts disparus
 contenu: No
 description: Yes
 fun_facts: No
-r_sum: Yes
+resume: Yes
 draft: true
 ---

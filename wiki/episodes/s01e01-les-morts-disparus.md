@@ -3,7 +3,7 @@ title: S01E01 - Les morts disparus
 1ere_apparition_pour: [roger, eogan-keller, heckel, jeckel, yana, jeffrey-doyle, ulgar]
 compteur_d_ep: 1
 date: 11 octobre 2020
-pnj_pr_sents: [roger, eogan-keller, heckel, jeckel, yana, jeffrey-doyle, ulgar]
+pnj_presents: [roger, eogan-keller, heckel, jeckel, yana, jeffrey-doyle, ulgar]
 saison: saison-1
 univers: fantasy
 ---

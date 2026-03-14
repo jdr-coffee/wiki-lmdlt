@@ -5,15 +5,15 @@
 # group_by: <field>   # e.g. saison — renders as tabbed groups
 # sort_by:  <field>   # e.g. compteur_d_ep
 # sort_order: asc | desc
-view: list
-# group_by: ~
-# sort_by: ~
-# sort_order: asc
+view: table
+group_by: saison
+sort_by: compteur_d_ep
+sort_order: asc
 fields:
   - title
   - 1ere_apparition_pour
   - compteur_d_ep
   - date
-  - pnj_pr_sents
+  - pnj_presents
   - saison
   - univers

@@ -1,6 +1,4 @@
----
-title: Objets notables
----
+# Objets notables
 
 - [Bague de (Neptune)](objets-notables/bague-de-neptune.md)
 - [Ceinture de la louve mère](objets-notables/ceinture-de-la-louve-mere.md)

@@ -1,7 +1,8 @@
 ---
-title: Bestiaire
 draft: true
 ---
+
+# Bestiaire
 
 - [Anathèmes](bestiaire/anathemes.md)
 - [Furets](bestiaire/furets.md)

@@ -1,6 +1,4 @@
----
-title: Univers
----
+# Univers
 
 - [Fantasy](univers/fantasy.md)
 - [Le DAP](univers/le-dap.md)

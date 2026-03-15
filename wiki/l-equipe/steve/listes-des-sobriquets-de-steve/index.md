@@ -1,6 +1,4 @@
----
-title: Listes des sobriquets de Steve
----
+# Listes des sobriquets de Steve
 
 - [Kiki le MJ](l-equipe/steve/listes-des-sobriquets-de-steve/kiki-le-mj.md)
 - [Sbeeve](l-equipe/steve/listes-des-sobriquets-de-steve/sbeeve.md)

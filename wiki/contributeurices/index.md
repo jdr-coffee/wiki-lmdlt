@@ -1,7 +1,8 @@
 ---
-title: Contributeurices
 draft: true
 ---
+
+# Contributeurices
 
 - [Kazoart](contributeurices/kazoart.md)
 - [Leflopla](contributeurices/leflopla.md)

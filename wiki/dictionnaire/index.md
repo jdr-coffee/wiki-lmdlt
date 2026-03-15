@@ -1,8 +1,10 @@
 ---
-title: Dictionnaire
 ---
 
-# Dictionnaire saison 2
+# Dictionnaire
+
+
+## Dictionnaire saison 2
 
 - **“C’est Callum !”** : interjection rituelle lancée par les cheffes de la guilde des Persifleurs à chaque nouvelle rencontre. Les historiens pensent que Chelinka, Neptune et Someul auraient développé une paranoïa à la suite des événements d’Agener, leur faisant voir Callum, le célèbre Archimage de l’Esprit, absolument partout. (Note de linguistique : l’expression fût, par la suite, largement répandue sur sa forme réduite “scam”).
 - **Enfants de la Nebuleuse** : Les enfants de la nébuleuse sont des êtres dotés d’une puissance magique innée. De ce fait, à l’inverse des mages, ils n’ont pas besoin d’artefact pour pratiquer la magie. En vérité, ils agissent eux-mêmes comme des artéfacts : ils sont une source de magie inépuisable. (Note du mage Hauteroche : selon mes travaux, un mage détruisant un artéfact aurait, en théorie, une infime chance de devenir un Enfant de la nébuleuse.)
@@ -15,12 +17,12 @@ title: Dictionnaire
 - **Sel** : Etat d’une joueuse lorsqu’une situation ne tourne pas à son avantage durant la partie. Les joueuses sont « salées » face à un PNJ récalcitrant, un Steve le MJ qui parvient à prévoir leurs actions et à les contrecarrer ou encore un dialogue durant lequel elles n’arrivent pas à prendre le dessus. (Note : c’est près de Neptune et de Chelinka que l’on récolte la moitié du sel français. Et il est bon hein !)
 - **“Golem de..”** : Expression issue d’une blague fréquemment utilisée par Someul, un célèbre mercenaire du fief de Bardache. Someul avait pour habitude d’imaginer des golems constitués d’objets et d’entités de la vie quotidienne (ex : un golem d’oies, un golem de poulet frit, un golem de reufs, etc). (Note : le ton de cette blague fait débat : Someul était-il fasciné par les golems, ou en avait-il une peur panique ?)
 
-# Dictionnaire saison 3
+## Dictionnaire saison 3
 
 - **Boucler** : Répéter plusieurs fois la même activité, la même suite d’actions ou la même succession d’évènements sans parvenir à atteindre son but. Cette expression velorienne aurait une origine sabrine, vraisemblablement inspirée par le retour de la magie des esprits, une magie capable de contrôler le temps. On associait souvent cette expression à un grand bruit ou un réveil en sursaut, mais nul ne sait pourquoi.
 - 
 
-# Dictionnaire saison 4
+## Dictionnaire saison 4
 
 - [Botan’herboriste](dictionnaire/botan-herboriste.md)
 - [Captain Croc-en-Jambes](dictionnaire/captain-croc-en-jambes.md)

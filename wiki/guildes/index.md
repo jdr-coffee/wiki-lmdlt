@@ -1,6 +1,4 @@
----
-title: Guildes
----
+# Guildes
 
 - [Guilde de la Joie](guildes/guilde-de-la-joie.md)
 - [Guilde des Cuistanciers](guildes/guilde-des-cuistanciers.md)

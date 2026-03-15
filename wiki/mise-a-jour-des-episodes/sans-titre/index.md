@@ -1,6 +1,4 @@
----
-title: Sans titre
----
+# Sans titre
 
 - [S01E01 - Les morts disparus](mise-a-jour-des-episodes/sans-titre/s01e01-les-morts-disparus.md)
 - [S01E02 - Baston générale à la cantoche](mise-a-jour-des-episodes/sans-titre/s01e02-baston-generale-a-la-cantoche.md)

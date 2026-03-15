@@ -1,6 +1,4 @@
----
-title: Sans titre
----
+# Sans titre
 
 - [S02E01 - La nuit des trésors](mise-a-jour-des-episodes/sans-titre-2/s02e01-la-nuit-des-tresors.md)
 - [S02E02 -  Le chalet aux vœux](mise-a-jour-des-episodes/sans-titre-2/s02e02-le-chalet-aux-v-ux.md)

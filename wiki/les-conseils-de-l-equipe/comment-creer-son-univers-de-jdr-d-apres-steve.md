@@ -1,10 +1,11 @@
 ---
-title: Comment créer son univers de JDR d’après Steve ?
 ---
+
+# Comment créer son univers de JDR d’après Steve ?
 
 [Discord - Group Chat That’s All Fun & Games](https://discord.com/channels/1068521764814065786/1068551678468563025/1307818966517022832)
 
-## **Malfoutue  *17 novembre 2024 22:25***
+### **Malfoutue  *17 novembre 2024 22:25***
 
 Je viens encore une fois vous embêter
 
@@ -14,7 +15,7 @@ je ne sais pas trop comment faire les fiches perso et leur attribuer correctemen
 
 ---
 
-## **Steve le MJ*18 novembre 2024 07:54***
+### **Steve le MJ*18 novembre 2024 07:54***
 
 Hello ! Alors je n'ai jamais vraiment communiqué sur ce sujet, tout simplement parce que je n'ai aucune technique en particulier et que je fais tout en procédant par essais et par tests : j'essaie des trucs, je les propose en partie, et quand je vois que ça ne fonctionne pas j'ajuste pour la suite en essayant de comprendre ce qui n'a pas marché et surtout pourquoi ça n'a pas marché, je demande souvent des retours aux joueuses en leur demandant de m'expliquer ce qu'elles n'apprécient pas ou les passages qui sont moins fun à jouer que d'autres, c'est très important d'avoir un dialogue avec les personnes qui jouent histoire d'avoir des retours d'expérience. Je lis aussi des articles, des livres et je regarde des vidéos sur la pratique du JdR pour piocher ce qui me convient et laisser de côté ce que je n'aime pas : sur DnD par exemple je n'aime pas du tout le fait de devoir constamment faire des calculs, des additions et des soustractions donc je me suis dirigé vers un système D100 qui permet de n'avoir à faire aucun calcul. Ce que je recommande, c'est de lire l'ouvrage Mener des parties de jeu de rôles qui est un recueil d'articles sur le JdR et qui donne énormément de conseils et de techniques, c'est par là que je suis entre dans le JdR parce que j'ai toujours trouvé la partie Règles et système hyper relou et je voulais un ouvrage théorique sur la pratique et c'est exactement ce qu'est ce bouquin (je le recommande à chaque fois et vraiment s'il n'y avait qu'un seul livre de jdr à lire sur toute une vie ça serait celui là)
 

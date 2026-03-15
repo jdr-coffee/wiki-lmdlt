@@ -1,5 +1,3 @@
----
-title: Pierres magiques
----
+# Pierres magiques
 
 - [Fulgurite](magie/pierres-magiques/fulgurite.md)

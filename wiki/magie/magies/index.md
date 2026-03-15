@@ -1,6 +1,4 @@
----
-title: Magies
----
+# Magies
 
 - [La Magie de la Cuisine](magie/magies/la-magie-de-la-cuisine.md)
 - [La Magie des Dieux](magie/magies/la-magie-des-dieux.md)

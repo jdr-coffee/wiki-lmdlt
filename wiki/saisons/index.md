@@ -1,6 +1,4 @@
----
-title: Saisons
----
+# Saisons
 
 - [Bêtisier](saisons/betisier.md)
 - [Debrief](saisons/debrief.md)

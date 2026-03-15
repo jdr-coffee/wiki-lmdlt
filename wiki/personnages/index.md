@@ -1,6 +1,4 @@
----
-title: Personnages
----
+# Personnages
 
 - [Adeline Roberts](personnages/adeline-roberts/index.md)
 - [Agibail Brent](personnages/agibail-brent.md)

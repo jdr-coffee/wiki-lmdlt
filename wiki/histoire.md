@@ -1,6 +1,7 @@
 ---
-title: Histoire
 ---
+
+# Histoire
 
 1. **Chronologie	du monde :**
 

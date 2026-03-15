@@ -1,6 +1,4 @@
----
-title: Héroïnes
----
+# Héroïnes
 
 - [Artémis](heroines/artemis.md)
 - [Chelinka](heroines/chelinka.md)

@@ -1,6 +1,4 @@
----
-title: L'équipe
----
+# L'équipe
 
 - [Angela](l-equipe/angela.md)
 - [Camille](l-equipe/camille.md)

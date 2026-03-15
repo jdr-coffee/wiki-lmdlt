@@ -1,10 +1,11 @@
 ---
-title: Plantes
 ---
+
+# Plantes
 
 ![17507628987844368702248080725524.jpg](assets/17507628987844368702248080725524.jpg)
 
-# Herbier
+## Herbier
 
 [Allangium](plantes/allangium.md)
 

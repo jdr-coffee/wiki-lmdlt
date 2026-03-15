@@ -1,6 +1,4 @@
----
-title: Lieux
----
+# Lieux
 
 - [Arpalian](lieux/arpalian.md)
 - [Bardache](lieux/bardache.md)

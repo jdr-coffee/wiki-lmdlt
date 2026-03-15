@@ -1,6 +1,4 @@
----
-title: Sans titre
----
+# Sans titre
 
 - [Agnès, 4e de Couv](invitees/sans-titre/agnes-4e-de-couv.md)
 - [Alex](invitees/sans-titre/alex.md)

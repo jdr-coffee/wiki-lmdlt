@@ -1,6 +1,7 @@
 ---
-title: Allangium
 ---
+
+# Allangium
 
 Plante aidant la cicatrisation des blessures graves.
 

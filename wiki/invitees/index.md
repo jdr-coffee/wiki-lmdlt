@@ -1,6 +1,7 @@
 ---
-title: Invitées
 draft: true
 ---
 
-- [Sans titre](invitees/sans-titre/index.md)
+# Invitées
+
+- [sans titre](invitees/sans-titre/index.md)

@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E20 / Pt.02 - Thyvald le magnifique
+
 
 *L'épisode "**Les Persifleurs de Sabrenas”** est le 20e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 83e épisode enregistré par le groupe.*

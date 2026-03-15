@@ -6,3 +6,5 @@ description: Une grande épée à deux mains en acier avec une lanière en cuire
 timecode: "28:00"
 draft: true
 ---
+
+# Epée de l’œuf d’or

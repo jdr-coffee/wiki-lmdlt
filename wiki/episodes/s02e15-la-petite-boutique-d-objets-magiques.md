@@ -8,6 +8,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E15 - La petite boutique d'objets magiques
+
 
 *L'épisode "**La Petite Boutique d’Objets Magiques**" est le 15e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 40e épisode enregistré par le groupe.*

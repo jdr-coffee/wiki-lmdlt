@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E27 - Les erreurs du passé
+
 
 *L'épisode "**Les Erreurs du Passé”** est le 27e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 90e épisode enregistré par le groupe.*

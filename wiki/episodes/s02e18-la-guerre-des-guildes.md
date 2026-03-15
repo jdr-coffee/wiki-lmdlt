@@ -7,6 +7,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E18 - La guerre des guildes
+
 
 *L'épisode "**La Guerre des Guildes**" est le 18e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 43e épisode enregistré par le groupe.*

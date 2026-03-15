@@ -2,6 +2,8 @@
 title: Les Occultes
 ---
 
+# Les Occultes
+
 Les Occultes sont des magiciens originaires d’un continent supposé se trouver à l’ouest de Veloria, bien au-delà de l’océan et du palatinat de Sabrenas. Ils sont caractérisés par leur masque opaque recouvrant l’intégralité de leur visage et leur peau sombre recouverte de tatouage ésotériques à laquelle ils doivent leur nom : les Sombres.
 
 Leur pratique de la magie est assez singulière et se rapproche de celle des mages de l’esprit. Les Occultes seraient capables de percevoir le temps et les liens de causalités, leur permettant ainsi de prédire l’avenir. Selon eux, le temps serait comme un enchevêtrement de fils partant dans toutes les directions, représentant les possibilités d’avenirs et les futurs probables.

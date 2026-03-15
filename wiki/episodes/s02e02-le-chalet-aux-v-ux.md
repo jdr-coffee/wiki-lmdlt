@@ -7,6 +7,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E02 -  Le chalet aux vœux
+
 
 *L'épisode "**Le chalet aux voeux**" est le 2e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 27e épisode enregistré par le groupe.*

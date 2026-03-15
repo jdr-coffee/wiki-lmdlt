@@ -6,6 +6,8 @@ identifiant: 46
 origine: palatinat-de-sabrenas
 ---
 
+# Eriksen
+
 
 Eriksen est l’un des grands de Sabrenas, envoyé par la comtesse Irena von Kamerling pour conduire les ambassadeurs de Véloria au palais et leur servir d’escorte
 

@@ -3,6 +3,8 @@ title: Dieu décapité
 type_de_dieu: Dieu défunt
 ---
 
+# Dieu décapité
+
 
 ### Dieu du combat, des blessures et des trésors
 

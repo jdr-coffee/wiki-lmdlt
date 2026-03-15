@@ -8,6 +8,8 @@ saison: [hors-serie, saison-1]
 univers: fantasy
 ---
 
+# Hors-série#01 - La grande élection
+
 
 *L'épisode "**La Grande Election**" est le 1er épisode Hors-Série du Mythe de la Taverne
 Ainsi que le 26e épisode enregistré par le groupe.*

@@ -5,6 +5,8 @@ description_rapide: L’épée du roi
 identifiant: 45
 ---
 
+# Brunhilde
+
 
 Brunhilde est une des 6 chevaliers du roi. Première lame du royaume, la championne du roi a voué sa vie à combattre et terrasser les ennemis du roi. Elle est la combattante la plus agile et la plus puissante du royaume
 

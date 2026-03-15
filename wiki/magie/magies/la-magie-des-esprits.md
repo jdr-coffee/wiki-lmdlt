@@ -2,6 +2,8 @@
 title: La Magie des Esprits
 ---
 
+# La Magie des Esprits
+
 La magie des esprits, aussi appelé magie des morts ou magie de l’esprit, permet de modifier directement la réalité. Grâce à ce pouvoir, les mages de l’esprit peuvent créer des illusions, agir directement sur le tissu de la réalité, invoquer des créatures surnaturelles ou encore manipuler les esprits.
 
 Ce sont les artefacts de l’esprit, des objets ou des lieux servant de ponts entre plusieurs réalités, qui permettent la pratique de la magie des esprits. Les artefacts permettent aux mages de l’esprit d’établir une connexion directe avec le royaume des morts, un monde occulte d’un autre plan de l’existence, duquel, ils tirent leur pouvoir.

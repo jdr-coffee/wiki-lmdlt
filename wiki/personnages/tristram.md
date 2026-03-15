@@ -5,6 +5,8 @@ description_rapide: La dague du roi
 identifiant: 44
 ---
 
+# Tristram
+
 
 Tristram est un des 6 chevaliers du roi. Il est responsable de tout ce qui est rumeurs et récolte d'informations pour le roi
 

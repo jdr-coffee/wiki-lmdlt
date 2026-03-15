@@ -8,6 +8,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E14 - La mystérieuse héritière
+
 
 *L'épisode "**La Mystérieuse Héritière**" est le 14e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 39e épisode enregistré par le groupe.*

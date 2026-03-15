@@ -5,6 +5,8 @@ description_rapide: "L'arc du roi"
 identifiant: 42
 ---
 
+# Hadrian
+
 
 Hadrian est un des 6 chevaliers du roi. Archer émérites, il est commandant des flèches royales, un groupe d'archers d'une précision meurtrière 
 

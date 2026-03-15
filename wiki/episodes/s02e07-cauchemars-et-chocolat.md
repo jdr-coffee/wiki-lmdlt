@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E07 - Cauchemars et chocolat
+
 
 *L'épisode "**Cauchemars et Chocolat**" est le 7e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 32e épisode enregistré par le groupe.*

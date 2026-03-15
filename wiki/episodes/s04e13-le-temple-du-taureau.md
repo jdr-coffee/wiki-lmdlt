@@ -5,6 +5,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E13 - Le temple du taureau
+
 
 *L'épisode "**Le Temple du Taureau”** est le 13e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 105e épisode enregistré par le groupe.*

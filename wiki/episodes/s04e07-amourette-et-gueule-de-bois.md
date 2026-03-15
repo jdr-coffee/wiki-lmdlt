@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E07 - Amourette et gueule de bois
+
 
 *L'épisode "**Amourette et Gueule de Bois”** est le 7e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 99e épisode enregistré par le groupe.*

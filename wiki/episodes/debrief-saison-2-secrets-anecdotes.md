@@ -5,6 +5,8 @@ date: 15 février 2023
 saison: [saison-2, debrief]
 ---
 
+# Debrief Saison 2 + Secrets & Anecdotes
+
 
 *L'épisode "**Débrief saison 2 + Secrets et Anecdotes**" est un épisode bonus du Mythe de la Taverne.
 Ainsi que le 58e épisode enregistré par le groupe.*

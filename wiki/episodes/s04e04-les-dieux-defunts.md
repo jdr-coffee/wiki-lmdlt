@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E04 - Les dieux défunts
+
 
 *L'épisode "**Les Dieux Défunts”** est le 4e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 96e épisode enregistré par le groupe.*

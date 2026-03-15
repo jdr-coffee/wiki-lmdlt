@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E02 - La grande persiflade + ANNONCE !
+
 
 *L'épisode "**La Grande Persiflade + Annonce !**" est le 2e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 65e épisode enregistré par le groupe.*

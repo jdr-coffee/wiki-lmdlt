@@ -4,6 +4,8 @@ description_rapide: rat-de-mira
 identifiant: 87
 ---
 
+# Kratour
+
 
 > [!note]
 > ## Conseils

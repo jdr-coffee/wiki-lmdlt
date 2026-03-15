@@ -5,6 +5,8 @@ symbole: Un chat bicolore blanc et noir
 type_de_dieu: Dieu naissant
 ---
 
+# Chat Borgne
+
 
 ![image.png](assets/add89792-2a6d-451d-bbdb-c69722171826.png)
 

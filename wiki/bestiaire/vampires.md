@@ -3,6 +3,8 @@ title: Vampires
 univers: fantasy
 ---
 
+# Vampires
+
 
 **Description** : Les vampires sont des créatures de la nuit associés à la magie des esprits et au royaume des morts. Ils font aujourd’hui parti des créatures disparues, et sont reliés au rang de légende. Les vampires étaient à l’époque célèbres comme des êtres magiques surpuissants dotés de pouvoir exceptionnels. Certains écrits font même état de vampires magiciens de l’esprit tenues en haute estime par leur pair. 
 

@@ -6,6 +6,8 @@ saison: [saison-3, betisier]
 univers: fantasy
 ---
 
+# Bêtisier saison 3
+
 
 *L'épisode "**Bêtisier saison 3”** est un épisode spécial du Mythe de la Taverne
 Ainsi que le 92e épisode enregistré par le groupe.*

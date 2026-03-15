@@ -5,6 +5,8 @@ date: 1 mars 2023
 saison: [saison-2, faq]
 ---
 
+# FAQ saison 2 + ANNONCE !
+
 
 *L'épisode "**FAQ saison 2 + Annonce !**" est un épisode bonus du Mythe de la Taverne.
 Ainsi que le 59e épisode enregistré par le groupe.*

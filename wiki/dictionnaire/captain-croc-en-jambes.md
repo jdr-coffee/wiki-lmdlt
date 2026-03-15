@@ -4,6 +4,8 @@ description: energie-combative-de-someul
 saisons: saison-1
 ---
 
+# Captain Croc-en-Jambes
+
 
 
 Someul, grand guerrier, se servait ainsi de son Captain Croc-en-jambe pour déséquilibrer ses adversaires à distance. 

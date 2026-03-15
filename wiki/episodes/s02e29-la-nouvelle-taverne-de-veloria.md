@@ -5,6 +5,8 @@ date: 21 décembre 2022
 saison: saison-2
 ---
 
+# S02E29 - La nouvelle taverne de Veloria
+
 
 *L'épisode "**La Nouvelle Taverne de Veloria**" est le 29e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 54e épisode enregistré par le groupe.*

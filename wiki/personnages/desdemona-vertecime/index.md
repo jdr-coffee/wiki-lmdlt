@@ -7,6 +7,8 @@ origine: royaume-de-veloria
 present_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts-vivants]
 ---
 
+# Desdemona Vertecime
+
 
 > [!note]
 > ## Conseils

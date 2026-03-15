@@ -5,6 +5,8 @@ lieu: royaume-de-veloria
 signe_distinctif: Bout des doigts noirs
 ---
 
+# Guilde des Epiciers
+
 
 # Histoire de la Guilde
 

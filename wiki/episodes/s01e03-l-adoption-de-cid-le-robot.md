@@ -7,6 +7,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E03 - L'adoption de Cid le Robot
+
 
 *L'épisode "**L'adoption de Cid le Robot**" est le 3e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 7e épisode enregistré par le groupe.*

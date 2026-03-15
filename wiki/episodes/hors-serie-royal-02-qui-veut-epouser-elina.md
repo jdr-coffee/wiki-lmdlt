@@ -6,6 +6,8 @@ saison: [hors-serie, saison-2]
 univers: fantasy
 ---
 
+# Hors-série Royal #02 - Qui veut épouser Elina ?
+
 
 *L'épisode "**Qui veut épouser Eline ?**" est un épisode Hors-Série du Mythe de la Taverne.
 Ainsi que le 62e épisode enregistré par le groupe.*

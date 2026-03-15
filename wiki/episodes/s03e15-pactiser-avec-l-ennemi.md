@@ -7,6 +7,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E15 - Pactiser avec l’ennemi
+
 
 *L'épisode "**Pactiser avec l’Ennemi”** est le 15e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 78e épisode enregistré par le groupe.*

@@ -7,6 +7,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E03 - Les 6 Chevaliers du Roi
+
 
 *L'épisode "**Les 6 Chevaliers du Roi**" est le 3e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 66e épisode enregistré par le groupe.*

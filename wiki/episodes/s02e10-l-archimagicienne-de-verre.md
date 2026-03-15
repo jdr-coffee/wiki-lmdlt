@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E10 - L'archimagicienne de verre
+
 
 *L'épisode "**L’Archimagicienne de Verre**" est le 10e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 35e épisode enregistré par le groupe.*

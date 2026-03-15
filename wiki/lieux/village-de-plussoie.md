@@ -6,6 +6,8 @@ time_code: "45:10"
 pays_royaumes: royaume-de-veloria
 ---
 
+# Village de Plussoie
+
 
 
 Le village est constitué d’une petite vingtaine de maisonnées organisées en cercle autour d’une placette qui a, en son centre, un puits. Autour de ces maisons il y a des petits enclos avec des chèvres, des oies, des poules. 

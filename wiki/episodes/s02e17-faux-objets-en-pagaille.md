@@ -8,6 +8,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E17 - Faux objets en pagaille
+
 
 *L'épisode "**Faux Objets en Pagaille**" est le 17e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 42e épisode enregistré par le groupe.*

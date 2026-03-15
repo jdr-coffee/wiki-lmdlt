@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E20 - Virée shopping à la capitale
+
 
 *L'épisode "**Virée Shopping à la Capitale**" est le 20e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 45e épisode enregistré par le groupe.*

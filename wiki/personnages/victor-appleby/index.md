@@ -4,6 +4,8 @@ description_rapide: Chef de la guilde des serviteurs à Agener et père de
 identifiant: 39
 ---
 
+# Victor Appleby
+
 
 Son bras droit est [Izzy](personnages/izzy.md)
 

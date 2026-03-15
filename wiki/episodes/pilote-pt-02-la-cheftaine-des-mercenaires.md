@@ -6,6 +6,8 @@ saison: pilote
 univers: fantasy
 ---
 
+# Pilote / Pt.02 - La cheftaine des mercenaires
+
 
 # **Description de l'épisode**
 

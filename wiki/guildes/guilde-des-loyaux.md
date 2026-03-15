@@ -4,6 +4,8 @@ lieu: royaume-de-veloria
 signe_distinctif: Dos de la main blanche
 ---
 
+# Guilde des loyaux
+
 
 # Histoire de la Guilde
 

@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E00 - Récap saisons 1 & 2
+
 
 *L'épisode "**Récap saisons 1 et 2**" est l’épisode 0 de la saison 3 du Mythe de la Taverne
 Ainsi que le 63e épisode enregistré par le groupe.*

@@ -8,6 +8,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E06 - Une très (très) mauvaise nuit
+
 
 *L'épisode 6 est le 6e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 10e épisode enregistré par le groupe.*

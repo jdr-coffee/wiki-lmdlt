@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E19 - Le nouveau mage de l'esprit
+
 
 *L'épisode "**Le Nouveau Mage de l’Esprit**" est le 19e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 44e épisode enregistré par le groupe.*

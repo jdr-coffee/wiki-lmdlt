@@ -6,6 +6,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E20 / Pt.02 - La dernière ligne de défense
+
 
 *L'épisode "**La dernière ligne de défense**" est le 21e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 25e épisode enregistré par le groupe.*

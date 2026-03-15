@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E10 - Duel de dames (feat. Petite Vitesse)
+
 
 *L'épisode "**Duel de dames (feat. Petite Vitesse)”** est le 10e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 102e épisode enregistré par le groupe.*

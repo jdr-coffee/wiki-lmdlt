@@ -6,3 +6,5 @@ description: Gantelet de force en acier et des sangles de cuire
 timecode: "13:30"
 draft: true
 ---
+
+# Gantelet de force de Someul

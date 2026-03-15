@@ -4,6 +4,8 @@ description_rapide: Capitaine pirate
 identifiant: 74
 ---
 
+# La Dame d’Ebène
+
 
 ![image.png](assets/la-dame-d-ebene-image.png)
 

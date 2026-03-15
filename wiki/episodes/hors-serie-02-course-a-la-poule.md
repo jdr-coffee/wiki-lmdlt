@@ -7,6 +7,8 @@ saison: [hors-serie, saison-1]
 univers: fantasy
 ---
 
+# Hors-série#02 - Course à la poule !
+
 
 *L'épisode "**Course à la Poule !**" est le 2e épisode Hors-Série du Mythe de la Taverne
 Ainsi que le 24e épisode enregistré par le groupe.*

@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E13 - Le club des distingués du destin
+
 
 *L'épisode "**Le Club des Distingués du Destin**" est le 13e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 38e épisode enregistré par le groupe.*

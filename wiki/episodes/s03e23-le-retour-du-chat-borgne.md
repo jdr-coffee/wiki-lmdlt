@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E23 - Le retour du Chat Borgne
+
 
 *L'épisode "**Le Retour du Chat Borgne”** est le 23e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 86e épisode enregistré par le groupe.*

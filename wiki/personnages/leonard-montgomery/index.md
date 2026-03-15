@@ -5,6 +5,8 @@ description_rapide: Archimage et directeur deu collège des mages
 identifiant: 78
 ---
 
+# Léonard Montgomery
+
 
 > [!note]
 > ## Conseils

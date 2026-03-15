@@ -2,6 +2,8 @@
 title: Cautel
 ---
 
+# Cautel
+
 Immenses île artificielle créé à partir des nombreux navires qui se sont retrouvés bloqués par ceux arrivés après et attaché entre eux, Cautel est LE lieu de rassemblement des pirates et brigands en quête d’aventures.
 
 - Pont	de prêcheurs : Lieu de Cautel qui regroupe des temples pour chaque divinité.

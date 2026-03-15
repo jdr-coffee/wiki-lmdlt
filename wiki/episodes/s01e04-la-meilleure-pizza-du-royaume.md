@@ -8,6 +8,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E04 - La meilleure pizza du royaume
+
 
 *L'épisode "**La meilleure pizza du royaume**" est le 4e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 8e épisode enregistré par le groupe.*

@@ -7,6 +7,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E10 - Arnaques, crimes et botaniques
+
 
 *L'épisode "**Arnaques, crimes et botaniques**" est le 10e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 14e épisode enregistré par le groupe.*

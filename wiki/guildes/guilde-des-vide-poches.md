@@ -5,6 +5,8 @@ lieu: royaume-de-veloria
 signe_distinctif: Une partie du crâne rasé
 ---
 
+# Guilde des Vide Poches
+
 
 # Histoire de la Guilde
 

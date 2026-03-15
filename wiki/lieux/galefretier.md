@@ -4,6 +4,8 @@ description_rapide: Fief du pouvoir royal
 pays_royaumes: royaume-de-veloria
 ---
 
+# Galefretier
+
 
 ![image.png](assets/galefretier-image.png)
 

@@ -2,6 +2,8 @@
 title: La Magie de la Cuisine
 ---
 
+# La Magie de la Cuisine
+
 > [!note]
 > La magie de la cuisine est un art ancien, utilisant un ensemble de dosages précis, de signes ésotériques et des mouvements rigoureux pour créer des plats et des pâtisseries ayant des propriétés magiques. 
 > 

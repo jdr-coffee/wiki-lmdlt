@@ -4,6 +4,8 @@ champion_ne: "https://www.notion.so/22b4d690237c801da5fdf16f33fa8daa?pvs=21"
 type_de_dieu: Dieu naissant
 ---
 
+# Taureau Tricéphale
+
 
 ![image.png](assets/taureau-tricephale-image.png)
 

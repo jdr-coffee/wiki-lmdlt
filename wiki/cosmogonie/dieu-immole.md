@@ -3,6 +3,8 @@ title: Dieu Immolé
 type_de_dieu: Dieu défunt
 ---
 
+# Dieu Immolé
+
 
 ### Dieu de la passion, de la destruction et de la jalousie
 

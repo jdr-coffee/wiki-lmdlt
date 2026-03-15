@@ -5,6 +5,8 @@ description_rapide: Le plus grand armateur de Cautel et ennemi direct de la Dame
 identifiant: 65
 ---
 
+# Barton Glover
+
 
 ![image.png](assets/barton-glover-image.png)
 

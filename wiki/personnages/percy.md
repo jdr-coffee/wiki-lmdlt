@@ -6,6 +6,8 @@ identifiant: 52
 origine: palatinat-de-sabrenas
 ---
 
+# Percy
+
 
 Percy est un jeune garçon d’environ 18 ans. Il est habillé richement dans les habits du palatinat de Sabrenas. Il a les cheveux ébouriffés et une mine renfrognée, nonchalante
 

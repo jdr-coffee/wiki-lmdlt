@@ -6,6 +6,8 @@ saison: [saison-2, betisier]
 univers: fantasy
 ---
 
+# Bêtisier saison 2
+
 
 *L'épisode "**Bêtisiersaison 2** " est un épisode bonus du Mythe de la Taverne.
 Ainsi que le 60e épisode enregistré par le groupe.*

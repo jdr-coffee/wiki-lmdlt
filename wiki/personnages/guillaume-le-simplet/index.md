@@ -3,6 +3,8 @@ title: Guillaume le Simplet
 identifiant: 80
 ---
 
+# Guillaume le Simplet
+
 
 > [!note]
 > ## Conseils

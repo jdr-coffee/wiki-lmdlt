@@ -6,6 +6,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E18 - Le conseil de guerre
+
 
 *L'épisode "**Le Conseil de Guerre**" est le 18e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 22e épisode enregistré par le groupe.*

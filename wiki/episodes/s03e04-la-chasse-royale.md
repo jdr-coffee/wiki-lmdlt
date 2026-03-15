@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E04 - La chasse royale
+
 
 *L'épisode "**La Chasse Royale**" est le 4e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 67e épisode enregistré par le groupe.*

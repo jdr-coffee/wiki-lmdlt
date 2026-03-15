@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E01 - Le zéphyr d’obsidienne (feat. Perséïdes)
+
 
 *L'épisode "**Le Zéphiyr d’Obsidienne (feat. Perseïde)”** est le 1er épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 93e épisode enregistré par le groupe.*

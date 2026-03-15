@@ -5,6 +5,8 @@ date: 23 novembre 2022
 saison: saison-2
 ---
 
+# S02E27 - La séance d'accusation publique
+
 
 *L'épisode "**La Séance d’Accusation Publique**" est le 27e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 52e épisode enregistré par le groupe.*

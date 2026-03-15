@@ -4,6 +4,8 @@ symbole: Un Sabre
 lieux: [place-de-la-liberation, palais-palatin, quartier-des-mecaniciens]
 ---
 
+# Palatinat de Sabrenas
+
 
 ### Histoire de Sabrenas
 

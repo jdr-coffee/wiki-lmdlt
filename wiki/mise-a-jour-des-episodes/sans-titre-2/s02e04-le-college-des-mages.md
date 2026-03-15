@@ -6,3 +6,5 @@ fun_facts: No
 resume: No
 draft: true
 ---
+
+# S02E04 - Le Collège des Mages

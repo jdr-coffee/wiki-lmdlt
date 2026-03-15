@@ -3,6 +3,8 @@ title: Robots d’attaque
 univers: fantasy
 ---
 
+# Robots d’attaque
+
 
 **Description** : Construits pour tuer, les robots d’attaque du palatinat de Sabrenas sont de véritables machines de guerre ambulantes. Des milliers d’engrenages et de mécanismes complexes s’agitent sous leur épaisse armure cuivrée, activant leur arsenal meurtrier.
 

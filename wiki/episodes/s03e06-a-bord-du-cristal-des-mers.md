@@ -7,6 +7,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E06 - A bord du cristal des mers
+
 
 *L'épisode "**A Bord du Cristal des Mers**" est le 7e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 69e épisode enregistré par le groupe.*

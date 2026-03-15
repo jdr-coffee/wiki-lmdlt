@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E08 - Les 12 mercenaires
+
 
 *L'épisode "**Les 12 Mercenaires”** est le 8e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 100e épisode enregistré par le groupe.*

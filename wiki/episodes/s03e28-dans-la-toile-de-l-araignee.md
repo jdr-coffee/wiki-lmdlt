@@ -6,6 +6,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E28 - Dans la toile de l’araignée
+
 
 *L'épisode "**Dans la Toile de l’Araignée”** est le 28e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 91e épisode enregistré par le groupe.*

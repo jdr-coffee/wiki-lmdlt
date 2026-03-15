@@ -6,6 +6,8 @@ identifiant: 47
 origine: royaume-de-veloria
 ---
 
+# Cera
+
 
 Cera est une PJ incarnée pendant les épisodes 9 et 10 de la saison 3 par Louise de Diceyclipse. 
 

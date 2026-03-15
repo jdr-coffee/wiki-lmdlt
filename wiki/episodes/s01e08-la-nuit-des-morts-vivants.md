@@ -7,6 +7,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E08 - La nuit des morts-vivants
+
 
 *L'épisode "**La nuit des morts-vivants**" est le 8e épisode de la saison 1 du Mythe de la Taverne.
  Ainsi que le 12e épisode enregistré par le groupe.*

@@ -6,6 +6,8 @@ saison: saison-4
 univers: fantasy
 ---
 
+# S04E05 - La Dame d’Ébène
+
 
 *L'épisode "**La Dame d’Ébène”** est le 5e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 97e épisode enregistré par le groupe.*

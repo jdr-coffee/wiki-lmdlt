@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E08 - Les dossiers d'inscription magiques
+
 
 *L'épisode "**Les Dossiers d’inscription Magiques**" est le 8e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 33e épisode enregistré par le groupe.*

@@ -4,6 +4,8 @@ description_rapide: Cheffe du quartier haute sécurité de la prison d’Agener
 identifiant: 68
 ---
 
+# Constance Defontaine
+
 
 Très grande escrimeuse, elle ambitionnait d’être capitaine de la garde (poste occupé par [Carissa Skyke](personnages/carissa-skyke.md)) quand elle a été envoyée à Agener en tant que cheffe du quartier haute sécurité.
 

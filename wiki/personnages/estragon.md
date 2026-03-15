@@ -4,6 +4,8 @@ description_rapide: Page de Sabrenas
 identifiant: 57
 ---
 
+# Estragon
+
 
 Random PNJ que les joueuses ont appelé Estragon, en référence à Percy et ses mille surnoms.
 

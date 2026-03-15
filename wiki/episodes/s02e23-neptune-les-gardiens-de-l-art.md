@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E23 - Neptune & les Gardiens de l'Art
+
 
 *L'épisode "**Neptune & les Gardiens de l’Art**" est le 23e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 48e épisode enregistré par le groupe.*

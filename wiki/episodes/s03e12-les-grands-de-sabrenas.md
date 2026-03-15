@@ -7,6 +7,8 @@ saison: saison-3
 univers: fantasy
 ---
 
+# S03E12 - Les grands de Sabrenas
+
 
 *L'épisode "**Les Grands de Sabrenas**" est le 12e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 75e épisode enregistré par le groupe.*

@@ -6,6 +6,8 @@ saison: saison-2
 univers: fantasy
 ---
 
+# S02E01 - La nuit des trésors
+
 
 *L'épisode "**La nuit des trésors**" est le premier épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 26e épisode enregistré par le groupe.*

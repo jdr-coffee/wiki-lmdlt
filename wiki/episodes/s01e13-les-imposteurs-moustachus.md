@@ -6,6 +6,8 @@ saison: saison-1
 univers: fantasy
 ---
 
+# S01E13 - Les imposteurs moustachus
+
 
 *L'épisode "**Les imposteurs moustachus**" est le 13ede la saison 1 du Mythe de la Taverne.
 Ainsi que le 17e épisode enregistré par le groupe.*

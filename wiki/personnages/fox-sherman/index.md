@@ -5,6 +5,8 @@ identifiant: 26
 present_dans_l_ep: [s02e14-la-mysterieuse-heritiere, s02e15-la-petite-boutique-d-objets-magiques]
 ---
 
+# Fox Sherman
+
 
 > [!note]
 > ## Conseils

@@ -6,6 +6,8 @@ identifiant: 53
 origine: palatinat-de-sabrenas
 ---
 
+# Lars
+
 
 Première apparition *S03E09 - 44:09* mais pas nommé. Décrit comme un homme en armure, avec un sabre au côté, qui porte des cheveux ramenés en chignon et une petite barbichette.
 

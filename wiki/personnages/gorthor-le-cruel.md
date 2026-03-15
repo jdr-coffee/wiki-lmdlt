@@ -6,6 +6,8 @@ identifiant: 33
 present_dans_l_ep: [s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes]
 ---
 
+# Gorthor le Cruel
+
 
 # Introduction
 

@@ -7,6 +7,8 @@ origine: royaume-de-veloria
 present_dans_l_ep: s01e01-les-morts-disparus
 ---
 
+# Roger
+
 
 Roger est l'ancien chef de la guilde des Vides-Poches. 
 

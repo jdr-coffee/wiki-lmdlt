@@ -7,6 +7,8 @@ origine: royaume-de-veloria
 present_dans_l_ep: s02e18-la-guerre-des-guildes
 ---
 
+# Igor & Hector
+
 
 > [!note]
 > ## Conseils

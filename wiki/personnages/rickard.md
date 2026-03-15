@@ -6,6 +6,8 @@ identifiant: 56
 origine: palatinat-de-sabrenas
 ---
 
+# Rickard
+
 
 Rickard est un des Grands de Sabrenas. C’est un homme assez bien bâti, assez musclé avec des bras bien épais. Il a une barbichette et des cheveux grisonnants. C’est un homme d’un certain âge. Il a des yeux en amande. 
 

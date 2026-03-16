@@ -23,9 +23,3 @@
 - 
 
 ## Dictionnaire saison 4
-
-- [Botan’herboriste](dictionnaire/botan-herboriste.md)
-- [Captain Croc-en-Jambes](dictionnaire/captain-croc-en-jambes.md)
-- [Chelinkarisme](dictionnaire/chelinkarisme.md)
-- [Neptunerie](dictionnaire/neptunerie.md)
-- [Oeufer](dictionnaire/oeufer.md)

@@ -15,7 +15,7 @@ present_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 Famille Vertecime.
 
@@ -25,14 +25,14 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 - Desdemona est une jeune femme rousse énergique de taille moyenne.
 - La première fois que l’on rencontre Desdemona, elle a la peau verte, les paupières violettes, du lierre lui poussant sur la peau et couvrant la majorité de son corps, cette apparence est due à une malédiction.
 
 ![image.png](assets/desdemona-vertecime-image.png)
 
-# Histoire
+## Histoire
 
 ### Saison 1
 
@@ -43,11 +43,11 @@ Alors qu’elle était encore dans son fief, elle a exigé qu’on coupe un arbr
 
 On apprend que Desdemona est héritière du fief du Jarrier.
 
-# Relations
+## Relations
 
 [Sans titre](personnages/desdemona-vertecime/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 ### Evolution au cours de la saison 1, épisode 18
 

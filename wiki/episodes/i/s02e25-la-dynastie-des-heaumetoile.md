@@ -12,18 +12,18 @@ univers: fantasy
 *L'épisode "**La Dynastie des Heaumétoile**" est le 25e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 50e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Someul voulu plaquer un vieil ivrogne traumatisé, comment Chelinka fit jouer ses relations dans la guilde des vide poche pour lancer une rumeur et comment Neptune se fit reconnaître dans la rue par un vieil ami.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/6x14mywLNeIFoSke0Sqdk4?si=fVAPK30SQVCDkkH8lQEcAQ](https://open.spotify.com/episode/6x14mywLNeIFoSke0Sqdk4?si=fVAPK30SQVCDkkH8lQEcAQ)

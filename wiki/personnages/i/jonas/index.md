@@ -15,7 +15,7 @@ present_dans_l_ep: [s02e15-la-petite-boutique-d-objets-magiques, s02e18-la-guerr
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -23,7 +23,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
@@ -31,16 +31,16 @@ Jonas est le propriétaire d’une boutique de ventes d’objets en tout genres 
 
 
 
-# Histoire
+## Histoire
 
 
 Une fois que nos héroïnes ont découvert la vérité sur l’objet de Sarah Petrova ils vendirent l’objet vide à Jonas une coquette somme sans pour autant lui dire que son contenu fût vidées . Ils quittèrent Jonas en ne sachant pas si la supercherie seras découverte un jour .
 
-# Relations
+## Relations
 
 [Sans titre](personnages/jonas/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

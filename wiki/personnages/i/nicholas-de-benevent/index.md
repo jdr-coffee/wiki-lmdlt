@@ -15,7 +15,7 @@ present_dans_l_ep: [s02e16-le-qg-des-persifleurs, s02e18-la-guerre-des-guildes]
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -23,19 +23,19 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
 ![image.png](assets/nicholas-de-benevent-image.png)
 
-# Histoire
+## Histoire
 
-# Relations
+## Relations
 
 [Sans titre](personnages/nicholas-de-benevent/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

@@ -13,18 +13,18 @@ univers: fantasy
 *L'épisode "**Le chalet aux voeux**" est le 2e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 27e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Chelinka devint un gros rat, comment Neptune donna des conseils de banditisme de grand chemin et comment Someul fut immensément riche, pendant approximativement 10 minutes.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/2Y4SQCrlVv5Pz8oTXa6bML?si=WT5mQ_JHQsKCtXwkxaUNCg](https://open.spotify.com/episode/2Y4SQCrlVv5Pz8oTXa6bML?si=WT5mQ_JHQsKCtXwkxaUNCg)

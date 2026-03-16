@@ -13,7 +13,7 @@ univers: fantasy
 *L'épisode "**Cauchemar en Cuisine !**" est le 14e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 18e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 Ninon assure l'introduction de cet épisode à la place de Steve. 
 
@@ -21,7 +21,7 @@ Ninon assure l'introduction de cet épisode à la place de Steve.
 
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Changement de narrateur
 
@@ -94,6 +94,6 @@ L'épisode se termine sur ce cliffhanger, laissant les aventuriers face à une n
 - Neptune réussit son premier jet d'invisibilité avec 73
 - Après plusieurs épisodes de quête, les héros obtiennent ENFIN le poulet frit pour Caloum !
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/48cyvIXnQzmniopzJOap8x?si=1ae33c0459774fef](https://open.spotify.com/episode/48cyvIXnQzmniopzJOap8x?si=1ae33c0459774fef)

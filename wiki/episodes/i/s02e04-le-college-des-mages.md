@@ -12,18 +12,18 @@ univers: fantasy
 *L'épisode "**Le Collège des Mages**" est le 4e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 29e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Someul tenta d'obtenir une augmentation auprès de son patron, comment Chelinka essaye de se faire adopter et comment Neptune s'aperçut qu'elle était une célébrité.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/5OQawPxlkzcG0yqe1fbyrk?si=RtWGlx23QeS8zpU2AAPYtA](https://open.spotify.com/episode/5OQawPxlkzcG0yqe1fbyrk?si=RtWGlx23QeS8zpU2AAPYtA)

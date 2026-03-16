@@ -14,12 +14,12 @@ univers: fantasy
 *L'épisode 6 est le 6e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 10e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 Entre enquête sur cette peur collective, confrontation avec un mystérieux colosse à la cantine, et découverte des secrets des guildes de la prison, le mystère s'épaissit.
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Les débris du Cid
 
@@ -64,13 +64,13 @@ Les personnages rencontrent Easy comme convenu et reçoivent les informations pr
 
 Quelle est cette mystérieuse sixième guilde ? Rendez-vous épisode 7 !
 
-# Facts
+## Facts
 
 - Tous les prisonniers, sans exception, ont fait des cauchemars la même nuit révélant leurs peurs profondes
 - Desdemona reste constamment dans l'ombre de sa cellule, pourquoi ?
 - Le mystérieux colosse moustachu de la cantine semble avoir un certain pouvoir
 - Someul doit boire l'infusion de Desdemona pour guérir sa jambe brisée
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/6BRWJ5ctX2Tf02MMkH3F6w?si=85cb49db790d4371](https://open.spotify.com/episode/6BRWJ5ctX2Tf02MMkH3F6w?si=85cb49db790d4371)

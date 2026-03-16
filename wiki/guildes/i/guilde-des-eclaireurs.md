@@ -10,8 +10,8 @@ Guilde mineure de la prison d’Agener, évoquée dans le premier hors-série �
 
 Leur rôle est de trouver des endroits secrets dans la prison et des passages dérobés
 
-# Histoire de la Guilde
+## Histoire de la Guilde
 
-# Description de la Guilde
+## Description de la Guilde
 
-# Membres connus de la Guilde
+## Membres connus de la Guilde

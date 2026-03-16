@@ -12,14 +12,14 @@ univers: fantasy
 *L'épisode "**Le Zéphiyr d’Obsidienne (feat. Perseïde)”** est le 1er épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 93e épisode enregistré par le groupe.*
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Chelinka fut tentée par le côté obscur de la force, comment Neptune tenta un jet de charisme avec tension sexuelle et comment Someul snip snap snip snap.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**

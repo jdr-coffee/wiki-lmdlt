@@ -13,10 +13,10 @@ univers: fantasy
 *L'épisode "**La nuit des morts-vivants**" est le 8e épisode de la saison 1 du Mythe de la Taverne.
  Ainsi que le 12e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ### L'Infiltration Réussie
 
@@ -57,6 +57,6 @@ Le groupe partage une demi-part de pizza restante devant la cellule d'Adric, reg
 - **Échec critique épique** : Chelinka fait 98 en tentant d'éclairer l'extérieur et met le feu à un matelas
 - **Évolution magique** : Neptune découvre ses affinités avec la magie de la Terre après avoir utilisé ses pouvoirs à plusieurs reprises
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/3D77iA2HxN1Ze8WKGdjDFZ?si=dfc569a01d654f8f](https://open.spotify.com/episode/3D77iA2HxN1Ze8WKGdjDFZ?si=dfc569a01d654f8f)

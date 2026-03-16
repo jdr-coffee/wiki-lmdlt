@@ -13,18 +13,18 @@ univers: fantasy
 *L'épisode "**La Guerre des Guildes**" est le 18e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 43e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Neptune lança son programme de formation de persifleur (seulement 2 deniers), comment Someul plaqua (encore !) un animal innocent au sol et comment Chelinka passa une heure à essayer de faire des vaguelettes dans la mer.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/48eABnJoAyfOHsgN4AFoDo?si=1QpNBgYQTFaxcqXMAFgKMg](https://open.spotify.com/episode/48eABnJoAyfOHsgN4AFoDo?si=1QpNBgYQTFaxcqXMAFgKMg)

@@ -14,10 +14,10 @@ univers: fantasy
 *L'épisode "**L'art du combat**" est le 5e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 9e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## La capture du rat
 
@@ -58,12 +58,12 @@ Cornelius se relève sans comprendre. Carissa refuse alors cette technologie dan
 
 Quelle sera leur prochaine action ? Rendez-vous épisode 6.
 
-# Facts
+## Facts
 
 - L'épisode commence par un Flash Info de Kiki sur 404.1fm
 - Les dieux ne semblent pas répondre dans le quartier haute sécurité
 - Someul craint la septicémie ou la gangrène après sa blessure
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW](https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW)

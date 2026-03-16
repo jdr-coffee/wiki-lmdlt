@@ -14,18 +14,18 @@ univers: fantasy
 *L'épisode "**Faux Objets en Pagaille**" est le 17e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 42e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Chelinka se trouva un plan cul à la capitale, comment Neptune se fit ignorer par tout le monde pendant la moitié de l'épisode et comment Someul trouva littéralement un rival à sa mesure.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/5lBtkH2au0N71xDXfBlPRw?si=sgJRsegeSZq7ujsO-EXoFg](https://open.spotify.com/episode/5lBtkH2au0N71xDXfBlPRw?si=sgJRsegeSZq7ujsO-EXoFg)

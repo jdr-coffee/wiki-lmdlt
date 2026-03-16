@@ -13,7 +13,7 @@ present_dans_l_ep: s01e05-l-art-du-combat
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -21,21 +21,21 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
 
 
-# Histoire
+## Histoire
 
 - Jeune amie de Yana Appleby, elle est la première personne à rejoindre la guilde des Persifleurs. Elle rejoint plus tard Ulgar en tant qu’apprenti fossoyeur.
 
-# Relations
+## Relations
 
 [Sans titre](personnages/izen/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

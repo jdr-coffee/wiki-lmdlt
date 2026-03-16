@@ -12,14 +12,14 @@ univers: fantasy
 *L'épisode "**Adieux”** est le 9e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 101e épisode enregistré par le groupe.*
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Chelinka devint Tornade des X Men, comment Someul refusa l’inévitable et comment Neptune cria “autruche !”.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**

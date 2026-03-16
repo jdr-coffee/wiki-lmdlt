@@ -16,7 +16,7 @@ Toujours accompagnée de son serviteur Daryl
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -24,21 +24,21 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 Alice Holloway est une femme de petite taille et ventripotente, aux cheveux bouclés châtains qui tombent en cascade sur sa poitrine généreuse. Son visage autoritaire et bourru est marqué par les années et l’expérience.
 
 
 
-# Histoire
+## Histoire
 
 - chef’taine de la guilde des Épiciers
 
-# Relations
+## Relations
 
 [Sans titre](personnages/alice-holloway/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

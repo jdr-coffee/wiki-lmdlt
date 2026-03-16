@@ -10,7 +10,7 @@ present_dans_l_ep: s02e16-le-qg-des-persifleurs
 # Roméo
 
 
-# Histoire :
+## Histoire :
 
 
 Roméo et ses agents ont dérobé l’objet de [Sarah Petrova](personnages/sarah-petrova.md) qu’elle a vendu chez [Jonas](personnages/jonas.md) et a vendu un faux à la guilde des vides-poches . 
@@ -22,7 +22,7 @@ Le vol découvert par nos héroïnes ils retournèrent au Galion pour en parler 
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -30,15 +30,15 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
 
 
-# Histoire
+## Histoire
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

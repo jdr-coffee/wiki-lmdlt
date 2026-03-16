@@ -8,15 +8,15 @@ signe_distinctif: Bout des doigts noirs
 # Guilde des Epiciers
 
 
-# Histoire de la Guilde
+## Histoire de la Guilde
 
 La guilde des Epiciers est l’une des guildes principales de la prison d’Agener. Les membres de cette guilde s’occupent de vendre l’alcool, le tabac et toutes les substances illicites. La chef’taine de la guilde à Agener est Alice Holloway. Elle est établie à Veloria, mais à moins de poids dans les négociations.
 
 Guilde alliée avec les [Serviteurs](guildes/guilde-des-serviteurs.md), les [Persifleurs](guildes/guilde-des-persifleurs.md) et d’autres guildes mineures
 
-# Description de la Guilde
+## Description de la Guilde
 
-# Membres connus de la Guilde
+## Membres connus de la Guilde
 
 Alice Holloway
 Mira

@@ -6,9 +6,9 @@ membres: steve
 # Maitre du Jeu
 
 
-# Histoire de Steve
+## Histoire de Steve
 
-# Description
+## Description
 
 Également connu sous le nom de Kiki le MJ, c’est une personnalité inconnue ayant supposément vécu à l’époque de Chelinka, Neptune et Someul. Certain parle de lui comme d’un compagnon de voyage, d’autre encore comme une présence divine les guidant durant leurs aventures. Il est souvent décrit comme portant des lunettes et une moustache.
 

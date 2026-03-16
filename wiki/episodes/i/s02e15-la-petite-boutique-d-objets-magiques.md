@@ -14,13 +14,13 @@ univers: fantasy
 *L'épisode "**La Petite Boutique d’Objets Magiques**" est le 15e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 40e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Neptune fit partir la plus mémorable conga-line de toute la capitale, comment Someul se battit AVEC des ennemis et comment Chelinka réussit à... OOOOOOH !!!!
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 L’épisode commence par un petit retour en arrière. Neptune réveille Abigail pour leur tour de garde. Elles discutent alors à propos du pouvoir, de la magie et du comportement des mages. Abigail se confie sur sa famille et sur le fait qu’elle déteste sa magie, rêvant de décevoir sa famille pour qu’elle soit enfin tranquille.
 
@@ -42,12 +42,12 @@ Jonas expertise l’épée de l’œuf d’or, et ils découvrent que cette dern
 
 L’épisode se termine lorsque Sarah (à vérifier), dit quelque chose qui surprend tout le monde.
 
-# **Fun Fact**
+## **Fun Fact**
 
 - On découvre dans l’intro l’existance d’André le pigeon et Neptune le chat, des animaux d’abonnés.
 - Steve évoque leur montée vers les 1000 abonnés.
 - Ce jour là, Zeloulou (orthographe à vérifier) est tiré lors du « Jeudi PNJ », à la fin de l’épisode.
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/7DjERBRjlUQT5wDFZ3imgp?si=D6rdrt1kQq6TIsoMLtYrMg](https://open.spotify.com/episode/7DjERBRjlUQT5wDFZ3imgp?si=D6rdrt1kQq6TIsoMLtYrMg)

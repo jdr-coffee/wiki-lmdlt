@@ -13,11 +13,11 @@ univers: fantasy
 *L'épisode "**L'adoption de Cid le Robot**" est le 3e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 7e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
 
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 ## **Révélations de Chelinka**
 
@@ -49,7 +49,7 @@ Le groupe trouve Mira dans sa cellule, vêtue de vêtements serrés et tachés d
 
 L'épisode se termine sur ce suspense, le groupe faisant face à un début d'émeute.
 
-# **Facts**
+## **Facts**
 
 - Artémis (jouée par Angela) a quitté l'aventure après l'épisode 2.
 - La cellule du groupe ne dispose toujours que de trois paillasses, mais maintenant pour seulement trois personnes.
@@ -57,6 +57,6 @@ L'épisode se termine sur ce suspense, le groupe faisant face à un début d'ém
 - Un faucon aux plumes de bronze surveille le HQS et semble servir les gardes.
 - Les guildes mentionnées :
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/0GVEdK9MIUlRzn2KqtPrwX?si=9ae7650d435147a1](https://open.spotify.com/episode/0GVEdK9MIUlRzn2KqtPrwX?si=9ae7650d435147a1)

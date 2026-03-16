@@ -12,16 +12,16 @@ univers: fantasy
 *L'épisode "**La Quête de Neptune”** est le 24e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 87e épisode enregistré par le groupe.*
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Neptune fut exemptée d’aller présenter ses excuses (pour son plus grand bonheur), comment Someul dut gérer deux groupies aux plans farfelus et comment Chelinka changea tout en une heure seulement.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/5EuO6TYFI5IKliv2Drr5UP?si=szTBRJ34Q1y9FcZPGsC8pg](https://open.spotify.com/episode/5EuO6TYFI5IKliv2Drr5UP?si=szTBRJ34Q1y9FcZPGsC8pg)

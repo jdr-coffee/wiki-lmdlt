@@ -12,13 +12,13 @@ univers: fantasy
 *L'épisode "**Les imposteurs moustachus**" est le 13ede la saison 1 du Mythe de la Taverne.
 Ainsi que le 17e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 Ils découvrent l'ampleur du chaos provoqué par leur distraction à la cafétéria : empoisonnement massif et incendie causé par un enfant tombé dans l'huile de friture. 
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ### Debriefing avec Eogan Keller
 
@@ -49,7 +49,7 @@ Someul et Chelinka se présentent comme de nouveaux employés mandatés par Jeff
 
 **L'épisode se termine sur ce cliffhanger.**
 
-# Facts
+## Facts
 
 - L'épisode porte bien son nom : l'épisode 13 accumule les ennuis pour les héros !
 - La philosophie d'Eogan Keller : "Dieu c'est l'image projetée du peuple"
@@ -58,6 +58,6 @@ Someul et Chelinka se présentent comme de nouveaux employés mandatés par Jeff
 - Les fleurs fanent autour de Desdemona quand elle est en colère, suggérant un lien magique avec la nature
 - La mission du poulet frit pour Caloum doit être accomplie avant 15h le lendemain
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/15djDGwsxaTcYBAPZuSJUA?si=399a96ac5eeb4a95](https://open.spotify.com/episode/15djDGwsxaTcYBAPZuSJUA?si=399a96ac5eeb4a95)

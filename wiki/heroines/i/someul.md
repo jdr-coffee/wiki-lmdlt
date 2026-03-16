@@ -6,7 +6,7 @@ membres: sam
 # Someul
 
 
-# Arrivée de Someul dans le jeu
+## Arrivée de Someul dans le jeu
 
 Il s’est retrouvé à Agener car la troupe de mercenaires à laquelle il appartenait à été accusée de trahison.
 
@@ -18,11 +18,11 @@ Someul par
 
 Someul par  
 
-# Description
+## Description
 
 Someul est un homme très grand et robuste qui possède une barbe et un teint assez pâle. Il occupe le rôle de mercenaire aux ordres du seigneur Adhémar. Ce maître des jeux de mots est l’un des co-fondateurs de la guilde des Persifleurs. Fort comme un rock, on le dirait capable de détruire une montagne si son talent de tavernier ne dédramatisait pas le personnage.
 
-# Histoire de Someul
+## Histoire de Someul
 
 ### Saison 1
 

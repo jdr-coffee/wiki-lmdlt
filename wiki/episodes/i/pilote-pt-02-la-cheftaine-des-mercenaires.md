@@ -9,10 +9,10 @@ univers: fantasy
 # Pilote / Pt.02 - La cheftaine des mercenaires
 
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Hector eu un nouvel admirateur, comment Ninon renoua avec son passé et comment Camille confronta sa belle maman.
 
-# Références
+## Références
 
 [https://open.spotify.com/episode/6XcJMXcQB38tSRH0vCI30N?si=a29b67f863914a2e](https://open.spotify.com/episode/6XcJMXcQB38tSRH0vCI30N?si=a29b67f863914a2e)

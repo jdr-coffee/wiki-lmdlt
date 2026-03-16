@@ -13,7 +13,7 @@ univers: fantasy
 *L'épisode "**Surprises au petit déjeuner**" est le 17e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 21e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 
@@ -41,6 +41,6 @@ Ainsi que le 21e épisode enregistré par le groupe.*
 - 🎨 Lame, l'enfant de 13 ans né en prison, possède un talent pour le dessin et devient un allié de la guilde des héros.
 - ⚔️ Jeffrey propose un duel d'entraînement amical à Chelinka pour plus tard dans la journée.
 
-# Références
+## Références
 
 [https://open.spotify.com/episode/4ezCCjOFjXsA14ZgeF2sUd?si=f02132740c644977](https://open.spotify.com/episode/4ezCCjOFjXsA14ZgeF2sUd?si=f02132740c644977)

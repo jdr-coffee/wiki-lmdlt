@@ -8,7 +8,7 @@ signe_distinctif: Sifflent pour se retrouver
 # Guilde des Persifleurs
 
 
-# Histoire de la Guilde
+## Histoire de la Guilde
 
 Créée à la prison d’Agener par nos héroïnes Chelinka, Neptune et Someul, La Guilde des Persifleurs est la guilde des Persiflades.
 
@@ -18,11 +18,11 @@ A la Prison d’Agener, la guilde des Persifleurs est alliée avec les [Epiciers
 
 La guilde s’est étendue à Veloria, où elle est alliée à la guilde des Vide-poches, et à Sabrenas..
 
-# Description de la Guilde
+## Description de la Guilde
 
 Le signe distinctif de la Guilde est le sifflet qui peut être porté autour du coup.
 
-# Membres connus de la Guilde
+## Membres connus de la Guilde
 
 Chelinka
 Neptune

@@ -12,11 +12,11 @@ univers: fantasy
 *L'épisode "**Le Conseil de Guerre**" est le 18e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 22e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ### Justice pour Lame et recrutement
 
@@ -36,12 +36,12 @@ Lame est officiellement recruté dans la Guilde des Persifleurs pour mettre ses 
 Ils tirent des cartes pour déterminer leurs troupes, obtenant 90 soldats en armure lourde et 14 ingénieurs. Ils décident de construire deux Turbo-Arbalètes géantes sur les toits et d'envoyer 24 hommes chercher des renforts (100% de chances de succès). 
 
 
-# Facts
+## Facts
 
 - 🎁 Lame donne une petite pipe en bois à Neptune en guise de remerciement.
 - ⚔️ Le groupe possède désormais des renforts de 75 hommes qui doivent arriver pendant la nuit de la bataille.
 - 🥁 Les héros se préparent à défendre Agener au son des tambours ennemis qui approchent.
 
-# Références
+## Références
 
 [https://open.spotify.com/episode/0sttMD7Bv8wfxd5ECnmIVj?si=9601ee3195884667](https://open.spotify.com/episode/0sttMD7Bv8wfxd5ECnmIVj?si=9601ee3195884667)

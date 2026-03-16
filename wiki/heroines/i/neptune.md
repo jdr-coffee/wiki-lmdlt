@@ -6,7 +6,7 @@ membres: camille
 # Neptune
 
 
-# Arrivée de Neptune dans le jeu
+## Arrivée de Neptune dans le jeu
 
 Elle s’est retrouvée à Agener car elle a déterré des cadavres pour pouvoir étudier les arcanes de la mort.
 
@@ -18,12 +18,12 @@ Neptune par
 
 Neptune par  
 
-# Description
+## Description
 
 Jeune femme assez jeune avec de long cheveux blancs. Elle porte constamment un air facétieux sur son visage, comme si elle était toujours prête à jouer un sale coup.
 Rusée Clerc du culte du Chat Borgne, elle est l’une des co-fondatrices de la guilde des Persifleurs. Malicieuse comme un chat, elle élabore les plans les plus farfelus, ses neptuneries comme elle aime les appeler, et semble diriger secrètement la guilde (PS : ça doit rester entre nous).
 
-# Histoire de Neptune
+## Histoire de Neptune
 
 ### Saison 1
 

@@ -15,12 +15,12 @@ univers: fantasy
 
 *C’est le dernier épisode avec Artemis qui quitte le podcast après.*
 
-# **Résumé**
+## **Résumé**
 
 
 
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 ## **Incident à la cantine**
 
@@ -49,13 +49,13 @@ Pendant ce temps, les autres informent Jeffrey Doyle de leurs découvertes (port
 
 L'épisode se termine avec le groupe retournant à leur cellule (toujours équipée de seulement trois paillasses). Chelinka s'apprête à raconter son histoire avec Murano, mais le récit est interrompu.
 
-# Facts
+## Facts
 
 - Chelinka a échoué son jet de magie en tentant d'intimider Fébastien (82 au lieu de 60 ou moins), mais a réussi brillamment sa diversion du soir (58 sur 60).
 - La cellule du groupe ne dispose toujours que de trois paillasses pour quatre personnes.
 - Les membres de la Guilde des Serviteurs sont identifiables par une tresse dans leurs cheveux.
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/1ZOJTbshD9hxHI1wkSuS8Q](https://open.spotify.com/episode/1ZOJTbshD9hxHI1wkSuS8Q)
 

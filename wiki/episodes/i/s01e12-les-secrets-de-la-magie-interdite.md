@@ -11,7 +11,7 @@ univers: fantasy
 
 *L'épisode "**Les secrets de la magie interdite**" est le 12e épisode de la saison 1 du Mythe de la Taverne. C’est le 16e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 L'épisode 12 débute par une fausse introduction en direct depuis le Bataclan avant de replonger dans l'action. 
 
@@ -20,7 +20,7 @@ Après avoir vaincu les golems de lave, les héros résolvent une énigme comple
 
 Les héros approchent de la fin du scénario avec de précieuses informations en main.
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Introduction Théâtrale
 
@@ -87,13 +87,13 @@ Eogan confirme que la nourriture empoisonnée de la prison lui a causé des conv
 ## Vers la Conclusion
 
 
-# Facts
+## Facts
 
 - **Fausse intro Bataclan** : L'épisode s'ouvre sur une introduction théâtrale simulée avant de révéler que c'était une illusion
 - **Brèche dimensionnelle** : Les esprits des affres proviennent d'une brèche dans le monde des esprits
 - **Poulet frit requis** : Callum exige du poulet frit à 15h le lendemain - une demande inattendue pour un rituel de bannissement
 - **Fin de saison proche** : Le narrateur annonce que la conclusion de la saison 1 approche
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/4cv8A5ZezCQJJ3WeAxkwpO?si=55523d0bfb314ee5](https://open.spotify.com/episode/4cv8A5ZezCQJJ3WeAxkwpO?si=55523d0bfb314ee5)

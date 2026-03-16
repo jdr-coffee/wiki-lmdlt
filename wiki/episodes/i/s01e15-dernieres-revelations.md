@@ -14,7 +14,7 @@ univers: fantasy
 *L'épisode "**Dernières Révélations**" est le 15e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 19e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 
@@ -22,7 +22,7 @@ Ainsi que le 19e épisode enregistré par le groupe.*
 
 L’épisode s’achève sous une neige légère.
 
-# Contenu de l’épisode
+## Contenu de l’épisode
 
 ## Récapitulatif et résolution du cliffhanger
 
@@ -137,12 +137,12 @@ La tension immédiate redescend sur Agener :
 
 L’épisode se termine avec Chelinka, Neptune et Someul qui attendent la suite des événements, désormais armés du rituel et conscients que la fin du scénario approche.
 
-# Facts
+## Facts
 
 - **Mira** rend enfin à Neptune son paquet de cartes.
 - **Yana** considère sa détention comme des “vacances” et propose d’enquêter sur la **Guilde des Vides-Poches**, qui a un **nouveau chef**.
 - **Découverte du matériau Damiantium** pour empêcher l’usage de la magie à l’intérieur de la Citadelle.
 
-# Références
+## Références
 
 [https://open.spotify.com/episode/5Qbu2cj3ejyDygmL0qBImx?si=847465b3bc094075](https://open.spotify.com/episode/5Qbu2cj3ejyDygmL0qBImx?si=847465b3bc094075)

@@ -12,7 +12,7 @@ univers: fantasy
 *L'épisode "**La Bataille d’Agener**" est le 19e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 23e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 
@@ -36,6 +36,6 @@ Ainsi que le 23e épisode enregistré par le groupe.*
 
 - ⚔️ Monsieur Cascade possède une pertuisane nommée "Veuve".
 
-# Références
+## Références
 
 [https://open.spotify.com/episode/3jSfpSxjIhuSYpHyX3rp6j?si=1e00fd6f73cb4bb5](https://open.spotify.com/episode/3jSfpSxjIhuSYpHyX3rp6j?si=1e00fd6f73cb4bb5)

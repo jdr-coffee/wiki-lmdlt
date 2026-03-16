@@ -11,7 +11,7 @@ identifiant: 82
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -19,21 +19,21 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 Darryl a un corps imposant et musclé recouvert de cicatrices en tous genres, la plus impressionnante était celle sur l’arrière de sa nuque, donnant l’impression que son corps tient en place grâce à des coutures.
 
 
 
-# Histoire
+## Histoire
 
 - Homme de main d’Alice Holloway
 
-# Relations
+## Relations
 
 [Sans titre](personnages/darryl/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

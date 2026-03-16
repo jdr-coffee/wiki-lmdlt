@@ -10,8 +10,8 @@ Guilde mineure de la prison d’Agener, évoquée dans le premier hors-série �
 
 S’occupent de tout ce qui est plaisirs du corps
 
-# Histoire de la Guilde
+## Histoire de la Guilde
 
-# Description de la Guilde
+## Description de la Guilde
 
-# Membres connus de la Guilde
+## Membres connus de la Guilde

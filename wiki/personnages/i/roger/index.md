@@ -12,12 +12,12 @@ present_dans_l_ep: s01e01-les-morts-disparus
 
 Roger est l'ancien chef de la guilde des Vides-Poches. 
 
-# **Description**
+## **Description**
 
 
 On sait qu'il est chauve et surtout qu'il est borgne (c'est sa principale caractéristique).
 
-# Histoire
+## Histoire
 
 ### **Saison 1 :**
 
@@ -32,7 +32,7 @@ On apprendra, grâce à [Yana](personnages/yana.md), son assassinat par un autre
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -40,17 +40,17 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
 
 
-# Relations
+## Relations
 
 [Sans titre](personnages/roger/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

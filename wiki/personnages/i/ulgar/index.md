@@ -15,7 +15,7 @@ present_dans_l_ep: [s01e01-les-morts-disparus, s01e08-la-nuit-des-morts-vivants]
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 Ulgar apparaît pour la première fois dans l’épisode 1 de la saison 1 du Mythe de la Taverne.
 C’est lui qui donne une quête à nos héros.
@@ -24,7 +24,7 @@ C’est lui qui donne une quête à nos héros.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
@@ -32,15 +32,15 @@ C’est lui qui donne une quête à nos héros.
 
 Ulgar est un grand barbu à la silhouette droite.
 
-# Histoire
+## Histoire
 
 Ulgar est le fossoyeur d’Agener. Il est le frère d’Olgar le Forgeron.
 
-# Relations
+## Relations
 
 [Sans titre](personnages/ulgar/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

@@ -12,12 +12,12 @@ univers: fantasy
 *L'épisode "**La réunion secrète**" est le 9e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 13e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 L'épisode se clôt sur les préparatifs d'une infiltration du quartier de haute sécurité renforcée.
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Introduction et Contexte
 
@@ -59,6 +59,6 @@ Neptune examine les restes et en déduit que le cadavre brûlé était l'un des 
 - **Les trois disparus** : Jacquelin, Rodin et Nicolas sont identifiés comme les trois corps possédés
 - **Nouvelle compétence** : Someul débloque Paralysie, une capacité qui frappe trois points vitaux simultanément
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/4egYUxUCIIAKDQBxOXd3Z1?si=35054c5eb8e443cc](https://open.spotify.com/episode/4egYUxUCIIAKDQBxOXd3Z1?si=35054c5eb8e443cc)

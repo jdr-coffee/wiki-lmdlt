@@ -7,6 +7,6 @@ episodes: [s02e01-la-nuit-des-tresors, s02e02-le-chalet-aux-v-ux, s02e03-bienven
 
 [résumé saison 1 rapide]
 
-# L’HISTOIRE
+## L’HISTOIRE
 
 ![image.png](assets/saison-2-image.png)

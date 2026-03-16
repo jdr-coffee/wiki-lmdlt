@@ -10,7 +10,7 @@ present_dans_l_ep: [s01e01-les-morts-disparus, s01e02-baston-generale-a-la-canto
 # Jeffrey Doyle
 
 
-# Introduction
+## Introduction
 
 Jeffrey Doyle est un personnage non-joueur (PNJ) qui apparaît dès le premier épisode et joue un rôle récurrent en tant que figure hiérarchique, allié et contact du groupe de prisonniers.
 
@@ -22,7 +22,7 @@ Il est en charge du bien-être des prisonniers et a notamment chargé les protag
 On mentionne qu'il semble être **fait pour tous les métiers, sauf celui de responsable de la sécurité**. Il a tendance à être très **familier** avec les gens, tapotant parfois la tête des prisonniers.
 
 
-# Description
+## Description
 
 Jeffrey Doyle est un jeune homme qui possède un visage jovial et un peu perdu derrière de grosses lunettes.
 
@@ -34,7 +34,7 @@ Il est souvent emmitouflé dans de grosses peaux de bête ou couvertures, ne lai
 
 **Jeffreyllin par ** 
 
-# Histoire
+## Histoire
 
 
 Il se trouve à un rang relativement bas dans la hiérarchie de la prison. 
@@ -43,7 +43,7 @@ Néanmoins, avec le directeur actuel ([Plutarch](personnages/plutarch.md) ) en m
 
 Il est responsable du bien-être des prisonniers et a inauguré l'intégration du groupe en leur confiant l'enquête sur les cadavres de Nicolas, Jacquelin et Rodin.
 
-# Relations
+## Relations
 
 ### **Le groupe (Chelinka, Neptune, Someul)**
 
@@ -63,7 +63,7 @@ Ils sont amis, et leurs quartiers sont proches. Erevar l'a **sermonné** pour av
 
  Jeffrey le décrit comme "un peu carré carré". L'absence de Plutark est à l'origine des ambitions de Jeffrey.
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 
 (A vérifier)

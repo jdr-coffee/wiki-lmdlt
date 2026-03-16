@@ -12,18 +12,18 @@ univers: fantasy
 *L'épisode "**Les Dossiers d’inscription Magiques**" est le 8e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 33e épisode enregistré par le groupe.*
 
-# **Résumé**
+## **Résumé**
 
-# **Description de l'épisode**
+## **Description de l'épisode**
 
 Comment Chelinka s'essaya à l'autorité, comment Neptune fut frappée de mutisme et comment Someul fut convié à un rendez-vous d'affaires.
 
-# **Contenu de l'épisode**
+## **Contenu de l'épisode**
 
 N/A
 
-# **Fun fact**
+## **Fun fact**
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/0tFCYtTvmHqbMZO0ju6VwC?si=YuPQMuy3Rf6Fa462bZuQnA](https://open.spotify.com/episode/0tFCYtTvmHqbMZO0ju6VwC?si=YuPQMuy3Rf6Fa462bZuQnA)

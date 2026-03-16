@@ -18,7 +18,7 @@ Histoire : Elle est capitaine de faction et donc chargée de la sécurité et du
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -26,7 +26,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 Carissa Skyke porte des bottes de cuir impeccables et une longue cape noire bordée d’hermine sur lequel est brodé un insigne. 
 
@@ -38,13 +38,13 @@ Elle porte toujours sur elle Justice, son épée bâtarde en acier et cuir noir.
 
 Caressa Skyke par  
 
-# Histoire
+## Histoire
 
 Capitaine de faction et responsable de la Citadelle, chargée de la sécurité et du maintien de l’ordre dans la prison. Cette froide soldate au regard inflexible cache une âme endurcie et profondément loyale envers son devoir. 
 
 [Sans titre](personnages/carissa-skyke/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

@@ -9,11 +9,11 @@ present_dans_l_ep: [s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes
 # Gorthor le Cruel
 
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
-# Description
+## Description
 
 Description : Homme grand et large d’épaule, un visage froid. Il porte une longue cape. Il a des cheveux long mais un côté rasé symbole de son appartenance à la guilde des vides poches.
 
@@ -23,9 +23,9 @@ Description : Homme grand et large d’épaule, un visage froid. Il porte une lo
 
 
 
-# Histoire
+## Histoire
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

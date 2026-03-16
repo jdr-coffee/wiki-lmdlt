@@ -12,7 +12,7 @@ identifiant: 70
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -20,7 +20,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
@@ -28,15 +28,15 @@ Andréa est un homme à la tête renfrogné enfoncé dans un corps chétif, avec
 
 
 
-# Histoire
+## Histoire
 
 Andréa est le chef de la guilde des Cuistanciers et des cuisines d’Agener, 
 
-# Relations
+## Relations
 
 [Sans titre](personnages/andrea/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

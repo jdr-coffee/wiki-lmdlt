@@ -6,7 +6,7 @@ membres: ninon
 # Chelinka
 
 
-# Histoire :
+## Histoire :
 
 Après la disparition de Tilika, Chelinka a été accusée à tort de son kidnapping et a été envoyée à Agener.
 
@@ -16,12 +16,12 @@ Après la disparition de Tilika, Chelinka a été accusée à tort de son kidnap
 
 *Chelinka-par-ZatZatZatou*
 
-# Description
+## Description
 
  Jeune femme dans la vingtaine. Elle a de longs cheveux rouges bouclés, des yeux noisettes brillants et vifs. Elle possède un caractère plutôt doux et maternel, mais sait se révéler redoutable en cas de besoin.
 Magicienne au courbe généreuse, cette ancienne servante est l’une des co-fondatrices de la guilde des Persifleurs. Aussi chaude que sa magie du feu, elle collecte les différentes flammes et les 6 branches de l’Art pour mieux retrouver sa princesse disparue.
 
-# Histoire de Chelinka
+## Histoire de Chelinka
 
 ### Saison 1
 

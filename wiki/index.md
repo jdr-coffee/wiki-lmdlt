@@ -1,4 +1,5 @@
 ---
+cover: assets/Someul.png
 ---
 
 # Wiki - Le Mythe de la Taverne
@@ -67,6 +68,7 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 > [Comment contribuer](comment-contribuer.md)
 
 ---
+cover: assets/Someul.png
 
 ## Liens utiles
 

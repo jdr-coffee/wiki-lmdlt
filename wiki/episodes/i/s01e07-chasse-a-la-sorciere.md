@@ -14,11 +14,11 @@ univers: fantasy
 *L'épisode "**Chasse à la sorcière**" est le 7e épisode de la saison 1 du Mythe de la Taverne.
  Ainsi que le 11e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Ambiance et récapitulatif
 
@@ -65,7 +65,7 @@ Neptune propose d'utiliser le reste de la pizza qu'ils possèdent pour soudoyer 
 
 L'épisode se termine sur un suspense alors que les gardes s'apprêtent à goûter la pizza.
 
-# Facts
+## Facts
 
 - Erevar possède une "flamèche" - une petite flamme permanente sur sa chevalière qui ne s'éteint jamais
 - La magie des esprits a été bannie il y a environ 30 ans suite à une apparition divine
@@ -74,6 +74,6 @@ L'épisode se termine sur un suspense alors que les gardes s'apprêtent à goût
 - Les disciples en toge rouge sang portent des arbalètes et semblent être des exécuteurs religieux
 - Neptune utilise son rouage (probablement une arme ou un outil) pour découper de la pizza
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/0u83cXf2TtkmTVKCBUJAY9?si=58ca3df77cf6454a](https://open.spotify.com/episode/0u83cXf2TtkmTVKCBUJAY9?si=58ca3df77cf6454a)

@@ -1,6 +1,8 @@
 ---
 title: La souris d’Agener
 univers: fantasy
+cover: assets/1000021283.jpg
+icon: "🐭"
 ---
 
 # La souris d’Agener

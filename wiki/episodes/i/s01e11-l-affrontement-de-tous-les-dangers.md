@@ -12,7 +12,7 @@ univers: fantasy
 *L'épisode "**L’affrontement de tous les dangers**" est le 11e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 15e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 Après leur infiltration réussie dans la Citadelle, les héros découvrent un mystérieux mécanisme de téléportation. Un levier, des chiffres énigmatiques et un compte à rebours les propulsent dans une nouvelle salle où les attendent deux redoutables golems. 
 
@@ -66,12 +66,12 @@ L'épisode se termine sur un suspense intense : Someul s'apprête à se faufiler
 
 Le MJ note que les personnages, ayant monté de niveau, affrontent désormais des ennemis plus puissants - fini les squelettes inoffensifs, place aux golems redoutables.
 
-# Facts
+## Facts
 
 - **Audience Tinder** : Sam révèle avec humour que ses dates Tinder constituent la moitié de l'audience du podcast
 - **Compte à rebours** : Le mécanisme se déclenche à 120 secondes et décréments jusqu'à zéro
 - **Montée en difficulté** : Le MJ souligne que les ennemis évoluent avec le niveau des personnages - des squelettes aux golems
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/6gIOFuGV9aquGZZrjuxLAX?si=14d96f29959a4fa0](https://open.spotify.com/episode/6gIOFuGV9aquGZZrjuxLAX?si=14d96f29959a4fa0)

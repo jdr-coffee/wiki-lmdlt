@@ -11,7 +11,7 @@ identifiant: 80
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
 
@@ -19,7 +19,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
@@ -27,15 +27,15 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 
 
-# Histoire
+## Histoire
 
-# Relations
+## Relations
 
 Guillaume n’en a rien à faire de nos héros, tant que ceux-ci ne se mêlent pas de ces affaires.
 
 [Sans titre](personnages/guillaume-le-simplet/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

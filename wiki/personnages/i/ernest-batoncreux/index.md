@@ -18,7 +18,7 @@ Ernest Batôncreux est un mentionné dans une lettre au sein du Refuge de repos 
 
 Mage créant de nombreux objets magiques comme le “Refuge de repos mérité” *[S02E02 - 31:38]*  ou “Clwood” *[S03E? - ?:?]*. 
 
-# Introduction
+## Introduction
 
 X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.  
 
@@ -26,7 +26,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[Courte description/paragraphe d’intro]`
 
-# Description
+## Description
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
@@ -34,13 +34,13 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Un homme bedonnant avec une petite moustache et une petite calvitie portant des vêtement violet brodé d’or *[S02E02 - 39:25]*.
 
-# Histoire
+## Histoire
 
-# Relations
+## Relations
 
 [Sans titre](personnages/ernest-batoncreux/sans-titre/index.md)
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 > [!note]
 > ## Fun fact

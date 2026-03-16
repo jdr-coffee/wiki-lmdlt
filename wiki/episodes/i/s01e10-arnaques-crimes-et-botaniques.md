@@ -13,13 +13,13 @@ univers: fantasy
 *L'épisode "**Arnaques, crimes et botaniques**" est le 10e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 14e épisode enregistré par le groupe.*
 
-# Résumé
+## Résumé
 
 L'épisode 10 marque un tournant décisif dans l'aventure avec la préparation et l'exécution d'un plan d'infiltration d’un film de braquage. Entre découvertes botaniques dangereuses, manipulation des repas de la prison et chaos orchestré, les héros parviennent à pénétrer dans la citadelle, le quartier à sécurité renforcée. 
 
 L'épisode se clôt sur un mystérieux mécanisme à levier et une porte qui s'ouvre quelque part...
 
-# Contenu de l'épisode
+## Contenu de l'épisode
 
 ## Soins et Préparatifs
 
@@ -72,7 +72,7 @@ Au centre : un levier. Sur le mur opposé : trois pierres noires gravées des ch
 
 Chelinka actionne le levier. Un bruit métallique résonne. L'épisode se termine sur ces mots énigmatiques : « *une porte est ouverte quelque part* ».
 
-# Facts
+## Facts
 
 - **Le Gattilier** : Une plante aux effets variés selon le dosage - de l'aphrodisiaque à la mort
 - **Ocean's Eleven** : Le MJ qualifie lui-même le plan d'infiltration des héros de coup digne du célèbre film
@@ -84,6 +84,6 @@ Chelinka actionne le levier. Un bruit métallique résonne. L'épisode se termin
 - **Diversion enflammée** : Chelinka utilise sa flamme blanche pour créer la distraction nécessaire
 - **Points de vie critiques** : Chelinka n'a que 9 PV sur 15 après le combat précédent
 
-# **Références**
+## **Références**
 
 [https://open.spotify.com/episode/0zJ3b5LDO9pZIsgAnwVda8?si=e7cb3f435da0411d](https://open.spotify.com/episode/0zJ3b5LDO9pZIsgAnwVda8?si=e7cb3f435da0411d)

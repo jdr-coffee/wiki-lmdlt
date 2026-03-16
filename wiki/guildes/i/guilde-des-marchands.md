@@ -9,8 +9,8 @@ lieu: palatinat-de-sabrenas
 
 La guilde des Marchands est la seule guilde connue à Sabrenas (ou du moins selon Eriksen) *S03E12 - 32:59*
 
-# Histoire de la Guilde
+## Histoire de la Guilde
 
-# Description de la Guilde
+## Description de la Guilde
 
-# Membres connus de la Guilde
+## Membres connus de la Guilde

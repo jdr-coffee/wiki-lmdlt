@@ -14,13 +14,13 @@ present_dans_l_ep: s01e15-dernieres-revelations
 
 *Illustration par **Leflopla***
 
-# Introduction
+## Introduction
 
 **Pauline l’Ondine** est un **esprit millénaire de l’eau** originaire d’**Agener**.
 
 
 
-# Description
+## Description
 
 Pauline est décrite comme un **esprit d’eau ancien** vivant dans la fontaine du quartier bas-sécurité d’Agener, plus vieille encore que la cité elle-même.
 
@@ -31,7 +31,7 @@ Pauline est décrite comme un **esprit d’eau ancien** vivant dans la fontain
 
 Elle disparaît aussitôt après sa manifestation, laissant la fontaine reprendre son aspect normal.
 
-# Histoire
+## Histoire
 
 Pauline se présente comme une **ondine bienveillante**, porteuse de **fertilité, de chance et de purification**.
 
@@ -45,7 +45,7 @@ Lors de son unique apparition :
 - Elle accepte un **miroir** en offrande et, en échange, **retire la malédiction de [Desdemona Vertecime](personnages/desdemona-vertecime.md)** , envoyant l’eau purificatrice jusque dans sa cellule.
 - Elle confirme aussi la présence d’**affres** rôdant dans la prison.
 
-# Relations
+## Relations
 
 ### Yana
 
@@ -58,7 +58,7 @@ Depuis l’emprisonnement de Yana, les deux échangent régulièrement. Pauline 
 - [Desdemona Vertecime](personnages/desdemona-vertecime.md)  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
 - **Les affres** : Pauline a conscience de leur présence malfaisante à Agener.
 
-# Evolution au cours des saisons
+## Evolution au cours des saisons
 
 Jusqu’à présent, Pauline n’apparaît qu’au **S01E15**, mais son existence laisse entrevoir la présence d’autres **esprits élémentaires** dans le monde du Mythe de la Taverne.
 

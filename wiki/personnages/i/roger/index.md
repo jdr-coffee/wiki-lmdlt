@@ -25,7 +25,7 @@ On sait qu'il est chauve et surtout qu'il est borgne (c'est sa principale caract
 
 ### **Saison 2 :**
 
-On apprendra, grâce à [Yana](personnages/yana.md), son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
+On apprendra, grâce à [Yana](personnages/i/yana/index.md), son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
 
 > [!note]
 > ## Conseils
@@ -48,7 +48,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Relations
 
-[Sans titre](personnages/roger/sans-titre/index.md)
+[Sans titre](personnages/i/roger/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

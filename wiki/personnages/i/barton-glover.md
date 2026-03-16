@@ -8,7 +8,7 @@ identifiant: 65
 # Barton Glover
 
 
-![image.png](assets/barton-glover-image.png)
+![image.png](images/barton-glover-image.png)
 
 S04E06 - 29:50
 

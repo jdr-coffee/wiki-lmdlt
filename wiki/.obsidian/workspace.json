@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "heroines/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Explorateur de fichiers"
@@ -185,6 +185,8 @@
   },
   "active": "ecd383232712775b",
   "lastOpenFiles": [
-    "heroines/i/chelinka.md"
+    "heroines/_heroines.base",
+    "heroines/i/chelinka.md",
+    "index.md"
   ]
 }

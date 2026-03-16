@@ -8,7 +8,7 @@ origine: cautel
 # Gareth Bretailleur
 
 
-![image.png](assets/gareth-bretailleur-image.png)
+![image.png](images/gareth-bretailleur-image.png)
 
 > [!note]
 > ## Conseils

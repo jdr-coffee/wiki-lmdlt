@@ -3,44 +3,44 @@
 
 # Fanarts de Lemon Pie
 
-*Fanarts de [Lemon Pie](contributeurices/contributeurices/lemon-pie.md)* 
+*Fanarts de [Lemon Pie](contributeurices/i/lemon-pie.md)* 
 
-![Abigail](assets/Abigail.jpg)
+![Abigail](images/Abigail.jpg)
 
 Abigail
 
-![Cera et Magda](assets/Cera_et_Magda.jpg)
+![Cera et Magda](images/Cera_et_Magda.jpg)
 
 Cera et Magda
 
-![Chelinka et Troudbald](assets/Chelinka_et_Troudbald.jpg)
+![Chelinka et Troudbald](images/Chelinka_et_Troudbald.jpg)
 
 Chelinka et Troudbald
 
-![Jaspe -  ](assets/Jaspe.jpg)
+![Jaspe -  ](images/Jaspe.jpg)
 
 Jaspe -  
 
-![la fuite de Sabrenas](assets/la_fuite_de_Sabrenas.jpg)
+![la fuite de Sabrenas](images/la_fuite_de_Sabrenas.jpg)
 
 la fuite de Sabrenas
 
-![Mérival](assets/Merival.jpg)
+![Mérival](images/Merival.jpg)
 
 Mérival
 
-![Neptune -  ](assets/Neptune.jpg)
+![Neptune -  ](images/Neptune.jpg)
 
 Neptune -  
 
-![Saoirse et Irena -  et  ](assets/Saoirse_et_Irena.jpg)
+![Saoirse et Irena -  et  ](images/Saoirse_et_Irena.jpg)
 
 Saoirse et Irena -  et  
 
-![Saoirse -  ](assets/Saoirse.jpg)
+![Saoirse -  ](images/Saoirse.jpg)
 
 Saoirse -  
 
-![Yana -  ](assets/Yana.jpg)
+![Yana -  ](images/Yana.jpg)
 
 Yana -

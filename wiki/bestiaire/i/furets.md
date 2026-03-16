@@ -19,4 +19,4 @@ trouver de parade efficace contre la communication par furets. On notera toutefo
 
                                S’en suivit une nuit de terreur et d’hystérie où les veloriens, peu habitués à la vue des serpents, juraient avoir vu des « nouilles tueuse » roder dans la nuit. Aujourd’hui encore, il n’est pas rare de retrouver un serpent dans la cave d’une maison ou le grenier d’une vieille habitation de la capitale.
 
-![les_furets-removebg-preview.png](assets/les_furets-removebg-preview.png)
+![les_furets-removebg-preview.png](images/les_furets-removebg-preview.png)

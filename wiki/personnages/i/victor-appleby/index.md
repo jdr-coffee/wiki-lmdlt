@@ -7,7 +7,7 @@ identifiant: 39
 # Victor Appleby
 
 
-Son bras droit est [Izzy](personnages/izzy.md)
+Son bras droit est [Izzy](personnages/i/izzy/index.md)
 
 > [!note]
 > ## Conseils
@@ -32,7 +32,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Relations
 
-[Sans titre](personnages/victor-appleby/sans-titre/index.md)
+[Sans titre](personnages/i/victor-appleby/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

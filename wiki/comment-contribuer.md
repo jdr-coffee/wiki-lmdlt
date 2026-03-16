@@ -25,7 +25,7 @@
 
 Sélectionner l’espace Notion `Tomo & Friends` via le menu en haut à gauche.
 
-![image.png](assets/comment-contribuer-image.png)
+![image.png](images/comment-contribuer-image.png)
 
 #### Ou via le lien
 
@@ -35,6 +35,6 @@ Sélectionner l’espace Notion `Tomo & Friends` via le menu en haut à gauche.
 
 Via le menu en haut à droite cochez l’option `Suggérer des modifications`.
 
-![image.png](assets/comment-contribuer-image-1.png)
+![image.png](images/comment-contribuer-image-1.png)
 
 Vous pouvez maintenant saisir du texte dans les pages de votre choix !

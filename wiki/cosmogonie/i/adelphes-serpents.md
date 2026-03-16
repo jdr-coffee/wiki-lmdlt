@@ -6,7 +6,7 @@ type_de_dieu: Dieu naissant
 # Adelphes serpents
 
 
-![image.png](assets/adelphes-serpents-image.png)
+![image.png](images/adelphes-serpents-image.png)
 
 ***Adelphes serpents, pixel art par LeFlopla***
 

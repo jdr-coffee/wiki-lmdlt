@@ -9,7 +9,7 @@ pays_royaumes: royaume-de-veloria
 # Refuge du repos mérité
 
 
-![Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos](assets/refuge-du-repos-merite-image.png)
+![Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos](images/refuge-du-repos-merite-image.png)
 
 Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos
 

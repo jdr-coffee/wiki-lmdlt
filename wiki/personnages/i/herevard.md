@@ -26,7 +26,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-![image.png](assets/herevard-image.png)
+![image.png](images/herevard-image.png)
 
 ## Histoire
 

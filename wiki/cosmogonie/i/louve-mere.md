@@ -7,7 +7,7 @@ type_de_dieu: Dieu naissant
 # Louve Mère
 
 
-![image.png](assets/louve-mere-image.png)
+![image.png](images/louve-mere-image.png)
 
 ### Dieu de la peur, de la protection et de la nuit
 

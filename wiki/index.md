@@ -1,12 +1,11 @@
 ---
-cover: assets/Someul.png
 ---
 
 # Wiki - Le Mythe de la Taverne
 
 Le Mythe de la Taverne, c'est [LE podcast](https://linktr.ee/lmdlt_pod) qui vous embarque dans des aventures palpitantes et des situations délirantes autour d'un jeu de rôles entre potes sans prises de tête, ça ressemble à Game of Thrones mais avec plus de lancés de dés et moins de fesses. Vous n'y connaissez rien aux jeux de rôles ? Vous adorerez le Mythe de la Taverne !
 
-Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [**Steve**](l-equipe/steve.md). Trois joueureuses l'accompagnent lors des épisodes : [Ninon](l-equipe/ninon.md)  ([Chelinka](heroines/chelinka.md) ), [Sam](l-equipe/sam.md)  ([Someul](heroines/someul.md) ) et [Camille](l-equipe/camille.md)  ([Neptune](heroines/neptune.md) ).
+Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [**Steve**](l-equipe/i/steve/index.md). Trois joueureuses l'accompagnent lors des épisodes : [Ninon](l-equipe/i/ninon.md)  ([Chelinka](heroines/i/chelinka.md) ), [Sam](l-equipe/i/sam.md)  ([Someul](heroines/i/someul.md) ) et [Camille](l-equipe/i/camille.md)  ([Neptune](heroines/i/neptune.md) ).
 
 ## Le Podcast
 
@@ -16,19 +15,19 @@ Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'ac
 
 [Saisons](saisons/index.md)
 
-[Invitées](invitees.md)
+[Invitées](invitees/index.md)
 
-[Les conseils de l’équipe](les-conseils-de-l-equipe.md)
+[Les conseils de l’équipe](les-conseils-de-l-equipe/index.md)
 
 [Univers](univers/index.md)
 
 ## Ressources
 
-[Fanarts](fanarts.md)
+[Fanarts](fanarts/index.md)
 
-[Mise à jour des épisodes](mise-a-jour-des-episodes.md)
+[Mise à jour des épisodes](mise-a-jour-des-episodes/index.md)
 
-[Contributeurices](contributeurices.md)
+[Contributeurices](contributeurices/index.md)
 
 #### Tout les lancés de dés
 
@@ -42,17 +41,17 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 
 [Pays / Royaumes](pays-royaumes/index.md)
 
-[Cosmogonie](cosmogonie.md)
+[Cosmogonie](cosmogonie/index.md)
 
-[Magie](magie.md)
+[Magie](magie/index.md)
 
 [Histoire](histoire.md)
 
-[Bestiaire](bestiaire.md)
+[Bestiaire](bestiaire/index.md)
 
-[Plantes](plantes.md)
+[Plantes](plantes/index.md)
 
-[Dictionnaire](dictionnaire.md)
+[Dictionnaire](dictionnaire/index.md)
 
 [Personnages](personnages/index.md)
 
@@ -68,7 +67,6 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 > [Comment contribuer](comment-contribuer.md)
 
 ---
-cover: assets/Someul.png
 
 ## Liens utiles
 
@@ -93,14 +91,3 @@ cover: assets/Someul.png
 ### Le Discord pour rejoindre les persifleuses et persifleurs
 
 [Join the Le Mythe De La Taverne Discord Server!](https://discord.gg/mvCyhzWFDB)
-
-- [bestiaire](bestiaire/index.md)
-- [contributeurices](contributeurices/index.md)
-- [cosmogonie](cosmogonie/index.md)
-- [dictionnaire](dictionnaire/index.md)
-- [fanarts](fanarts/index.md)
-- [invitees](invitees/index.md)
-- [les conseils de l equipe](les-conseils-de-l-equipe/index.md)
-- [magie](magie/index.md)
-- [mise a jour des episodes](mise-a-jour-des-episodes/index.md)
-- [plantes](plantes/index.md)

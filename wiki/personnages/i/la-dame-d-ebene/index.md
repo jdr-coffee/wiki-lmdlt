@@ -7,7 +7,7 @@ identifiant: 74
 # La Dame d’Ebène
 
 
-![image.png](assets/la-dame-d-ebene-image.png)
+![image.png](images/la-dame-d-ebene-image.png)
 
 > [!note]
 > ## Conseils
@@ -32,7 +32,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Relations
 
-[Sans titre](personnages/la-dame-d-ebene/sans-titre/index.md)
+[Sans titre](personnages/i/la-dame-d-ebene/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

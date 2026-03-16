@@ -5,7 +5,7 @@ episodes: [s01e01-les-morts-disparus, s01e02-baston-generale-a-la-cantoche, s01e
 
 # Saison 1
 
-![image.png](assets/saison-1-image.png)
+![image.png](images/saison-1-image.png)
 
 ## Résumé de la Saison 1 du Mythe de la Taverne
 

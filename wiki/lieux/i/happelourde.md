@@ -7,7 +7,7 @@ pays_royaumes: royaume-de-veloria
 # Happelourde
 
 
-![image.png](assets/happelourde-image.png)
+![image.png](images/happelourde-image.png)
 
 ***Famille au pouvoir*** : Caverly
 

@@ -7,7 +7,7 @@ lieux: [prison-d-agener, arpalian, bardache, le-jarrier, galefretier, happelourd
 # Royaume de Véloria
 
 
-![image.png](assets/royaume-de-veloria-image.png)
+![image.png](images/royaume-de-veloria-image.png)
 
 ## Cité de Veloria
 

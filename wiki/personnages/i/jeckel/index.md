@@ -39,7 +39,7 @@ Relation avec les PJs : Jeckle apprécie fortement nos héros.
 
 Relation avec les PJs : Heckle apprécie fortement nos héros.
 
-[Sans titre](personnages/jeckel/sans-titre/index.md)
+[Sans titre](personnages/i/jeckel/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

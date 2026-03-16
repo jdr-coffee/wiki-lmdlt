@@ -9,4 +9,4 @@ episodes: [s03e00-recap-saisons-1-2, s03e01-retrouvailles, s03e02-la-grande-pers
 
 ## L’HISTOIRE
 
-![image.png](assets/saison-3-image.png)
+![image.png](images/saison-3-image.png)

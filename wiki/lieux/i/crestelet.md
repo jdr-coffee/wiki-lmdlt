@@ -7,7 +7,7 @@ pays_royaumes: royaume-de-veloria
 # Crestelet
 
 
-![image.png](assets/crestelet-image.png)
+![image.png](images/crestelet-image.png)
 
 **Famille au pouvoir :** Belfort 
 

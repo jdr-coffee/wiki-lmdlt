@@ -5,4 +5,4 @@ episodes: [s04e01-le-zephyr-d-obsidienne-feat-perseides, s04e02-le-palatinat-con
 
 # Saison 4
 
-![image.png](assets/saison-4-image.png)
+![image.png](images/saison-4-image.png)

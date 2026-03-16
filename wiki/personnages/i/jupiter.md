@@ -7,7 +7,7 @@ identifiant: 76
 # Jupiter
 
 
-![Jupiter par  ](assets/Jupiter_.png)
+![Jupiter par  ](images/Jupiter_.png)
 
 Jupiter par  
 

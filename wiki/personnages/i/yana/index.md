@@ -14,7 +14,7 @@ present_dans_l_ep: s01e01-les-morts-disparus
 
 Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Mythe de la Taverne.
 
-![image.png](assets/yana-image.png)
+![image.png](images/yana-image.png)
 
 ## Histoire
 
@@ -26,12 +26,12 @@ Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Myt
 
 Yana est une jeune femme, petite de taille. Elle a des cheveux noirs, coupés au carré, avec un petit nez au milieu de son visage malicieux. Elle a l’air d’avoir entre 16 et 20 ans.
 
-![image.png](assets/yana-image-1.png)
+![image.png](images/yana-image-1.png)
 
-![Yana par  ](assets/Yana.png)
+![Yana par  ](images/Yana.png)
 
 Yana par  
 
 ## Relations
 
-[Sans titre](personnages/yana/sans-titre/index.md)
+[Sans titre](personnages/i/yana/sans-titre/index.md)

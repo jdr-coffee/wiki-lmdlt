@@ -7,8 +7,8 @@ identifiant: 73
 # Tilika Murano
 
 
-![Tilika par  ](assets/Tilika.png)
+![Tilika par  ](images/Tilika.png)
 
 Tilika par  
 
-![image.png](assets/tilika-murano-image.png)
+![image.png](images/tilika-murano-image.png)

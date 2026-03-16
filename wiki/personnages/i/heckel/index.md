@@ -37,7 +37,7 @@ Garde du quartier basse sécurité d’Agener, pas très vif d’esprit, il est 
 
 Relation avec les PJs : Heckle apprécie fortement nos héros.
 
-[Sans titre](personnages/heckel/sans-titre/index.md)
+[Sans titre](personnages/i/heckel/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

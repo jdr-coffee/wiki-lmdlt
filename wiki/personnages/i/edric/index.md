@@ -33,7 +33,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Relations
 
-[Sans titre](personnages/edric/sans-titre/index.md)
+[Sans titre](personnages/i/edric/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

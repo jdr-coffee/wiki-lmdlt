@@ -31,7 +31,7 @@ Voleuse et membre de la guilde des Serviteurs, elle se mit au service de nos hé
 
 ## Relations
 
-[Sans titre](personnages/emelyne/sans-titre/index.md)
+[Sans titre](personnages/i/emelyne/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

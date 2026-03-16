@@ -38,7 +38,7 @@ Un homme bedonnant avec une petite moustache et une petite calvitie portant des 
 
 ## Relations
 
-[Sans titre](personnages/ernest-batoncreux/sans-titre/index.md)
+[Sans titre](personnages/i/ernest-batoncreux/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

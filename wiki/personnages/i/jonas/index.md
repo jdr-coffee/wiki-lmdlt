@@ -38,7 +38,7 @@ Une fois que nos héroïnes ont découvert la vérité sur l’objet de Sarah Pe
 
 ## Relations
 
-[Sans titre](personnages/jonas/sans-titre/index.md)
+[Sans titre](personnages/i/jonas/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

@@ -8,7 +8,7 @@ identifiant: 58
 # Jaspe
 
 
-![Jaspe par  ](assets/Jaspe.png)
+![Jaspe par  ](images/Jaspe.png)
 
 Jaspe par  
 

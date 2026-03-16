@@ -36,7 +36,7 @@ Directeur de la prison d’Agener
 
 ## Relations
 
-[Sans titre](personnages/plutarch/sans-titre/index.md)
+[Sans titre](personnages/i/plutarch/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

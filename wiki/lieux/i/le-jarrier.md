@@ -7,11 +7,11 @@ pays_royaumes: royaume-de-veloria
 # Le Jarrier
 
 
-![image.png](assets/le-jarrier-image.png)
+![image.png](images/le-jarrier-image.png)
 
 ***Famille au pouvoir*** : Vertecime
 
 La famille Vertecime est une des plus anciennes familles du Royaume de Véloria
 
 
-***Capitale*** : [Vespérale](lieux/vesperale.md)
+***Capitale*** : [Vespérale](lieux/i/vesperale.md)

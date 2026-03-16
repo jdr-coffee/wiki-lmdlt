@@ -34,7 +34,7 @@ Elle a un visage froid, fermé et dur. Elle à la peau très pâle, malgré des 
 
 Elle porte toujours sur elle Justice, son épée bâtarde en acier et cuir noir.
 
-![Caressa Skyke par  ](assets/carissa-skyke-image.png)
+![Caressa Skyke par  ](images/carissa-skyke-image.png)
 
 Caressa Skyke par  
 
@@ -42,7 +42,7 @@ Caressa Skyke par
 
 Capitaine de faction et responsable de la Citadelle, chargée de la sécurité et du maintien de l’ordre dans la prison. Cette froide soldate au regard inflexible cache une âme endurcie et profondément loyale envers son devoir. 
 
-[Sans titre](personnages/carissa-skyke/sans-titre/index.md)
+[Sans titre](personnages/i/carissa-skyke/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

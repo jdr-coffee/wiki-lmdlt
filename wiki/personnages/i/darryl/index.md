@@ -31,7 +31,7 @@ Darryl a un corps imposant et musclé recouvert de cicatrices en tous genres, la
 
 ## Relations
 
-[Sans titre](personnages/darryl/sans-titre/index.md)
+[Sans titre](personnages/i/darryl/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

@@ -15,7 +15,7 @@ univers: fantasy
 
 Nos 4 héros arrivent à la prison d'Agener, une forteresse taillée dans une montagne glaciale.
 
-![1000019420.png](assets/1000019420.png)
+![1000019420.png](images/1000019420.png)
 
 *Illustration par Leflopla*
 
@@ -101,7 +101,7 @@ Une série d'épisodes **Pilotes** montre la première rencontre des joueur.eu
 
 
 
-![image.png](assets/s01e01-les-morts-disparus-image.png)
+![image.png](images/s01e01-les-morts-disparus-image.png)
 
 ## **Références**
 

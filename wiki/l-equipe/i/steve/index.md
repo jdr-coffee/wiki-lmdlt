@@ -16,8 +16,8 @@ Steve est contre son gré (et un peu de son gré) affublé de nombreux sobriquet
 
 ## Fanarts
 
-![MouSteve par  ](assets/steve-image.png)
+![MouSteve par  ](images/steve-image.png)
 
 MouSteve par  
 
-[Listes des sobriquets de Steve](l-equipe/steve/listes-des-sobriquets-de-steve/index.md)
+[Listes des sobriquets de Steve](l-equipe/i/steve/listes-des-sobriquets-de-steve/index.md)

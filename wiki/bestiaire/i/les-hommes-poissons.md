@@ -14,4 +14,4 @@ l’eau et rêveraient d’habiter la surface en compagnie des humains, un dési
 
 **Histoire** : Dans la légende, les hommes poissons sont une autre branche de l’humanité, une espèce partageant des caractéristiques similaires aux humains mais vivant sous l’eau. Leur existence n’a cependant jamais été prouvé. Ils sont un élément du folklore velorien alimentant les récits horrifiques et les contes pour enfants.
 
-![Hommes_poissons-removebg-preview.png](assets/Hommes_poissons-removebg-preview.png)
+![Hommes_poissons-removebg-preview.png](images/Hommes_poissons-removebg-preview.png)

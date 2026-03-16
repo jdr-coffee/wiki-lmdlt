@@ -30,7 +30,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Relations
 
-[Sans titre](personnages/jean-christophe/sans-titre/index.md)
+[Sans titre](personnages/i/jean-christophe/sans-titre/index.md)
 
 ## Evolution au cours des saisons
 

@@ -1,0 +1,16 @@
+# Identité du site
+title: Le Mythe de la Taverne
+description: Wiki officiel du podcast
+locale: fr
+
+# Apparence
+accent: "oklch(0.55 0.15 60)"
+accent_foreground: "oklch(0.98 0.02 60)"
+icon: /assets/favicon.png
+site_icon: /assets/logo.png
+
+# Navigation (ordre des sections dans la sidebar — slugs racine)
+# nav:
+#   - episodes
+#   - personnages
+#   - lieux

@@ -8,7 +8,7 @@ present_dans_l_ep: s01e05-l-art-du-combat
 # Mira
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -27,7 +27,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Elle est reconnaissable par ses longs cheveux bouclés mis en chignon et ses vêtements serrés recouverts de tâches d’argiles.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -41,7 +41,7 @@ Elle est reconnaissable par ses longs cheveux bouclés mis en chignon et ses vê
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

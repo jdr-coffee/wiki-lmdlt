@@ -10,7 +10,7 @@ present_dans_l_ep: [s02e16-le-qg-des-persifleurs, s02e18-la-guerre-des-guildes]
 # Nicholas de Bénévent
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -37,7 +37,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

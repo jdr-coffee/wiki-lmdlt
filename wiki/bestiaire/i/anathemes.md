@@ -1,7 +1,7 @@
 ---
 title: Anathèmes
 univers: fantasy
-draft: true
+draft: "true"
 ---
 
 # Anathèmes

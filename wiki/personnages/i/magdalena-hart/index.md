@@ -38,7 +38,7 @@ ses soins.
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

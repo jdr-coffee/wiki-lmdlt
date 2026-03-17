@@ -12,7 +12,7 @@ Hadrian est un des 6 chevaliers du roi. Archer émérites, il est commandant des
 
 Description : c'est un homme à la mine assez sévère et qui a l'air froid et concentré 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -29,7 +29,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -39,7 +39,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

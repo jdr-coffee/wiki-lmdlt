@@ -11,7 +11,7 @@ present_dans_l_ep: s01e05-l-art-du-combat
 
 Toujours accompagnée de son serviteur Daryl
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Alice Holloway est une femme de petite taille et ventripotente, aux cheveux bouclés châtains qui tombent en cascade sur sa poitrine généreuse. Son visage autoritaire et bourru est marqué par les années et l’expérience.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -40,7 +40,7 @@ Alice Holloway est une femme de petite taille et ventripotente, aux cheveux bouc
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

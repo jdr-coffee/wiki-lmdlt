@@ -10,7 +10,7 @@ present_dans_l_ep: [s02e15-la-petite-boutique-d-objets-magiques, s02e18-la-guerr
 # Jonas
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -29,7 +29,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Jonas est le propriétaire d’une boutique de ventes d’objets en tout genres situé dans un quartier malfamé sa boutique a pour nom “Jonas recéleur” . Dans cette boutique il y achète toutes sortes d’objets . Il a une préférences toute particulière pour les objets magique.  
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -42,7 +42,7 @@ Une fois que nos héroïnes ont découvert la vérité sur l’objet de Sarah Pe
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

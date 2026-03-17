@@ -18,7 +18,7 @@ Ainsi que le 48e épisode enregistré par le groupe.*
 
 Comment Chelinka faillit tuer une vieille dame innocente à l'allure de tortue, comment Neptune obtint le skin édition limitée Cruella d'Enfer et comment Someul trouva de nouveaux GROS accessoires de mode pour aller avec ses gantelets.
 
-> [!note]
+> [!warning]
 > **Trigger Warning : Violence et sang de 10:32 à 12:25.**
 
 ## **Contenu de l'épisode**

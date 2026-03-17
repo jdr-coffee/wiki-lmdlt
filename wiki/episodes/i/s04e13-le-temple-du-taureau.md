@@ -20,7 +20,7 @@ Comment Chelinka fut très mal à l’aise, comment Neptune rata complètement s
 Chelinka accepte un rapprochement avec Cornélia Bon-Compagnon, qui lui raconte sa solitude et sa lassitude de suivre son père et devoir faire bonne figure tout le temps.
 
 
-> [!note]
+> [!quote]
 > (son esprit voyage vers le nord et traverse - une forêt de genévriers avec en son centre un monolithe avec d’étranges symboles - un pont en pierre à deux arches enjambant une rivière paisible près de laquelle est installé un relais de voyageurs - un canyon sombre où se déferle une cascade - escalade une pente abrupte - des ruines cyclopéennes usées vers le temps et recouvertes de mousse - une salle souterraine circulaire dans la pénombre, avec quelque chose qui déchire les ténèbres et une lueur au centre de la pièce)
 
 Neptune et Jupiter ont donc une mission commune confiée par les dieux

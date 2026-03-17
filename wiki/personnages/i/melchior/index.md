@@ -28,7 +28,7 @@ Melchior est un grand homme à la carrure grande et imposante portant des habits
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

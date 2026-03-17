@@ -21,13 +21,13 @@ Description : Homme grand et large d’épaule, un visage froid. Il porte une lo
 
 *Gorthor-par-ZatZatZatou*
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

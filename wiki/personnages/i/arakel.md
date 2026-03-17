@@ -12,7 +12,7 @@ present_dans_l_ep: [hors-serie-01-la-grande-election, hors-serie-02-course-a-la-
 Apparence physique : Petit, frêle, porte un tatouage en forme de pique sous l’oeil, en signe distinctif de sa guilde
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -29,13 +29,13 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

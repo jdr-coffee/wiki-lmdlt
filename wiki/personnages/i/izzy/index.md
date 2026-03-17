@@ -9,7 +9,7 @@ present_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s01e04-la-meilleure-pi
 # Izzy
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Assez grand et longiligne, avec de long cheveux blancs dans lesquels se trouve une tresse, symbole de son appartenance à la guilde des serviteurs, et un sourire impeccable. Il fait très propre sur lui pour un prisonnier. 
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -40,7 +40,7 @@ C’est un marchand, d’autres diraient un charlatan. Quand les PJ l’abordent
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

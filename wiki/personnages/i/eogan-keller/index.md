@@ -26,7 +26,7 @@ Il est supposé être placé dans le quartier de très haute sécurité de la pr
 
 [description physique]
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -41,7 +41,7 @@ Il est emprisonné au quartier à sécurité renforcée d’Agener.
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

@@ -1,7 +1,7 @@
 ---
 title: Gordon Henry
 identifiant: 96
-draft: true
+draft: "true"
 ---
 
 # Gordon Henry

@@ -24,7 +24,7 @@ Marie Bourrechantal est une femme de petite taille, bien habillé et aux bonnes 
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

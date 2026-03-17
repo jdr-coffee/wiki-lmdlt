@@ -1,7 +1,7 @@
 ---
 title: Camille
 personnage: neptune
-draft: true
+draft: "true"
 ---
 
 # Camille

@@ -10,7 +10,7 @@ present_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts
 # Desdemona Vertecime
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -58,7 +58,7 @@ Grace aux PJ, la malédiction de Desdemona est levée par Pauline, l’ondine d�
 
 En remerciement pour leur aide à Agener et pour avoir sauvé sa soeur, Automne Vertecime, elle nomme les PJ Barons du Jarrier, et leur octroie la Baronnie de Nivalle
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

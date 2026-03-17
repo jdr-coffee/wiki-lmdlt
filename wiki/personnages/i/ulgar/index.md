@@ -10,7 +10,7 @@ present_dans_l_ep: [s01e01-les-morts-disparus, s01e08-la-nuit-des-morts-vivants]
 # Ulgar
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -28,7 +28,7 @@ C’est lui qui donne une quête à nos héros.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-
+%%NOTION_LINK%%
 
 Ulgar est un grand barbu à la silhouette droite.
 
@@ -42,7 +42,7 @@ Ulgar est le fossoyeur d’Agener. Il est le frère d’Olgar le Forgeron.
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

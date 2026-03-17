@@ -1,7 +1,7 @@
 ---
 title: Loups de Peau
 univers: fantasy
-draft: true
+draft: "true"
 ---
 
 # Loups de Peau

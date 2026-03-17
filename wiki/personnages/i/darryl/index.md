@@ -6,7 +6,7 @@ identifiant: 82
 # Darryl
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -23,7 +23,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Darryl a un corps imposant et musclé recouvert de cicatrices en tous genres, la plus impressionnante était celle sur l’arrière de sa nuque, donnant l’impression que son corps tient en place grâce à des coutures.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -35,7 +35,7 @@ Darryl a un corps imposant et musclé recouvert de cicatrices en tous genres, la
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

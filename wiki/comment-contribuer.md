@@ -13,12 +13,12 @@
 
 ## Comment commencer à suggérer des modifications
 
-> [!note]
+> [!info]
 > Pour commencer, contactez `Le Tomo` sur Discord pour obtenir un accès au wiki.
 
 ### 1. Se rendre sur l’espace du Wiki via votre Notion
 
-> [!note]
+> [!info]
 > En premier lieu connectez vous avec l’email transmise à @Toma .
 
 #### Utilisez le sélectionneur d’espace de travail

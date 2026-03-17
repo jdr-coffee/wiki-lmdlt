@@ -4,7 +4,7 @@ contenu: No
 description: Yes
 fun_facts: No
 resume: Yes
-draft: true
+draft: "true"
 ---
 
 # S01E03 - L'adoption de Cid le Robot

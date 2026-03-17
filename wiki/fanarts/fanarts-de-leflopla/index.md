@@ -3,7 +3,7 @@
 
 # Fanarts de Leflopla
 
-> [!note]
+> [!tip]
 > *Page de fanarts de [Leflopla](contributeurices/i/leflopla.md) toutes les images sons soumises aux droits d’auteurs 🙏*
 
 [Inktober de Leflopla](fanarts/fanarts-de-leflopla/inktober-de-leflopla.md)

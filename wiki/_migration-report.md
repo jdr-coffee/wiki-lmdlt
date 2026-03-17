@@ -5,7 +5,7 @@ draft: true
 
 # Rapport de migration Notion
 
-Migration du 2026-03-16.
+Migration du 2026-03-17.
 
 ---
 
@@ -360,7 +360,7 @@ Migration du 2026-03-16.
 - personnages/i/carissa-skyke/sans-titre/_sans-titre.base
 - personnages/i/carissa-skyke/sans-titre/index.md
 - personnages/i/carissa-skyke/index.md
-- personnages/i/izzy/sans-titre/i/izzy-apprecie-nos-heros-qu-il-voit-comme-de-bons-partenaires-commerciaux.md
+- personnages/i/izzy/sans-titre/i/izzy-apprecie-nos-heros-qu-il-voit-comme-de-bons-partenaires-commerciaux-sauf-chelinka-a-qui-il-en-veut-de-l-avoir-fait-perdre-son-temps-a-chercher-sa-brosse.md
 - personnages/i/izzy/sans-titre/i/izzy-est-le-bras-droit-de-victor.md
 - personnages/i/izzy/sans-titre/_sans-titre.base
 - personnages/i/izzy/sans-titre/index.md
@@ -617,7 +617,7 @@ Migration du 2026-03-16.
 - univers/_univers.base
 - univers/index.md
 
-## Fichiers ignorés (58)
+## Fichiers ignorés (57)
 
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Bestiaire/Bestiaire 28b4d690237c8038a038d4957d16ab46_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Objets notables 28b4d690237c8094b9cbf589ceabf46d_all.csv
@@ -625,7 +625,6 @@ Migration du 2026-03-16.
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Roger/Sans titre 2474d690237c81ddbddad5495b05190e_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Eogan Keller/Sans titre 2474d690237c81cfaaf4e6af3752c4e6_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Jeckel/Sans titre 2474d690237c80fe95abdccd73364405_all.csv
-- Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Izzy/Sans titre 2474d690237c81bba318da7468c96caf_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Fébastien/Sans titre 2474d690237c815aa154c828ef00980b_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Maggie/Sans titre 2474d690237c81839849dae41a8adfdc_all.csv
 - Empty title row in /Users/tomo/Dev/export-wiki-notion/Wiki - Le Mythe de la Taverne/Personnages/Meuleuwa/Sans titre 2474d690237c81618b42d4903f4d2005_all.csv
@@ -870,7 +869,7 @@ Migration du 2026-03-16.
 - No page content found for "Yana est une très proche amie de nos trois héros, qui les considèrent comme des grands frères et sœurs." in collection sans-titre
 - No page content found for "Ulgar est redevable envers nos héros pour avoir résolu le mystère du cimetière, même s’il aurait préféré tomber sur des personnes moins maladroites." in collection sans-titre
 - No page content found for "Carissa respecte nos trois héros et sait qu’elle peut leur faire confiance quand le besoin s’en fait sentir. Elle juge malgré tout certains de leurs agissements discutables et voudrait les voir revenir à Agener." in collection sans-titre
-- No page content found for "• Izzy apprécie nos héros qu’il voit comme de bons partenaires commerciaux" in collection sans-titre
+- No page content found for "• Izzy apprécie nos héros qu’il voit comme de bons partenaires commerciaux, sauf Chelinka, à qui il en veut de l’avoir fait perdre son temps à chercher sa brosse." in collection sans-titre
 - No page content found for "Izzy est le bras droit de victor" in collection sans-titre
 - No page content found for "Il est gré à nos héros pour avoir essayé de faire accepter le Cid dans la prison." in collection sans-titre
 - No page content found for "Mira est en général indifférente envers nos héros, sauf quand ces derniers parlent de son art." in collection sans-titre

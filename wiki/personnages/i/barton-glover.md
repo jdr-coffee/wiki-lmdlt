@@ -14,7 +14,7 @@ S04E06 - 29:50
 
 Barton Glover est un homme au visage abîmé par les années passées sur la mer, au regard menaçant. Il a l’air d’un molosse, prêt à attaquer avec sa bouche tombante. Ses cheveux sont gris et fins et une barbe mal rasé court sur sa mâchoire carrée
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -31,13 +31,13 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 `[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

@@ -6,7 +6,7 @@ identifiant: 80
 # Guillaume le Simplet
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -25,7 +25,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 - Grande brute pas très malin, il fait partie d’une guilde.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -37,7 +37,7 @@ Guillaume n’en a rien à faire de nos héros, tant que ceux-ci ne se mêlent p
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

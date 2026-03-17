@@ -7,7 +7,7 @@ identifiant: 70
 # Andrea
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -26,7 +26,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 Andréa est un homme à la tête renfrogné enfoncé dans un corps chétif, avec des bras musclés.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -38,7 +38,7 @@ Andréa est le chef de la guilde des Cuistanciers et des cuisines d’Agener,
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

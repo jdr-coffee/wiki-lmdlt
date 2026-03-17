@@ -9,7 +9,7 @@ present_dans_l_ep: s01e05-l-art-du-combat
 # Plutarch
 
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -28,7 +28,7 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
  richement habillé et de haute stature, mais à l’apparence robuste et endurcie, son apparence laisse paraître un homme intelligent qui sait placer les personnes compétentes au bon poste.
 
-
+%%NOTION_LINK%%
 
 ## Histoire
 
@@ -40,7 +40,7 @@ Directeur de la prison d’Agener
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

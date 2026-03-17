@@ -13,7 +13,7 @@ Description :
 
 Histoire : Elle est capitaine de faction et donc chargée de la sécurité et du maintien de l’ordre dans la prison.
 
-> [!note]
+> [!tip]
 > ## Conseils
 > 
 > Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
@@ -46,7 +46,7 @@ Capitaine de faction et responsable de la Citadelle, chargée de la sécurité e
 
 ## Evolution au cours des saisons
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

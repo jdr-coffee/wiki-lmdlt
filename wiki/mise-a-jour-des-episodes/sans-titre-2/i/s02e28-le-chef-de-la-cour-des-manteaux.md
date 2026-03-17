@@ -4,7 +4,7 @@ contenu: No
 description: Yes
 fun_facts: No
 resume: No
-draft: true
+draft: "true"
 ---
 
 # S02E28 - Le chef de la Cour des Manteaux

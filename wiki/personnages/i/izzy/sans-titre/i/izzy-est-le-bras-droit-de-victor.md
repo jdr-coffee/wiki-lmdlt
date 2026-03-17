@@ -2,7 +2,7 @@
 title: Izzy est le bras droit de victor
 lien: [Guilde, Travail]
 nom_url_de_la_page_du_personnage: Victor Appleby
-draft: true
+draft: "true"
 ---
 
 # Izzy est le bras droit de victor

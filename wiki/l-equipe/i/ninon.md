@@ -1,7 +1,7 @@
 ---
 title: Ninon
 personnage: chelinka
-draft: true
+draft: "true"
 ---
 
 # Ninon

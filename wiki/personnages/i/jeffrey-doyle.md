@@ -68,7 +68,7 @@ Ils sont amis, et leurs quartiers sont proches. Erevar l'a **sermonné** pour av
 
 (A vérifier)
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > Il est surnommé « l’œuf » à cause de son crâne chauve.

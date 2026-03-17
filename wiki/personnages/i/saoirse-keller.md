@@ -36,7 +36,7 @@ Ses cheveux sont d’un côté long, d’un côté court, son bras gauche est en
 - Elle est la soeur d’Eogan Keller
 - Relation avec les PJs : Saoirse fait énormément confiance à nos héros, notamment à Neptune avec qui elle a une relation toute particulière.
 
-> [!note]
+> [!tip]
 > ## Fun fact
 > 
 > -

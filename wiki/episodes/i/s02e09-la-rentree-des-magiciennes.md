@@ -1,5 +1,4 @@
 ---
-title: S02E09 - La rentrée des magiciennes
 1ere_apparition_pour: leonard-montgomery
 compteur_d_ep: 1
 date: 16 mars 2022

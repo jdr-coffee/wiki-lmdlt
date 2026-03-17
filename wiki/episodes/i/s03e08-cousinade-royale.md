@@ -1,5 +1,4 @@
 ---
-title: S03E08 - Cousinade royale
 compteur_d_ep: 1
 date: 9 août 2023
 saison: saison-3

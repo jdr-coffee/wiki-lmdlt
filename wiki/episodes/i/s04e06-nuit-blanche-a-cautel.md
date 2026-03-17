@@ -1,5 +1,4 @@
 ---
-title: S04E06 - Nuit blanche à Cautel
 1ere_apparition_pour: barton-glover
 compteur_d_ep: 1
 date: 5 février 2025

@@ -1,5 +1,4 @@
 ---
-title: Vampires
 univers: fantasy
 ---
 

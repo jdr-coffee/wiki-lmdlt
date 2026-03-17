@@ -1,5 +1,4 @@
 ---
-title: Artémis
 membres: angela
 ---
 

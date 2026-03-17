@@ -1,5 +1,4 @@
 ---
-title: Eogan Keller
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Militant contre les religions enfermé à Agener dans la citadelle
 identifiant: 3

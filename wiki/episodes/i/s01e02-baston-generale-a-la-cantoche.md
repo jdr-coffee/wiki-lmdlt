@@ -1,5 +1,4 @@
 ---
-title: S01E02 - Baston générale à la cantoche
 1ere_apparition_pour: [carissa-skyke, izzy, general-beausoleil]
 compteur_d_ep: 1
 date: 18 octobre 2020

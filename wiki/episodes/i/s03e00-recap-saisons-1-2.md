@@ -1,5 +1,4 @@
 ---
-title: S03E00 - Récap saisons 1 & 2
 compteur_d_ep: 0
 date: 3 mai 2023
 saison: saison-3

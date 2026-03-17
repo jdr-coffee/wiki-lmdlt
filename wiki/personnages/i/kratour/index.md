@@ -1,5 +1,4 @@
 ---
-title: Kratour
 description_rapide: rat-de-mira
 identifiant: 87
 ---

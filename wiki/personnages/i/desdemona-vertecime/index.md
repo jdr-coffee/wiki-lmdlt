@@ -1,5 +1,4 @@
 ---
-title: Desdemona Vertecime
 1ere_apparition: s01e06-une-tres-tres-mauvaise-nuit
 description_rapide: Herboriste talentueuse et héritière du fief du Jarrier
 identifiant: 18

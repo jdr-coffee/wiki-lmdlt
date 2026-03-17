@@ -1,5 +1,4 @@
 ---
-title: Oeufer
 description: Couper court à un affrontement en emprisonnant ses ennemis dans des œufs.
 saisons: saison-1
 ---

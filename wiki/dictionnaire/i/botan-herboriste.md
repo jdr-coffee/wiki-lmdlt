@@ -1,5 +1,4 @@
 ---
-title: Botan’herboriste
 description: Art de confectionner de puissants remèdes (ou des poisons) à l’aide de plantes.
 saisons: saison-1
 ---

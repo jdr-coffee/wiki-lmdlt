@@ -1,5 +1,4 @@
 ---
-title: Andrea
 description_rapide: Chef cuisinier a la prison d’Agener
 identifiant: 70
 ---

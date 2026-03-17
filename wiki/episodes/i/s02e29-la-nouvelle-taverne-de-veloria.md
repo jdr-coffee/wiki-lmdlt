@@ -1,5 +1,4 @@
 ---
-title: S02E29 - La nouvelle taverne de Veloria
 compteur_d_ep: 1
 date: 21 décembre 2022
 saison: saison-2

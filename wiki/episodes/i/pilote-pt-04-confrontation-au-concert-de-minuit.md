@@ -1,5 +1,4 @@
 ---
-title: Pilote / Pt.04 - Confrontation au concert de minuit
 compteur_d_ep: 0
 date: 13 octobre 2021
 saison: pilote

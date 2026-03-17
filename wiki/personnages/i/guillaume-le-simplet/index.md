@@ -1,5 +1,4 @@
 ---
-title: Guillaume le Simplet
 identifiant: 80
 ---
 

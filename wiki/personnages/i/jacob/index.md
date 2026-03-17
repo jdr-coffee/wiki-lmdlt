@@ -1,5 +1,4 @@
 ---
-title: Jacob
 description_rapide: [Membre de la guide des messagers, Agener]
 identifiant: 86
 ---

@@ -1,5 +1,4 @@
 ---
-title: Guilde des Murmures
 lieu: royaume-de-veloria
 signe_distinctif: Cou recouvert de charbon
 ---

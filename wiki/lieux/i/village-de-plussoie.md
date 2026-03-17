@@ -1,5 +1,4 @@
 ---
-title: Village de Plussoie
 1er_apparition: s02e01-la-nuit-des-tresors
 description_rapide: Village de la nuit des Trésors
 time_code: "45:10"

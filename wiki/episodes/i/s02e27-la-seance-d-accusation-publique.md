@@ -1,5 +1,4 @@
 ---
-title: "S02E27 - La séance d'accusation publique"
 compteur_d_ep: 1
 date: 23 novembre 2022
 saison: saison-2

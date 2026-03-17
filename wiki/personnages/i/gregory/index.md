@@ -1,5 +1,4 @@
 ---
-title: Grégory
 description_rapide: Garde de la prison d’Agener
 identifiant: 95
 ---

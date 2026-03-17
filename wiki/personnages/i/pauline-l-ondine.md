@@ -1,5 +1,4 @@
 ---
-title: Pauline l’Ondine
 1ere_apparition: s01e15-dernieres-revelations
 description_rapide: [Esprit de l’eau aux cheveux blancs, yeux bleux et longue robe d’écume]
 identifiant: 100

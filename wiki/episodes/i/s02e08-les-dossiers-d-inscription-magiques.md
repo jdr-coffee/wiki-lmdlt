@@ -1,5 +1,4 @@
 ---
-title: "S02E08 - Les dossiers d'inscription magiques"
 compteur_d_ep: 1
 date: 2 mars 2022
 saison: saison-2

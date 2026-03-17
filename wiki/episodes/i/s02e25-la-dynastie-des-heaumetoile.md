@@ -1,5 +1,4 @@
 ---
-title: S02E25 - La dynastie des Heaumétoile
 compteur_d_ep: 1
 date: 26 octobre 2022
 saison: saison-2

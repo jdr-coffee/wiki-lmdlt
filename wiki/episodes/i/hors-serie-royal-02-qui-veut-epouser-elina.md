@@ -1,5 +1,4 @@
 ---
-title: "Hors-série Royal #02 - Qui veut épouser Elina ?"
 compteur_d_ep: 0
 date: 19 avril 2023
 saison: [hors-serie, saison-2]

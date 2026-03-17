@@ -1,5 +1,4 @@
 ---
-title: Monsieur Cascade
 identifiant: 104
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: S04E14 - Colère divine
 compteur_d_ep: 1
 saison: saison-4
 univers: fantasy

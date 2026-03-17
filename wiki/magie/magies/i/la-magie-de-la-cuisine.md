@@ -1,5 +1,4 @@
 ---
-title: La Magie de la Cuisine
 ---
 
 # La Magie de la Cuisine

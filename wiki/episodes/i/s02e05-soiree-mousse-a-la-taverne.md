@@ -1,5 +1,4 @@
 ---
-title: S02E05 -  Soirée mousse à la taverne
 compteur_d_ep: 1
 date: 19 janvier 2022
 saison: saison-2

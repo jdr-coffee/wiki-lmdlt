@@ -1,5 +1,4 @@
 ---
-title: S03E15 - Pactiser avec l’ennemi
 1ere_apparition_pour: ervin
 compteur_d_ep: 1
 date: 24 janvier 2024

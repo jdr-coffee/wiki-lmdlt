@@ -1,5 +1,4 @@
 ---
-title: La Magie des Dieux
 ---
 
 # La Magie des Dieux

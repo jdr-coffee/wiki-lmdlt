@@ -1,5 +1,4 @@
 ---
-title: "Hors-série#02 - Course à la poule !"
 compteur_d_ep: 1
 date: 10 novembre 2021
 pnj_presents: arakel

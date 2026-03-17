@@ -1,5 +1,4 @@
 ---
-title: S04E12 - La baronnie de Nival / Pt.02
 compteur_d_ep: [0, 5]
 saison: saison-4
 univers: fantasy

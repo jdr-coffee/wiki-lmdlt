@@ -1,5 +1,4 @@
 ---
-title: Prison d’Agener
 description_rapide: Prison aux confins du monde
 pays_royaumes: royaume-de-veloria
 ---

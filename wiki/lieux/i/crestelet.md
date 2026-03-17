@@ -1,5 +1,4 @@
 ---
-title: Crestelet
 description_rapide: Fief de pêcheurs
 pays_royaumes: royaume-de-veloria
 ---

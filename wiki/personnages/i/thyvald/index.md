@@ -1,5 +1,4 @@
 ---
-title: Thyvald
 1ere_apparition: s03e11-la-soiree-des-ambassadeurs
 description_rapide: Prince des nuits de Sabrenas
 identifiant: 55

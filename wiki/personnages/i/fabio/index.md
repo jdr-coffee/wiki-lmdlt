@@ -1,5 +1,4 @@
 ---
-title: Fabio
 identifiant: 92
 ---
 

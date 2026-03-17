@@ -1,5 +1,4 @@
 ---
-title: Ervin
 1ere_apparition: s03e15-pactiser-avec-l-ennemi
 description_rapide: Persifleur et mécène de Sabrenas
 identifiant: 61

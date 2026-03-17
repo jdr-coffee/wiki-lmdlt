@@ -1,5 +1,4 @@
 ---
-title: Neptunerie
 description: Action chaotique entreprise dans le but de retourner une situation à son avantage.
 saisons: saison-1
 ---

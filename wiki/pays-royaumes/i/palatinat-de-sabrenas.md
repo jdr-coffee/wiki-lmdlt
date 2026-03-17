@@ -1,5 +1,4 @@
 ---
-title: Palatinat de Sabrenas
 symbole: Un Sabre
 lieux: [place-de-la-liberation, palais-palatin, quartier-des-mecaniciens]
 ---

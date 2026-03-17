@@ -1,5 +1,4 @@
 ---
-title: Hadrian
 1ere_apparition: s03e03-les-6-chevaliers-du-roi
 description_rapide: "L'arc du roi"
 identifiant: 42

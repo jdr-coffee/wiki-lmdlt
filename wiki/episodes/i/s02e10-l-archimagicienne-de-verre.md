@@ -1,5 +1,4 @@
 ---
-title: "S02E10 - L'archimagicienne de verre"
 compteur_d_ep: 1
 date: 30 mars 2022
 saison: saison-2

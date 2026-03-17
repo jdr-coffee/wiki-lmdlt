@@ -1,5 +1,4 @@
 ---
-title: S02E26 - La nuit des manteaux
 compteur_d_ep: 1
 date: 9 novembre 2022
 saison: saison-2

@@ -1,5 +1,4 @@
 ---
-title: S04E09 - Adieux
 compteur_d_ep: 1
 date: 19 mars 2025
 saison: saison-4

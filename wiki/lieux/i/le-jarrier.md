@@ -1,5 +1,4 @@
 ---
-title: Le Jarrier
 description_rapide: Fief le plus vert du royaume
 pays_royaumes: royaume-de-veloria
 ---

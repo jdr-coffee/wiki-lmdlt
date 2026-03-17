@@ -1,5 +1,4 @@
 ---
-title: Guilde des loyaux
 lieu: royaume-de-veloria
 signe_distinctif: Dos de la main blanche
 ---

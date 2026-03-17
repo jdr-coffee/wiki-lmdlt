@@ -1,5 +1,4 @@
 ---
-title: S02E31 - Le mariage du Prince Léomir
 compteur_d_ep: 1
 date: 18 janvier 2023
 saison: saison-2

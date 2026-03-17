@@ -1,5 +1,4 @@
 ---
-title: S02E07 - Cauchemars et chocolat
 compteur_d_ep: 1
 date: 16 février 2022
 saison: saison-2

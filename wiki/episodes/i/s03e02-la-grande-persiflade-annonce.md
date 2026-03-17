@@ -1,5 +1,4 @@
 ---
-title: S03E02 - La grande persiflade + ANNONCE !
 compteur_d_ep: 1
 date: 17 mai 2023
 saison: saison-3

@@ -1,5 +1,4 @@
 ---
-title: S02E01 - La nuit des trésors
 compteur_d_ep: 1
 date: 24 novembre 2021
 saison: saison-2

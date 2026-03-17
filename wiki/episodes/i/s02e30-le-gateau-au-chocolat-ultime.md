@@ -1,5 +1,4 @@
 ---
-title: S02E30 - Le gâteau au chocolat ultime
 compteur_d_ep: 1
 date: 4 janvier 2023
 saison: saison-2

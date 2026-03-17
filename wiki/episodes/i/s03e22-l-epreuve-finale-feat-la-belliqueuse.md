@@ -1,5 +1,4 @@
 ---
-title: S03E22 - L’épreuve finale (feat. La Belliqueuse)
 compteur_d_ep: 1
 date: 1 mai 2024
 saison: saison-3

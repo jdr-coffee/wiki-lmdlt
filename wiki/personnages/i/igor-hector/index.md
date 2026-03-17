@@ -1,5 +1,4 @@
 ---
-title: Igor & Hector
 1ere_apparition: s02e15-la-petite-boutique-d-objets-magiques
 description_rapide: Gardes du corps de Jonas
 identifiant: 37

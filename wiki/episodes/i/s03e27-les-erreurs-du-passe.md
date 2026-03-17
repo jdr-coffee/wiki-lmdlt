@@ -1,5 +1,4 @@
 ---
-title: S03E27 - Les erreurs du passé
 compteur_d_ep: 1
 date: 11 septembre 2024
 saison: saison-3

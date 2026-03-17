@@ -1,5 +1,4 @@
 ---
-title: Sole Rêveuse
 univers: fantasy
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Pilote / Pt.03 - Le Festival de la Guistoche
 compteur_d_ep: 0
 date: 6 octobre 2021
 saison: pilote

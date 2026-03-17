@@ -1,5 +1,4 @@
 ---
-title: Fulgurite
 ---
 
 # Fulgurite

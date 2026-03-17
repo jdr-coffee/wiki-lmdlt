@@ -1,5 +1,4 @@
 ---
-title: Izzy
 1ere_apparition: s01e02-baston-generale-a-la-cantoche
 description_rapide: Dit le marchand
 identifiant: 9

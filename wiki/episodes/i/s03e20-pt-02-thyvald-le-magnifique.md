@@ -1,5 +1,4 @@
 ---
-title: S03E20 / Pt.02 - Thyvald le magnifique
 compteur_d_ep: [0, 5]
 date: 10 avril 2024
 saison: saison-3

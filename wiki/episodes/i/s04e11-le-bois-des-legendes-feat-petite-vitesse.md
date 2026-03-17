@@ -1,5 +1,4 @@
 ---
-title: S04E11 - Le Bois des Légendes (feat. Petite Vitesse)
 compteur_d_ep: 1
 saison: saison-4
 univers: fantasy

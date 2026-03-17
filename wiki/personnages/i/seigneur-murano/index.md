@@ -1,5 +1,4 @@
 ---
-title: Seigneur Murano
 identifiant: 84
 ---
 

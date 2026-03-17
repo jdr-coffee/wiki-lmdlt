@@ -1,5 +1,4 @@
 ---
-title: Léonard Montgomery
 1ere_apparition: s02e09-la-rentree-des-magiciennes
 description_rapide: Archimage et directeur deu collège des mages
 identifiant: 78

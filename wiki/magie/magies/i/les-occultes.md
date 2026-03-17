@@ -1,5 +1,4 @@
 ---
-title: Les Occultes
 ---
 
 # Les Occultes

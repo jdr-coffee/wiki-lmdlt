@@ -1,5 +1,4 @@
 ---
-title: Mercure
 description_rapide: Championne du Corbeau Cramoisi
 identifiant: 64
 ---

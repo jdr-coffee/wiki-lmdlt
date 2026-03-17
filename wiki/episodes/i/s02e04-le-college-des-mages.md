@@ -1,5 +1,4 @@
 ---
-title: S02E04 - Le Collège des Mages
 compteur_d_ep: 1
 date: 5 janvier 2022
 saison: saison-2

@@ -1,5 +1,4 @@
 ---
-title: S04E01 - Le zéphyr d’obsidienne (feat. Perséïdes)
 compteur_d_ep: 1
 date: 9 octobre 2024
 saison: saison-4

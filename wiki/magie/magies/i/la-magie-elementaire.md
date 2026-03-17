@@ -1,5 +1,4 @@
 ---
-title: La Magie Élémentaire
 ---
 
 # La Magie Élémentaire

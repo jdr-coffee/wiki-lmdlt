@@ -1,5 +1,4 @@
 ---
-title: S03E14 - Crise et croissants
 compteur_d_ep: 1
 date: 10 janvier 2024
 saison: saison-3

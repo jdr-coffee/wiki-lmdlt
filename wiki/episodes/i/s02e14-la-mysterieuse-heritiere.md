@@ -1,5 +1,4 @@
 ---
-title: S02E14 - La mystérieuse héritière
 1ere_apparition_pour: [cody-berryman, sarah-petrova]
 compteur_d_ep: 1
 date: 25 mai 2022

@@ -1,5 +1,4 @@
 ---
-title: Dieu décapité
 type_de_dieu: Dieu défunt
 ---
 

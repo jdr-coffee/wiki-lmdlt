@@ -1,5 +1,4 @@
 ---
-title: Gareth Bretailleur
 description_rapide: Le plus grand escroc de Cautel
 identifiant: 72
 origine: cautel

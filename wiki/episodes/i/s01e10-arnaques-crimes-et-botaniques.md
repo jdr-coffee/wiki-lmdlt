@@ -1,5 +1,4 @@
 ---
-title: S01E10 - Arnaques, crimes et botaniques
 1ere_apparition_pour: bertrand
 compteur_d_ep: 1
 date: 7 avril 2021

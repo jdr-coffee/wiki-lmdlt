@@ -1,5 +1,4 @@
 ---
-title: FAQ saison 2 + ANNONCE !
 compteur_d_ep: 0
 date: 1 mars 2023
 saison: [saison-2, faq]

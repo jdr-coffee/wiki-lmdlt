@@ -1,5 +1,4 @@
 ---
-title: Corbeau Cramoisi
 champion_ne: Mercure
 description_rapide: Dieu solaire et incarnation de la lumière
 type_de_dieu: Dieu naissant

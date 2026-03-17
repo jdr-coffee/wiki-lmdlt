@@ -1,5 +1,4 @@
 ---
-title: Eriksen
 1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: Un des grands de Sabrenas
 identifiant: 46

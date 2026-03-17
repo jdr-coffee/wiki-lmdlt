@@ -1,5 +1,4 @@
 ---
-title: Magdalena Hart
 identifiant: 66
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Louve Mère
 champion_ne: Jupiter
 type_de_dieu: Dieu naissant
 ---

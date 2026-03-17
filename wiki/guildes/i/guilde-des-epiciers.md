@@ -1,5 +1,4 @@
 ---
-title: Guilde des Epiciers
 chef: alice-holloway
 lieu: royaume-de-veloria
 signe_distinctif: Bout des doigts noirs

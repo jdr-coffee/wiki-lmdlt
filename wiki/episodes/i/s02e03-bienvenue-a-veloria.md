@@ -1,5 +1,4 @@
 ---
-title: S02E03 - Bienvenue à Veloria
 compteur_d_ep: 1
 date: 22 décembre 2021
 saison: saison-2

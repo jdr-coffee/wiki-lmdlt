@@ -1,5 +1,4 @@
 ---
-title: Arpalian
 description_rapide: Fief le plus riche
 pays_royaumes: royaume-de-veloria
 ---

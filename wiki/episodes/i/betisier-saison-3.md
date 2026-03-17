@@ -1,5 +1,4 @@
 ---
-title: Bêtisier saison 3
 compteur_d_ep: 0
 date: 2 octobre 2024
 saison: [saison-3, betisier]

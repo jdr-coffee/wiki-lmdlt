@@ -1,5 +1,4 @@
 ---
-title: Isembart
 1ere_apparition: s03e06-a-bord-du-cristal-des-mers
 description_rapide: Capitaine des écus royaux pour l’expédition à Sabrenas
 identifiant: 50

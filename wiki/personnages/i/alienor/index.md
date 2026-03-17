@@ -1,5 +1,4 @@
 ---
-title: Aliénor
 description_rapide: Espionne de Véloria implantée à Sabrenas
 identifiant: 38
 ---

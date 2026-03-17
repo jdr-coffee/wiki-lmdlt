@@ -1,5 +1,4 @@
 ---
-title: Jonas
 1ere_apparition: s02e15-la-petite-boutique-d-objets-magiques
 description_rapide: Propriétaire d’une boutique de ventes d’objets en tout genres en Véloria
 identifiant: 29

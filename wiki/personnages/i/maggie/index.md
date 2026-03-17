@@ -1,5 +1,4 @@
 ---
-title: Maggie
 1ere_apparition: s01e07-chasse-a-la-sorciere
 description_rapide: Femme de chambre de
 identifiant: 19

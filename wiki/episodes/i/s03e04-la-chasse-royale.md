@@ -1,5 +1,4 @@
 ---
-title: S03E04 - La chasse royale
 compteur_d_ep: 1
 date: 14 juin 2023
 saison: saison-3

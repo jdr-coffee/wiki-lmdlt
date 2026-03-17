@@ -1,5 +1,4 @@
 ---
-title: S03E12 - Les grands de Sabrenas
 1ere_apparition_pour: rickard
 compteur_d_ep: 1
 date: 1 novembre 2023

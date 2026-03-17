@@ -1,5 +1,4 @@
 ---
-title: "Hors-série Royal #01 - La famille Cherrington"
 compteur_d_ep: 0
 date: 5 avril 2023
 saison: [hors-serie, saison-2]

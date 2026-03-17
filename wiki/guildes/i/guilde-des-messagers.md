@@ -1,5 +1,4 @@
 ---
-title: Guilde des Messagers
 lieu: royaume-de-veloria
 ---
 

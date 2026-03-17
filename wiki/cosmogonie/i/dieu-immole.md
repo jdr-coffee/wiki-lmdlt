@@ -1,5 +1,4 @@
 ---
-title: Dieu Immolé
 type_de_dieu: Dieu défunt
 ---
 

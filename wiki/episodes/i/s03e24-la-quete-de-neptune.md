@@ -1,5 +1,4 @@
 ---
-title: S03E24 - La quête de Neptune
 compteur_d_ep: 1
 date: 29 mai 2024
 saison: saison-3

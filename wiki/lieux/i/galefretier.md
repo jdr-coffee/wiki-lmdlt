@@ -1,5 +1,4 @@
 ---
-title: Galefretier
 description_rapide: Fief du pouvoir royal
 pays_royaumes: royaume-de-veloria
 ---

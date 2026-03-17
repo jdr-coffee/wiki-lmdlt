@@ -1,5 +1,4 @@
 ---
-title: Roméo
 1ere_apparition: s02e16-le-qg-des-persifleurs
 description_rapide: Chef désigné par nos héroïnes de la guilde des persifleurs à Véloria
 identifiant: 31

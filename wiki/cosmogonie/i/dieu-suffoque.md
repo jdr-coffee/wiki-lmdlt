@@ -1,5 +1,4 @@
 ---
-title: Dieu Suffoqué
 type_de_dieu: Dieu défunt
 ---
 

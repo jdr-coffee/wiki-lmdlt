@@ -1,5 +1,4 @@
 ---
-title: "S02E15 - La petite boutique d'objets magiques"
 1ere_apparition_pour: [jonas, igor-hector]
 compteur_d_ep: 1
 date: 8 juin 2022

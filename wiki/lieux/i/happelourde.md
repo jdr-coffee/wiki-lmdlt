@@ -1,5 +1,4 @@
 ---
-title: Happelourde
 description_rapide: Fief de marins
 pays_royaumes: royaume-de-veloria
 ---

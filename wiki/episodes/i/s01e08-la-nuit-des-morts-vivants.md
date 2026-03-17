@@ -1,5 +1,4 @@
 ---
-title: S01E08 - La nuit des morts-vivants
 compteur_d_ep: 1
 date: 10 mars 2021
 pnj_presents: [desdemona-vertecime, ulgar]

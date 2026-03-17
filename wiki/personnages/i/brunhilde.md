@@ -1,5 +1,4 @@
 ---
-title: Brunhilde
 1ere_apparition: s03e03-les-6-chevaliers-du-roi
 description_rapide: L’épée du roi
 identifiant: 45

@@ -1,5 +1,4 @@
 ---
-title: S01E12 - Les secrets de la magie interdite
 compteur_d_ep: 1
 date: 5 mai 2021
 saison: saison-1

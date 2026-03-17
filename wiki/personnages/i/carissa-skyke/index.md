@@ -1,5 +1,4 @@
 ---
-title: Carissa Skyke
 1ere_apparition: s01e02-baston-generale-a-la-cantoche
 description_rapide: [Capitaine des gardes, Responsable de la Citadelle de la prison d’Agener]
 identifiant: 8

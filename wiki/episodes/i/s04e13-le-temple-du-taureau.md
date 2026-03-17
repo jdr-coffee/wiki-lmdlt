@@ -1,5 +1,4 @@
 ---
-title: S04E13 - Le temple du taureau
 compteur_d_ep: 1
 saison: saison-4
 univers: fantasy

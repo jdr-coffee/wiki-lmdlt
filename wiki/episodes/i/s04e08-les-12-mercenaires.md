@@ -1,5 +1,4 @@
 ---
-title: S04E08 - Les 12 mercenaires
 compteur_d_ep: 1
 date: 5 mars 2025
 saison: saison-4

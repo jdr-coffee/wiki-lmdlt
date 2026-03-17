@@ -1,5 +1,4 @@
 ---
-title: S02E21 - Conspirations & nouvelles théories
 compteur_d_ep: 1
 date: 31 août 2022
 saison: saison-2

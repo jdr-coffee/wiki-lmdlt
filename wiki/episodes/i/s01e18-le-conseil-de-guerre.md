@@ -1,5 +1,4 @@
 ---
-title: S01E18 - Le conseil de guerre
 compteur_d_ep: 1
 date: 30 juillet 2021
 saison: saison-1

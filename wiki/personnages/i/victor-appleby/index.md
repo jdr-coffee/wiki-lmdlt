@@ -1,5 +1,4 @@
 ---
-title: Victor Appleby
 description_rapide: Chef de la guilde des serviteurs à Agener et père de
 identifiant: 39
 ---

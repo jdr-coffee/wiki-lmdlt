@@ -1,5 +1,4 @@
 ---
-title: La Dame d’Ebène
 description_rapide: Capitaine pirate
 identifiant: 74
 ---

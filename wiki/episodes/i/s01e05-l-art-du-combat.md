@@ -1,5 +1,4 @@
 ---
-title: "S01E05 - L'art du combat"
 1ere_apparition_pour: [alice-holloway, plutarch]
 compteur_d_ep: 1
 date: 8 février 2021

@@ -1,5 +1,4 @@
 ---
-title: S04E10 - Duel de dames (feat. Petite Vitesse)
 compteur_d_ep: 1
 date: 16 avril 2025
 saison: saison-4

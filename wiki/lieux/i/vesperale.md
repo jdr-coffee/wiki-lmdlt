@@ -1,5 +1,4 @@
 ---
-title: Vespérale
 description_rapide: Capitale du Fief du Jarrier
 pays_royaumes: royaume-de-veloria
 ---

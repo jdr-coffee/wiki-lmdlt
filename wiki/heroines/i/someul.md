@@ -1,5 +1,4 @@
 ---
-title: Someul
 membres: sam
 ---
 

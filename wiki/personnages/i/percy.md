@@ -1,5 +1,4 @@
 ---
-title: Percy
 1ere_apparition: s03e11-la-soiree-des-ambassadeurs
 description_rapide: Chargé d’accompagner les ambassadeurs dans le palais de Sabrenas
 identifiant: 52

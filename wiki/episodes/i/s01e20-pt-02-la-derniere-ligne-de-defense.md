@@ -1,5 +1,4 @@
 ---
-title: S01E20 / Pt.02 - La dernière ligne de défense
 compteur_d_ep: [0, 5]
 date: 8 septembre 2021
 saison: saison-1

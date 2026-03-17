@@ -1,5 +1,4 @@
 ---
-title: Steve
 personnage: maitre-du-jeu
 ---
 

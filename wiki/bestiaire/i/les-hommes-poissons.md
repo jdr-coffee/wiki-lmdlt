@@ -1,5 +1,4 @@
 ---
-title: Les Hommes Poissons
 univers: le-dap
 ---
 

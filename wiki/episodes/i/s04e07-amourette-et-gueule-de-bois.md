@@ -1,5 +1,4 @@
 ---
-title: S04E07 - Amourette et gueule de bois
 compteur_d_ep: 1
 date: 19 février 2025
 saison: saison-4

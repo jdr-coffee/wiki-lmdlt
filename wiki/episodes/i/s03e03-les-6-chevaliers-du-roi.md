@@ -1,5 +1,4 @@
 ---
-title: S03E03 - Les 6 Chevaliers du Roi
 1ere_apparition_pour: [gregor, edric, hadrian, duncan, tristram, brunhilde]
 compteur_d_ep: 1
 date: 31 mai 2023

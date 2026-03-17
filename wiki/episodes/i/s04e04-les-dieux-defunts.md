@@ -1,5 +1,4 @@
 ---
-title: S04E04 - Les dieux défunts
 compteur_d_ep: 1
 date: 8 janvier 2025
 saison: saison-4

@@ -1,5 +1,4 @@
 ---
-title: Fyrlinel
 1ere_apparition: s02e17-faux-objets-en-pagaille
 description_rapide: Chef de la guilde des vide-poches de
 identifiant: 35

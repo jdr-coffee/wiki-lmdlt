@@ -1,5 +1,4 @@
 ---
-title: S01E13 - Les imposteurs moustachus
 compteur_d_ep: 1
 date: 19 mai 2021
 saison: saison-1

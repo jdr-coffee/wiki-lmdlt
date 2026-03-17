@@ -1,5 +1,4 @@
 ---
-title: Herevard
 1ere_apparition: s01e07-chasse-a-la-sorciere
 description_rapide: [Respondable de la Sécurité à la prison d’Agener, Archimage du feu]
 identifiant: 20

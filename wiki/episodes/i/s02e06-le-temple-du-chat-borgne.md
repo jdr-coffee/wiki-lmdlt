@@ -1,5 +1,4 @@
 ---
-title: S02E06 - Le Temple du Chat Borgne
 compteur_d_ep: 1
 date: 2 février 2022
 saison: saison-2

@@ -1,5 +1,4 @@
 ---
-title: Guilde des Eclaireurs
 lieu: royaume-de-veloria
 ---
 

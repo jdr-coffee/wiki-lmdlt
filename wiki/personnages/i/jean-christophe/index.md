@@ -1,5 +1,4 @@
 ---
-title: Jean-Christophe
 description_rapide: [Prisonier d’Agener, perd la joute verbale]
 identifiant: 91
 ---

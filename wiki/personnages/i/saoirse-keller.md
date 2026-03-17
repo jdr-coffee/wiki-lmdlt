@@ -1,5 +1,4 @@
 ---
-title: Saoirse Keller
 1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: [Bras droit d’Irena, grande connétable des armées du Palatinat de Sabrenas, soeur d’Eogan Keller]
 identifiant: 49

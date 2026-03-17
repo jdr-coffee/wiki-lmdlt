@@ -1,5 +1,4 @@
 ---
-title: Sbeve
 ---
 
 # Sbeve

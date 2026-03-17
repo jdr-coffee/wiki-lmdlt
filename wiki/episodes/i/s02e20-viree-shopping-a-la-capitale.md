@@ -1,5 +1,4 @@
 ---
-title: S02E20 - Virée shopping à la capitale
 compteur_d_ep: 1
 date: 17 août 2022
 saison: saison-2

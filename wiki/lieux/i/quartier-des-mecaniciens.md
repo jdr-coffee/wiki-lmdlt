@@ -1,5 +1,4 @@
 ---
-title: Quartier des Mécaniciens
 pays_royaumes: palatinat-de-sabrenas
 ---
 

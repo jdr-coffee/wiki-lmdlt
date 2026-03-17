@@ -1,5 +1,4 @@
 ---
-title: Cody Berryman
 1ere_apparition: s02e14-la-mysterieuse-heritiere
 description_rapide: Elève de l’école des Mages
 identifiant: 22

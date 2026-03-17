@@ -1,5 +1,4 @@
 ---
-title: Roi Théodorique 1er
 identifiant: 103
 ---
 

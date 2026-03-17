@@ -1,5 +1,4 @@
 ---
-title: La souris d’Agener
 univers: fantasy
 ---
 

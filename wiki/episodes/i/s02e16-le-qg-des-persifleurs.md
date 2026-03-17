@@ -1,5 +1,4 @@
 ---
-title: S02E16 - Le QG des persifleurs
 1ere_apparition_pour: [cassandra-tastrophe, nicholas-de-benevent, romeo]
 compteur_d_ep: 1
 date: 22 juin 2022

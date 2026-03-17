@@ -1,5 +1,4 @@
 ---
-title: Guilde de la Joie
 lieu: royaume-de-veloria
 ---
 

@@ -1,5 +1,4 @@
 ---
-title: Callum le mage
 identifiant: 85
 ---
 

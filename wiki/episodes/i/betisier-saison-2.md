@@ -1,5 +1,4 @@
 ---
-title: Bêtisier saison 2
 compteur_d_ep: 0
 date: 15 mars 2023
 saison: [saison-2, betisier]

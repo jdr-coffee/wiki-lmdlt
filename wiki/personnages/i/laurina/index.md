@@ -1,5 +1,4 @@
 ---
-title: Laurina
 identifiant: 79
 ---
 

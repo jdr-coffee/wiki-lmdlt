@@ -1,5 +1,4 @@
 ---
-title: S03E13 - Porté disparu
 1ere_apparition_pour: jaspe
 compteur_d_ep: 1
 date: 13 décembre 2023

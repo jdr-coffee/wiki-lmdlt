@@ -1,5 +1,4 @@
 ---
-title: S03E18 - L’Archimage Tombétoile
 1ere_apparition_pour: erasme-tombetoile
 compteur_d_ep: 1
 date: 6 mars 2024

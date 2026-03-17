@@ -1,5 +1,4 @@
 ---
-title: Roger
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: "Roger est l'ancien chef de la guilde des Vides-Poches."
 identifiant: 2

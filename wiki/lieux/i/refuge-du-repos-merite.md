@@ -1,5 +1,4 @@
 ---
-title: Refuge du repos mérité
 1er_apparition: s02e02-le-chalet-aux-v-ux
 description_rapide: [Chalet de Ernest Bâtoncreux, le plus gentil des chalets]
 time_code: "31:38"

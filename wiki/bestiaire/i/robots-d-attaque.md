@@ -1,5 +1,4 @@
 ---
-title: Robots d’attaque
 univers: fantasy
 ---
 

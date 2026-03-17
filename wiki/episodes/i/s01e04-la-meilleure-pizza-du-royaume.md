@@ -1,5 +1,4 @@
 ---
-title: S01E04 - La meilleure pizza du royaume
 1ere_apparition_pour: [izen, febastien]
 compteur_d_ep: 1
 date: 25 janvier 2021

@@ -1,5 +1,4 @@
 ---
-title: "S01E19 - La bataille d'Agener"
 compteur_d_ep: 1
 date: 11 août 2021
 saison: saison-1

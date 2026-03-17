@@ -1,5 +1,4 @@
 ---
-title: Ernest Bâtoncreux
 1ere_apparition: s02e02-le-chalet-aux-v-ux
 description_rapide: Mage créateur d’objet magique
 identifiant: 99

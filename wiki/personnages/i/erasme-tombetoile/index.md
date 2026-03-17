@@ -1,5 +1,4 @@
 ---
-title: Erasme Tombétoile
 1ere_apparition: s03e18-l-archimage-tombetoile
 description_rapide: Charlatan
 identifiant: 62

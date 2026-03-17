@@ -1,5 +1,4 @@
 ---
-title: Guilde des Cuistanciers
 chef: andrea
 lieu: royaume-de-veloria
 signe_distinctif: Portent tous une moustache

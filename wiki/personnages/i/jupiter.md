@@ -1,5 +1,4 @@
 ---
-title: Jupiter
 description_rapide: Championne de la Louve Mère
 identifiant: 76
 ---

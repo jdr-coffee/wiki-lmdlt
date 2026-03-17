@@ -1,5 +1,4 @@
 ---
-title: S02E22 - Le Grand Festival de la Louve Mère
 compteur_d_ep: 1
 date: 14 septembre 2022
 saison: saison-2

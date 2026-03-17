@@ -1,5 +1,4 @@
 ---
-title: Adelphes serpents
 type_de_dieu: Dieu naissant
 ---
 

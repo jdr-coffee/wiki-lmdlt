@@ -1,5 +1,4 @@
 ---
-title: Modèle personnage
 identifiant: 83
 ---
 

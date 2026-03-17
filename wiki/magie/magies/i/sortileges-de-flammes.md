@@ -1,5 +1,4 @@
 ---
-title: Sortilèges de Flammes
 ---
 
 # Sortilèges de Flammes

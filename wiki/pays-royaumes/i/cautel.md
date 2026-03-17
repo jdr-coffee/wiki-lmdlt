@@ -1,5 +1,4 @@
 ---
-title: Cautel
 ---
 
 # Cautel

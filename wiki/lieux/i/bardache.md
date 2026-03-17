@@ -1,5 +1,4 @@
 ---
-title: Bardache
 description_rapide: Fief de forgerons
 pays_royaumes: royaume-de-veloria
 ---

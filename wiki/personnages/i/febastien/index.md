@@ -1,5 +1,4 @@
 ---
-title: Fébastien
 1ere_apparition: s01e04-la-meilleure-pizza-du-royaume
 description_rapide: Cuistancier d’Agener
 identifiant: 15

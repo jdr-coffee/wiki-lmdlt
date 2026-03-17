@@ -1,5 +1,4 @@
 ---
-title: Place de la Libération
 pays_royaumes: palatinat-de-sabrenas
 ---
 

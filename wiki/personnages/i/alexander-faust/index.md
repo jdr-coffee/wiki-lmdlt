@@ -1,5 +1,4 @@
 ---
-title: Alexander Faust
 1ere_apparition: s03e25-le-quartier-des-mecaniciens-grosse-annonce
 description_rapide: Précurseur de l’officine de l’union mécanique
 identifiant: 63

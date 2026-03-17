@@ -1,5 +1,4 @@
 ---
-title: Gregor
 1ere_apparition: s03e03-les-6-chevaliers-du-roi
 description_rapide: "L'armure du roi"
 identifiant: 40

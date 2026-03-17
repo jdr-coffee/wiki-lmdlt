@@ -1,5 +1,4 @@
 ---
-title: Guilde des Vide Poches
 chef: roger
 lieu: royaume-de-veloria
 signe_distinctif: Une partie du crâne rasé

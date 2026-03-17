@@ -1,5 +1,4 @@
 ---
-title: Gorthor le Cruel
 1ere_apparition: s02e17-faux-objets-en-pagaille
 description_rapide: Acolyte de Fyrlinel
 identifiant: 33

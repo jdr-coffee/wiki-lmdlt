@@ -1,5 +1,4 @@
 ---
-title: S02E24 - La valeur du velour
 compteur_d_ep: 1
 date: 12 octobre 2022
 saison: saison-2

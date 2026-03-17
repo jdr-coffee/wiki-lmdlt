@@ -1,5 +1,4 @@
 ---
-title: S03E11 - La soirée des ambassadeurs
 1ere_apparition_pour: [percy, thyvald]
 compteur_d_ep: 1
 date: 18 octobre 2023

@@ -1,5 +1,4 @@
 ---
-title: "S02E19 - Le nouveau mage de l'esprit"
 compteur_d_ep: 1
 date: 3 août 2022
 saison: saison-2

@@ -1,5 +1,4 @@
 ---
-title: "S01E03 - L'adoption de Cid le Robot"
 1ere_apparition_pour: [cornelius, mira, cid]
 compteur_d_ep: 1
 date: 18 janvier 2021

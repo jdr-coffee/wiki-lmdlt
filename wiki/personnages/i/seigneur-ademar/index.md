@@ -1,5 +1,4 @@
 ---
-title: Seigneur Ademar
 description_rapide: seigneur-du-fief-de-bardache
 identifiant: 101
 ---

@@ -1,5 +1,4 @@
 ---
-title: Darryl
 identifiant: 82
 ---
 

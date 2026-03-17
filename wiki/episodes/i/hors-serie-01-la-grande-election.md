@@ -1,5 +1,4 @@
 ---
-title: "Hors-série#01 - La grande élection"
 1ere_apparition_pour: arakel
 compteur_d_ep: 1
 date: 27 octobre 2021

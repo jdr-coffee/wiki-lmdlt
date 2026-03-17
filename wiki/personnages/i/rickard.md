@@ -1,5 +1,4 @@
 ---
-title: Rickard
 1ere_apparition: s03e12-les-grands-de-sabrenas
 description_rapide: Un des Grands de Sabrenas
 identifiant: 56

@@ -1,5 +1,4 @@
 ---
-title: Jaspe
 1ere_apparition: s03e13-porte-disparu
 description_rapide: Occulte vivant au Palatinat de Sabrenas mais d’origine inconnue
 identifiant: 58

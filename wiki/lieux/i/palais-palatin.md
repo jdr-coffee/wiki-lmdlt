@@ -1,5 +1,4 @@
 ---
-title: Palais Palatin
 pays_royaumes: palatinat-de-sabrenas
 ---
 

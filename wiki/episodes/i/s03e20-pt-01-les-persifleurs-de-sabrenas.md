@@ -1,5 +1,4 @@
 ---
-title: S03E20 / Pt. 01 - Les persifleurs de Sabrenas
 compteur_d_ep: [0, 5]
 date: 3 avril 2024
 saison: saison-3

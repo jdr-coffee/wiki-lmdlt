@@ -1,5 +1,4 @@
 ---
-title: S03E06 - A bord du cristal des mers
 1ere_apparition_pour: isembart
 compteur_d_ep: 1
 date: 12 juillet 2023

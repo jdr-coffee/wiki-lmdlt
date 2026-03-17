@@ -1,5 +1,4 @@
 ---
-title: S01E14 - Cauchemar en Cuisine !
 1ere_apparition_pour: meuleuwa
 compteur_d_ep: 1
 date: 2 juin 2021

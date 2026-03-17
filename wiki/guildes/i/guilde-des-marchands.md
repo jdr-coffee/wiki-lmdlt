@@ -1,5 +1,4 @@
 ---
-title: Guilde des Marchands
 chef: orban
 lieu: palatinat-de-sabrenas
 ---

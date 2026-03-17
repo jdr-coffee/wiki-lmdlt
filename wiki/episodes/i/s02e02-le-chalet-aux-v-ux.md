@@ -1,5 +1,4 @@
 ---
-title: S02E02 -  Le chalet aux vœux
 1ere_apparition_pour: [les-jumeaux-milford, ernest-batoncreux]
 compteur_d_ep: 1
 date: 8 décembre 2021

@@ -1,5 +1,4 @@
 ---
-title: Yana
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Co-fondatrice de la guilde des persifleurs et grande amie de nos héroïnes
 identifiant: 5

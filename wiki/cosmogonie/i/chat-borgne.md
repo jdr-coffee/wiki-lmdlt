@@ -1,5 +1,4 @@
 ---
-title: Chat Borgne
 champion_ne: Neptune d’Aïra
 symbole: Un chat bicolore blanc et noir
 type_de_dieu: Dieu naissant

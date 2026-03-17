@@ -1,5 +1,4 @@
 ---
-title: Duncan
 1ere_apparition: s03e03-les-6-chevaliers-du-roi
 description_rapide: Le bouclier du roi
 identifiant: 43

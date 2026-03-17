@@ -1,5 +1,4 @@
 ---
-title: Jeckel
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Surveillant d’Agener toujours avec sont inséparables duo
 identifiant: 4

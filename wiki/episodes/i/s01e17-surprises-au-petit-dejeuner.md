@@ -1,5 +1,4 @@
 ---
-title: S01E17 - Surprises au petit déjeuner
 compteur_d_ep: 1
 date: 14 juillet 2021
 pnj_presents: lame

@@ -1,5 +1,4 @@
 ---
-title: Nicholas de Bénévent
 1ere_apparition: s02e16-le-qg-des-persifleurs
 description_rapide: Grand accusateur royal de Veloria
 identifiant: 32

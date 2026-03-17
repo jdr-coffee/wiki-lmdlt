@@ -1,5 +1,4 @@
 ---
-title: Pilote / Pt.02 - La cheftaine des mercenaires
 compteur_d_ep: 0
 date: 29 septembre 2021
 saison: pilote

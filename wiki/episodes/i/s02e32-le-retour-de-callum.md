@@ -1,5 +1,4 @@
 ---
-title: S02E32 - Le retour de Callum
 compteur_d_ep: 1
 date: 1 février 2023
 saison: saison-2

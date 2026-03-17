@@ -1,5 +1,4 @@
 ---
-title: S03E23 - Le retour du Chat Borgne
 compteur_d_ep: 1
 date: 15 mai 2024
 saison: saison-3

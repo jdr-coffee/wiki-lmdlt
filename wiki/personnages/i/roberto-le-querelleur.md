@@ -1,5 +1,4 @@
 ---
-title: Roberto le querelleur
 1ere_apparition: s02e17-faux-objets-en-pagaille
 description_rapide: Membre de la guilde des vides-poches
 identifiant: 34

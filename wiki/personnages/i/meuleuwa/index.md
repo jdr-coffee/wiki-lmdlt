@@ -1,5 +1,4 @@
 ---
-title: Meuleuwa
 1ere_apparition: s01e14-cauchemar-en-cuisine
 description_rapide: L’oie d’Agener
 identifiant: 21

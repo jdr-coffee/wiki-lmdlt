@@ -1,5 +1,4 @@
 ---
-title: Captain Croc-en-Jambes
 description: energie-combative-de-someul
 saisons: saison-1
 ---

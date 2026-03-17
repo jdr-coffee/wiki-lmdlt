@@ -1,5 +1,4 @@
 ---
-title: Orban
 description_rapide: Chef de la guilde des marchands
 identifiant: 60
 ---

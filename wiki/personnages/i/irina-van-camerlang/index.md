@@ -1,5 +1,4 @@
 ---
-title: Irina Van Camerlang
 identifiant: 105
 ---
 

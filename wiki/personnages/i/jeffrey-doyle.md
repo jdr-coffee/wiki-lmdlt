@@ -1,5 +1,4 @@
 ---
-title: Jeffrey Doyle
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: [Chef du quartier basse sécurité, prison d’Agener]
 identifiant: 6

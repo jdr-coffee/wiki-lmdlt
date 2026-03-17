@@ -1,5 +1,4 @@
 ---
-title: Jazz
 identifiant: 98
 origine: royaume-de-veloria
 ---

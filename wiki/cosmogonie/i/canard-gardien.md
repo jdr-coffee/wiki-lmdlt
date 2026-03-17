@@ -1,5 +1,4 @@
 ---
-title: Canard Gardien
 type_de_dieu: Dieu naissant
 ---
 

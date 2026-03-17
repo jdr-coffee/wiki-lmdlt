@@ -1,5 +1,4 @@
 ---
-title: Constance Defontaine
 description_rapide: Cheffe du quartier haute sécurité de la prison d’Agener
 identifiant: 68
 ---

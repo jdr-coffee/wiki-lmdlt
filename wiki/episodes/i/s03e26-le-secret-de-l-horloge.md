@@ -1,5 +1,4 @@
 ---
-title: S03E26 - Le secret de l’horloge
 compteur_d_ep: 1
 date: 26 juin 2024
 saison: saison-3

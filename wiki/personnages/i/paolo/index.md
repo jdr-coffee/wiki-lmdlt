@@ -1,5 +1,4 @@
 ---
-title: Paolo
 description_rapide: Garde d’agener
 identifiant: 89
 ---

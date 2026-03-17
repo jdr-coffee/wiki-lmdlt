@@ -1,5 +1,4 @@
 ---
-title: S03E28 - Dans la toile de l’araignée
 compteur_d_ep: 1
 date: 25 septembre 2024
 saison: saison-3

@@ -1,5 +1,4 @@
 ---
-title: Automne Vertecime
 description_rapide: Sœur cadette de Desdemona Vertecime
 identifiant: 75
 ---

@@ -1,5 +1,4 @@
 ---
-title: "S02E23 - Neptune & les Gardiens de l'Art"
 compteur_d_ep: 1
 date: 28 septembre 2022
 saison: saison-2

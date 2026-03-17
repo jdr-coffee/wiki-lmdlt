@@ -1,5 +1,4 @@
 ---
-title: S02E13 - Le club des distingués du destin
 compteur_d_ep: 1
 date: 11 mai 2022
 saison: saison-2

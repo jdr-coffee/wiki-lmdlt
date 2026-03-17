@@ -1,5 +1,4 @@
 ---
-title: Edric
 1ere_apparition: s03e03-les-6-chevaliers-du-roi
 description_rapide: La lance du roi
 identifiant: 41

@@ -1,5 +1,4 @@
 ---
-title: Ulgar
 1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Fossoyeur d’Agener
 identifiant: 7

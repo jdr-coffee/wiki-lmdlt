@@ -1,5 +1,4 @@
 ---
-title: Lelias Morton
 description_rapide: Chef de l’ordre des innocents
 identifiant: 51
 origine: royaume-de-veloria

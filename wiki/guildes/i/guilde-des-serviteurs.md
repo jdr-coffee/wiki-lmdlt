@@ -1,5 +1,4 @@
 ---
-title: Guilde des Serviteurs
 chef: victor-appleby
 lieu: royaume-de-veloria
 signe_distinctif: Une tresse dans les cheveux

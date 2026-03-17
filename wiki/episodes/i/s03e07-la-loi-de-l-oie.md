@@ -1,5 +1,4 @@
 ---
-title: S03E07 - La loi de l’oie
 compteur_d_ep: 1
 date: 26 juillet 2023
 saison: saison-3

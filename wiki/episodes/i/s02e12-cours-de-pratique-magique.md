@@ -1,5 +1,4 @@
 ---
-title: S02E12 - Cours de pratique magique
 compteur_d_ep: 1
 date: 27 avril 2022
 saison: saison-2

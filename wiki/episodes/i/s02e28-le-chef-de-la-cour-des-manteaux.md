@@ -1,5 +1,4 @@
 ---
-title: S02E28 - Le chef de la Cour des Manteaux
 compteur_d_ep: 1
 date: 7 décembre 2022
 saison: saison-2

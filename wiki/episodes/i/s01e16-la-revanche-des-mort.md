@@ -1,5 +1,4 @@
 ---
-title: S01E16 - La revanche des mort
 compteur_d_ep: 1
 date: 30 juin 2021
 saison: saison-1

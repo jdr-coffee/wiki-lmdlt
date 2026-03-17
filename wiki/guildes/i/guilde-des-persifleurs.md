@@ -1,5 +1,4 @@
 ---
-title: Guilde des Persifleurs
 chef: [yana, romeo]
 lieu: [royaume-de-veloria, palatinat-de-sabrenas]
 signe_distinctif: Sifflent pour se retrouver

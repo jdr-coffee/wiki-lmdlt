@@ -1,5 +1,4 @@
 ---
-title: La Vipère Azurine
 identifiant: 59
 ---
 

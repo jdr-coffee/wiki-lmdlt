@@ -1,5 +1,4 @@
 ---
-title: "S02E11 - La bibliothèque de l'invisible"
 compteur_d_ep: 1
 date: 13 avril 2022
 saison: saison-2

@@ -1,5 +1,4 @@
 ---
-title: La Magie des Esprits
 ---
 
 # La Magie des Esprits

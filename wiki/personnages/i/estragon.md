@@ -1,5 +1,4 @@
 ---
-title: Estragon
 description_rapide: Page de Sabrenas
 identifiant: 57
 ---

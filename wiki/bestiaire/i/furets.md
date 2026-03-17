@@ -1,5 +1,4 @@
 ---
-title: Furets
 univers: fantasy
 ---
 

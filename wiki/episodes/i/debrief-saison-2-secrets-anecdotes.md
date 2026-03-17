@@ -1,5 +1,4 @@
 ---
-title: Debrief Saison 2 + Secrets & Anecdotes
 compteur_d_ep: 0
 date: 15 février 2023
 saison: [saison-2, debrief]

@@ -1,5 +1,4 @@
 ---
-title: Plutarch
 1ere_apparition: s01e05-l-art-du-combat
 description_rapide: Directeur de la prison d’Agener
 identifiant: 17

@@ -1,5 +1,4 @@
 ---
-title: Lars
 1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: Première lame de Sabrenas
 identifiant: 53

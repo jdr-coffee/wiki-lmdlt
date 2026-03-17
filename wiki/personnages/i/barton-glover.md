@@ -1,5 +1,4 @@
 ---
-title: Barton Glover
 1ere_apparition: s04e06-nuit-blanche-a-cautel
 description_rapide: Le plus grand armateur de Cautel et ennemi direct de la Dame d’Ebène
 identifiant: 65

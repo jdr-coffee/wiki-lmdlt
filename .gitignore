@@ -1,0 +1,8 @@
+.DS_Store
+
+# Obsidian — fichiers personnels/locaux
+wiki/.obsidian/workspace.json
+wiki/.obsidian/workspace-mobile.json
+wiki/.obsidian/cache
+wiki/.obsidian/plugins/
+wiki/.obsidian/themes/

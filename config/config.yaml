@@ -4,6 +4,8 @@ description: Wiki officiel du podcast
 locale: fr
 
 # Apparence
+heading_font: cinzel
+sidebar_banner: /assets/sidebar-banner-lmdlt.png
 accent: "oklch(0.55 0.15 60)"
 accent_foreground: "oklch(0.98 0.02 60)"
 icon: /assets/favicon.png

@@ -4,7 +4,7 @@
 # Le Mythe de la Taverne
 
 :::subtitle
-Le wiki officiel du podcast de jeu de rôle
+Le wiki officiel du podcast d'actual play de jeu de rôles médiéval-fantasy
 :::
 
 Le Mythe de la Taverne, c'est [LE podcast](https://linktr.ee/lmdlt_pod) qui vous embarque dans des aventures palpitantes et des situations délirantes autour d'un jeu de rôles entre potes sans prises de tête, ça ressemble à Game of Thrones mais avec plus de lancés de dés et moins de fesses. Vous n'y connaissez rien aux jeux de rôles ? Vous adorerez le Mythe de la Taverne !

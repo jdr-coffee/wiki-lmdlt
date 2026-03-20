@@ -9,5 +9,5 @@
 
 ## Relations
 
-[Sans titre](personnages/i/laurina/sans-titre/index.md)
+Laurina apprécie nos héros après qu’ils lui ont fait goûter la meilleure pizza du monde.
 

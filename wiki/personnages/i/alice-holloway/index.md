@@ -20,5 +20,5 @@ Alice Holloway est une femme de petite taille et ventripotente, aux cheveux bouc
 
 ## Relations
 
-[Sans titre](personnages/i/alice-holloway/sans-titre/index.md)
+Alice respecte nos héros.
 

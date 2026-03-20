@@ -12,7 +12,3 @@ Description : il a des beaux cheveux chatains, coiffÃ©s en une raie au milieu. â
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/duncan/sans-titre/index.md)
-

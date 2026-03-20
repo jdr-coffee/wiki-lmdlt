@@ -21,9 +21,3 @@ Il est habillé d'une grande toge noire aux manches larges qui flottent derrièr
 L’Archimage Léonard Montgomery est le directeur du collège des mages.
 Archimage de foudre qui enseigne l’histoire de la magie au Collège des Mages, c’est un homme âgé
 
-## Relations
-
-Léonard considère nos héros comme de simples distingués, même s’il a un léger dédain pour Neptune
-
-[Sans titre](personnages/i/leonard-montgomery/sans-titre/index.md)
-

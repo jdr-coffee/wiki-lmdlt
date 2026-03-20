@@ -10,7 +10,3 @@ description_rapide: Capitaine pirate
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/la-dame-d-ebene/sans-titre/index.md)
-

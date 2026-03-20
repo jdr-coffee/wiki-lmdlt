@@ -12,9 +12,3 @@ Garde du quartier basse sécurité d’Agener, pas très vif d’esprit, il est 
 
 Relation avec les PJs : Jeckle apprécie fortement nos héros.
 
-## Relations
-
-Relation avec les PJs : Heckle apprécie fortement nos héros.
-
-[Sans titre](personnages/i/jeckel/sans-titre/index.md)
-

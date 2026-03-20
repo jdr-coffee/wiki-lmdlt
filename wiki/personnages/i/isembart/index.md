@@ -14,7 +14,3 @@ Isembart est un très grand homme avec de très larges épaules mais qui n'est p
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/isembart/sans-titre/index.md)
-

@@ -8,7 +8,3 @@ present_dans_l_ep: [s02e17-faux-objets-en-pagaille, s02e18-la-guerre-des-guildes
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/fyrlinel/sans-titre/index.md)
-

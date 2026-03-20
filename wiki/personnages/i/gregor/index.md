@@ -10,7 +10,3 @@ Gregor est un des 6 chevaliers du roi. Il est en charge des dÃ©fenses de la citÃ
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/gregor/sans-titre/index.md)
-

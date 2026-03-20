@@ -22,5 +22,7 @@ C’est un marchand, d’autres diraient un charlatan. Quand les PJ l’abordent
 
 ## Relations
 
-[Sans titre](personnages/i/izzy/sans-titre/index.md)
+• Izzy apprécie nos héros qu’il voit comme de bons partenaires commerciaux, sauf Chelinka, à qui il en veut de l’avoir fait perdre son temps à chercher sa brosse.
+• Izzy apprécie nos héros qu’il voit comme de bons partenaires commerciaux
+Izzy est le bras droit de victor
 

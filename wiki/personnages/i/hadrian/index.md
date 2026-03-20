@@ -12,7 +12,3 @@ Description : c'est un homme à la mine assez sévère et qui a l'air froid et c
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/hadrian/sans-titre/index.md)
-

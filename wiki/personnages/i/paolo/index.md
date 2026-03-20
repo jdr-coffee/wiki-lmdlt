@@ -7,7 +7,3 @@ description_rapide: Garde d’agener
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/paolo/sans-titre/index.md)
-

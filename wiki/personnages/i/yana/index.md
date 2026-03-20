@@ -30,5 +30,5 @@ Yana par
 
 ## Relations
 
-[Sans titre](personnages/i/yana/sans-titre/index.md)
+Yana est une très proche amie de nos trois héros, qui les considèrent comme des grands frères et sœurs.
 

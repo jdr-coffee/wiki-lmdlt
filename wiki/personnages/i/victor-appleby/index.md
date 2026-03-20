@@ -10,7 +10,3 @@ Son bras droit est [Izzy](personnages/i/izzy/index.md)
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/victor-appleby/sans-titre/index.md)
-

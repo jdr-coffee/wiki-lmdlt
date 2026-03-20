@@ -17,7 +17,3 @@ Jonas est le propriétaire d’une boutique de ventes d’objets en tout genres 
 
 Une fois que nos héroïnes ont découvert la vérité sur l’objet de Sarah Petrova ils vendirent l’objet vide à Jonas une coquette somme sans pour autant lui dire que son contenu fût vidées . Ils quittèrent Jonas en ne sachant pas si la supercherie seras découverte un jour .
 
-## Relations
-
-[Sans titre](personnages/i/jonas/sans-titre/index.md)
-

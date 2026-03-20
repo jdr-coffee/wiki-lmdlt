@@ -31,5 +31,5 @@ On apprend que Desdemona est héritière du fief du Jarrier.
 
 ## Relations
 
-[Sans titre](personnages/i/desdemona-vertecime/sans-titre/index.md)
+Desdemona est proche de nos héros, même si elle a une légère rancœur envers eux après une utilisation de son apprentissage qu’elle juge mauvaise.
 

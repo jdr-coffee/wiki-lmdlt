@@ -12,7 +12,3 @@ C’est en réalité un charlatan de Sabrenas
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/erasme-tombetoile/sans-titre/index.md)
-

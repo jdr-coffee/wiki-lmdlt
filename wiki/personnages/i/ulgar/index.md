@@ -23,5 +23,5 @@ Ulgar est le fossoyeur d’Agener. Il est le frère d’Olgar le Forgeron.
 
 ## Relations
 
-[Sans titre](personnages/i/ulgar/sans-titre/index.md)
+Ulgar est redevable envers nos héros pour avoir résolu le mystère du cimetière, même s’il aurait préféré tomber sur des personnes moins maladroites.
 

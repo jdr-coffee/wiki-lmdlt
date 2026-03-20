@@ -11,5 +11,5 @@ present_dans_l_ep: s01e05-l-art-du-combat
 
 ## Relations
 
-[Sans titre](personnages/i/izen/sans-titre/index.md)
+Izen se sent proche de nos héros grâce à la confiance qu’ils lui accordent
 

@@ -13,7 +13,3 @@ Il porte une chemise blanche avec des boutons de manchette en cuivre, une cravat
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/alexander-faust/sans-titre/index.md)
-

@@ -11,7 +11,3 @@ present_dans_l_ep: s02e16-le-qg-des-persifleurs
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/cassandra-tastrophe/sans-titre/index.md)
-

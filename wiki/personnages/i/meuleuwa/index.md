@@ -7,7 +7,3 @@ description_rapide: L’oie d’Agener
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/meuleuwa/sans-titre/index.md)
-

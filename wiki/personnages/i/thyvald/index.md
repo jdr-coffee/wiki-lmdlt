@@ -14,7 +14,3 @@ C’est un homme noir, arborant un immense sourire. Il est habillé de façon ex
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/thyvald/sans-titre/index.md)
-

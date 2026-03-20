@@ -16,5 +16,5 @@ present_dans_l_ep: s01e05-l-art-du-combat
 
 ## Relations
 
-[Sans titre](personnages/i/cornelius/sans-titre/index.md)
+Il est gré à nos héros pour avoir essayé de faire accepter le Cid dans la prison.
 

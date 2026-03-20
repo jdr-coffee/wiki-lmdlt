@@ -12,7 +12,3 @@ Aliénor est une personne assez discrète, veuve. Elle aimait beaucoup écrire, 
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/alienor/sans-titre/index.md)
-

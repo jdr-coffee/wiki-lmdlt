@@ -18,5 +18,5 @@ Directeur de la prison d’Agener
 
 ## Relations
 
-[Sans titre](personnages/i/plutarch/sans-titre/index.md)
+Plutarque considère nos héros comme des prisonniers respectables, prêts à tout pour se racheter.
 

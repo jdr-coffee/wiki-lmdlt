@@ -18,7 +18,3 @@ Melchior est un grand homme à la carrure grande et imposante portant des habits
 
 *Melchior-par-ZatZatZatou*
 
-## Relations
-
-[Sans titre](personnages/i/melchior/sans-titre/index.md)
-

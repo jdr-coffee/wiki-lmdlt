@@ -18,7 +18,3 @@ Titres :
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/irena-von-kamerling/sans-titre/index.md)
-

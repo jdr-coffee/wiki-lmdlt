@@ -17,7 +17,3 @@ Nous apprenons qu’Ervin est un membre des Persifleurs de Sabrenas
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/ervin/sans-titre/index.md)
-

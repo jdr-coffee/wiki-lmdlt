@@ -13,5 +13,6 @@ Darryl a un corps imposant et musclé recouvert de cicatrices en tous genres, la
 
 ## Relations
 
-[Sans titre](personnages/i/darryl/sans-titre/index.md)
+Darryl est l’homme de main de Alice Holloway
+Darryl pense la même chose qu’Alice Holloway au sujet de nos héros.
 

@@ -10,7 +10,3 @@ Edric est un des 6 chevaliers du roi. Il s'occupe de faire régner l'ordre dans 
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/edric/sans-titre/index.md)
-

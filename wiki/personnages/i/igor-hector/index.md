@@ -8,7 +8,3 @@ present_dans_l_ep: s02e18-la-guerre-des-guildes
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/igor-hector/sans-titre/index.md)
-

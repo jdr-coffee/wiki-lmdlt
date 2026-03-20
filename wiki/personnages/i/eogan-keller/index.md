@@ -23,5 +23,5 @@ Il est emprisonné au quartier à sécurité renforcée d’Agener.
 
 ## Relations
 
-[Sans titre](personnages/i/eogan-keller/sans-titre/index.md)
+Eogan apprécie nos héros, étant heureux de voir des gens qui comprennent sa situation et son état d’esprit.
 

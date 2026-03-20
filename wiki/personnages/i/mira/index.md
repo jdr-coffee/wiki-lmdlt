@@ -18,5 +18,5 @@ Elle est reconnaissable par ses longs cheveux bouclés mis en chignon et ses vê
 
 ## Relations
 
-[Sans titre](personnages/i/mira/sans-titre/index.md)
+Mira est en général indifférente envers nos héros, sauf quand ces derniers parlent de son art.
 

@@ -23,7 +23,3 @@ On sait qu'il est chauve et surtout qu'il est borgne (c'est sa principale caract
 On apprendra, grâce à [Yana](personnages/i/yana/index.md), son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
 
 
-## Relations
-
-[Sans titre](personnages/i/roger/sans-titre/index.md)
-

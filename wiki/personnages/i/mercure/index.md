@@ -12,7 +12,3 @@ Mercure est une femme au cheveux rouge sang habillée d’une robe blanche en so
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/mercure/sans-titre/index.md)
-

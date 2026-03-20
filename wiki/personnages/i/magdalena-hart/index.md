@@ -28,7 +28,3 @@ ses soins.
 | Haquebute de Magda | lourde, difficile à manier et impossible à comprendre, l’haquebute de Magda ressemble davantage à un assemblage artistique de pièces en métal qu’à une véritable arme à feu. Entièrement imaginée et confectionnée par Magda, cette haquebute modifiée permet de tirer des munitions spéciales : un projectile en bois, à haute vélocité, des giclées d’huiles ou des nuages urticants. Elle peut également être transformée en un robot à six pattes prénommé Bobby, capable d’effectuer des actions et d’obéir des ordres simples |
 | … | … |
 
-## Relations
-
-[Sans titre](personnages/i/magdalena-hart/sans-titre/index.md)
-

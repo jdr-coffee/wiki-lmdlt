@@ -7,7 +7,3 @@ description_rapide: seigneur-du-fief-de-bardache
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/seigneur-ademar/sans-titre/index.md)
-

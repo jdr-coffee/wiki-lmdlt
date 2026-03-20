@@ -18,7 +18,3 @@ Eriksen est poli, réservé et introverti
 
 ## Histoire
 
-## Relations
-
-[Sans titre](personnages/i/eriksen/sans-titre/index.md)
-

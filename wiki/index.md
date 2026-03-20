@@ -1,4 +1,6 @@
 ---
+cover: images/lmdlt.png
+cover_position: center
 ---
 
 # Le Mythe de la Taverne

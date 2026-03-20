@@ -1,31 +1,18 @@
 ---
-1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Militant contre les religions enfermé à Agener dans la citadelle
-identifiant: 3
-origine: royaume-de-veloria
 present_dans_l_ep: s01e01-les-morts-disparus
 ---
 
 # Eogan Keller
 
 
-## Introduction
-
-`[Post descriptif posté sur instagram s’il existe]`
-
-`[Courte description/paragraphe d’intro]`
-
-## Description
-
 ## Présentation dans l’épisode 1
-
 
 
 Il est supposé être placé dans le quartier de très haute sécurité de la prison
 
 [description physique]
 
-%%NOTION_LINK%%
 
 ## Histoire
 
@@ -38,9 +25,3 @@ Il est emprisonné au quartier à sécurité renforcée d’Agener.
 
 [Sans titre](personnages/i/eogan-keller/sans-titre/index.md)
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

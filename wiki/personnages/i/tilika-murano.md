@@ -1,6 +1,5 @@
 ---
 description_rapide: Fille héritière des Murano et protégée de Chelinka
-identifiant: 73
 ---
 
 # Tilika Murano
@@ -11,3 +10,4 @@ identifiant: 73
 Tilika par  
 
 ![image.png](images/tilika-murano-image.png)
+

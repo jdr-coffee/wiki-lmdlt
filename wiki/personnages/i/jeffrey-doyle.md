@@ -1,8 +1,5 @@
 ---
-1ere_apparition: s01e01-les-morts-disparus
 description_rapide: [Chef du quartier basse sécurité, prison d’Agener]
-identifiant: 6
-origine: royaume-de-veloria
 present_dans_l_ep: [s01e01-les-morts-disparus, s01e02-baston-generale-a-la-cantoche, s01e07-chasse-a-la-sorciere]
 ---
 
@@ -62,12 +59,3 @@ Ils sont amis, et leurs quartiers sont proches. Erevar l'a **sermonné** pour av
 
  Jeffrey le décrit comme "un peu carré carré". L'absence de Plutark est à l'origine des ambitions de Jeffrey.
 
-## Evolution au cours des saisons
-
-
-(A vérifier)
-
-> [!tip]
-> ## Fun fact
-> 
-> Il est surnommé « l’œuf » à cause de son crâne chauve.

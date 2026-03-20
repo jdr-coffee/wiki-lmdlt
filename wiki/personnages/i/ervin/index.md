@@ -1,7 +1,5 @@
 ---
-1ere_apparition: s03e15-pactiser-avec-l-ennemi
 description_rapide: Persifleur et mécène de Sabrenas
-identifiant: 61
 timecode: "40:13"
 ---
 
@@ -16,24 +14,6 @@ Ervin est un homme assez âgé qui tient une canne. Une certaine joie de vivre s
 
 Nous apprenons qu’Ervin est un membre des Persifleurs de Sabrenas
 
-> [!tip]
-> ## Conseils
-> 
-> Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
-
-## Introduction
-
-X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
-
-`[Post descriptif posté sur instagram s’il existe]`
-
-`[Courte description/paragraphe d’intro]`
-
-## Description
-
-`[indiquer une description de l’image (cliquer sur l’image→ cliquer sur les 3 points→ légende) ]`
-
-%%NOTION_LINK%%
 
 ## Histoire
 
@@ -41,9 +21,3 @@ X est un.e PJ incarné.e pendant les épisodes X de la saison X par X.
 
 [Sans titre](personnages/i/ervin/sans-titre/index.md)
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

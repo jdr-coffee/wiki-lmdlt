@@ -1,6 +1,5 @@
 ---
 description_rapide: Championne de la Louve Mère
-identifiant: 76
 ---
 
 # Jupiter
@@ -13,3 +12,4 @@ Jupiter par
 ## Histoire
 
 ### Saison 4
+

@@ -1,8 +1,5 @@
 ---
-1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: [Bras droit d’Irena, grande connétable des armées du Palatinat de Sabrenas, soeur d’Eogan Keller]
-identifiant: 49
-origine: royaume-de-veloria
 ---
 
 # Saoirse Keller
@@ -28,14 +25,8 @@ Ses cheveux sont d’un côté long, d’un côté court, son bras gauche est en
 
 - Connétable des armées de Sabrenas, elle est, comme son frère, opposés au régime en place à Veloria.
 
-## Evolution au cours des saisons
-
 ## Relations
 
 - Elle est la soeur d’Eogan Keller
 - Relation avec les PJs : Saoirse fait énormément confiance à nos héros, notamment à Neptune avec qui elle a une relation toute particulière.
 
-> [!tip]
-> ## Fun fact
-> 
-> -

@@ -1,7 +1,5 @@
 ---
-1ere_apparition: s01e02-baston-generale-a-la-cantoche
 description_rapide: [Capitaine des gardes, Responsable de la Citadelle de la prison d’Agener]
-identifiant: 8
 present_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s01e05-l-art-du-combat]
 ---
 
@@ -12,18 +10,6 @@ Description :
 
 Histoire : Elle est capitaine de faction et donc chargée de la sécurité et du maintien de l’ordre dans la prison.
 
-> [!tip]
-> ## Conseils
-> 
-> Si possible, préciser la source de l’info en indiquant l’épisode/le timecode *[S01E09 - 32:28]*
-
-## Introduction
-
-X est un.e PJ incarné.e pendant les épisodes X de la saison X par X. 
-
-`[Post descriptif posté sur instagram s’il existe]`
-
-`[Courte description/paragraphe d’intro]`
 
 ## Description
 
@@ -43,9 +29,3 @@ Capitaine de faction et responsable de la Citadelle, chargée de la sécurité e
 
 [Sans titre](personnages/i/carissa-skyke/sans-titre/index.md)
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

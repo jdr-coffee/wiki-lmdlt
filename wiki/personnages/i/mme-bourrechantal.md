@@ -1,6 +1,3 @@
----
-identifiant: 71
----
 
 # Mme Bourrechantal
 
@@ -21,9 +18,3 @@ Marie Bourrechantal est une femme de petite taille, bien habillé et aux bonnes 
 
 *“ Cordiale mais n'ayant peur de rien, le personnage de [@petitevitesse](https://www.instagram.com/petitevitesse/) a fait une entrée mémorable dans l'aventure de nos joueuses ! On a hâte de vous montrer l'ampleur de son courage et de ses talents, bien à vous, cordialement. “*
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

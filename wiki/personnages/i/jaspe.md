@@ -1,7 +1,5 @@
 ---
-1ere_apparition: s03e13-porte-disparu
 description_rapide: Occulte vivant au Palatinat de Sabrenas mais d’origine inconnue
-identifiant: 58
 ---
 
 # Jaspe
@@ -22,3 +20,4 @@ Homme vêtu de noir de la tête aux pieds. Il a une longue demi cape noire, bord
 Il porte également un pantalon ample a rivets et de lourdes bottes de cuir cloutées.
 L'élément le plus spectaculaire de son attirail est un masque rouge opaque, encerclant entièrement sa tête, occultant totalement son visage. Il est impossible de discerner ses traits, de deviner son genre ou ses expressions faciales ou même de savoir s’il possède un visage humain.
 Son masque est fait d’une matière rouge sombre entre la pierre et le métal, lisse et luisante d’une manière étrange, parcourue de milliers d’éclats noirs et de volutes ensorcelantes, comme une galaxie rouge. Une aura de mystère émane de cet homme
+

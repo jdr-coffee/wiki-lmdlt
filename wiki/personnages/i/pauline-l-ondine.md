@@ -1,8 +1,5 @@
 ---
-1ere_apparition: s01e15-dernieres-revelations
 description_rapide: [Esprit de l’eau aux cheveux blancs, yeux bleux et longue robe d’écume]
-identifiant: 100
-origine: royaume-de-veloria
 present_dans_l_ep: s01e15-dernieres-revelations
 ---
 
@@ -16,7 +13,6 @@ present_dans_l_ep: s01e15-dernieres-revelations
 ## Introduction
 
 **Pauline l’Ondine** est un **esprit millénaire de l’eau** originaire d’**Agener**.
-
 
 
 ## Description
@@ -57,12 +53,3 @@ Depuis l’emprisonnement de Yana, les deux échangent régulièrement. Pauline 
 - [Desdemona Vertecime](personnages/i/desdemona-vertecime/index.md)  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
 - **Les affres** : Pauline a conscience de leur présence malfaisante à Agener.
 
-## Evolution au cours des saisons
-
-Jusqu’à présent, Pauline n’apparaît qu’au **S01E15**, mais son existence laisse entrevoir la présence d’autres **esprits élémentaires** dans le monde du Mythe de la Taverne.
-
-> [!tip]
-> ## Fun fact
-> 
-> - Le nom “**Pauline L’ondine**” est un jeu de mots improvisé par les joueurs lors de sa première apparition.
-> - Son “don de fertilité” inclut un risque chiffré de 15% d’être enceinte, une règle humoristique instaurée par le MJ.

@@ -1,8 +1,5 @@
 ---
-1ere_apparition: s01e01-les-morts-disparus
 description_rapide: Co-fondatrice de la guilde des persifleurs et grande amie de nos héroïnes
-identifiant: 5
-origine: royaume-de-veloria
 present_dans_l_ep: s01e01-les-morts-disparus
 ---
 
@@ -34,3 +31,4 @@ Yana par
 ## Relations
 
 [Sans titre](personnages/i/yana/sans-titre/index.md)
+

@@ -1,6 +1,3 @@
----
-identifiant: 85
----
 
 # Callum le mage
 
@@ -8,3 +5,4 @@ identifiant: 85
 ![Callum par  ](images/Callum.png)
 
 Callum par
+

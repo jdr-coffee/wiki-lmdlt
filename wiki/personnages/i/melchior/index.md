@@ -1,6 +1,3 @@
----
-identifiant: 67
----
 
 # Melchior
 
@@ -25,9 +22,3 @@ Melchior est un grand homme à la carrure grande et imposante portant des habits
 
 [Sans titre](personnages/i/melchior/sans-titre/index.md)
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

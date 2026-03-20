@@ -1,6 +1,3 @@
----
-identifiant: 66
----
 
 # Magdalena Hart
 
@@ -35,9 +32,3 @@ ses soins.
 
 [Sans titre](personnages/i/magdalena-hart/sans-titre/index.md)
 
-## Evolution au cours des saisons
-
-> [!tip]
-> ## Fun fact
-> 
-> -

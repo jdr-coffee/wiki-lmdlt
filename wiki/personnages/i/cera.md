@@ -1,8 +1,5 @@
 ---
-1ere_apparition: s03e09-le-palatinat-de-sabrenas-feat-diceyclipse
 description_rapide: Prêtresse de Kanacéraphe
-identifiant: 47
-origine: royaume-de-veloria
 ---
 
 # Cera
@@ -28,3 +25,4 @@ Elle a l’air super contente d’être là. *“C’est rayon de soleil 3000”
 [Équipement](personnages/cera/equipement/index.md)
 
 [Compétences](personnages/cera/competences/index.md)
+

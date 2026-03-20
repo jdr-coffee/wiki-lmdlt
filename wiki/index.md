@@ -1,7 +1,7 @@
 ---
 ---
 
-# Wiki - Le Mythe de la Taverne
+# Le Mythe de la Taverne
 
 :::subtitle
 Le wiki officiel du podcast de jeu de rôle

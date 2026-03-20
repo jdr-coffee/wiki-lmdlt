@@ -3,6 +3,10 @@
 
 # Wiki - Le Mythe de la Taverne
 
+:::subtitle
+Le wiki officiel du podcast de jeu de rôle
+:::
+
 Le Mythe de la Taverne, c'est [LE podcast](https://linktr.ee/lmdlt_pod) qui vous embarque dans des aventures palpitantes et des situations délirantes autour d'un jeu de rôles entre potes sans prises de tête, ça ressemble à Game of Thrones mais avec plus de lancés de dés et moins de fesses. Vous n'y connaissez rien aux jeux de rôles ? Vous adorerez le Mythe de la Taverne !
 
 Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [**Steve**](l-equipe/i/steve/index.md). Trois joueureuses l'accompagnent lors des épisodes : [Ninon](l-equipe/i/ninon.md)  ([Chelinka](heroines/i/chelinka.md) ), [Sam](l-equipe/i/sam.md)  ([Someul](heroines/i/someul.md) ) et [Camille](l-equipe/i/camille.md)  ([Neptune](heroines/i/neptune.md) ).

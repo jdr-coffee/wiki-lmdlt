@@ -1,6 +1,6 @@
 # Identité du site
 title: Le Mythe de la Taverne
-description: Wiki officiel du podcast
+description: Le wiki officiel du podcast d'actual play de jeu de rôles médiéval-fantasy, avec des joueurs autour d'une table et un maître du jeu, dans un ton fun et sans prise de tête.
 locale: fr
 
 # Apparence
@@ -8,8 +8,7 @@ heading_font: cinzel
 sidebar_banner: /assets/sidebar-banner-lmdlt.png
 accent: "oklch(0.55 0.15 60)"
 accent_foreground: "oklch(0.98 0.02 60)"
-icon: /assets/favicon.png
-site_icon: /assets/logo.png
+icon: /assets/icon.png
 
 # Navigation (ordre des sections dans la sidebar — slugs racine)
 # nav:

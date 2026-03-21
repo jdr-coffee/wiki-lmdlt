@@ -5,10 +5,8 @@ date: 16 juin 2021
 pnj_presents: pauline-l-ondine
 saison: saison-1
 univers: fantasy
+title: S01E15 - Dernières révélations
 ---
-
-# S01E15 - Dernières révélations
-
 
 *L'épisode "**Dernières Révélations**" est le 15e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 19e épisode enregistré par le groupe.*

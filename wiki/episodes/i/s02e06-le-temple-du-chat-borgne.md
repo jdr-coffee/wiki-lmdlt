@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 2 février 2022
 saison: saison-2
 univers: fantasy
+title: S02E06 - Le Temple du Chat Borgne
 ---
-
-# S02E06 - Le Temple du Chat Borgne
-
 
 *L'épisode "**Le Temple du Chat Borgne**" est le 6e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 31e épisode enregistré par le groupe.*

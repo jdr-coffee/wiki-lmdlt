@@ -1,6 +1,4 @@
 ---
 personnage: artemis
-draft: "true"
+draft: 'true'
 ---
-
-# Angela

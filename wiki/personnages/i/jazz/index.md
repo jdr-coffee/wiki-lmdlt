@@ -1,6 +1,6 @@
-
-# Jazz
-
+---
+title: Jazz
+---
 
 ## Histoire
 

@@ -1,6 +1,5 @@
 ---
 personnages: cera
-draft: "true"
+draft: 'true'
+title: Louise, Diceyclipe
 ---
-
-# Louise, Diceyclipe

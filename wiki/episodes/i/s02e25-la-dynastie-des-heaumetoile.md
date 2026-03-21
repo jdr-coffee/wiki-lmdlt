@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 26 octobre 2022
 saison: saison-2
 univers: fantasy
+title: "S02E25\_- La dynastie des Heaumétoile"
 ---
-
-# S02E25 - La dynastie des Heaumétoile
-
 
 *L'épisode "**La Dynastie des Heaumétoile**" est le 25e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 50e épisode enregistré par le groupe.*

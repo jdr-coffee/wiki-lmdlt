@@ -1,10 +1,10 @@
 ---
 description_rapide: Herboriste talentueuse et héritière du fief du Jarrier
-present_dans_l_ep: [s01e06-une-tres-tres-mauvaise-nuit, s01e08-la-nuit-des-morts-vivants]
+present_dans_l_ep:
+  - s01e06-une-tres-tres-mauvaise-nuit
+  - s01e08-la-nuit-des-morts-vivants
+title: Desdemona Vertecime
 ---
-
-# Desdemona Vertecime
-
 
 ## Introduction
 
@@ -16,7 +16,7 @@ Famille Vertecime.
 - Desdemona est une jeune femme rousse énergique de taille moyenne.
 - La première fois que l’on rencontre Desdemona, elle a la peau verte, les paupières violettes, du lierre lui poussant sur la peau et couvrant la majorité de son corps, cette apparence est due à une malédiction.
 
-![image.png](images/desdemona-vertecime-image.png)
+![image.png](wiki/images/desdemona-vertecime-image.png)
 
 ## Histoire
 

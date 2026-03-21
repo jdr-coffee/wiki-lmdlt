@@ -2,12 +2,10 @@
 champion_ne: Neptune d’Aïra
 symbole: Un chat bicolore blanc et noir
 type_de_dieu: Dieu naissant
+title: Chat Borgne
 ---
 
-# Chat Borgne
-
-
-![image.png](images/add89792-2a6d-451d-bbdb-c69722171826.png)
+![image.png](wiki/images/add89792-2a6d-451d-bbdb-c69722171826.png)
 
 ### Dieu du chaos, des soins et de la dualité
 
@@ -33,6 +31,6 @@ Le chat borgne est un dieu double-face, aussi bien perfide et cruel que sage et 
 > 
 > [*Etude des usages, savoirs et pratiques](https://www.instagram.com/p/C7wtpLktOyb/), par le mage Pierre Kubenni*
 
-![image.png](images/chat-borgne-image.png)
+![image.png](wiki/images/chat-borgne-image.png)
 
                                                                 ***Le chat Borgne, pixel art part LeFlopla***

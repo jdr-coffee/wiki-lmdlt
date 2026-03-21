@@ -3,9 +3,6 @@ lieu: royaume-de-veloria
 signe_distinctif: Tatouage du symbole pique ♠ sous l’oeil
 ---
 
-# Guilde des flambeurs
-
-
 ## Histoire de la Guilde
 
 

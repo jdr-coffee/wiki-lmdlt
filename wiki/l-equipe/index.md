@@ -1,3 +1,4 @@
-# L'équipe
-
+---
+title: L'équipe
+---
 ::base

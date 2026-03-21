@@ -1,8 +1,6 @@
 ---
+title: Dictionnaire
 ---
-
-# Dictionnaire
-
 
 ## Dictionnaire saison 2
 

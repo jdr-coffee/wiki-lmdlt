@@ -1,6 +1,6 @@
-
-# Seigneur Murano
-
+---
+title: Seigneur Murano
+---
 
 ## Histoire
 

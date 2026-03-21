@@ -1,7 +1,6 @@
 ---
+title: La Magie Élémentaire
 ---
-
-# La Magie Élémentaire
 
 La magie élémentaire, aussi appelé la magie des éléments, ou simplement l’Art, permet de plier à sa volonté des puissantes forces naturelles. La pratique de la magie élémentaire se divise ainsi en 6 branches, chacune d’elle correspondant à maîtrise d’une force naturelle distincte : l’eau, le feu, la terre, la foudre le givre et l’air.
 

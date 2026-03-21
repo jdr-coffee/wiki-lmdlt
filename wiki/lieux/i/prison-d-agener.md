@@ -1,10 +1,8 @@
 ---
 description_rapide: Prison aux confins du monde
 pays_royaumes: royaume-de-veloria
+title: Prison d’Agener
 ---
-
-# Prison d’Agener
-
 
 Située au milieux des montagnes, c’est une ville-prison entourée de hautes murailles. Construite sur le flanc d’une montagne, on ne peut y accéder qu’en traversant un pont. 
 
@@ -18,4 +16,4 @@ Ville centenaire impénétrable transformées en prison pour accueillir les pire
 - Citadelle : lieu où se trouvent le centre de garde de la prison, ainsi que là où les prisonniers les plus dangereux du royaume sont retenus.
 - Cimetière antique de la vieille ville : lieu où 3 corps furent retrouvés dans des conditions étranges.
 
-[Sans titre](lieux/prison-d-agener/sans-titre/index.md)
+[[lieux/prison-d-agener/sans-titre|Sans titre]]

@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 21 avril 2021
 saison: saison-1
 univers: fantasy
+title: S01E11 - L’affrontement de tous les dangers
 ---
-
-# S01E11 - L’affrontement de tous les dangers
-
 
 *L'épisode "**L’affrontement de tous les dangers**" est le 11e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 15e épisode enregistré par le groupe.*

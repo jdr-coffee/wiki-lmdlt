@@ -3,9 +3,6 @@ description: Couper court à un affrontement en emprisonnant ses ennemis dans de
 saisons: saison-1
 ---
 
-# Oeufer
-
-
 Couper court à un affrontement en emprisonnant ses ennemis dans des œufs. 
 
 

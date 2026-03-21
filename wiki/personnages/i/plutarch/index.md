@@ -1,10 +1,8 @@
 ---
 description_rapide: Directeur de la prison d’Agener
 present_dans_l_ep: s01e05-l-art-du-combat
+title: Plutarch
 ---
-
-# Plutarch
-
 
 ## Description
 

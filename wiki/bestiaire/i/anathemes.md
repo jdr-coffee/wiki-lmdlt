@@ -1,6 +1,5 @@
 ---
 univers: fantasy
-draft: "true"
+draft: 'true'
+title: Anathèmes
 ---
-
-# Anathèmes

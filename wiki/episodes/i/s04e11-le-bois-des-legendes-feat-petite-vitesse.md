@@ -2,10 +2,8 @@
 compteur_d_ep: 1
 saison: saison-4
 univers: fantasy
+title: S04E11 - Le Bois des Légendes (feat. Petite Vitesse)
 ---
-
-# S04E11 - Le Bois des Légendes (feat. Petite Vitesse)
-
 
 *L'épisode "**Le Bois des Légendes (feat. Petite Vitesse)”** est le 11e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 103e épisode enregistré par le groupe.*

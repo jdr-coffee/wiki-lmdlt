@@ -1,6 +1,5 @@
 ---
 personnages: magdalena-hart
-draft: "true"
+draft: 'true'
+title: Zoé, La Belliqueuse
 ---
-
-# Zoé, La Belliqueuse

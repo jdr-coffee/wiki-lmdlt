@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 26 juillet 2023
 saison: saison-3
 univers: fantasy
+title: S03E07 - La loi de l’oie
 ---
-
-# S03E07 - La loi de l’oie
-
 
 *L'épisode "**La Loi de l’Oie**" est le 7e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 70e épisode enregistré par le groupe.*

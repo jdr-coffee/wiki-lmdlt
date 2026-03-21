@@ -1,13 +1,17 @@
 ---
-1ere_apparition_pour: [gregor, edric, hadrian, duncan, tristram, brunhilde]
+1ere_apparition_pour:
+  - gregor
+  - edric
+  - hadrian
+  - duncan
+  - tristram
+  - brunhilde
 compteur_d_ep: 1
 date: 31 mai 2023
 saison: saison-3
 univers: fantasy
+title: S03E03 - Les 6 Chevaliers du Roi
 ---
-
-# S03E03 - Les 6 Chevaliers du Roi
-
 
 *L'épisode "**Les 6 Chevaliers du Roi**" est le 3e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 66e épisode enregistré par le groupe.*

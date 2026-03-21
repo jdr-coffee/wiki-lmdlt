@@ -1,12 +1,12 @@
 ---
-compteur_d_ep: [0, 5]
+compteur_d_ep:
+  - 0
+  - 5
 date: 3 avril 2024
 saison: saison-3
 univers: fantasy
+title: S03E20 / Pt. 01 - Les persifleurs de Sabrenas
 ---
-
-# S03E20 / Pt. 01 - Les persifleurs de Sabrenas
-
 
 *L'épisode "**Les Persifleurs de Sabrenas”** est le 20e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 83e épisode enregistré par le groupe.*

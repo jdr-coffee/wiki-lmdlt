@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 22 décembre 2021
 saison: saison-2
 univers: fantasy
+title: S02E03 - Bienvenue à Veloria
 ---
-
-# S02E03 - Bienvenue à Veloria
-
 
 *L'épisode "**Bienvenue à Veloria**" est le 3e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 28e épisode enregistré par le groupe.*

@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 29 mai 2024
 saison: saison-3
 univers: fantasy
+title: S03E24 - La quête de Neptune
 ---
-
-# S03E24 - La quête de Neptune
-
 
 *L'épisode "**La Quête de Neptune”** est le 24e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 87e épisode enregistré par le groupe.*

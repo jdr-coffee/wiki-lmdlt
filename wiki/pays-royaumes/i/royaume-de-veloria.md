@@ -1,12 +1,21 @@
 ---
 symbole: Un Soleil
-lieux: [prison-d-agener, arpalian, bardache, le-jarrier, galefretier, happelourde, crestelet, vesperale, village-de-plussoie, refuge-du-repos-merite, cite-de-veloria]
+lieux:
+  - prison-d-agener
+  - arpalian
+  - bardache
+  - le-jarrier
+  - galefretier
+  - happelourde
+  - crestelet
+  - vesperale
+  - village-de-plussoie
+  - refuge-du-repos-merite
+  - cite-de-veloria
+title: Royaume de Véloria
 ---
 
-# Royaume de Véloria
-
-
-![image.png](images/royaume-de-veloria-image.png)
+![image.png](wiki/images/royaume-de-veloria-image.png)
 
 ## Cité de Veloria
 

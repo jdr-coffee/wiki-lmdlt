@@ -1,6 +1,5 @@
 ---
 desc_rapide: Univers inspiré de HP Lovecraft dans les années 19XX
-draft: "true"
+draft: 'true'
+title: Le DAP
 ---
-
-# Le DAP

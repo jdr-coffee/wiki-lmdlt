@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 3 mai 2023
 saison: saison-3
 univers: fantasy
+title: S03E01 - Retrouvailles
 ---
-
-# S03E01 - Retrouvailles
-
 
 *L'épisode "**Cauchemars et Chocolat**" est le 1er épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 64e épisode enregistré par le groupe.*

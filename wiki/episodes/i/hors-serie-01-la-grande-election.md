@@ -3,12 +3,12 @@
 compteur_d_ep: 1
 date: 27 octobre 2021
 pnj_presents: arakel
-saison: [hors-serie, saison-1]
+saison:
+  - hors-serie
+  - saison-1
 univers: fantasy
+title: Hors-série#01 - La grande élection
 ---
-
-# Hors-série#01 - La grande élection
-
 
 *L'épisode "**La Grande Election**" est le 1er épisode Hors-Série du Mythe de la Taverne
 Ainsi que le 26e épisode enregistré par le groupe.*

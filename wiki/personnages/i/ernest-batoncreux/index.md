@@ -1,10 +1,8 @@
 ---
 description_rapide: Mage créateur d’objet magique
-timecode: "39:25"
+timecode: '39:25'
+title: Ernest Bâtoncreux
 ---
-
-# Ernest Bâtoncreux
-
 
 Ernest Batôncreux est un mentionné dans une lettre au sein du Refuge de repos mérité *[S02E02 - 35:43]* et représenté sur un tableau au sein du chalet *[S02E02 - 39:25]*.
 

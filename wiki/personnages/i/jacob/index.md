@@ -1,9 +1,9 @@
 ---
-description_rapide: [Membre de la guide des messagers, Agener]
+description_rapide:
+  - Membre de la guide des messagers
+  - Agener
+title: Jacob
 ---
-
-# Jacob
-
 
 ## Histoire
 

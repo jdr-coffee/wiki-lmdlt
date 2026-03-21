@@ -1,10 +1,8 @@
 ---
 description_rapide: Militant contre les religions enfermé à Agener dans la citadelle
 present_dans_l_ep: s01e01-les-morts-disparus
+title: Eogan Keller
 ---
-
-# Eogan Keller
-
 
 ## Présentation dans l’épisode 1
 

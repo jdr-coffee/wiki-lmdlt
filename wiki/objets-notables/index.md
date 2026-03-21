@@ -1,3 +1,4 @@
-# Objets notables
-
+---
+title: Objets notables
+---
 ::base

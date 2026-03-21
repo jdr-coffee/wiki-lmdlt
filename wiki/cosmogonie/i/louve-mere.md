@@ -1,12 +1,10 @@
 ---
 champion_ne: Jupiter
 type_de_dieu: Dieu naissant
+title: Louve Mère
 ---
 
-# Louve Mère
-
-
-![image.png](images/louve-mere-image.png)
+![image.png](wiki/images/louve-mere-image.png)
 
 ### Dieu de la peur, de la protection et de la nuit
 

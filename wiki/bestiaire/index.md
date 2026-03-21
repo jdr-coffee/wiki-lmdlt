@@ -1,5 +1,4 @@
 ---
-draft: "true"
+draft: 'true'
+title: Bestiaire
 ---
-
-# Bestiaire

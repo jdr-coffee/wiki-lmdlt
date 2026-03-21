@@ -4,10 +4,8 @@ compteur_d_ep: 1
 date: 16 mars 2022
 saison: saison-2
 univers: fantasy
+title: S02E09 - La rentrée des magiciennes
 ---
-
-# S02E09 - La rentrée des magiciennes
-
 
 *L'épisode "**La Rentrée des Magiciennes**" est le 9e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 34e épisode enregistré par le groupe.*

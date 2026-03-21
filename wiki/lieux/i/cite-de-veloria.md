@@ -1,10 +1,8 @@
 ---
 description_rapide: Capitale du fief de Galefretier
 pays_royaumes: royaume-de-veloria
+title: Cité de Véloria
 ---
-
-# Cité de Véloria
-
 
 ### Description de la ville vue de loin
 

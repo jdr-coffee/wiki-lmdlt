@@ -1,9 +1,7 @@
 ---
 lieu: royaume-de-veloria
+title: Guilde de la Joie
 ---
-
-# Guilde de la Joie
-
 
 Guilde mineure de la prison d’Agener, évoquée dans le premier hors-série “La grande élection”
 

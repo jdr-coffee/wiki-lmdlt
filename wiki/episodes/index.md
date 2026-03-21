@@ -1,3 +1,4 @@
-# Episodes
-
+---
+title: Episodes
+---
 ::base

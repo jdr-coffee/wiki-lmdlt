@@ -1,9 +1,7 @@
 ---
 description_rapide: Championne du Corbeau Cramoisi
+title: Mercure
 ---
-
-# Mercure
-
 
 *S03E26 - 23:20*
 

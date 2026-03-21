@@ -1,14 +1,17 @@
 ---
-1ere_apparition_pour: [izen, febastien]
+1ere_apparition_pour:
+  - izen
+  - febastien
 compteur_d_ep: 1
 date: 25 janvier 2021
-pnj_presents: [febastien, cid, izzy]
+pnj_presents:
+  - febastien
+  - cid
+  - izzy
 saison: saison-1
 univers: fantasy
+title: S01E04 - La meilleure pizza du royaume
 ---
-
-# S01E04 - La meilleure pizza du royaume
-
 
 *L'épisode "**La meilleure pizza du royaume**" est le 4e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 8e épisode enregistré par le groupe.*

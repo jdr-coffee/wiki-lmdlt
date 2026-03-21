@@ -1,3 +1,4 @@
-# Héroïnes
-
+---
+title: Héroïnes
+---
 ::base

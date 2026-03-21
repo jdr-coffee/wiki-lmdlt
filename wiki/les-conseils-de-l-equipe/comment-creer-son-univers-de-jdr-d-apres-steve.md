@@ -1,7 +1,6 @@
 ---
+title: Comment créer son univers de JDR d’après Steve ?
 ---
-
-# Comment créer son univers de JDR d’après Steve ?
 
 [Discord - Group Chat That’s All Fun & Games](https://discord.com/channels/1068521764814065786/1068551678468563025/1307818966517022832)
 

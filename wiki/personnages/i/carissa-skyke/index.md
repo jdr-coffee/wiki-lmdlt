@@ -1,10 +1,12 @@
 ---
-description_rapide: [Capitaine des gardes, Responsable de la Citadelle de la prison d’Agener]
-present_dans_l_ep: [s01e02-baston-generale-a-la-cantoche, s01e05-l-art-du-combat]
+description_rapide:
+  - Capitaine des gardes
+  - Responsable de la Citadelle de la prison d’Agener
+present_dans_l_ep:
+  - s01e02-baston-generale-a-la-cantoche
+  - s01e05-l-art-du-combat
+title: Carissa Skyke
 ---
-
-# Carissa Skyke
-
 
 Description : 
 
@@ -19,7 +21,7 @@ Elle a un visage froid, fermé et dur. Elle à la peau très pâle, malgré des 
 
 Elle porte toujours sur elle Justice, son épée bâtarde en acier et cuir noir.
 
-![Caressa Skyke par  ](images/carissa-skyke-image.png)
+![Caressa Skyke par  ](wiki/images/carissa-skyke-image.png)
 
 Caressa Skyke par  
 
@@ -27,5 +29,5 @@ Caressa Skyke par
 
 Capitaine de faction et responsable de la Citadelle, chargée de la sécurité et du maintien de l’ordre dans la prison. Cette froide soldate au regard inflexible cache une âme endurcie et profondément loyale envers son devoir. 
 
-[Sans titre](personnages/i/carissa-skyke/sans-titre/index.md)
+[[personnages/i/carissa-skyke/sans-titre|Sans titre]]
 

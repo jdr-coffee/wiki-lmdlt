@@ -1,14 +1,20 @@
 ---
-1ere_apparition_pour: [alice-holloway, plutarch]
+1ere_apparition_pour:
+  - alice-holloway
+  - plutarch
 compteur_d_ep: 1
 date: 8 février 2021
-pnj_presents: [alice-holloway, plutarch, mira, izen, cornelius, carissa-skyke]
+pnj_presents:
+  - alice-holloway
+  - plutarch
+  - mira
+  - izen
+  - cornelius
+  - carissa-skyke
 saison: saison-1
 univers: fantasy
+title: S01E05 - L'art du combat
 ---
-
-# S01E05 - L'art du combat
-
 
 *L'épisode "**L'art du combat**" est le 5e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 9e épisode enregistré par le groupe.*

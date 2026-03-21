@@ -1,9 +1,7 @@
 ---
 lieu: royaume-de-veloria
+title: Guilde des Eclaireurs
 ---
-
-# Guilde des Eclaireurs
-
 
 Guilde mineure de la prison d’Agener, évoquée dans le premier hors-série “La grande élection”
 

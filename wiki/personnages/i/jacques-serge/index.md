@@ -1,9 +1,7 @@
 ---
 description_rapide: Prisonnier d’agener
+title: Jacques Serge
 ---
-
-# Jacques Serge
-
 
 ## Histoire
 

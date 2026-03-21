@@ -1,12 +1,12 @@
 ---
 compteur_d_ep: 0
 date: 5 avril 2023
-saison: [hors-serie, saison-2]
+saison:
+  - hors-serie
+  - saison-2
 univers: fantasy
+title: 'Hors-série Royal #01 - La famille Cherrington'
 ---
-
-# Hors-série Royal #01 - La famille Cherrington
-
 
 *L'épisode "**La Famille Cherrington**" est un épisode Hors-Série du Mythe de la Taverne.
 Ainsi que le 61e épisode enregistré par le groupe.*

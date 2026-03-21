@@ -1,9 +1,7 @@
 ---
 univers: fantasy
+title: Sole Rêveuse
 ---
-
-# Sole Rêveuse
-
 
 **Description** : La sole rêveuse est un poisson marin vivant en banc dans les fonds sableux des zones côtières. Pêché principalement dans la mer du Couchant, il présente de nombreuses similitudes avec la sole commune.
 
@@ -15,4 +13,4 @@ univers: fantasy
 
 **En cas d’empoisonnement** : Ingurgitez le plus rapidement possible une décoction à base de Pattes d’Oie, une plante médicinale purgative hautement efficace. Pour améliorer le goût très amer de la plante et accélérer son action, il est recommandé de la mélanger avec des fruits rouges comme des fraises ou des framboises. Si vous n’avez pas de Pattes d’Oie sous la main, il vous faudra prendre votre mal en patience : les effets de la sole rêveuse se dissipe généralement au bout de 5 à 6 heures.
 
-![sole_rêêêêêveuse-removebg-preview.png](images/sole_rveuse-removebg-preview.png)
+![sole_rêêêêêveuse-removebg-preview.png](wiki/images/sole_rveuse-removebg-preview.png)

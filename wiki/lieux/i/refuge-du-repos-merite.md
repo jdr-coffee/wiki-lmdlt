@@ -1,14 +1,14 @@
 ---
 1er_apparition: s02e02-le-chalet-aux-v-ux
-description_rapide: [Chalet de Ernest Bâtoncreux, le plus gentil des chalets]
-time_code: "31:38"
+description_rapide:
+  - Chalet de Ernest Bâtoncreux
+  - le plus gentil des chalets
+time_code: '31:38'
 pays_royaumes: royaume-de-veloria
+title: Refuge du repos mérité
 ---
 
-# Refuge du repos mérité
-
-
-![Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos](images/refuge-du-repos-merite-image.png)
+![Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos](wiki/images/refuge-du-repos-merite-image.png)
 
 Merci au grand ZatZatZatou pour l’image, issue de son jeu de cartes Promenade Of Chaos
 

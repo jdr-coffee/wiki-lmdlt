@@ -1,10 +1,9 @@
 ---
+title: Fanarts
 ---
 
-# Fanarts
+[[fanarts/fanarts-de-leflopla|Fanarts de Leflopla]]
 
-[Fanarts de Leflopla](fanarts/fanarts-de-leflopla/index.md)
+[[wiki/fanarts/fanarts-de-lemon-pie|Fanarts de Lemon Pie]]
 
-[Fanarts de Lemon Pie](fanarts/fanarts-de-lemon-pie.md)
-
-[Fanarts de Zat](fanarts/fanarts-de-zat.md)
+[[wiki/fanarts/fanarts-de-zat|Fanarts de Zat]]

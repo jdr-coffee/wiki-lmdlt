@@ -1,13 +1,20 @@
 ---
 compteur_d_ep: 1
 date: 20 juillet 2022
-pnj_presents: [timothy-charlton, agibail-brent, les-jumeaux-milford, general-beausoleil, jonas, igor-hector, nicholas-de-benevent, fyrlinel, gorthor-le-cruel]
+pnj_presents:
+  - timothy-charlton
+  - agibail-brent
+  - les-jumeaux-milford
+  - general-beausoleil
+  - jonas
+  - igor-hector
+  - nicholas-de-benevent
+  - fyrlinel
+  - gorthor-le-cruel
 saison: saison-2
 univers: fantasy
+title: "S02E18\_- La guerre des guildes"
 ---
-
-# S02E18 - La guerre des guildes
-
 
 *L'épisode "**La Guerre des Guildes**" est le 18e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 43e épisode enregistré par le groupe.*

@@ -1,6 +1,4 @@
 ---
 personnage: someul
-draft: "true"
+draft: 'true'
 ---
-
-# Sam

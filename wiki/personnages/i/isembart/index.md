@@ -1,9 +1,7 @@
 ---
 description_rapide: Capitaine des écus royaux pour l’expédition à Sabrenas
+title: Isembart
 ---
-
-# Isembart
-
 
 Isembart est le capitaine des écus royaux pour l'expédition à Sabrenas
 

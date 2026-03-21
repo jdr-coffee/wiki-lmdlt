@@ -1,3 +1,4 @@
-# Pays Royaumes
-
+---
+title: Pays Royaumes
+---
 ::base

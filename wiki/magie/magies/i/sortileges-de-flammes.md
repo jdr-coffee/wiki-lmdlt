@@ -1,7 +1,6 @@
 ---
+title: Sortilèges de Flammes
 ---
-
-# Sortilèges de Flammes
 
 Les sortilèges de flamme constituent une magie secondaire de la magie du feu, un enseignement issu de la magie élémentaire, ou de l’Art. D’une grande puissance, elles permettent aux mages de feu de créer des flammes aux propriétés et aux effets étonnants, toutes plus dangereuses et fascinantes les unes que les autres.
 

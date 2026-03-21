@@ -2,16 +2,13 @@
 membres: ninon
 ---
 
-# Chelinka
-
-
 ## Histoire :
 
 Après la disparition de Tilika, Chelinka a été accusée à tort de son kidnapping et a été envoyée à Agener.
 
-![feu.png](images/feu.png)
+![feu.png](wiki/images/feu.png)
 
-![image.png](images/chelinka-image.png)
+![image.png](wiki/images/chelinka-image.png)
 
 *Chelinka-par-ZatZatZatou*
 
@@ -44,7 +41,7 @@ Durant la mission diplomatique à Sabrenas, elle retrouva finalement Tilika rete
 |  |  |
 |  |  |
 
-![haquebute-removebg-preview (1).png](images/haquebute-removebg-preview_(1).png)
+![haquebute-removebg-preview (1).png](wiki/images/haquebute-removebg-preview_(1).png)
 
 haquebute
 
@@ -72,14 +69,14 @@ haquebute
 · **Vulnérable** : Chelinka est maintenant désavantagée face à la magie de l’eau et la magie du givre. Elle est susceptible de subir des malus et des dégâts supplémentaires si elle combat des ennemis utilisant ces magies. |
 |  |  |
 
-![Illustration Chelinka Booster par  ](images/chelinka-image-1.png)
+![Illustration Chelinka Booster par  ](wiki/images/chelinka-image-1.png)
 
 Illustration Chelinka Booster par  
 
-![Chatlinka par  ](images/chelinka-image-2.png)
+![Chatlinka par  ](wiki/images/chelinka-image-2.png)
 
 Chatlinka par  
 
-![Mini Chelinka par  ](images/Chelinka.png)
+![Mini Chelinka par  ](wiki/images/Chelinka.png)
 
 Mini Chelinka par

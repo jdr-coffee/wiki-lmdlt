@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 16 février 2022
 saison: saison-2
 univers: fantasy
+title: "S02E07 -\_Cauchemars et chocolat"
 ---
-
-# S02E07 - Cauchemars et chocolat
-
 
 *L'épisode "**Cauchemars et Chocolat**" est le 7e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 32e épisode enregistré par le groupe.*

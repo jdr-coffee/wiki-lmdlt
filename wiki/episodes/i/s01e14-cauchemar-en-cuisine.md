@@ -4,10 +4,8 @@ compteur_d_ep: 1
 date: 2 juin 2021
 saison: saison-1
 univers: fantasy
+title: "S01E14 - Cauchemar en Cuisine\_!"
 ---
-
-# S01E14 - Cauchemar en Cuisine !
-
 
 *L'épisode "**Cauchemar en Cuisine !**" est le 14e épisode de la saison 1 du Mythe de la Taverne
 Ainsi que le 18e épisode enregistré par le groupe.*

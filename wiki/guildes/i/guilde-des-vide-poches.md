@@ -2,10 +2,8 @@
 chef: roger
 lieu: royaume-de-veloria
 signe_distinctif: Une partie du crâne rasé
+title: Guilde des Vide Poches
 ---
-
-# Guilde des Vide Poches
-
 
 ## Histoire de la Guilde
 

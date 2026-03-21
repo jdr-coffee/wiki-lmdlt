@@ -1,13 +1,13 @@
 ---
-1ere_apparition_pour: [les-jumeaux-milford, ernest-batoncreux]
+1ere_apparition_pour:
+  - les-jumeaux-milford
+  - ernest-batoncreux
 compteur_d_ep: 1
 date: 8 décembre 2021
 saison: saison-2
 univers: fantasy
+title: "S02E02 - \_Le chalet aux vœux"
 ---
-
-# S02E02 -  Le chalet aux vœux
-
 
 *L'épisode "**Le chalet aux voeux**" est le 2e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 27e épisode enregistré par le groupe.*

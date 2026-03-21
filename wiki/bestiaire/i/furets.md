@@ -2,9 +2,6 @@
 univers: fantasy
 ---
 
-# Furets
-
-
 **Description** : L’envoi de missives et la livraison de courrier dans les fiefs de Veloria est historiquement assurée pas des pigeons et des tourterelles spécialement entraînées. Néanmoins, dans des cas particuliers, d’autres animaux sont mis à contribution pour la distribution de lettres.
 
 **Caractéristiques** : à Veloria, les guildes illégales utilisent des mustélidés pour la communication. Petits, rapides et pouvant se faufiler dans les moindres recoins, les furets sont particulièrement appréciés. Apprivoisés dès leur plus jeune âge, ils sont entraînés à circuler dans les rues bondés, à escalader les murs et à pénétrer dans les habitations lorsqu’il n’existe pas d’autre chemin pour livrer leurs précieuses cargaisons.
@@ -18,4 +15,4 @@ trouver de parade efficace contre la communication par furets. On notera toutefo
 
                                S’en suivit une nuit de terreur et d’hystérie où les veloriens, peu habitués à la vue des serpents, juraient avoir vu des « nouilles tueuse » roder dans la nuit. Aujourd’hui encore, il n’est pas rare de retrouver un serpent dans la cave d’une maison ou le grenier d’une vieille habitation de la capitale.
 
-![les_furets-removebg-preview.png](images/les_furets-removebg-preview.png)
+![les_furets-removebg-preview.png](wiki/images/les_furets-removebg-preview.png)

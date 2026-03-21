@@ -1,16 +1,14 @@
 ---
 description_rapide: Fief le plus vert du royaume
 pays_royaumes: royaume-de-veloria
+title: Le Jarrier
 ---
 
-# Le Jarrier
-
-
-![image.png](images/le-jarrier-image.png)
+![image.png](wiki/images/le-jarrier-image.png)
 
 ***Famille au pouvoir*** : Vertecime
 
 La famille Vertecime est une des plus anciennes familles du Royaume de Véloria
 
 
-***Capitale*** : [Vespérale](lieux/i/vesperale.md)
+***Capitale*** : [[wiki/lieux/i/vesperale|Vespérale]]

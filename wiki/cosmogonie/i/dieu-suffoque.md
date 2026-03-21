@@ -1,9 +1,7 @@
 ---
 type_de_dieu: Dieu défunt
+title: Dieu Suffoqué
 ---
-
-# Dieu Suffoqué
-
 
 ### Dieu du changement, des cycles et de l’amour
 

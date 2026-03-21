@@ -1,6 +1,5 @@
 ---
+title: Fanarts de Zat
 ---
 
-# Fanarts de Zat
-
-*Fanarts de [ZatZat](contributeurices/i/zatzat.md)*
+*Fanarts de [[wiki/contributeurices/i/zatzat|ZatZat]]*

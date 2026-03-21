@@ -2,9 +2,6 @@
 description_rapide: Première lame de Sabrenas
 ---
 
-# Lars
-
-
 Première apparition *S03E09 - 44:09* mais pas nommé. Décrit comme un homme en armure, avec un sabre au côté, qui porte des cheveux ramenés en chignon et une petite barbichette.
 
 *S03E11 - 1:02:20*

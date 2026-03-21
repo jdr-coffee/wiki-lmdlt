@@ -3,10 +3,7 @@ description_rapide: Fief du pouvoir royal
 pays_royaumes: royaume-de-veloria
 ---
 
-# Galefretier
-
-
-![image.png](images/galefretier-image.png)
+![image.png](wiki/images/galefretier-image.png)
 
 **Famille au pouvoir** : Darlington
 

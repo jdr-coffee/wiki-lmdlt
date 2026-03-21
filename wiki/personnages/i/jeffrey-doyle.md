@@ -1,10 +1,13 @@
 ---
-description_rapide: [Chef du quartier basse sécurité, prison d’Agener]
-present_dans_l_ep: [s01e01-les-morts-disparus, s01e02-baston-generale-a-la-cantoche, s01e07-chasse-a-la-sorciere]
+description_rapide:
+  - Chef du quartier basse sécurité
+  - prison d’Agener
+present_dans_l_ep:
+  - s01e01-les-morts-disparus
+  - s01e02-baston-generale-a-la-cantoche
+  - s01e07-chasse-a-la-sorciere
+title: Jeffrey Doyle
 ---
-
-# Jeffrey Doyle
-
 
 ## Introduction
 
@@ -26,7 +29,7 @@ Il à tendance à s'habiller de vêtements extravagants et de couleurs criardes,
 
 Il est souvent emmitouflé dans de grosses peaux de bête ou couvertures, ne laissant dépasser que sa tête. Il est chauve (dépourvu de cheveux), ce qui lui vaut le surnom de "l'œuf". 
 
-![**Jeffreyllin par ** ](images/jeffrey-doyle-image.png)
+![**Jeffreyllin par ** ](wiki/images/jeffrey-doyle-image.png)
 
 **Jeffreyllin par ** 
 
@@ -35,7 +38,7 @@ Il est souvent emmitouflé dans de grosses peaux de bête ou couvertures, ne lai
 
 Il se trouve à un rang relativement bas dans la hiérarchie de la prison. 
 
-Néanmoins, avec le directeur actuel ([Plutarch](personnages/i/plutarch/index.md) ) en mission pour le roi, Jeffrey est en bonne position pour les élections visant à désigner le nouveau directeur de la prison. Il a des ambitions de récupérer notamment le poste de [Carissa Skyke](personnages/i/carissa-skyke/index.md) si celle-ci montait en grade.
+Néanmoins, avec le directeur actuel ([[personnages/i/plutarch|Plutarch]] ) en mission pour le roi, Jeffrey est en bonne position pour les élections visant à désigner le nouveau directeur de la prison. Il a des ambitions de récupérer notamment le poste de [[personnages/i/carissa-skyke|Carissa Skyke]] si celle-ci montait en grade.
 
 Il est responsable du bien-être des prisonniers et a inauguré l'intégration du groupe en leur confiant l'enquête sur les cadavres de Nicolas, Jacquelin et Rodin.
 
@@ -47,15 +50,15 @@ Il les considère comme une **"grande famille"** et les trouve **"un petit peu c
 
 Il leur a fourni des tenues de garde (moulantes et colorées) pour faciliter leur infiltration.
 
-### [Herevard](personnages/i/herevard.md) (Archimage de feu en charge de la sécurité)
+### [[wiki/personnages/i/herevard|Herevard]] (Archimage de feu en charge de la sécurité)
 
 Ils sont amis, et leurs quartiers sont proches. Erevar l'a **sermonné** pour avoir accusé sa femme de chambre, Maggie, de sorcellerie après avoir fait des cauchemars.
 
-### [Carissa Skyke](personnages/i/carissa-skyke/index.md) **(Capitaine de faction/Directrice de la citadelle)**
+### [[personnages/i/carissa-skyke|Carissa Skyke]] **(Capitaine de faction/Directrice de la citadelle)**
 
  Il est sous ses ordres. Il a collaboré avec Herevard pour la distraire, permettant au groupe de s'infiltrer.
 
-### [Plutarch](personnages/i/plutarch/index.md) **(Directeur de la prison)**
+### [[personnages/i/plutarch|Plutarch]] **(Directeur de la prison)**
 
  Jeffrey le décrit comme "un peu carré carré". L'absence de Plutark est à l'origine des ambitions de Jeffrey.
 

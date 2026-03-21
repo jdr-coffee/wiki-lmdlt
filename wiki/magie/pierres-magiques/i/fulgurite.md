@@ -1,8 +1,3 @@
----
----
-
-# Fulgurite
-
 La fulgurite est un minerai possédant des propriétés magiques, quasiment introuvable et, de fait, extrêmement coûteux. Ce composant précieux agit comme un anti-bergara : il amplifie la puissance de la magie et permet de transmettre les pouvoirs d’un mage de façon temporaire lorsqu’il est tenu par ce dernier.
 
 La fulgurite représente un domaine d’étude encore très incertain : en raison de la très grande rareté de ce minerai, il n’en existe que peu d’échantillon, et les recherches sont donc extrêmement limitées. Il serait inconcevable, par exemple, de soumettre un éclat de fulgurite à différentes magies pour observer les résultats, de tenter de détruire et de le fondre. On pense donc que la fulgurite est loin d’avoir livré tous ses secrets.

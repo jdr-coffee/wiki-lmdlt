@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 19 mai 2021
 saison: saison-1
 univers: fantasy
+title: S01E13 - Les imposteurs moustachus
 ---
-
-# S01E13 - Les imposteurs moustachus
-
 
 *L'épisode "**Les imposteurs moustachus**" est le 13ede la saison 1 du Mythe de la Taverne.
 Ainsi que le 17e épisode enregistré par le groupe.*

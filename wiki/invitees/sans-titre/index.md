@@ -1,3 +1,4 @@
-# Sans titre
-
+---
+title: Sans titre
+---
 ::base

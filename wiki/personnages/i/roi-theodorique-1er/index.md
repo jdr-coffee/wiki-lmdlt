@@ -1,6 +1,6 @@
-
-# Roi Théodorique 1er
-
+---
+title: Roi Théodorique 1er
+---
 
 ## Histoire
 

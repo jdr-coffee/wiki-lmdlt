@@ -1,6 +1,1 @@
----
----
-
-# Plenimythe
-
 ## Plenimythe

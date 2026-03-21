@@ -1,12 +1,12 @@
 ---
 compteur_d_ep: 0
 date: 15 mars 2023
-saison: [saison-2, betisier]
+saison:
+  - saison-2
+  - betisier
 univers: fantasy
+title: Bêtisier saison 2
 ---
-
-# Bêtisier saison 2
-
 
 *L'épisode "**Bêtisiersaison 2** " est un épisode bonus du Mythe de la Taverne.
 Ainsi que le 60e épisode enregistré par le groupe.*

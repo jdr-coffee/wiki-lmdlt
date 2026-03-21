@@ -1,9 +1,7 @@
 ---
 pays_royaumes: palatinat-de-sabrenas
+title: Palais Palatin
 ---
-
-# Palais Palatin
-
 
 *S03E14 - 1:14:10*
 

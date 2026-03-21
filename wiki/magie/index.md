@@ -1,8 +1,7 @@
 ---
-draft: "true"
+draft: 'true'
+title: Magie
 ---
 
-# Magie
-
-- [magies](magie/magies/index.md)
-- [pierres magiques](magie/pierres-magiques/index.md)
+- [[magie/magies|magies]]
+- [[magie/pierres-magiques|pierres magiques]]

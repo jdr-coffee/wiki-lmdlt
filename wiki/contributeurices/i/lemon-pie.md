@@ -1,6 +1,5 @@
 ---
 pseudo_discord: lemon pie
-draft: "true"
+draft: 'true'
+title: Lemon Pie
 ---
-
-# Lemon Pie

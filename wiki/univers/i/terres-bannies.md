@@ -1,6 +1,5 @@
 ---
 desc_rapide: Univers se déroulant dans le livre des Terres Bannies
-draft: "true"
+draft: 'true'
+title: Terres Bannies
 ---
-
-# Terres Bannies

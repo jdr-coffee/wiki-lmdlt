@@ -2,16 +2,14 @@
 chef: andrea
 lieu: royaume-de-veloria
 signe_distinctif: Portent tous une moustache
+title: Guilde des Cuistanciers
 ---
-
-# Guilde des Cuistanciers
-
 
 ## Histoire de la Guilde
 
 La guilde des Cuistanciers est l’une des principale guildes de la prison d’Agener. Les membres de cette guilde s’occupent de préparer les repas pour les prisonniers d’Agener. Le chef de la guilde à Agener est Andréa. 
 
-A la Prison d’Agener, la guilde est alliée avec les [Messagers](guildes/i/guilde-des-messagers.md) et les [Murmures](guildes/i/guilde-des-murmures.md) 
+A la Prison d’Agener, la guilde est alliée avec les [[wiki/guildes/i/guilde-des-messagers|Messagers]] et les [[wiki/guildes/i/guilde-des-murmures|Murmures]] 
 
 Elle semble avoir du mal à s’installer définitivement à Veloria, même si un accord fut trouvé avec les persifleurs et les Vide-poches.
 

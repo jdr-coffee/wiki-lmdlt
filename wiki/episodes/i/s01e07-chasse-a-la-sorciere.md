@@ -1,14 +1,17 @@
 ---
-1ere_apparition_pour: [maggie, herevard]
+1ere_apparition_pour:
+  - maggie
+  - herevard
 compteur_d_ep: 1
 date: 3 mars 2021
-pnj_presents: [maggie, herevard, jeffrey-doyle]
+pnj_presents:
+  - maggie
+  - herevard
+  - jeffrey-doyle
 saison: saison-1
 univers: fantasy
+title: S01E07 - Chasse à la sorcière
 ---
-
-# S01E07 - Chasse à la sorcière
-
 
 *L'épisode "**Chasse à la sorcière**" est le 7e épisode de la saison 1 du Mythe de la Taverne.
  Ainsi que le 11e épisode enregistré par le groupe.*

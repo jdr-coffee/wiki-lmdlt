@@ -1,12 +1,12 @@
 ---
-description_rapide: [Esprit de l’eau aux cheveux blancs, yeux bleux et longue robe d’écume]
+description_rapide:
+  - Esprit de l’eau aux cheveux blancs
+  - yeux bleux et longue robe d’écume
 present_dans_l_ep: s01e15-dernieres-revelations
+title: Pauline l’Ondine
 ---
 
-# Pauline l’Ondine
-
-
-![image.png](images/pauline-l-ondine-image.png)
+![image.png](wiki/images/pauline-l-ondine-image.png)
 
 *Illustration par **Leflopla***
 
@@ -36,20 +36,20 @@ Coquette et vaniteuse, elle aime se mirer et demande souvent si elle est belle. 
 Lors de son unique apparition :
 
 - Elle lave immédiatement la boue du visage de Chelinka.
-- Elle discute avec les héros et mentionne [Yana](personnages/i/yana/index.md) , son amie humaine.
-- Elle accepte un **miroir** en offrande et, en échange, **retire la malédiction de [Desdemona Vertecime](personnages/i/desdemona-vertecime/index.md)** , envoyant l’eau purificatrice jusque dans sa cellule.
+- Elle discute avec les héros et mentionne [[personnages/i/yana|Yana]] , son amie humaine.
+- Elle accepte un **miroir** en offrande et, en échange, **retire la malédiction de [[personnages/i/desdemona-vertecime|Desdemona Vertecime]]** , envoyant l’eau purificatrice jusque dans sa cellule.
 - Elle confirme aussi la présence d’**affres** rôdant dans la prison.
 
 ## Relations
 
 ### Yana
 
-Pauline entretient un lien fort avec [Yana](personnages/i/yana/index.md) , qui lui rend hommage en lui offrant des **miroirs**, son objet préféré.
+Pauline entretient un lien fort avec [[personnages/i/yana|Yana]] , qui lui rend hommage en lui offrant des **miroirs**, son objet préféré.
 
 Depuis l’emprisonnement de Yana, les deux échangent régulièrement. Pauline s’inquiète lorsqu’elle apprend que Yana a été déplacée de cellule, mais les héros la rassurent.
 
 ### Autres relations
 
-- [Desdemona Vertecime](personnages/i/desdemona-vertecime/index.md)  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
+- [[personnages/i/desdemona-vertecime|Desdemona Vertecime]]  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
 - **Les affres** : Pauline a conscience de leur présence malfaisante à Agener.
 

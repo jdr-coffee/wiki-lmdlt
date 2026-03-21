@@ -1,9 +1,7 @@
 ---
 description_rapide: Précurseur de l’officine de l’union mécanique
+title: Alexander Faust
 ---
-
-# Alexander Faust
-
 
 *S03E25 - 22:39*
 

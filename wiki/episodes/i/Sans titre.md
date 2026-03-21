@@ -1,5 +1,3 @@
 ---
-date:
+date: null
 ---
-
-# Sans titre

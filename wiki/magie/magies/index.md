@@ -1,3 +1,4 @@
-# Magies
-
+---
+title: Magies
+---
 ::base

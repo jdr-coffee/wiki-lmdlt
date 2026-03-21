@@ -1,6 +1,5 @@
 ---
 univers: fantasy
-draft: "true"
+draft: 'true'
+title: Les Êtres Sylvestres
 ---
-
-# Les Êtres Sylvestres

@@ -1,10 +1,8 @@
 ---
 description_rapide: Surveillant d’Agener toujours avec sont inséparables duo
 present_dans_l_ep: s01e01-les-morts-disparus
+title: Heckel
 ---
-
-# Heckel
-
 
 ## Histoire
 

@@ -1,14 +1,13 @@
 ---
+title: La Magie de la Cuisine
 ---
-
-# La Magie de la Cuisine
 
 > [!]
 > La magie de la cuisine est un art ancien, utilisant un ensemble de dosages précis, de signes ésotériques et des mouvements rigoureux pour créer des plats et des pâtisseries ayant des propriétés magiques. 
 > 
 >      À l’inverse des décoctions et des breuvages magiques, aucun élément fantaisiste n’était utilisé dans la confection de ces recettes merveilleuses : les pratiquants utilisaient uniquement des ingrédients ordinaires.
 
-![image.png](images/la-magie-de-la-cuisine-image.png)
+![image.png](wiki/images/la-magie-de-la-cuisine-image.png)
 
 *illustration-par-ZatZatZatou*
 
@@ -17,7 +16,7 @@
 > 
 >      Une légende parle néanmoins d’un ancien grimoire regroupant toutes les recettes les plus puissantes de cette magie perdue.
 
-![image.png](images/la-magie-de-la-cuisine-image-1.png)
+![image.png](wiki/images/la-magie-de-la-cuisine-image-1.png)
 
 *illustration-par-ZatZatZatou*
 

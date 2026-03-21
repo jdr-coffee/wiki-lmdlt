@@ -2,9 +2,6 @@
 description_rapide: Prêtresse de Kanacéraphe
 ---
 
-# Cera
-
-
 Cera est une PJ incarnée pendant les épisodes 9 et 10 de la saison 3 par Louise de Diceyclipse. 
 
 ## Histoire de Cera
@@ -18,11 +15,11 @@ ferait des envieux auprès des adeptes du Taureau Tricéphales. Elle porte un é
 
 Elle a l’air super contente d’être là. *“C’est rayon de soleil 3000”* (Louise) [S03E09 - 34:05]
 
-![image.png](images/cera-image.png)
+![image.png](wiki/images/cera-image.png)
 
 *Cera-par-ZatZatZatou*
 
-[Équipement](personnages/cera/equipement/index.md)
+[[personnages/cera/equipement|Équipement]]
 
-[Compétences](personnages/cera/competences/index.md)
+[[personnages/cera/competences|Compétences]]
 

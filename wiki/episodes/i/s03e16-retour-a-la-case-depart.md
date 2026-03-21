@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 7 février 2024
 saison: saison-3
 univers: fantasy
+title: S03E16 - Retour à la case départ
 ---
-
-# S03E16 - Retour à la case départ
-
 
 *L'épisode "**Retour à la Case Départ”** est le 16e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 79e épisode enregistré par le groupe.*

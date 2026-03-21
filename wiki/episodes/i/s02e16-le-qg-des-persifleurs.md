@@ -1,14 +1,18 @@
 ---
-1ere_apparition_pour: [cassandra-tastrophe, nicholas-de-benevent, romeo]
+1ere_apparition_pour:
+  - cassandra-tastrophe
+  - nicholas-de-benevent
+  - romeo
 compteur_d_ep: 1
 date: 22 juin 2022
-pnj_presents: [romeo, cassandra-tastrophe, nicholas-de-benevent]
+pnj_presents:
+  - romeo
+  - cassandra-tastrophe
+  - nicholas-de-benevent
 saison: saison-2
 univers: fantasy
+title: "S02E16\_- Le QG des persifleurs"
 ---
-
-# S02E16 - Le QG des persifleurs
-
 
 *L'épisode "**Le QG des Persifleurs**" est le 16e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 41e épisode enregistré par le groupe.*

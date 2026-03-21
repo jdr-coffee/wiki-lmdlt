@@ -4,10 +4,8 @@ compteur_d_ep: 1
 date: 1 novembre 2023
 saison: saison-3
 univers: fantasy
+title: S03E12 - Les grands de Sabrenas
 ---
-
-# S03E12 - Les grands de Sabrenas
-
 
 *L'épisode "**Les Grands de Sabrenas**" est le 12e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 75e épisode enregistré par le groupe.*

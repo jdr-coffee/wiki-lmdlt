@@ -1,3 +1,4 @@
-# Pierres magiques
-
+---
+title: Pierres magiques
+---
 ::base

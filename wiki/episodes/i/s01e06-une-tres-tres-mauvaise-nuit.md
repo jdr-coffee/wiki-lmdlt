@@ -5,10 +5,8 @@ date: 15 février 2021
 pnj_presents: desdemona-vertecime
 saison: saison-1
 univers: fantasy
+title: S01E06 - Une très (très) mauvaise nuit
 ---
-
-# S01E06 - Une très (très) mauvaise nuit
-
 
 *L'épisode 6 est le 6e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 10e épisode enregistré par le groupe.*

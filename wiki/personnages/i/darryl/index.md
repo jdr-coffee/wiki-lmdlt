@@ -1,6 +1,6 @@
-
-# Darryl
-
+---
+title: Darryl
+---
 
 ## Description
 

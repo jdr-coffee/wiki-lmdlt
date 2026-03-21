@@ -1,10 +1,8 @@
 ---
-description_rapide: "Roger est l'ancien chef de la guilde des Vides-Poches."
+description_rapide: Roger est l'ancien chef de la guilde des Vides-Poches.
 present_dans_l_ep: s01e01-les-morts-disparus
+title: Roger
 ---
-
-# Roger
-
 
 Roger est l'ancien chef de la guilde des Vides-Poches. 
 
@@ -20,6 +18,6 @@ On sait qu'il est chauve et surtout qu'il est borgne (c'est sa principale caract
 
 ### **Saison 2 :**
 
-On apprendra, grâce à [Yana](personnages/i/yana/index.md), son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
+On apprendra, grâce à [[personnages/i/yana|Yana]], son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
 
 

@@ -1,6 +1,6 @@
-
-# Laurina
-
+---
+title: Laurina
+---
 
 ## Histoire
 

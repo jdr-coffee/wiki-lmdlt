@@ -1,11 +1,9 @@
 ---
 description_rapide: Le plus grand armateur de Cautel et ennemi direct de la Dame d’Ebène
+title: Barton Glover
 ---
 
-# Barton Glover
-
-
-![image.png](images/barton-glover-image.png)
+![image.png](wiki/images/barton-glover-image.png)
 
 S04E06 - 29:50
 

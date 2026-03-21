@@ -1,13 +1,10 @@
 ---
 1er_apparition: s02e01-la-nuit-des-tresors
 description_rapide: Village de la nuit des Trésors
-time_code: "45:10"
+time_code: '45:10'
 pays_royaumes: royaume-de-veloria
+title: Village de Plussoie
 ---
-
-# Village de Plussoie
-
-
 
 Le village est constitué d’une petite vingtaine de maisonnées organisées en cercle autour d’une placette qui a, en son centre, un puits. Autour de ces maisons il y a des petits enclos avec des chèvres, des oies, des poules. 
 

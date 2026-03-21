@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 9 août 2023
 saison: saison-3
 univers: fantasy
+title: S03E08 - Cousinade royale
 ---
-
-# S03E08 - Cousinade royale
-
 
 *L'épisode "**Cousinade Royale**" est le 8e épisode de la saison 3 du Mythe de la Taverne
 Ainsi que le 71e épisode enregistré par le groupe.*

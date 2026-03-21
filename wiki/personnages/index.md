@@ -1,3 +1,4 @@
-# Personnages
-
+---
+title: Personnages
+---
 ::base

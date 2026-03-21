@@ -1,9 +1,7 @@
 ---
 pays_royaumes: palatinat-de-sabrenas
+title: Quartier des Mécaniciens
 ---
-
-# Quartier des Mécaniciens
-
 
 > [!note]
 > ### L’officine de L’union mécanique - Récits de voyages et tribulations par le mage Phénélon Franpèlerin

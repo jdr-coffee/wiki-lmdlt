@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 13 avril 2022
 saison: saison-2
 univers: fantasy
+title: S02E11 - La bibliothèque de l'invisible
 ---
-
-# S02E11 - La bibliothèque de l'invisible
-
 
 *L'épisode "**La Bibliothèque de l’invisible**" est le 11e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 36e épisode enregistré par le groupe.*

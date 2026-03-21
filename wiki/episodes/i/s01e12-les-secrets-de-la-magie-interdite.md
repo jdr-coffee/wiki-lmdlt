@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 5 mai 2021
 saison: saison-1
 univers: fantasy
+title: S01E12 - Les secrets de la magie interdite
 ---
-
-# S01E12 - Les secrets de la magie interdite
-
 
 *L'épisode "**Les secrets de la magie interdite**" est le 12e épisode de la saison 1 du Mythe de la Taverne. C’est le 16e épisode enregistré par le groupe.*
 

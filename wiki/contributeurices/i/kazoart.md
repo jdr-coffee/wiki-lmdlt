@@ -1,7 +1,5 @@
 ---
 pseudo_discord: ShowKaz
-reseaux: "https://www.instagram.com/kazoart"
-draft: "true"
+reseaux: https://www.instagram.com/kazoart
+draft: 'true'
 ---
-
-# Kazoart

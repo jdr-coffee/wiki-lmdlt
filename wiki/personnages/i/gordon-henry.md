@@ -1,6 +1,4 @@
 ---
-draft: "true"
+draft: 'true'
+title: Gordon Henry
 ---
-
-# Gordon Henry
-

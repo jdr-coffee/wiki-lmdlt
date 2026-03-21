@@ -1,15 +1,13 @@
 ---
 lieu: royaume-de-veloria
+title: Guilde des Messagers
 ---
-
-# Guilde des Messagers
-
 
 ## Histoire de la Guilde
 
 La guilde des Messagers est l’une des 6 guildes principales de la prison d’Agener.  Les membres de cette guilde  s’occupent de la protection et du passage à tabac de certains détenus. Les messagers n’ont pas de chef unique, et les décisions y sont prises de manière collégiale.
 
-A la Prison d’Agener, la guilde est alliée avec la [Guilde des Murmures](guildes/i/guilde-des-murmures.md) et les [Cuistanciers](guildes/i/guilde-des-cuistanciers.md)
+A la Prison d’Agener, la guilde est alliée avec la [[wiki/guildes/i/guilde-des-murmures|Guilde des Murmures]] et les [[wiki/guildes/i/guilde-des-cuistanciers|Cuistanciers]]
 
 ## Description de la Guilde
 

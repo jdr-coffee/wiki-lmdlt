@@ -1,8 +1,4 @@
-
-# Callum le mage
-
-
-![Callum par  ](images/Callum.png)
+![Callum par  ](wiki/images/Callum.png)
 
 Callum par
 

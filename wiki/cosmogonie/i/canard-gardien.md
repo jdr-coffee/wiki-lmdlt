@@ -1,11 +1,9 @@
 ---
 type_de_dieu: Dieu naissant
+title: Canard Gardien
 ---
 
-# Canard Gardien
-
-
-![image.png](images/canard-gardien-image.png)
+![image.png](wiki/images/canard-gardien-image.png)
 
       ***Canard Gardien, pixel art par LeFlopla***
 

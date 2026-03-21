@@ -1,7 +1,4 @@
 ---
 description_rapide: Cuisinier a la prison d’Agener
-draft: "true"
+draft: 'true'
 ---
-
-# Phillipe
-

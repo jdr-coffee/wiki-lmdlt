@@ -1,11 +1,10 @@
 ---
-description: Art de confectionner de puissants remèdes (ou des poisons) à l’aide de plantes.
+description: >-
+  Art de confectionner de puissants remèdes (ou des poisons) à l’aide de
+  plantes.
 saisons: saison-1
+title: Botan’herboriste
 ---
-
-# Botan’herboriste
-
-
 
 ### Note du MJ :
 

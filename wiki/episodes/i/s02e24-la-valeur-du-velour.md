@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 12 octobre 2022
 saison: saison-2
 univers: fantasy
+title: "S02E24\_- La valeur du velour"
 ---
-
-# S02E24 - La valeur du velour
-
 
 *L'épisode "**La Valeur du Velour**" est le 24e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 49e épisode enregistré par le groupe.*

@@ -1,9 +1,7 @@
 ---
 present_dans_l_ep: s01e05-l-art-du-combat
+title: Mira
 ---
-
-# Mira
-
 
 ## Description
 

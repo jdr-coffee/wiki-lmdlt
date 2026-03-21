@@ -1,3 +1,4 @@
-# Guildes
-
+---
+title: Guildes
+---
 ::base

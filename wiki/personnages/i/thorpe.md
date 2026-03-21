@@ -2,10 +2,7 @@
 description_rapide: Mage de l’air et mage conseiller du palatinat de Sabrenas
 ---
 
-# Thorpe
-
-
-![image.png](images/thorpe-image.png)
+![image.png](wiki/images/thorpe-image.png)
 
 Première apparition *S03E09 - 44:09* mais n’est pas nommé. Décrit comme un vieil homme qui porte la robe du collège des mages
 

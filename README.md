@@ -17,14 +17,20 @@ wiki-lmdlt/
 └── README.md
 ```
 
-Le dossier `wiki/` est la **production éditoriale**. Le format est volontairement générique — Markdown standard avec quelques extensions documentées dans [moulin/specs/SYNTAX.md](https://github.com/tomo/moulin/blob/main/specs/SYNTAX.md). Ne pas modifier à la main sauf pour les fichiers de config (`_theme.yaml`, `_collection.yaml`, `index.md` avec `::collection`).
+## Convention titre
+
+Le titre d'une page est déterminé dans cet ordre :
+1. `title` en frontmatter — pour les cas spéciaux (accents, acronymes, noms propres)
+2. Nom du fichier prettifié — `chelinka.md` → "Chelinka", `livre-de-base.md` → "Livre de base"
+
+**Pas de H1 dans les fichiers markdown** — le titre est injecté automatiquement par moulin au render.
 
 ## Fichiers de config dans `wiki/`
 
 | Fichier | Rôle |
 |---------|------|
 | `_theme.yaml` | Couleurs OKLch du wiki (accent, accent_foreground) |
-| `_collection.yaml` | Configuration d'affichage d'un dossier (vue, tri, groupement) |
+| `*.base` | Configuration d'affichage d'un dossier (vue, tri, groupement — format Obsidian Bases) |
 
 Ces fichiers **survivent à la migration** (le script ne les écrase pas).
 
@@ -34,7 +40,7 @@ En production (Vercel), moulin clone ce repo au build via la variable `CONTENT_R
 
 ## Dev local
 
-Cloner ce repo, puis définir dans `apps/web/.env.local` de moulin :
+Cloner ce repo, puis définir dans `.env.local` de moulin :
 
 ```bash
 CONTENT_DIR=/chemin/vers/wiki-lmdlt/wiki
@@ -48,4 +54,4 @@ Si une nouvelle export Notion est disponible :
 node scripts/migrate-notion.mjs "/chemin/export/Wiki - Le Mythe de la Taverne" /chemin/vers/wiki-lmdlt/wiki
 ```
 
-⚠️ La migration **écrase tout le contenu** de `wiki/` sauf `_theme.yaml`. Les `_collection.yaml` et `index.md` personnalisés sont à reconfigurer après.
+⚠️ La migration **écrase tout le contenu** de `wiki/`. Les fichiers `.base` et `index.md` personnalisés sont à reconfigurer après.

@@ -3,10 +3,8 @@ compteur_d_ep: 1
 date: 31 août 2022
 saison: saison-2
 univers: fantasy
+title: "S02E21\_- Conspirations & nouvelles théories"
 ---
-
-# S02E21 - Conspirations & nouvelles théories
-
 
 *L'épisode "**Conspirations & Nouvelles Théories**" est le 21e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 46e épisode enregistré par le groupe.*

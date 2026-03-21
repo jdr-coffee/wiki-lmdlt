@@ -1,9 +1,7 @@
 ---
 membres: steve
+title: Maitre du Jeu
 ---
-
-# Maitre du Jeu
-
 
 ## Histoire de Steve
 
@@ -15,7 +13,7 @@ membres: steve
 
 Kiki le MJ, Sdeve, Sneve, Smeve, Speve, Sleve [insert surnoms]
 
-![image.png](images/maitre-du-jeu-image.png)
+![image.png](wiki/images/maitre-du-jeu-image.png)
 
 *Kiki-le-MJ-par-ZatZatZatou*
 

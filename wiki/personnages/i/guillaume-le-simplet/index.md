@@ -1,6 +1,6 @@
-
-# Guillaume le Simplet
-
+---
+title: Guillaume le Simplet
+---
 
 ## Description
 

@@ -1,39 +1,37 @@
 ---
 cover: images/lmdlt.png
 cover_position: center
+title: Le Mythe de la Taverne
 ---
-
-# Le Mythe de la Taverne
-
 :::subtitle
 Le wiki officiel du podcast d'actual play de jeu de rôles médiéval-fantasy
 :::
 
 Le Mythe de la Taverne, c'est [LE podcast](https://linktr.ee/lmdlt_pod) qui vous embarque dans des aventures palpitantes et des situations délirantes autour d'un jeu de rôles entre potes sans prises de tête, ça ressemble à Game of Thrones mais avec plus de lancés de dés et moins de fesses. Vous n'y connaissez rien aux jeux de rôles ? Vous adorerez le Mythe de la Taverne !
 
-Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [**Steve**](l-equipe/i/steve/index.md). Trois joueureuses l'accompagnent lors des épisodes : [Ninon](l-equipe/i/ninon.md)  ([Chelinka](heroines/i/chelinka.md) ), [Sam](l-equipe/i/sam.md)  ([Someul](heroines/i/someul.md) ) et [Camille](l-equipe/i/camille.md)  ([Neptune](heroines/i/neptune.md) ).
+Le Mythe de la Taverne, connu aussi sous le diminutif LMDLT, est un podcast d'actual play écrit et scénarisé par [[l-equipe/i/steve|Steve]]. Trois joueureuses l'accompagnent lors des épisodes : [[l-equipe/i/ninon|Ninon]] ([[heroines/i/chelinka|Chelinka]]), [[l-equipe/i/sam|Sam]] ([[heroines/i/someul|Someul]]) et [[l-equipe/i/camille|Camille]] ([[heroines/i/neptune|Neptune]]).
 
 ## Le Podcast
 
-[Episodes](episodes/index.md)
+[[episodes|Episodes]]
 
-[L'équipe](l-equipe/index.md)
+[[l-equipe|L'équipe]]
 
-[Saisons](saisons/index.md)
+[[saisons|Saisons]]
 
-[Invitées](invitees/index.md)
+[[invitees|Invitées]]
 
-[Les conseils de l’équipe](les-conseils-de-l-equipe/index.md)
+[[les-conseils-de-l-equipe|Les conseils de l’équipe]]
 
-[Univers](univers/index.md)
+[[univers|Univers]]
 
 ## Ressources
 
-[Fanarts](fanarts/index.md)
+[[fanarts|Fanarts]]
 
-[Mise à jour des épisodes](mise-a-jour-des-episodes/index.md)
 
-[Contributeurices](contributeurices/index.md)
+
+[[contributeurices|Contributeurices]]
 
 #### Tout les lancés de dés
 
@@ -43,34 +41,34 @@ https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2a
 
 ## Le Plénimythe
 
-[Lieux](lieux/index.md)
+[[lieux|Lieux]]
 
-[Pays / Royaumes](pays-royaumes/index.md)
+[[pays-royaumes|Pays / Royaumes]]
 
-[Cosmogonie](cosmogonie/index.md)
+[[cosmogonie|Cosmogonie]]
 
-[Magie](magie/index.md)
+[[magie|Magie]]
 
-[Histoire](histoire.md)
+[[histoire|Histoire]]
 
-[Bestiaire](bestiaire/index.md)
+[[bestiaire|Bestiaire]]
 
-[Plantes](plantes/index.md)
+[[plantes|Plantes]]
 
-[Dictionnaire](dictionnaire/index.md)
+[[dictionnaire|Dictionnaire]]
 
-[Personnages](personnages/index.md)
+[[personnages|Personnages]]
 
-[Héroïnes](heroines/index.md)
+[[heroines|Héroïnes]]
 
-[Guildes](guildes/index.md)
+[[guildes|Guildes]]
 
-[Objets notables](objets-notables/index.md)
+[[objets-notables|Objets notables]]
 
 > [!note]
 > Si vous souhaitez participer au Wiki rien de plus simple il vous suffit de lire la page suivante : 
 > 
-> [Comment contribuer](comment-contribuer.md)
+> [[comment-contribuer|Comment contribuer]]
 
 ---
 

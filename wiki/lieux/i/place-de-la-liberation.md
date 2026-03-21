@@ -1,9 +1,7 @@
 ---
 pays_royaumes: palatinat-de-sabrenas
+title: Place de la Libération
 ---
-
-# Place de la Libération
-
 
 *S03E15 - 1:02:38* 
 

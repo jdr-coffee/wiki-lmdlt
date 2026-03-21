@@ -1,9 +1,7 @@
 ---
 description_rapide: Garde d’agener
+title: Paolo
 ---
-
-# Paolo
-
 
 ## Histoire
 

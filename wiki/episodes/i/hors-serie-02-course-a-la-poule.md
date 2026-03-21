@@ -2,12 +2,12 @@
 compteur_d_ep: 1
 date: 10 novembre 2021
 pnj_presents: arakel
-saison: [hors-serie, saison-1]
+saison:
+  - hors-serie
+  - saison-1
 univers: fantasy
+title: Hors-série#02 - Course à la poule !
 ---
-
-# Hors-série#02 - Course à la poule !
-
 
 *L'épisode "**Course à la Poule !**" est le 2e épisode Hors-Série du Mythe de la Taverne
 Ainsi que le 24e épisode enregistré par le groupe.*

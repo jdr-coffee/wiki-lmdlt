@@ -1,10 +1,11 @@
 ---
 symbole: Un Sabre
-lieux: [place-de-la-liberation, palais-palatin, quartier-des-mecaniciens]
+lieux:
+  - place-de-la-liberation
+  - palais-palatin
+  - quartier-des-mecaniciens
+title: Palatinat de Sabrenas
 ---
-
-# Palatinat de Sabrenas
-
 
 ### Histoire de Sabrenas
 
@@ -20,7 +21,7 @@ Ce qui symbolise cette guerre : le moment ou Berthomieu le Pourfendeur, l’anci
 
 ### Description
 
-![image.png](images/palatinat-de-sabrenas-image.png)
+![image.png](wiki/images/palatinat-de-sabrenas-image.png)
 
 *S03E14 - 07:44*
 

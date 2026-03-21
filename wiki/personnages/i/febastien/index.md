@@ -1,10 +1,8 @@
 ---
 description_rapide: Cuistancier d’Agener
 present_dans_l_ep: s01e04-la-meilleure-pizza-du-royaume
+title: Fébastien
 ---
-
-# Fébastien
-
 
 ## Histoire
 

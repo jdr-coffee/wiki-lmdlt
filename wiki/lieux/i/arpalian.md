@@ -3,10 +3,7 @@ description_rapide: Fief le plus riche
 pays_royaumes: royaume-de-veloria
 ---
 
-# Arpalian
-
-
-![image.png](images/arpalian-image.png)
+![image.png](wiki/images/arpalian-image.png)
 
 ***Famille au pouvoir*** : Murano
 

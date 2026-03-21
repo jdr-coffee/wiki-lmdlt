@@ -1,7 +1,6 @@
 ---
+title: La Magie des Dieux
 ---
-
-# La Magie des Dieux
 
 La magie des Dieux est une forme de magie associée aux Dieux Naissants, contrairement à la magie élémentaire associée, elle, aux Dieux Aïeuls. Elle se manifeste sous forme de pouvoirs variés et d’aptitudes exceptionnelles, attribués par les Dieux Naissants aux pratiquants de cette magie, appelé Clercs.
 

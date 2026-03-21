@@ -1,9 +1,9 @@
 ---
-description_rapide: [Prisonier d’Agener, perd la joute verbale]
+description_rapide:
+  - Prisonier d’Agener
+  - perd la joute verbale
+title: Jean-Christophe
 ---
-
-# Jean-Christophe
-
 
 ## Histoire
 

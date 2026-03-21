@@ -1,12 +1,10 @@
 ---
-champion_ne: "https://www.notion.so/22b4d690237c801da5fdf16f33fa8daa?pvs=21"
+champion_ne: https://www.notion.so/22b4d690237c801da5fdf16f33fa8daa?pvs=21
 type_de_dieu: Dieu naissant
+title: Taureau Tricéphale
 ---
 
-# Taureau Tricéphale
-
-
-![image.png](images/taureau-tricephale-image.png)
+![image.png](wiki/images/taureau-tricephale-image.png)
 
       ***Taureau Tricéphale, pixel art par LeFlopla***
 

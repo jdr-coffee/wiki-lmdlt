@@ -1,9 +1,7 @@
 ---
 description_rapide: rat-de-mira
+title: Kratour
 ---
-
-# Kratour
-
 
 ## Histoire
 

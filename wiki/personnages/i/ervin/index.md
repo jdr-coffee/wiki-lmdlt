@@ -1,10 +1,8 @@
 ---
 description_rapide: Persifleur et mécène de Sabrenas
-timecode: "40:13"
+timecode: '40:13'
+title: Ervin
 ---
-
-# Ervin
-
 
 *S03E15 - 40:13*
 

@@ -1,9 +1,7 @@
 ---
 lieu: royaume-de-veloria
+title: Guilde des Herboristes
 ---
-
-# Guilde des Herboristes
-
 
 ## Histoire de la Guilde
 

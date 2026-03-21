@@ -1,14 +1,21 @@
 ---
-1ere_apparition_pour: [jonas, igor-hector]
+1ere_apparition_pour:
+  - jonas
+  - igor-hector
 compteur_d_ep: 1
 date: 8 juin 2022
-pnj_presents: [jonas, timothy-charlton, sarah-petrova, cody-berryman, adeline-roberts, fox-sherman, agibail-brent]
+pnj_presents:
+  - jonas
+  - timothy-charlton
+  - sarah-petrova
+  - cody-berryman
+  - adeline-roberts
+  - fox-sherman
+  - agibail-brent
 saison: saison-2
 univers: fantasy
+title: "S02E15\_- La petite boutique d'objets magiques"
 ---
-
-# S02E15 - La petite boutique d'objets magiques
-
 
 *L'épisode "**La Petite Boutique d’Objets Magiques**" est le 15e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 40e épisode enregistré par le groupe.*

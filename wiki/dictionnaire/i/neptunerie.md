@@ -1,10 +1,9 @@
 ---
-description: Action chaotique entreprise dans le but de retourner une situation à son avantage.
+description: >-
+  Action chaotique entreprise dans le but de retourner une situation à son
+  avantage.
 saisons: saison-1
 ---
-
-# Neptunerie
-
 
 Action chaotique entreprise dans le but de retourner une situation à son avantage. 
 

@@ -1,5 +1,6 @@
 ---
 membres: sam
+cover: images/Someul.png
 ---
 
 ## Arrivée de Someul dans le jeu

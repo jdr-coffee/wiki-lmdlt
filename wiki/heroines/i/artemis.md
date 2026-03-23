@@ -1,6 +1,7 @@
 ---
 membres: angela
 title: Artémis
+featured: false
 ---
 
 Voici les éléments clés concernant son personnage :

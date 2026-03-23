@@ -1,5 +1,6 @@
 ---
 membres: camille
+cover: images/Neptune.png
 ---
 
 ## Arrivée de Neptune dans le jeu

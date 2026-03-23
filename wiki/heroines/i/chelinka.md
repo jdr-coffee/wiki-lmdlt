@@ -1,5 +1,6 @@
 ---
 membres: ninon
+cover: images/Chelinka.png
 ---
 
 ## Histoire :

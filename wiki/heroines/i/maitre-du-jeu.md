@@ -1,6 +1,7 @@
 ---
 membres: steve
 title: Maitre du Jeu
+featured: false
 ---
 
 ## Histoire de Steve

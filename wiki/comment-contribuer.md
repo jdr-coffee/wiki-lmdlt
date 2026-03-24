@@ -48,7 +48,9 @@ Tu as maintenant ton propre exemplaire du wiki sur ton compte GitHub.
 
 1. Ouvre **Obsidian**
 2. Clique sur **Ouvrir un dossier comme coffre**
-3. Navigue jusqu'au dossier que tu as cloné, et sélectionne le sous-dossier **`wiki/`**
+3. Navigue jusqu'au dossier que tu as cloné et sélectionne-le **tel quel** (pas le sous-dossier `wiki/`, mais bien le dossier racine du repo)
+
+> **Pourquoi pas le dossier `wiki/` directement ?** Obsidian a besoin de voir l'ensemble du repo pour que les listes de pages (bases) fonctionnent correctement. Le contenu que tu modifies se trouve bien dans `wiki/`, mais le coffre doit pointer sur le dossier parent.
 
 Tu peux maintenant naviguer dans toutes les pages et les modifier comme un document texte normal.
 

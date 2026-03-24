@@ -17,7 +17,7 @@ Le podcast est écrit et scénarisé par [[l-equipe/i/steve|Steve]], accompagné
 
 ## Personnages
 
-::base[/personnages]{type=gallery limit=4 shuffle=true}
+::base[/personnages]{type=gallery limit=4 shuffle=true card=description_rapide random=false}
 
 ## Épisodes
 
@@ -33,18 +33,29 @@ Le podcast est écrit et scénarisé par [[l-equipe/i/steve|Steve]], accompagné
 
 **Écouter le podcast**
 
-[Spotify](https://open.spotify.com/show/4rekiRBVj0RgFNHISN0Vfe) · [Apple Podcasts](https://podcasts.apple.com/fr/podcast/le-mythe-de-la-taverne/id1535395993) · [Deezer](https://www.deezer.com/fr/show/1846732)
+:::links
+[Spotify](https://open.spotify.com/show/4rekiRBVj0RgFNHISN0Vfe)
+[Apple Podcasts](https://podcasts.apple.com/fr/podcast/le-mythe-de-la-taverne/id1535395993)
+[Deezer](https://www.deezer.com/fr/show/1846732)
+:::
 
 **Suivre et soutenir**
 
-[Instagram (@lmdlt_pod)](https://www.instagram.com/lmdlt_pod/) · [Ko-fi](https://ko-fi.com/lmdlt_pod) · [Linktree](https://linktr.ee/lmdlt_pod)
+:::links
+[Instagram (@lmdlt_pod)](https://www.instagram.com/lmdlt_pod/)
+[Ko-fi](https://ko-fi.com/lmdlt_pod)
+[Linktree](https://linktr.ee/lmdlt_pod)
+:::
 
-**Discord — rejoindre les persifleuses et persifleurs**
+**Discord**
 
+:::links
 [Rejoindre le serveur](https://discord.gg/mvCyhzWFDB)
+:::
 
 **Le Plénimythe**
 
-[Tous les lancés de dés](https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2aq90/edit?gid=0#gid=0) — compilé par ***Leflopla***
-
+:::links
+[Tous les lancés de dés](https://docs.google.com/spreadsheets/d/1e0PoSRM5yW5qEYYJAqqtScDl4JyAVyPWQ30gWj2aq90/edit?gid=0#gid=0)
 [[contributeurices|Contributeurices]]
+:::

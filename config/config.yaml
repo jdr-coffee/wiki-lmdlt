@@ -6,8 +6,10 @@ locale: fr
 # Apparence
 heading_font: cinzel
 sidebar_banner: /assets/sidebar-banner-lmdlt.png
-accent: "oklch(0.55 0.15 60)"
+accent: "oklch(0.45 0.16 60)"
 accent_foreground: "oklch(0.98 0.02 60)"
+accent_dark: "oklch(0.75 0.14 60)"
+accent_foreground_dark: "oklch(0.10 0 0)"
 icon: /assets/icon.png
 
 # Footer

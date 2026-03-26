@@ -26,7 +26,7 @@ episodes:
 title: Saison 1
 ---
 
-![image.png](wiki/images/saison-1-image.png)
+![image.png](assets/images/divers/saison-1.png)
 
 ## Résumé de la Saison 1 du Mythe de la Taverne
 

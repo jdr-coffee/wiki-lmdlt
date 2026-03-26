@@ -1,17 +1,17 @@
 ---
 membres: sam
-cover: images/Someul.png
+cover: assets/images/personnages/someul.png
 ---
 
 ## Arrivée de Someul dans le jeu
 
 Il s’est retrouvé à Agener car la troupe de mercenaires à laquelle il appartenait à été accusée de trahison.
 
-![Someul par  ](wiki/images/someul-image.png)
+![Someul par  ](assets/images/personnages/someul-1.png)
 
 Someul par  
 
-![Someul par  ](wiki/images/Someul.png)
+![Someul par  ](assets/images/personnages/someul.png)
 
 Someul par  
 
@@ -53,10 +53,10 @@ Durant la mission diplomatique à Sabrenas, Someul récupéra tous ses souvenirs
 | Captain Croc-en-Jambe | énergie combative de Someul ayant pris forme grâce à la magie des postures. Il permet de déséquilibrer ses adversaires à distance. |
 | Attraction | le pugiliste crée un tourbillon d’énergie attirant les objets et/ou les personnes proches vers lui. |
 
-![Illustration Booster Someul par  ](wiki/images/someul-image-1.png)
+![Illustration Booster Someul par  ](assets/images/personnages/someul-2.png)
 
 Illustration Booster Someul par  
 
-![Somiaul par  ](wiki/images/someul-image-2.png)
+![Somiaul par  ](assets/images/personnages/someul-3.png)
 
 Somiaul par

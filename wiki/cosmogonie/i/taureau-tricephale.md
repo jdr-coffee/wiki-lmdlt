@@ -4,7 +4,7 @@ type_de_dieu: Dieu naissant
 title: Taureau Tricéphale
 ---
 
-![image.png](wiki/images/taureau-tricephale-image.png)
+![image.png](assets/images/cosmogonie/taureau-tricephale-1.png)
 
       ***Taureau Tricéphale, pixel art par LeFlopla***
 

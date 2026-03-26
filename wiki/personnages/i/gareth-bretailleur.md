@@ -3,7 +3,7 @@ description_rapide: Le plus grand escroc de Cautel
 title: Gareth Bretailleur
 ---
 
-![image.png](wiki/images/gareth-bretailleur-image.png)
+![image.png](assets/images/personnages/gareth-bretailleur.png)
 
 
 ## Histoire

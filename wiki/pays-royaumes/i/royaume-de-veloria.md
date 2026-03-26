@@ -15,7 +15,7 @@ lieux:
 title: Royaume de Véloria
 ---
 
-![image.png](wiki/images/royaume-de-veloria-image.png)
+![image.png](assets/images/lieux/royaume-de-veloria.png)
 
 ## Cité de Veloria
 

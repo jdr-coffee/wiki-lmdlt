@@ -1,4 +1,4 @@
-![Callum par  ](wiki/images/Callum.png)
+![Callum par  ](assets/images/personnages/callum.png)
 
 Callum par
 

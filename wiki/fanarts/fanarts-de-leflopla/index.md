@@ -11,146 +11,146 @@ title: Fanarts de Leflopla
 
 #### Adelphe Serpent
 
-![Adelphe Serpent.png](wiki/images/Adelphe_Serpent.png)
+![Adelphe Serpent.png](assets/images/fanarts/adelphe-serpent.png)
 
 #### Agenere
 
-![Agenere.png](wiki/images/Agenere.png)
+![Agenere.png](assets/images/personnages/agenere.png)
 
 #### Bague propre eclat
 
-![Bague propre eclat.png](wiki/images/Bague_propre_eclat.png)
+![Bague propre eclat.png](assets/images/objets/bague-propre-eclat.png)
 
 #### Callum pin-up
 
-![Callum pin-up.png](wiki/images/Callum_pin-up.png)
+![Callum pin-up.png](assets/images/fanarts/callum-pin-up.png)
 
 #### Callum
 
-![Callum.jpg](wiki/images/Callum.jpg)
+![Callum.jpg](assets/images/personnages/callum.jpg)
 
 #### Canard Gardien
 
-![Canard Gardien.png](wiki/images/Canard_Gardien.png)
+![Canard Gardien.png](assets/images/fanarts/canard-gardien.png)
 
 #### Caressa
 
-![Caressa.png](wiki/images/Caressa.png)
+![Caressa.png](assets/images/personnages/caressa.png)
 
 #### Cerf dans sa belle robe
 
-![Cerf dans sa belle robe.png](wiki/images/Cerf_dans_sa_belle_robe.png)
+![Cerf dans sa belle robe.png](assets/images/fanarts/cerf-dans-sa-belle-robe.png)
 
 #### Chalinka
 
-![Chalinka.png](wiki/images/Chalinka.png)
+![Chalinka.png](assets/images/personnages/chalinka.png)
 
 #### Chat borgne 16x16
 
-![Chat borgne 16x16.png](wiki/images/Chat_borgne_16x16.png)
+![Chat borgne 16x16.png](assets/images/cosmogonie/chat-borgne-16x16.png)
 
 #### Chat borgne
 
-![Chat borgne.png](wiki/images/Chat_borgne.png)
+![Chat borgne.png](assets/images/cosmogonie/chat-borgne.png)
 
 #### Corbaline
 
-![Corbaline.png](wiki/images/Corbaline.png)
+![Corbaline.png](assets/images/personnages/corbaline.png)
 
 #### Corbeau Cramoisi
 
-![Corbeau Cramoisi.png](wiki/images/Corbeau_Cramoisi.png)
+![Corbeau Cramoisi.png](assets/images/cosmogonie/corbeau-cramoisi.png)
 
 #### Dieu Décapité
 
-![Dieu Décapité.png](wiki/images/Dieu_Decapite.png)
+![Dieu Décapité.png](assets/images/cosmogonie/dieu-decapite.png)
 
 #### Dieu Immolé
 
-![Dieu Immolé.png](wiki/images/Dieu_Immole.png)
+![Dieu Immolé.png](assets/images/cosmogonie/dieu-immole.png)
 
 #### Dieu Noyé
 
-![Dieu Noyé.png](wiki/images/Dieu_Noye.png)
+![Dieu Noyé.png](assets/images/cosmogonie/dieu-noye.png)
 
 #### Epée de l’oeuf d’or
 
-![épée de l_oeuf d_or briser.png](wiki/images/epee_de_l_oeuf_d_or_briser.png)
+![épée de l_oeuf d_or briser.png](assets/images/objets/epee-de-l-oeuf-d-or-brisee.png)
 
-![épée de l_oeuf d_or.png](wiki/images/epee_de_l_oeuf_d_or.png)
+![épée de l_oeuf d_or.png](assets/images/objets/epee-de-l-oeuf-d-or.png)
 
 #### Jeffrellin
 
-![Jeffrellin.png](wiki/images/Jeffrellin.png)
+![Jeffrellin.png](assets/images/personnages/jeffrellin.png)
 
 #### L'araignée
 
-![L_araignée.png](wiki/images/L_araignee.png)
+![L_araignée.png](assets/images/cosmogonie/l-araignee.png)
 
 #### Louve mère
 
-![Louve mère.png](wiki/images/Louve_mere.png)
+![Louve mère.png](assets/images/cosmogonie/louve-mere.png)
 
 #### Lune
 
-![Lune.png](wiki/images/Lune.png)
+![Lune.png](assets/images/cosmogonie/lune.png)
 
 #### M. Cascade
 
-![M. Cascade.png](wiki/images/M._Cascade.png)
+![M. Cascade.png](assets/images/personnages/m-cascade.png)
 
 #### M. Gnongnon
 
-![M. Gnongnon.png](wiki/images/M._Gnongnon.png)
+![M. Gnongnon.png](assets/images/personnages/m-gnongnon.png)
 
 #### Mineptune
 
-![Mineptune.png](wiki/images/Mineptune.png)
+![Mineptune.png](assets/images/personnages/mineptune.png)
 
 #### Mon ECU
 
-![Mon ECU.png](wiki/images/Mon_ECU.png)
+![Mon ECU.png](assets/images/objets/ecu.png)
 
 #### MouSteve
 
-![MouSteve.png](wiki/images/MouSteve.png)
+![MouSteve.png](assets/images/fanarts/mousteve.png)
 
 #### Ondine & Glacin
 
-![Ondine & Glacin.png](wiki/images/Ondine__Glacin.png)
+![Ondine & Glacin.png](assets/images/personnages/ondine-glacin.png)
 
 #### PJ someul torse nu
 
-![PJ someul torse nu.png](wiki/images/PJ_someul_torse_nu.png)
+![PJ someul torse nu.png](assets/images/fanarts/someul-torse-nu.png)
 
 #### PJ
 
-![PJ.png](wiki/images/PJ.png)
+![PJ.png](assets/images/personnages/pj.png)
 
 #### Pierre Anti-requin pixel
 
-![Pierre Anti-requin pixel.png](wiki/images/Pierre_Anti-requin_pixel.png)
+![Pierre Anti-requin pixel.png](assets/images/objets/pierre-anti-requin-pixel.png)
 
 #### Pierre Anti-requin
 
-![Pierre Anti-requin.png](wiki/images/Pierre_Anti-requin.png)
+![Pierre Anti-requin.png](assets/images/objets/pierre-anti-requin.png)
 
 #### Poulet d'os de Callum avec magie
 
-![Poulet d_os de Callum avec magie.png](wiki/images/Poulet_d_os_de_Callum_avec_magie.png)
+![Poulet d_os de Callum avec magie.png](assets/images/objets/poulet-d-os-de-callum-magie.png)
 
 #### Poulet d'os de Callum
 
-![Poulet d_os de Callum.png](wiki/images/Poulet_d_os_de_Callum.png)
+![Poulet d_os de Callum.png](assets/images/objets/poulet-d-os-de-callum.png)
 
 #### Sailor Chat borgne
 
-![Sailor Chat borgne.png](wiki/images/Sailor_Chat_borgne.png)
+![Sailor Chat borgne.png](assets/images/fanarts/sailor-chat-borgne.png)
 
 #### Somiaul
 
-![Somiaul.png](wiki/images/Somiaul.png)
+![Somiaul.png](assets/images/personnages/somiaul.png)
 
 #### Taureau Tricéphales
 
-![Taureau Tricéphales.png](wiki/images/Taureau_Tricephales.png)
+![Taureau Tricéphales.png](assets/images/cosmogonie/taureau-tricephale.png)

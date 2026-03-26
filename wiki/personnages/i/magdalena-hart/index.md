@@ -11,7 +11,7 @@ Magda est une PJ incarnée pendant les épisodes 21 et 22 de la saison 3 par Zo�
 Magdalena est une artilleuse et mécanicienne de génie ayant permis à Sabrenas de s’élever au niveau des autres puissances. Elle est la personne derrière de nombreuses inventions sabrines, comme les Cids et les haquebutes. Elle a malheureusement dû quitter le palatinat de
 Sabrenas suite à un désaccord avec de nombreux nobles qui voulaient garder ses inventions pour eux et ne pas les partager au peuple. Suite à son départ, les projets de conquête militaire d’Irena furent fortement ralentis, les décalant de plusieurs années. Elle s’est reconvertie en chasseuse de primes avant de revenir pour participer aux jeux de la libération avec nos héros. On y apprend qu’elle a eu une aventure passée avec Lars (pas des plus agréables selon ces dires) et est une proche de nombreux inventeurs et hauts placés de Sabrenas, notamment Saoirse Keller avec qui elle a développé une véritable relation mère-fille. 
 
-![image.png](wiki/images/magdalena-hart-image.png)
+![image.png](assets/images/personnages/magdalena-hart.png)
 
 *Magdalena-par-ZatZatZatou*
 

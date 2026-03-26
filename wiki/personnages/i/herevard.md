@@ -8,7 +8,7 @@ present_dans_l_ep: s01e07-chasse-a-la-sorciere
 ## Description
 
 
-![image.png](wiki/images/herevard-image.png)
+![image.png](assets/images/personnages/herevard.png)
 
 ## Histoire
 

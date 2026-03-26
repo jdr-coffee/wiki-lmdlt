@@ -11,14 +11,13 @@
             "id": "05abc38425819ba4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "wiki/index.md",
-                "mode": "source",
-                "source": false
+                "file": "wiki/personnages/_personnages.base",
+                "viewName": "Personnages"
               },
-              "icon": "lucide-file",
-              "title": "index"
+              "icon": "lucide-table",
+              "title": "_personnages"
             }
           }
         ]
@@ -185,6 +184,7 @@
   },
   "active": "05abc38425819ba4",
   "lastOpenFiles": [
+    "wiki/index.md",
     "wiki-le-mythe-de-la-taverne.md",
     "wiki-le-mythe-de-la-taverne/univers/fantasy.md",
     "wiki-le-mythe-de-la-taverne/univers/le-dap.md",
@@ -215,7 +215,6 @@
     "wiki-le-mythe-de-la-taverne/personnages/lame.md",
     "wiki-le-mythe-de-la-taverne/personnages/seigneur-ademar.md",
     "wiki-le-mythe-de-la-taverne/personnages/pauline-l-ondine.md",
-    "wiki-le-mythe-de-la-taverne/personnages/ernest-batoncreux.md",
     "wiki-le-mythe-de-la-taverne/personnages",
     "wiki-le-mythe-de-la-taverne/pays-royaumes/_collection.yaml",
     "wiki-le-mythe-de-la-taverne/pays-royaumes",

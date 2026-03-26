@@ -43,4 +43,4 @@ episodes:
 
 ## L’HISTOIRE
 
-![image.png](wiki/images/saison-2-image.png)
+![image.png](assets/images/divers/saison-2.png)

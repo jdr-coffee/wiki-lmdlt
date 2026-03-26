@@ -8,7 +8,7 @@ title: Saoirse Keller
 
 ## Introduction
 
-![Saiorse par  ](wiki/images/Saoirse.png)
+![Saiorse par  ](assets/images/personnages/saoirse.png)
 
 Saiorse par  
 
@@ -18,7 +18,7 @@ Première apparition : “A la droite d'Irena se tient une femme aux cheveux d'u
 
 Ses cheveux sont d’un côté long, d’un côté court, son bras gauche est entièrement fait de pièces de métal, d’engrenages, de tiges et de pièces métalliques. Elle a perdu son bras suite à une explosion. Nos héros apprennent lors de sa défection du Palatinat qu’elle maitrise la flamme bleue.
 
-![*Saoirse et Neptune*, par Zat](wiki/images/saoirse-keller-image.png)
+![*Saoirse et Neptune*, par Zat](assets/images/personnages/saoirse-keller.png)
 
 *Saoirse et Neptune*, par Zat
 

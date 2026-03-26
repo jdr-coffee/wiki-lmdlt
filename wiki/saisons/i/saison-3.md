@@ -38,4 +38,4 @@ episodes:
 
 ## L’HISTOIRE
 
-![image.png](wiki/images/saison-3-image.png)
+![image.png](assets/images/divers/saison-3.png)

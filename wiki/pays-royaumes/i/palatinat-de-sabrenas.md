@@ -21,7 +21,7 @@ Ce qui symbolise cette guerre : le moment ou Berthomieu le Pourfendeur, l’anci
 
 ### Description
 
-![image.png](wiki/images/palatinat-de-sabrenas-image.png)
+![image.png](assets/images/lieux/palatinat-de-sabrenas.png)
 
 *S03E14 - 07:44*
 

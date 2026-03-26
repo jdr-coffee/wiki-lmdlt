@@ -14,7 +14,7 @@ featured: false
 
 Kiki le MJ, Sdeve, Sneve, Smeve, Speve, Sleve [insert surnoms]
 
-![image.png](wiki/images/maitre-du-jeu-image.png)
+![image.png](assets/images/personnages/maitre-du-jeu.png)
 
 *Kiki-le-MJ-par-ZatZatZatou*
 

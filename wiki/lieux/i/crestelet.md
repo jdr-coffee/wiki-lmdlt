@@ -3,7 +3,7 @@ description_rapide: Fief de pêcheurs
 pays_royaumes: royaume-de-veloria
 ---
 
-![image.png](wiki/images/crestelet-image.png)
+![image.png](assets/images/lieux/crestelet.png)
 
 **Famille au pouvoir :** Belfort 
 

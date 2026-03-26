@@ -3,7 +3,7 @@ description_rapide: Fief de marins
 pays_royaumes: royaume-de-veloria
 ---
 
-![image.png](wiki/images/happelourde-image.png)
+![image.png](assets/images/lieux/happelourde.png)
 
 ***Famille au pouvoir*** : Caverly
 

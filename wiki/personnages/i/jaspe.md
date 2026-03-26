@@ -2,7 +2,7 @@
 description_rapide: Occulte vivant au Palatinat de Sabrenas mais d’origine inconnue
 ---
 
-![Jaspe par  ](wiki/images/Jaspe.png)
+![Jaspe par  ](assets/images/personnages/jaspe.png)
 
 Jaspe par  
 

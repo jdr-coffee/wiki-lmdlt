@@ -2,7 +2,7 @@
 description_rapide: Championne de la Louve Mère
 ---
 
-![Jupiter par  ](wiki/images/Jupiter_.png)
+![Jupiter par  ](assets/images/personnages/jupiter.png)
 
 Jupiter par  
 

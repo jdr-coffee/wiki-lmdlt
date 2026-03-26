@@ -26,7 +26,7 @@ title: S01E01 - Les morts disparus
 
 Nos 4 héros arrivent à la prison d'Agener, une forteresse taillée dans une montagne glaciale.
 
-![1000019420.png](wiki/images/1000019420.png)
+![1000019420.png](assets/images/divers/s01e01-illustration.png)
 
 *Illustration par Leflopla*
 
@@ -112,7 +112,7 @@ Une série d'épisodes **Pilotes** montre la première rencontre des joueur.eu
 
 
 
-![image.png](wiki/images/s01e01-les-morts-disparus-image.png)
+![image.png](assets/images/divers/s01e01-les-morts-disparus.png)
 
 ## **Références**
 

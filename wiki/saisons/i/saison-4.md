@@ -17,4 +17,4 @@ episodes:
   - s04e14-colere-divine
 ---
 
-![image.png](wiki/images/saison-4-image.png)
+![image.png](assets/images/divers/saison-4.png)

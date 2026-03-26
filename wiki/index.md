@@ -1,5 +1,5 @@
 ---
-cover: images/lmdlt.png
+cover: assets/images/divers/lmdlt.png
 cover_position: center
 title: Le Mythe de la Taverne
 ---

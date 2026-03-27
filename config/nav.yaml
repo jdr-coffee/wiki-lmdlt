@@ -1,0 +1,29 @@
+nav:
+  - title: Les Héroïnes
+    items:
+      - title: Chelinka
+        path: heroines/i/chelinka
+      - title: Someul
+        path: heroines/i/someul
+      - title: Neptune
+        path: heroines/i/neptune
+
+  - title: Épisodes
+    items:
+      - title: Tous les épisodes
+        path: episodes
+      - title: Par saison
+        path: saisons
+
+  - title: L'Univers
+    items:
+      - title: Personnages
+        path: personnages
+      - title: Lieux
+        path: lieux
+      - title: Guildes
+        path: guildes
+      - title: Magie
+        path: magie
+      - title: Bestiaire
+        path: bestiaire

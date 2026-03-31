@@ -1,4 +1,3 @@
 ---
 title: Sans titre
 ---
-::base

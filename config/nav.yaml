@@ -2,11 +2,11 @@ nav:
   - title: Les Héroïnes
     items:
       - title: Chelinka
-        path: heroines/i/chelinka
+        path: heroines/chelinka
       - title: Someul
-        path: heroines/i/someul
+        path: heroines/someul
       - title: Neptune
-        path: heroines/i/neptune
+        path: heroines/neptune
 
   - title: Épisodes
     items:

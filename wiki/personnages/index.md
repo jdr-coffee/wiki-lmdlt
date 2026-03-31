@@ -1,4 +1,0 @@
----
-title: Personnages
----
-::base

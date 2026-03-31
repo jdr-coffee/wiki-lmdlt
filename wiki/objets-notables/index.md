@@ -1,4 +1,0 @@
----
-title: Objets notables
----
-::base

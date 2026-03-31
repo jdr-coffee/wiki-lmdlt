@@ -1,4 +1,0 @@
----
-title: L'équipe
----
-::base

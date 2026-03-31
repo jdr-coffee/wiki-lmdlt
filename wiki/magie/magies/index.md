@@ -1,4 +1,0 @@
----
-title: Magies
----
-::base

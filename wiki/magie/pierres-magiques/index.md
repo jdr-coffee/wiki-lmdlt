@@ -1,4 +1,0 @@
----
-title: Pierres magiques
----
-::base

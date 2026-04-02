@@ -1,7 +1,7 @@
 ---
 featured: true
 membres: ninon
-cover: assets/images/personnages/chelinka.png
+cover: "[[chelinka.png]]"
 ---
 
 ## Histoire :

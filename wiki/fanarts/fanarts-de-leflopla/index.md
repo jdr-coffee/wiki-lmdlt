@@ -3,9 +3,9 @@ title: Fanarts de Leflopla
 ---
 
 > [!tip]
-> *Page de fanarts de [[contributeurices/leflopla|Leflopla]] toutes les images sons soumises aux droits d’auteurs 🙏*
+> *Page de fanarts de [[leflopla|Leflopla]] toutes les images sons soumises aux droits d’auteurs 🙏*
 
-[[fanarts/fanarts-de-leflopla/inktober-de-leflopla|Inktober de Leflopla]]
+[[inktober-de-leflopla|Inktober de Leflopla]]
 
 ## Gallerie
 

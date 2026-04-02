@@ -3,7 +3,7 @@ description_rapide: Chef de la guilde des serviteurs à Agener et père de
 title: Victor Appleby
 ---
 
-Son bras droit est [[personnages/izzy|Izzy]]
+Son bras droit est [[izzy|Izzy]]
 
 
 ## Histoire

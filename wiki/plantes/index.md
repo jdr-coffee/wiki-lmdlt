@@ -6,13 +6,13 @@ title: Plantes
 
 ## Herbier
 
-[[plantes/allangium|Allangium]]
+[[allangium|Allangium]]
 
-[[plantes/anthurium|**Anthurium**]]
+[[anthurium|**Anthurium**]]
 
-[[plantes/coridalice|*Coridalice*]]
+[[coridalice|*Coridalice*]]
 
-[[plantes/gattilier|Gattilier]]
+[[gattilier|Gattilier]]
 
 - **Glycérine Aquatique**
 - Aspect : Grosse touffe de hautes herbes vertes, semblable à des feuilles de roseaux.

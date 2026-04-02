@@ -1,7 +1,7 @@
 ---
 featured: true
 membres: sam
-cover: assets/images/personnages/someul.png
+cover: "[[someul.png]]"
 ---
 
 ## Arrivée de Someul dans le jeu

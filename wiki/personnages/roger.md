@@ -18,6 +18,6 @@ On sait qu'il est chauve et surtout qu'il est borgne (c'est sa principale caract
 
 ### **Saison 2 :**
 
-On apprendra, grâce à [[personnages/yana|Yana]], son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
+On apprendra, grâce à [[yana|Yana]], son assassinat par un autre membre de la guilde des Vide-Poches d’Agener qui voulait prendre sa place de chef.
 
 

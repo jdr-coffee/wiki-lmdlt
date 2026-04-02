@@ -3,5 +3,5 @@ draft: 'true'
 title: Magie
 ---
 
-- [[magie/magies|magies]]
-- [[magie/pierres-magiques|pierres magiques]]
+- [[magies|magies]]
+- [[pierres-magiques|pierres magiques]]

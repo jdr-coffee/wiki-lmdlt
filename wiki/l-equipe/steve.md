@@ -17,4 +17,4 @@ Steve est contre son gré (et un peu de son gré) affublé de nombreux sobriquet
 
 MouSteve par  
 
-[[l-equipe/steve/listes-des-sobriquets-de-steve|Listes des sobriquets de Steve]]
+[[listes-des-sobriquets-de-steve|Listes des sobriquets de Steve]]

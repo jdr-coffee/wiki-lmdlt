@@ -2,4 +2,4 @@
 title: Fanarts de Zat
 ---
 
-*Fanarts de [[contributeurices/zatzat|ZatZat]]*
+*Fanarts de [[zatzat|ZatZat]]*

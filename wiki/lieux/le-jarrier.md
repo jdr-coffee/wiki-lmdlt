@@ -11,4 +11,4 @@ title: Le Jarrier
 La famille Vertecime est une des plus anciennes familles du Royaume de Véloria
 
 
-***Capitale*** : [[lieux/vesperale|Vespérale]]
+***Capitale*** : [[vesperale|Vespérale]]

@@ -1,7 +1,7 @@
 ---
 featured: true
 membres: camille
-cover: assets/images/personnages/neptune.png
+cover: "[[neptune.png]]"
 ---
 
 ## Arrivée de Neptune dans le jeu

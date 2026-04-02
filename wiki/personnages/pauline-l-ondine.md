@@ -36,20 +36,20 @@ Coquette et vaniteuse, elle aime se mirer et demande souvent si elle est belle. 
 Lors de son unique apparition :
 
 - Elle lave immédiatement la boue du visage de Chelinka.
-- Elle discute avec les héros et mentionne [[personnages/yana|Yana]] , son amie humaine.
-- Elle accepte un **miroir** en offrande et, en échange, **retire la malédiction de [[personnages/desdemona-vertecime|Desdemona Vertecime]]** , envoyant l’eau purificatrice jusque dans sa cellule.
+- Elle discute avec les héros et mentionne [[yana|Yana]] , son amie humaine.
+- Elle accepte un **miroir** en offrande et, en échange, **retire la malédiction de [[desdemona-vertecime|Desdemona Vertecime]]** , envoyant l’eau purificatrice jusque dans sa cellule.
 - Elle confirme aussi la présence d’**affres** rôdant dans la prison.
 
 ## Relations
 
 ### Yana
 
-Pauline entretient un lien fort avec [[personnages/yana|Yana]] , qui lui rend hommage en lui offrant des **miroirs**, son objet préféré.
+Pauline entretient un lien fort avec [[yana|Yana]] , qui lui rend hommage en lui offrant des **miroirs**, son objet préféré.
 
 Depuis l’emprisonnement de Yana, les deux échangent régulièrement. Pauline s’inquiète lorsqu’elle apprend que Yana a été déplacée de cellule, mais les héros la rassurent.
 
 ### Autres relations
 
-- [[personnages/desdemona-vertecime|Desdemona Vertecime]]  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
+- [[desdemona-vertecime|Desdemona Vertecime]]  : bénéficiaire directe de la bénédiction purificatrice de Pauline.
 - **Les affres** : Pauline a conscience de leur présence malfaisante à Agener.
 

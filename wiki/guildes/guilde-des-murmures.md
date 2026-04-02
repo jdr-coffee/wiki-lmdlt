@@ -8,7 +8,7 @@ title: Guilde des Murmures
 
 La guilde des Murmures est l’une des 6 guildes principales de la prison d’Agener. Ses membres s’occupent de faire taire les détenus récalcitrants. Leur chef est l’un des gardiens d’Agener, Cyril.
 
-A la Prison d’Agener, la guilde est alliée avec les [[guildes/guilde-des-messagers|Messagers]] et les [[guildes/guilde-des-cuistanciers|Cuistanciers]]
+A la Prison d’Agener, la guilde est alliée avec les [[guilde-des-messagers|Messagers]] et les [[guilde-des-cuistanciers|Cuistanciers]]
 
 ## Description de la Guilde
 

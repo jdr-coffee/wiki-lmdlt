@@ -1,12 +1,5 @@
 ---
 date: 18 octobre 2020
-pnj_presents:
-  - carissa-skyke
-  - izzy
-  - general-beausoleil
-  - jeffrey-doyle
-  - roger
-  - yana
 saison: "[[saison-1]]"
 title: S01E02 - Baston générale à la cantoche
 type: episode

@@ -1,11 +1,5 @@
 ---
 date: 18 janvier 2021
-pnj_presents:
-  - cornelius
-  - mira
-  - roger
-  - izzy
-  - yana
 saison: "[[saison-1]]"
 title: S01E03 - L'adoption de Cid le Robot
 type: episode

@@ -1,12 +1,5 @@
 ---
 date: 8 février 2021
-pnj_presents:
-  - alice-holloway
-  - plutarch
-  - mira
-  - izen
-  - cornelius
-  - carissa-skyke
 saison: "[[saison-1]]"
 title: S01E05 - L'art du combat
 type: episode

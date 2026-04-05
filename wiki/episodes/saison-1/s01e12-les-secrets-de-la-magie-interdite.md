@@ -1,8 +1,5 @@
 ---
 date: 5 mai 2021
-pnj_presents:
-  - callum-le-mage
-  - eogan-keller
 saison: "[[saison-1]]"
 title: S01E12 - Les secrets de la magie interdite
 type: episode

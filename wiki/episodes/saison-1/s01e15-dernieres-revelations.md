@@ -1,11 +1,5 @@
 ---
 date: 16 juin 2021
-pnj_presents:
-  - pauline-l-ondine
-  - callum-le-mage
-  - yana
-  - mira
-  - carissa-skyke
 saison: "[[saison-1]]"
 title: S01E15 - Dernières révélations
 type: episode

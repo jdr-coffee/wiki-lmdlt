@@ -1,11 +1,5 @@
 ---
 date: 11 août 2021
-pnj_presents:
-  - carissa-skyke
-  - herevard
-  - eogan-keller
-  - yana
-  - constance-defontaine
 saison: "[[saison-1]]"
 title: S01E19 - La bataille d'Agener
 type: episode

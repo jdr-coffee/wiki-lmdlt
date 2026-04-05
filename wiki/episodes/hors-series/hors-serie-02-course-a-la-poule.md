@@ -1,6 +1,5 @@
 ---
 date: 10 novembre 2021
-pnj_presents: arakel
 saison: hors-serie
 title: Hors-série#02 - Course à la poule !
 type: hors-serie

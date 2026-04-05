@@ -1,11 +1,5 @@
 ---
 date: 19 mai 2021
-pnj_presents:
-  - eogan-keller
-  - jeffrey-doyle
-  - desdemona-vertecime
-  - izen
-  - yana
 saison: "[[saison-1]]"
 title: S01E13 - Les imposteurs moustachus
 type: episode

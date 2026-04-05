@@ -1,6 +1,5 @@
 ---
 date: 27 octobre 2021
-pnj_presents: arakel
 saison: hors-serie
 title: Hors-série#01 - La grande élection
 type: hors-serie

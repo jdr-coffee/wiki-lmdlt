@@ -1,9 +1,5 @@
 ---
 date: 22 juin 2022
-pnj_presents:
-  - romeo
-  - cassandra-tastrophe
-  - nicholas-de-benevent
 saison: "[[saison-2]]"
 title: "S02E16\_- Le QG des persifleurs"
 type: episode

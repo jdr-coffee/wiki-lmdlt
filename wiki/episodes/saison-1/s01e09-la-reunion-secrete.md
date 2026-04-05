@@ -1,9 +1,5 @@
 ---
 date: 24 mars 2021
-pnj_presents:
-  - jeffrey-doyle
-  - herevard
-  - desdemona-vertecime
 saison: "[[saison-1]]"
 title: S01E09 - La réunion secrète
 type: episode

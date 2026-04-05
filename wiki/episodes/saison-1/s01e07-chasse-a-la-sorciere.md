@@ -1,11 +1,5 @@
 ---
 date: 3 mars 2021
-pnj_presents:
-  - maggie
-  - herevard
-  - jeffrey-doyle
-  - yana
-  - izzy
 saison: "[[saison-1]]"
 title: S01E07 - Chasse à la sorcière
 type: episode

@@ -1,13 +1,5 @@
 ---
 date: 25 mai 2022
-pnj_presents:
-  - sarah-petrova
-  - cody-berryman
-  - timothy-charlton
-  - agibail-brent
-  - fox-sherman
-  - adeline-roberts
-  - billy-quattermack
 saison: "[[saison-2]]"
 title: "S02E14\_- La mystérieuse héritière"
 type: episode

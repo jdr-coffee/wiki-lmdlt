@@ -1,10 +1,5 @@
 ---
 date: 14 juillet 2021
-pnj_presents:
-  - lame
-  - ulgar
-  - jeffrey-doyle
-  - plutarch
 saison: "[[saison-1]]"
 title: S01E17 - Surprises au petit déjeuner
 type: episode

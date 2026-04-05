@@ -1,9 +1,5 @@
 ---
 date: 30 juin 2021
-pnj_presents:
-  - callum-le-mage
-  - herevard
-  - carissa-skyke
 saison: "[[saison-1]]"
 title: S01E16 - La revanche des mort
 type: episode

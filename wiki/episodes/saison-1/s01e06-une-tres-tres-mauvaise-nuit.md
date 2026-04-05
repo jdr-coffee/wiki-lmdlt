@@ -1,12 +1,5 @@
 ---
 date: 15 février 2021
-pnj_presents:
-  - desdemona-vertecime
-  - izzy
-  - febastien
-  - ulgar
-  - heckel
-  - jeckel
 saison: "[[saison-1]]"
 title: S01E06 - Une très (très) mauvaise nuit
 type: episode

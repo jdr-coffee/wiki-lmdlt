@@ -1,10 +1,5 @@
 ---
 date: 6 juillet 2022
-pnj_presents:
-  - roberto-le-querelleur
-  - general-beausoleil
-  - gorthor-le-cruel
-  - fyrlinel
 saison: "[[saison-2]]"
 title: "S02E17\_- Faux objets en pagaille"
 type: episode

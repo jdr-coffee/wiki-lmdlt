@@ -1,11 +1,5 @@
 ---
 date: 7 avril 2021
-pnj_presents:
-  - desdemona-vertecime
-  - ulgar
-  - yana
-  - izzy
-  - jeffrey-doyle
 saison: "[[saison-1]]"
 title: S01E10 - Arnaques, crimes et botaniques
 type: episode

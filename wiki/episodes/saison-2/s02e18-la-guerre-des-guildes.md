@@ -1,15 +1,5 @@
 ---
 date: 20 juillet 2022
-pnj_presents:
-  - timothy-charlton
-  - agibail-brent
-  - les-jumeaux-milford
-  - general-beausoleil
-  - jonas
-  - igor-hector
-  - nicholas-de-benevent
-  - fyrlinel
-  - gorthor-le-cruel
 saison: "[[saison-2]]"
 title: "S02E18\_- La guerre des guildes"
 type: episode

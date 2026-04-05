@@ -1,11 +1,5 @@
 ---
 date: 8 septembre 2021
-pnj_presents:
-  - herevard
-  - eogan-keller
-  - yana
-  - carissa-skyke
-  - meuleuwa
 saison: "[[saison-1]]"
 title: S01E20 Pt.02 - La dernière ligne de défense
 type: episode

@@ -1,8 +1,5 @@
 ---
 date: 2 juin 2021
-pnj_presents:
-  - callum-le-mage
-  - meuleuwa
 saison: "[[saison-1]]"
 title: "S01E14 - Cauchemar en Cuisine !"
 type: episode

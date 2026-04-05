@@ -1,11 +1,5 @@
 ---
 date: 25 janvier 2021
-pnj_presents:
-  - febastien
-  - cid
-  - izzy
-  - yana
-  - roger
 saison: "[[saison-1]]"
 title: S01E04 - La meilleure pizza du royaume
 type: episode

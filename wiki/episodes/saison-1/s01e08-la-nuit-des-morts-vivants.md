@@ -1,10 +1,5 @@
 ---
 date: 10 mars 2021
-pnj_presents:
-  - desdemona-vertecime
-  - ulgar
-  - yana
-  - herevard
 saison: "[[saison-1]]"
 title: S01E08 - La nuit des morts-vivants
 type: episode

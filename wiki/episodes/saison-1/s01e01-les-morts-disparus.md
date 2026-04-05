@@ -1,13 +1,5 @@
 ---
 date: 11 octobre 2020
-pnj_presents:
-  - roger
-  - eogan-keller
-  - heckel
-  - jeckel
-  - yana
-  - jeffrey-doyle
-  - ulgar
 saison: "[[saison-1]]"
 title: S01E01 - Les morts disparus
 type: episode

@@ -1,13 +1,5 @@
 ---
 date: 8 juin 2022
-pnj_presents:
-  - jonas
-  - timothy-charlton
-  - sarah-petrova
-  - cody-berryman
-  - adeline-roberts
-  - fox-sherman
-  - agibail-brent
 saison: "[[saison-2]]"
 title: "S02E15\_- La petite boutique d'objets magiques"
 type: episode

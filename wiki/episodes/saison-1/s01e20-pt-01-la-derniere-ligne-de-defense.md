@@ -1,11 +1,5 @@
 ---
 date: 25 août 2021
-pnj_presents:
-  - carissa-skyke
-  - herevard
-  - eogan-keller
-  - yana
-  - pauline-l-ondine
 saison: "[[saison-1]]"
 title: S01E20 Pt.01 - La dernière ligne de défense
 type: episode

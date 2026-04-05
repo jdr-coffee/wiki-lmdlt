@@ -1,12 +1,5 @@
 ---
 date: 30 juillet 2021
-pnj_presents:
-  - lame
-  - pauline-l-ondine
-  - desdemona-vertecime
-  - jeffrey-doyle
-  - carissa-skyke
-  - herevard
 saison: "[[saison-1]]"
 title: S01E18 - Le conseil de guerre
 type: episode

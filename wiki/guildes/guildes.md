@@ -1,4 +1,5 @@
 ---
+icon: shield
 title: Guildes
 ---
 

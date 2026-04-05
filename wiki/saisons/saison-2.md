@@ -1,4 +1,5 @@
 ---
+icon: disc-3
 title: Saison 2
 cover: assets/images/divers/saison-2.png
 ---

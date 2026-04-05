@@ -1,4 +1,5 @@
 ---
+icon: map-pin
 title: Lieux
 ---
 

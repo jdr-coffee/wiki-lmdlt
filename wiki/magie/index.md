@@ -1,5 +1,6 @@
 ---
 draft: 'true'
+icon: sparkles
 title: Magie
 ---
 

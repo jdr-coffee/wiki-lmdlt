@@ -15,17 +15,29 @@ Le podcast est écrit et scénarisé par [[steve|Steve]], accompagné de trois j
 
 ::query[/heroines]{view=gallery featured=true}
 
+## Épisodes
+
+:::links
+[[saison-1|Saison 1]]
+[[saison-2|Saison 2]]
+[[saison-3|Saison 3]]
+[[saison-4|Saison 4]]
+[[pilotes|Pilotes]]
+[[hors-series|Hors-séries]]
+:::/links
+
 ## Personnages
 
 ::query[/personnages]{view=gallery limit=4 shuffle=true card=description_rapide}
 
-## Épisodes
-
-::query[/episodes]{view=gallery limit=4 depth=all}
-
 ## L'Univers
 
-::query[/lieux]{view=gallery limit=4}
+:::links
+[[lieux|Lieux]]
+[[guildes|Guildes]]
+[[magie|Magie]]
+[[bestiaire|Bestiaire]]
+:::/links
 
 ---
 

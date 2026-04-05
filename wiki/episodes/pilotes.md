@@ -1,4 +1,5 @@
 ---
+icon: clapperboard
 title: Pilotes
 ---
 

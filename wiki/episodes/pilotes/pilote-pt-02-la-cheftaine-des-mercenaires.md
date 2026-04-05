@@ -5,7 +5,7 @@ title: Pilote / Pt.02 - La cheftaine des mercenaires
 type: pilote
 ---
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Hector eu un nouvel admirateur, comment Ninon renoua avec son passé et comment Camille confronta sa belle maman.
 

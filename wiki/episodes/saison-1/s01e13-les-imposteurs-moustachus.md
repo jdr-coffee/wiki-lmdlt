@@ -54,6 +54,6 @@ Someul et Chelinka se présentent comme de nouveaux employés mandatés par Jeff
 - Les fleurs fanent autour de Desdemona quand elle est en colère, suggérant un lien magique avec la nature
 - La mission du poulet frit pour Caloum doit être accomplie avant 15h le lendemain
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/15djDGwsxaTcYBAPZuSJUA?si=399a96ac5eeb4a95](https://open.spotify.com/episode/15djDGwsxaTcYBAPZuSJUA?si=399a96ac5eeb4a95)

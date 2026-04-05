@@ -12,12 +12,12 @@ type: episode
 *L'épisode "**La meilleure pizza du royaume**" est le 4e épisode de la saison 1 du Mythe de la Taverne.
 Ainsi que le 8e épisode enregistré par le groupe.*
 
-## **Résumé**
+## Résumé
 
 
 
 
-## **Contenu de l'épisode**
+## Contenu de l'épisode
 
 L'épisode s'ouvre sur un remerciement aux auditeurs pour la reception.
 
@@ -76,7 +76,7 @@ Saumul tente d'attraper le rat, mais Chelinka se débat involontairement. Neptun
 
 L'épisode se termine sur cette action en suspens.
 
-## **Facts**
+## Facts
 
 - Le Cid a prouvé son efficacité contre les émeutes en projetant tout le monde autour de lui.
 - Chelinka a raté son jet de magie avec Easy (80 sur 60) mais a obtenu une réussite critique pour cuire la pizza (01 sur 60).
@@ -89,6 +89,6 @@ Leur règle : ne pas se persifler entre eux.
 - Chelinka s'est brûlé le poignet en fondant des menottes (perte d'1 PV).
 - Kratour, le rat de Mira, peut prendre le contrôle du bras des personnes.
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW?si=c70c70e017384830](https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW?si=c70c70e017384830)

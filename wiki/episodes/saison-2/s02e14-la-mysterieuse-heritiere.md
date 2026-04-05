@@ -16,13 +16,13 @@ type: episode
 *L'épisode "**La Mystérieuse Héritière**" est le 14e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 39e épisode enregistré par le groupe.*
 
-## **Résumé**
+## Résumé
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Chelinka fut un petit nem, comment Neptune ne voulu plus accueillir de nouveaux PNJs dans son coeur et comment Someul honora sa promesse de s'occuper des bullies.
 
-## **Contenu de l'épisode**
+## Contenu de l'épisode
 
 L’épisode "la mystérieuse héritière" commence là où nous avons laissé nos héros au dernier épisode, à la bibliothèque du collège des mages aussi nommée bibliothèque de l’invisible. Nous sommes en fin d’après midi, et les distingués affluent pour étudier. Someul, Chelinka et Neptune, sous leurs identités de distingués Lambert, Spencer et Faramond.
 
@@ -46,11 +46,11 @@ Le groupe se rends donc au corbeau plaisantin, se séparant de quelques uns de s
 
 Mais la suite appartiens au prochain épisode...
 
-## **Fun Fact**
+## Fun Fact
 
 - Steve le MJ, dans un objectif d’immersion a apporté une bougie à l’odeur du feu de bois pour plus d’immersion dans l’ambiance de la taverne, causant un conflit à cause de son odeur nauséabonde.
 - Présence de nombreux jeux de mots sur les nems ainsi que sur le prénom Sarah.
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/20N8W4W1qcT95YcgyeYpni?si=yqY1uJxtTiKcYBC8FusTmQ](https://open.spotify.com/episode/20N8W4W1qcT95YcgyeYpni?si=yqY1uJxtTiKcYBC8FusTmQ)

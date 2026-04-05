@@ -7,11 +7,11 @@ type: episode
 *L'épisode "**Le Temple du Taureau”** est le 13e épisode de la saison 4 du Mythe de la Taverne
 Ainsi que le 105e épisode enregistré par le groupe.*
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Chelinka fut très mal à l’aise, comment Neptune rata complètement ses excuses et comment Someul devint un véritable frère taurin.
 
-## **Contenu de l'épisode**
+## Contenu de l'épisode
 
 Chelinka accepte un rapprochement avec Cornélia Bon-Compagnon, qui lui raconte sa solitude et sa lassitude de suivre son père et devoir faire bonne figure tout le temps.
 
@@ -23,8 +23,8 @@ Neptune et Jupiter ont donc une mission commune confiée par les dieux
 
 Au cour d’une tournée des ~~bars~~ temples, Someul est intronisé comme disciple du Taureau Tricéphale, pendant que Chelinka et Cornélia font leur meilleure tournée des bars, se promettent d’organiser une énorme soirée pour embêter el père de Cornélia, avant de s’endormir ensemble dans la chambre de Cornélia.
 
-## **Fun fact**
+## Fun fact
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/5wg4d5KJmDB5Y9VePwWxro?si=79b4cf7d773b4c44](https://open.spotify.com/episode/5wg4d5KJmDB5Y9VePwWxro?si=79b4cf7d773b4c44)

@@ -79,6 +79,6 @@ Chelinka actionne le levier. Un bruit métallique résonne. L'épisode se termin
 - **Diversion enflammée** : Chelinka utilise sa flamme blanche pour créer la distraction nécessaire
 - **Points de vie critiques** : Chelinka n'a que 9 PV sur 15 après le combat précédent
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/0zJ3b5LDO9pZIsgAnwVda8?si=e7cb3f435da0411d](https://open.spotify.com/episode/0zJ3b5LDO9pZIsgAnwVda8?si=e7cb3f435da0411d)

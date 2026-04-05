@@ -8,18 +8,18 @@ type: episode
 *L'épisode "**Le Gâteau au Chocolat Ultime**" est le 30e épisode de la saison 2 du Mythe de la Taverne
 Ainsi que le 55e épisode enregistré par le groupe.*
 
-## **Résumé**
+## Résumé
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Neptune frotta deux moitiés d'oignons l'une contre l'autre, comment Someul confia des secrets à un oiseau de métal et comment Chelinka se transforma en Chelinkaren.
 
-## **Contenu de l'épisode**
+## Contenu de l'épisode
 
 N/A
 
-## **Fun fact**
+## Fun fact
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/2nMuFrdM9UQj4jcKi97P8G?si=VAPooCwDQB63kr2AcWpQJw](https://open.spotify.com/episode/2nMuFrdM9UQj4jcKi97P8G?si=VAPooCwDQB63kr2AcWpQJw)

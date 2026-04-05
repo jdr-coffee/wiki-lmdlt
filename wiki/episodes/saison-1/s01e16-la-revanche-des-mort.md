@@ -18,12 +18,12 @@ Finalement, le conseil, reconnaissant leur rôle crucial dans la défaite des es
 
 ## Contenu de l’épisode
 
-## **Victoire Contre les Esprits des Affres**
+## Victoire Contre les Esprits des Affres
 
 
 
 
-## **Le Marché de Callum et la Récompense**
+## Le Marché de Callum et la Récompense
 
 
 Il s’est échappé de la Citadelle, utilisant une création magique, prenant la forme d'un immense oiseau squelettique,. 

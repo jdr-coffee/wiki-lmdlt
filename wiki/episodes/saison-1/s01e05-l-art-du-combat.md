@@ -65,6 +65,6 @@ Quelle sera leur prochaine action ? Rendez-vous épisode 6.
 - Les dieux ne semblent pas répondre dans le quartier haute sécurité
 - Someul craint la septicémie ou la gangrène après sa blessure
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW](https://open.spotify.com/episode/5895p9QUBZicrNor90mzAW)

@@ -72,6 +72,6 @@ L'épisode se termine sur un suspense alors que les gardes s'apprêtent à goût
 - Les disciples en toge rouge sang portent des arbalètes et semblent être des exécuteurs religieux
 - Neptune utilise son rouage (probablement une arme ou un outil) pour découper de la pizza
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/0u83cXf2TtkmTVKCBUJAY9?si=58ca3df77cf6454a](https://open.spotify.com/episode/0u83cXf2TtkmTVKCBUJAY9?si=58ca3df77cf6454a)

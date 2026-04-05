@@ -68,6 +68,6 @@ Le MJ note que les personnages, ayant monté de niveau, affrontent désormais de
 - **Compte à rebours** : Le mécanisme se déclenche à 120 secondes et décréments jusqu'à zéro
 - **Montée en difficulté** : Le MJ souligne que les ennemis évoluent avec le niveau des personnages - des squelettes aux golems
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/6gIOFuGV9aquGZZrjuxLAX?si=14d96f29959a4fa0](https://open.spotify.com/episode/6gIOFuGV9aquGZZrjuxLAX?si=14d96f29959a4fa0)

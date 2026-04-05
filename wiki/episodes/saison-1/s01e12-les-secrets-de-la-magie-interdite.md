@@ -90,6 +90,6 @@ Eogan confirme que la nourriture empoisonnée de la prison lui a causé des conv
 - **Poulet frit requis** : Callum exige du poulet frit à 15h le lendemain - une demande inattendue pour un rituel de bannissement
 - **Fin de saison proche** : Le narrateur annonce que la conclusion de la saison 1 approche
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/4cv8A5ZezCQJJ3WeAxkwpO?si=55523d0bfb314ee5](https://open.spotify.com/episode/4cv8A5ZezCQJJ3WeAxkwpO?si=55523d0bfb314ee5)

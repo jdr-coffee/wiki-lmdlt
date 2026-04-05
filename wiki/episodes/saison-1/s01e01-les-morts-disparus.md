@@ -94,7 +94,7 @@ La cloche sonne l'heure du repas, et le groupe se dirige vers la grande place. I
 
 
 
-## **Fun fact**
+## Fun fact
 
 - "Les morts disparus" n'est pas le premier épisode enregistré du podcast, bien que ce soit le premier publié. 
 
@@ -105,6 +105,6 @@ Une série d'épisodes **Pilotes** montre la première rencontre des joueur.eu
 
 ![image.png](assets/images/divers/s01e01-les-morts-disparus.png)
 
-## **Références**
+## Références
 
 [https://shows.acast.com/le-mythe-de-la-taverne/episodes/6465eed1836438001163808d](https://shows.acast.com/le-mythe-de-la-taverne/episodes/6465eed1836438001163808d)

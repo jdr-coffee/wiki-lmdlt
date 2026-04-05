@@ -66,6 +66,6 @@ Quelle est cette mystérieuse sixième guilde ? Rendez-vous épisode 7 !
 - Le mystérieux colosse moustachu de la cantine semble avoir un certain pouvoir
 - Someul doit boire l'infusion de Desdemona pour guérir sa jambe brisée
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/6BRWJ5ctX2Tf02MMkH3F6w?si=85cb49db790d4371](https://open.spotify.com/episode/6BRWJ5ctX2Tf02MMkH3F6w?si=85cb49db790d4371)

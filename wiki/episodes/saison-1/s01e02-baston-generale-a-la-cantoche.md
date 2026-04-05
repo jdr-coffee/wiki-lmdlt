@@ -14,21 +14,21 @@ type: episode
 
 *C’est le dernier épisode avec Artemis qui quitte le podcast après.*
 
-## **Résumé**
+## Résumé
 
 
 
 
-## **Contenu de l'épisode**
+## Contenu de l'épisode
 
-## **Incident à la cantine**
-
-
-## **Collecte d'informations**
+## Incident à la cantine
 
 
+## Collecte d'informations
 
-## **Le chantage de Beausoleil**
+
+
+## Le chantage de Beausoleil
 
 Le groupe trouve Jeffrey Doyle en discussion avec le Général Beausoleil, en inspection surprise. Artémis panique en le reconnaissant comme un ami de son père et tente de se cacher.
 
@@ -36,14 +36,14 @@ Beausoleil emmène Artémis à l'écart et lui fait chanter : il gardera le secr
 
 Pendant ce temps, les autres informent Jeffrey Doyle de leurs découvertes (porte et sacs ouverts de l'intérieur, tissu orange). Il promet de leur obtenir un accès au quartier haute sécurité.
 
-## **Interrogatoire de Yana Appleby**
+## Interrogatoire de Yana Appleby
 
 
-## **La bagarre orchestrée**
+## La bagarre orchestrée
 
 
 
-## **Punition collective**
+## Punition collective
 
 
 L'épisode se termine avec le groupe retournant à leur cellule (toujours équipée de seulement trois paillasses). Chelinka s'apprête à raconter son histoire avec Murano, mais le récit est interrompu.
@@ -54,7 +54,7 @@ L'épisode se termine avec le groupe retournant à leur cellule (toujours équip
 - La cellule du groupe ne dispose toujours que de trois paillasses pour quatre personnes.
 - Les membres de la Guilde des Serviteurs sont identifiables par une tresse dans leurs cheveux.
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/1ZOJTbshD9hxHI1wkSuS8Q](https://open.spotify.com/episode/1ZOJTbshD9hxHI1wkSuS8Q)
 

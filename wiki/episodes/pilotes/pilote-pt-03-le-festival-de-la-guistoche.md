@@ -5,7 +5,7 @@ title: Pilote / Pt.03 - Le Festival de la Guistoche
 type: pilote
 ---
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Hector devint garde du corps des Jonas Brothers, comment Camille conclu le contrat commercial de bières du siècle et comment Ninon rencontra les idoles des jeunes.
 

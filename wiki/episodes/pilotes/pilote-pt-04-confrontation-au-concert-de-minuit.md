@@ -5,7 +5,7 @@ title: Pilote / Pt.04 - Confrontation au concert de minuit
 type: pilote
 ---
 
-## **Description de l'épisode**
+## Description de l'épisode
 
 Comment Ninon tenta d'affronter un PNJ récurrent, comment Hector mit le nez dans des documents confidentiels et comment Camille tenta de *cancel* sa belle-mère en direct.
 

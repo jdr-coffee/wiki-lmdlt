@@ -24,7 +24,7 @@ type: episode
 ### **Victor Appleby - Le Secret de Famille**
 
 
-## **Adric - Le Témoin Clé**
+## Adric - Le Témoin Clé
 
 
 
@@ -55,6 +55,6 @@ Le groupe partage une demi-part de pizza restante devant la cellule d'Adric, reg
 - **Échec critique épique** : Chelinka fait 98 en tentant d'éclairer l'extérieur et met le feu à un matelas
 - **Évolution magique** : Neptune découvre ses affinités avec la magie de la Terre après avoir utilisé ses pouvoirs à plusieurs reprises
 
-## **Références**
+## Références
 
 [https://open.spotify.com/episode/3D77iA2HxN1Ze8WKGdjDFZ?si=dfc569a01d654f8f](https://open.spotify.com/episode/3D77iA2HxN1Ze8WKGdjDFZ?si=dfc569a01d654f8f)

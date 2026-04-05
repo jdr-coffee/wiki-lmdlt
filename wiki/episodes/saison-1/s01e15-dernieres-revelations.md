@@ -1,142 +1,99 @@
 ---
 date: 16 juin 2021
-pnj_presents: pauline-l-ondine
+pnj_presents:
+  - pauline-l-ondine
+  - callum-le-mage
+  - yana
+  - mira
+  - carissa-skyke
 saison: "[[saison-1]]"
 title: S01E15 - Dernières révélations
 type: episode
 ---
 
-*L'épisode "**Dernières Révélations**" est le 15e épisode de la saison 1 du Mythe de la Taverne
-Ainsi que le 19e épisode enregistré par le groupe.*
+*L'épisode "Dernières Révélations" est le 15e épisode de la saison 1 du Mythe de la Taverne. Ainsi que le 19e épisode enregistré par le groupe.*
 
 ## Résumé
 
+Les héroïnes [[chelinka|Chelinka]], [[neptune|Neptune]] et [[someul|Someul]] terminent leur mission principale à la Prison d'Agener.
 
+Après avoir brièvement invoqué l'esprit de l'eau [[pauline-l-ondine|Pauline l'Ondine]], ils rendent visite à [[yana|Yana]] et [[mira|Mira]] dans le quartier sécurisé avant leur rendez-vous avec [[callum-le-mage|Callum le mage]].
 
 À la Citadelle, ils apprennent le rituel de bannissement des affres, basé sur le pouvoir des trois, en échange du poulet frit promis.
 
-L’épisode s’achève sous une neige légère.
+L'épisode s'achève sous une neige légère.
 
-## Contenu de l’épisode
+## Contenu de l'épisode
 
 ## Récapitulatif et résolution du cliffhanger
 
-Au début de l’épisode, le MJ rappelle la situation :
+Le MJ rappelle la situation : les héros sont prisonniers à Agener et leur mission est de retrouver des cadavres disparus, réanimés par des esprits malfaisants appelés les affres. Ils ont découvert que [[callum-le-mage|Callum le mage]] détient la clé d'un rituel permettant de bannir ces esprits, en échange de poulet frit.
 
-- Leur mission actuelle : retrouver des cadavres disparus, réanimés par des esprits malfaisants appelés **les affres**.
-
-La session précédente s’était terminée sur un cliffhanger :
-
-Chelinka s’approchait d’une fontaine pour se laver le visage.
+La session précédente s'était terminée sur [[chelinka|Chelinka]] s'approchant d'une fontaine pour se laver le visage.
 
 Suite directe :
 
-- Chelinka plonge son visage et ses mains dans l’eau de la fontaine.
-- L’eau est entièrement aspirée vers l’intérieur de la fontaine.
-- L’apparition est brève : Pauline L’ondine se manifeste, puis disparaît aussitôt.
+- Chelinka plonge son visage et ses mains dans l'eau de la fontaine.
+- L'eau est entièrement aspirée vers l'intérieur de la fontaine.
+- Un esprit millénaire de l'eau se matérialise : [[pauline-l-ondine|Pauline l'Ondine]]
+- L'apparition est brève : Pauline se manifeste, puis disparaît aussitôt.
 - La fontaine redevient normale après ça.
 
-Le MJ annonce ensuite deux informations importantes pour la suite :
+Le MJ annonce deux informations importantes : [[carissa-skyke|Carissa Skyke]] n'est pas en train de garder la Citadelle, car elle est occupée à mener des interrogatoires suite à l'empoisonnement. Et les règles spéciales de bonus après jets ratés ne s'appliquent plus, car le scénario approche de sa fin.
 
-2. Les règles spéciales de bonus accordés aux joueurs après des jets ratés ne s’appliquent plus désormais, car « le scénario approche de sa fin ».
-
-Enfin, le rappel logistique :
-
-- Le rendez-vous avec Caloum est fixé à **15h**.
+Le rendez-vous avec [[callum-le-mage|Callum]] est fixé à 15h.
 
 ## Infiltration préliminaire et visite à Yana
 
+Le groupe priorise ses actions et décide d'aller voir [[yana|Yana]] avant le rendez-vous.
 
-
-### En chemin vers le quartier de haute sécurité :
+### En chemin vers le quartier de haute sécurité
 
 - Les gardes les arrêtent et se méfient car leurs uniformes sont abîmés.
 - Les héros doivent se faire enregistrer.
 
-Ils donnent des identités :
+Ils donnent des identités : Neptune se présente comme **Hector**, [[chelinka|Chelinka]] comme **Somna**, [[someul|Someul]] comme **Jeffrey**. [[neptune|Neptune]] réussit à convaincre les gardes qu'ils sont envoyés par [[jeffrey-doyle|Jeffrey Doyle]] pour enquêter sur des vols. Les gardes les laissent passer.
 
-- Neptune se présente comme **Hector**,
-- Chelinka comme **Somna**,
-- Someul comme **Jeffrey**.
-- Les gardes finissent par les laisser passer.
+### Dans le quartier de haute sécurité
 
-### Dans le quartier de haute sécurité :
-
-- Le lieu est décrit comme un espace de terre battue, avec beaucoup de ponts et de cordes.
-- Ils croisent **Mira**, la sculptrice. Mira est très satisfaite de sa situation actuelle (elle a l’air sincèrement contente d’être là).
-- Mira rend à Neptune **son paquet de cartes**, qu’elle avait.
-- Ils trouvent ensuite **Yana** dans une cellule ouverte.
-- Yana dit qu’elle est très bien ici, et décrit presque ça comme des “vacances”.
-- Chelinka lui demande ce qu’elle sait sur la **Guilde des Vides-Poches**, qui leur a volé leurs vêtements.
-- Yana explique qu’il y a un **nouveau chef** à la Guilde, mais qu’elle n’a pas plus d’informations pour l’instant.
-- Yana accepte d’enquêter et propose de les revoir plus tard avec des infos.
-
-### Après cette visite :
-
-- Le groupe quitte le quartier de haute sécurité pour retourner dans leur espace.
+- Ils croisent [[mira|Mira]], la sculptrice, très satisfaite de sa situation actuelle. Mira rend à [[neptune|Neptune]] son paquet de cartes.
+- Ils trouvent [[yana|Yana]] dans une cellule ouverte. Yana dit qu'elle est très bien ici, décrivant presque ça comme des "vacances".
+- [[chelinka|Chelinka]] lui demande ce qu'elle sait sur la Guilde des Vide-Poches, qui leur a volé leurs vêtements.
+- Yana explique qu'il y a un **nouveau chef** à la Guilde, mais sans plus d'informations. Elle accepte d'enquêter et propose de les revoir plus tard.
 
 ## Préparation avant la Citadelle
 
-De retour dans leur quartier / cellule :
+De retour dans leur quartier, les héros récupèrent leurs tenues de gardes et se reposent un peu, regagnant **+2 PV chacun**.
 
-- Les héros récupèrent leurs tenues de gardes, qui étaient restées là.
-- Ils se reposent un peu et regagnent légèrement des points de vie : **+2 PV chacun**.
+## Rendez-vous avec Callum et obtention du rituel
 
-Ils se mettent ensuite en route vers la Citadelle pour le rendez-vous programmé.
+À 15h précises, le groupe se présente devant la Citadelle.
 
-## Rendez-vous avec Caloum et obtention du rituel
+### À l'entrée
 
-À **15h précises**, le groupe se présente devant la Citadelle.
+Les gardiens se mettent au garde-à-vous en voyant [[chelinka|Chelinka]] et l'appellent "Sergent". Les héros utilisent également une phrase codée transmise par Victor Appleby à propos de "Clarence". Les gardes les laissent entrer.
 
-### À l’entrée :
+### Dans la Citadelle
 
-- Les gardiens se mettent au garde-à-vous en voyant Chelinka et l’appellent **"Sergent"**.
-- Les gardes les laissent donc entrer.
+Ils prennent deux fois à gauche, en suivant les indications qu'ils avaient retenues. Ils débouchent dans la cour intérieure et remarquent un changement majeur : un **mur en "Damiantium"** a été érigé pour empêcher l'usage des capacités magiques.
 
-### Dans la Citadelle :
+### Rencontre avec Callum
 
-- Ils prennent **deux fois à gauche**, en suivant les indications qu’ils avaient retenues.
-- Ils débouchent dans la cour intérieure.
-- Là, ils remarquent un changement majeur dans l’infrastructure : un **mur en “Damiantium”** a été érigé.
+[[callum-le-mage|Callum]] arrive accompagné d'un garde. Il leur demande ce qu'on lui a promis : le poulet frit. En échange, il leur enseigne le **rituel pour bannir les affres**, basé sur "le pouvoir des trois". Le MJ insiste : interdiction formelle de prendre des notes pendant l'explication. Les héros apprennent donc oralement la procédure.
 
-Objectif : empêcher / bloquer l’usage des capacités magiques.
+Callum goûte le poulet. Il remarque qu'il n'est "pas très chaud" et qu'il a "un petit goût de terre", parce qu'il est boueux. Malgré ça, il mange avec plaisir et mentionne que le poulet pourrait lui avoir donné un "boost".
 
+## Clôture de l'épisode
 
-### Rencontre avec Caloum :
+Le calme est revenu dans la ville. Une neige fine tombe dans les rues.
 
-- Le mage **Caloum** arrive accompagné d’un garde.
-- Il les salue calmement et leur demande ce qu’on lui a promis : **le poulet frit**.
-- En échange, Caloum leur enseigne le **rituel pour bannir les affres**.
-- Le rituel repose sur **“le pouvoir des trois”**.
-- Caloum (et Steve le MJ) insiste : **interdiction formelle de prendre des notes** pendant l’explication.
-- Les héros apprennent donc oralement la procédure.
-
-### Le poulet frit :
-
-- Caloum goûte le poulet.
-- Il remarque qu’il n’est **“pas très chaud”** et qu’il a **“un petit goût de terre”**, parce qu’il est boueux.
-- Malgré ça, il mange avec plaisir.
-- Il ajoute même que le poulet pourrait lui avoir donné un **“boost”**, ce qui est laissé en suspens mais présenté comme potentiellement important pour la suite.
-
-### Sortie :
-
-- Après l’échange, les héros quittent la Citadelle.
-- Ils ont officiellement obtenu ce qu’ils étaient venus chercher : le rituel pour bannir les affres.
-
-## Clôture de l’épisode
-
-La tension immédiate redescend sur Agener :
-
-- Le calme est revenu dans la ville.
-- Une neige fine tombe dans les rues.
-
-L’épisode se termine avec Chelinka, Neptune et Someul qui attendent la suite des événements, désormais armés du rituel et conscients que la fin du scénario approche.
+L'épisode se termine avec [[chelinka|Chelinka]], [[neptune|Neptune]] et [[someul|Someul]] qui attendent la suite des événements, désormais armés du rituel et conscients que la fin du scénario approche.
 
 ## Facts
 
-- **Mira** rend enfin à Neptune son paquet de cartes.
-- **Yana** considère sa détention comme des “vacances” et propose d’enquêter sur la **Guilde des Vides-Poches**, qui a un **nouveau chef**.
-- **Découverte du matériau Damiantium** pour empêcher l’usage de la magie à l’intérieur de la Citadelle.
+- [[mira|Mira]] rend enfin à [[neptune|Neptune]] son paquet de cartes.
+- [[yana|Yana]] considère sa détention comme des "vacances" et propose d'enquêter sur la Guilde des Vide-Poches, qui a un nouveau chef.
+- Découverte du matériau **Damiantium** pour empêcher l'usage de la magie à l'intérieur de la Citadelle.
 
 ## Références
 

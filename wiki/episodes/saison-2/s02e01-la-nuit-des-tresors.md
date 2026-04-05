@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 24 novembre 2021
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: S02E01 - La nuit des trésors
+type: episode
 ---
 
 *L'épisode "**La nuit des trésors**" est le premier épisode de la saison 2 du Mythe de la Taverne

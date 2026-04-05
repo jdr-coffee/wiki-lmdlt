@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: barton-glover
-compteur_d_ep: 1
 date: 5 février 2025
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E06 - Nuit blanche à Cautel
+type: episode
 ---
 
 *L'épisode "**Nuit Blanche à Cautel”** est le 6e épisode de la saison 4 du Mythe de la Taverne

@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: rickard
-compteur_d_ep: 1
 date: 1 novembre 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E12 - Les grands de Sabrenas
+type: episode
 ---
 
 *L'épisode "**Les Grands de Sabrenas**" est le 12e épisode de la saison 3 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 22 janvier 2025
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E05 - La Dame d’Ébène
+type: episode
 ---
 
 *L'épisode "**La Dame d’Ébène”** est le 5e épisode de la saison 4 du Mythe de la Taverne

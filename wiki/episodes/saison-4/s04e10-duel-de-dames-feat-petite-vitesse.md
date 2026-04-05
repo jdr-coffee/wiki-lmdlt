@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 16 avril 2025
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E10 - Duel de dames (feat. Petite Vitesse)
+type: episode
 ---
 
 *L'épisode "**Duel de dames (feat. Petite Vitesse)”** est le 10e épisode de la saison 4 du Mythe de la Taverne

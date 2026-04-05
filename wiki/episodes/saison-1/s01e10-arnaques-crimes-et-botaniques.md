@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: bertrand
-compteur_d_ep: 1
 date: 7 avril 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E10 - Arnaques, crimes et botaniques
+type: episode
 ---
 
 *L'épisode "**Arnaques, crimes et botaniques**" est le 10e épisode de la saison 1 du Mythe de la Taverne.

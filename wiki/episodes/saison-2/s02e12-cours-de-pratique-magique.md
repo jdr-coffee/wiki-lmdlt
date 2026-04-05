@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 27 avril 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E12\_- Cours de pratique magique"
+type: episode
 ---
 
 *L'épisode "**Cours de Pratique Magique**" est le 12e épisode de la saison 2 du Mythe de la Taverne

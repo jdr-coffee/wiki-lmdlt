@@ -1,8 +1,7 @@
 ---
-compteur_d_ep: 1
 date: 23 octobre 2024
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 draft: 'true'
 title: S04E02 - Le palatinat contre-attaque (feat. Perséïdes)
+type: episode
 ---

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 8 janvier 2025
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E04 - Les dieux défunts
+type: episode
 ---
 
 *L'épisode "**Les Dieux Défunts”** est le 4e épisode de la saison 4 du Mythe de la Taverne

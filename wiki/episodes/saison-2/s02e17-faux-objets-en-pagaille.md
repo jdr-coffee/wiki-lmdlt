@@ -1,18 +1,13 @@
 ---
-1ere_apparition_pour:
-  - gorthor-le-cruel
-  - roberto-le-querelleur
-  - fyrlinel
-compteur_d_ep: 1
 date: 6 juillet 2022
 pnj_presents:
   - roberto-le-querelleur
   - general-beausoleil
   - gorthor-le-cruel
   - fyrlinel
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E17\_- Faux objets en pagaille"
+type: episode
 ---
 
 *L'épisode "**Faux Objets en Pagaille**" est le 17e épisode de la saison 2 du Mythe de la Taverne

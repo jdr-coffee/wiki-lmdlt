@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 14 juin 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E04 - La chasse royale
+type: episode
 ---
 
 *L'épisode "**La Chasse Royale**" est le 4e épisode de la saison 3 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 30 juin 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E16 - La revanche des mort
+type: episode
 ---
 
 *L'épisode "La Fin du Scénario I" est le 16e épisode de la saison 1 du Mythe de la TaverneAinsi que le 20e épisode enregistré par le groupe.*

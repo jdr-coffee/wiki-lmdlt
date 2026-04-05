@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 28 septembre 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E23\_- Neptune & les Gardiens de l'Art"
+type: episode
 ---
 
 *L'épisode "**Neptune & les Gardiens de l’Art**" est le 23e épisode de la saison 2 du Mythe de la Taverne

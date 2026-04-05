@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 17 mai 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E02 - La grande persiflade + ANNONCE !
+type: episode
 ---
 
 *L'épisode "**La Grande Persiflade + Annonce !**" est le 2e épisode de la saison 3 du Mythe de la Taverne

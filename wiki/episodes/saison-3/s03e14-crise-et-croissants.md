@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 10 janvier 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E14 - Crise et croissants
+type: episode
 ---
 
 *L'épisode "**Crise et Croissants”** est le 14e épisode de la saison 3 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 11 août 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E19 - La bataille d'Agener
+type: episode
 ---
 
 *L'épisode "**La Bataille d’Agener**" est le 19e épisode de la saison 1 du Mythe de la Taverne

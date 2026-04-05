@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: isembart
-compteur_d_ep: 1
 date: 12 juillet 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E06 - A bord du cristal des mers
+type: episode
 ---
 
 *L'épisode "**A Bord du Cristal des Mers**" est le 7e épisode de la saison 3 du Mythe de la Taverne

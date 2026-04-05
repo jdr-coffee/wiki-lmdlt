@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 24 mars 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E09 - La réunion secrète
+type: episode
 ---
 
 *L'épisode "**La réunion secrète**" est le 9e épisode de la saison 1 du Mythe de la Taverne

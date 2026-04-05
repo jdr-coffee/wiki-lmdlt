@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 11 septembre 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E27 - Les erreurs du passé
+type: episode
 ---
 
 *L'épisode "**Les Erreurs du Passé”** est le 27e épisode de la saison 3 du Mythe de la Taverne

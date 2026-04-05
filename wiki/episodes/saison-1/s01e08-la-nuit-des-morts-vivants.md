@@ -1,12 +1,11 @@
 ---
-compteur_d_ep: 1
 date: 10 mars 2021
 pnj_presents:
   - desdemona-vertecime
   - ulgar
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E08 - La nuit des morts-vivants
+type: episode
 ---
 
 *L'épisode "**La nuit des morts-vivants**" est le 8e épisode de la saison 1 du Mythe de la Taverne.

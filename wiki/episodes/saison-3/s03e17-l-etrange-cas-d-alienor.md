@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 21 février 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E17 - L’étrange cas d’Aliénor
+type: episode
 ---
 
 *L'épisode "**L’étrange Cas d’Aliénor** est le 17e épisode de la saison 3 du Mythe de la Taverne

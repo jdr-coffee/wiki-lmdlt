@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 6 octobre 2021
 saison: pilote
-univers: fantasy
 title: Pilote / Pt.03 - Le Festival de la Guistoche
+type: pilote
 ---
 
 ## **Description de l'épisode**

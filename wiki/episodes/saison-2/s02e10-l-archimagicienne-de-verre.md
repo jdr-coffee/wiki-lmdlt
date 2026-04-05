@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 30 mars 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E10 -\_L'archimagicienne de verre"
+type: episode
 ---
 
 *L'épisode "**L’Archimagicienne de Verre**" est le 10e épisode de la saison 2 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 28 juin 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E05 - Les persifleurs prennent le large
+type: episode
 ---
 
 *L'épisode "**Les Persifleurs Prennent le Large**" est le 5e épisode de la saison 3 du Mythe de la Taverne

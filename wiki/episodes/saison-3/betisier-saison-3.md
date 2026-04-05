@@ -1,11 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 2 octobre 2024
-saison:
-  - saison-3
-  - betisier
-univers: fantasy
+saison: "[[saison-3]]"
 title: Bêtisier saison 3
+type: betisier
 ---
 
 *L'épisode "**Bêtisier saison 3”** est un épisode spécial du Mythe de la Taverne

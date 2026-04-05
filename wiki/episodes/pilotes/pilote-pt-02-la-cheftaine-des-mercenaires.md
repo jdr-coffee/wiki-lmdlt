@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 29 septembre 2021
 saison: pilote
-univers: fantasy
 title: Pilote / Pt.02 - La cheftaine des mercenaires
+type: pilote
 ---
 
 ## **Description de l'épisode**

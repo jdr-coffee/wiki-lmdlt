@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 19 janvier 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E05 - \_Soirée mousse à la taverne"
+type: episode
 ---
 
 *L'épisode "**Soirée mousse à la taverne**" est le 5e épisode de la saison 2 du Mythe de la Taverne

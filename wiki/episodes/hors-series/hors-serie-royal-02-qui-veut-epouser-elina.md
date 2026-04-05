@@ -1,11 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 19 avril 2023
-saison:
-  - hors-serie
-  - saison-2
-univers: fantasy
+saison: hors-serie
 title: 'Hors-série Royal #02 - Qui veut épouser Elina ?'
+type: hors-serie
 ---
 
 *L'épisode "**Qui veut épouser Eline ?**" est un épisode Hors-Série du Mythe de la Taverne.

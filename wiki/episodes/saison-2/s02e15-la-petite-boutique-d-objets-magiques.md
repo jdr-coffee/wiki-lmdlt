@@ -1,8 +1,4 @@
 ---
-1ere_apparition_pour:
-  - jonas
-  - igor-hector
-compteur_d_ep: 1
 date: 8 juin 2022
 pnj_presents:
   - jonas
@@ -12,9 +8,9 @@ pnj_presents:
   - adeline-roberts
   - fox-sherman
   - agibail-brent
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E15\_- La petite boutique d'objets magiques"
+type: episode
 ---
 
 *L'épisode "**La Petite Boutique d’Objets Magiques**" est le 15e épisode de la saison 2 du Mythe de la Taverne

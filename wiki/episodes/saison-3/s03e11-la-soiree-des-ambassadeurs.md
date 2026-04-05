@@ -1,12 +1,8 @@
 ---
-1ere_apparition_pour:
-  - percy
-  - thyvald
-compteur_d_ep: 1
 date: 18 octobre 2023
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E11 - La soirée des ambassadeurs
+type: episode
 ---
 
 *L'épisode "**La Soirée des Ambassadeurs**" est le 11e épisode de la saison 3 du Mythe de la Taverne

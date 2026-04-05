@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: meuleuwa
-compteur_d_ep: 1
 date: 2 juin 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: "S01E14 - Cauchemar en Cuisine\_!"
+type: episode
 ---
 
 *L'épisode "**Cauchemar en Cuisine !**" est le 14e épisode de la saison 1 du Mythe de la Taverne

@@ -1,8 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 7 décembre 2022
-saison: saison-2
+saison: "[[saison-2]]"
 title: "S02E28\_- Le chef de la Cour des Manteaux"
+type: episode
 ---
 
 *L'épisode "**Le Chef de la Cour des Manteaux**" est le 28e épisode de la saison 2 du Mythe de la Taverne

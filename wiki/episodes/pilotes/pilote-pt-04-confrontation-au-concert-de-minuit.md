@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 13 octobre 2021
 saison: pilote
-univers: fantasy
 title: Pilote / Pt.04 - Confrontation au concert de minuit
+type: pilote
 ---
 
 ## **Description de l'épisode**

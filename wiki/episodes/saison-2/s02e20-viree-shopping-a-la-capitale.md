@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 17 août 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: S02E20 - Virée shopping à la capitale
+type: episode
 ---
 
 *L'épisode "**Virée Shopping à la Capitale**" est le 20e épisode de la saison 2 du Mythe de la Taverne

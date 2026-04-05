@@ -1,5 +1,4 @@
 ---
-compteur_d_ep: 1
 date: 20 juillet 2022
 pnj_presents:
   - timothy-charlton
@@ -11,9 +10,9 @@ pnj_presents:
   - nicholas-de-benevent
   - fyrlinel
   - gorthor-le-cruel
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E18\_- La guerre des guildes"
+type: episode
 ---
 
 *L'épisode "**La Guerre des Guildes**" est le 18e épisode de la saison 2 du Mythe de la Taverne

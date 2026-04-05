@@ -1,8 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 9 novembre 2022
-saison: saison-2
+saison: "[[saison-2]]"
 title: "S02E26\_- La nuit des manteaux"
+type: episode
 ---
 
 *L'épisode "**La Nuit des Manteaux** est le 26e épisode de la saison 2 du Mythe de la Taverne

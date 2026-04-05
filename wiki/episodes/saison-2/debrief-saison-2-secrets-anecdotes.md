@@ -1,10 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 15 février 2023
-saison:
-  - saison-2
-  - debrief
+saison: "[[saison-2]]"
 title: Debrief Saison 2 + Secrets & Anecdotes
+type: bonus
 ---
 
 *L'épisode "**Débrief saison 2 + Secrets et Anecdotes**" est un épisode bonus du Mythe de la Taverne.

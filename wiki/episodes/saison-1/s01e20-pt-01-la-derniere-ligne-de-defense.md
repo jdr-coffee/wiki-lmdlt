@@ -1,11 +1,8 @@
 ---
-compteur_d_ep:
-  - 0
-  - 5
 date: 25 août 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E20 / Pt.01 - La dernière ligne de défense
+type: episode
 ---
 
 *L'épisode "**La dernière ligne de défense**" est le 20e épisode de la saison 1 du Mythe de la Taverne

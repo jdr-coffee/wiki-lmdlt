@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 14 septembre 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E22\_- Le Grand Festival de la Louve Mère"
+type: episode
 ---
 
 *L'épisode "**Le Grand Festival de la Louve Mère**" est le 22e épisode de la saison 2 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 11 mai 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E13\_- Le club des distingués du destin"
+type: episode
 ---
 
 *L'épisode "**Le Club des Distingués du Destin**" est le 13e épisode de la saison 2 du Mythe de la Taverne

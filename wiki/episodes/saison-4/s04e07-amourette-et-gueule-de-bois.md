@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 19 février 2025
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E07 - Amourette et gueule de bois
+type: episode
 ---
 
 *L'épisode "**Amourette et Gueule de Bois”** est le 7e épisode de la saison 4 du Mythe de la Taverne

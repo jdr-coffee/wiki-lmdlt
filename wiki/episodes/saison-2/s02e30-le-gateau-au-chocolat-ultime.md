@@ -1,8 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 4 janvier 2023
-saison: saison-2
+saison: "[[saison-2]]"
 title: "S02E30\_- Le gâteau au chocolat ultime"
+type: episode
 ---
 
 *L'épisode "**Le Gâteau au Chocolat Ultime**" est le 30e épisode de la saison 2 du Mythe de la Taverne

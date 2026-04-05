@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 20 mars 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E19 - Les fils du temps
+type: episode
 ---
 
 *L'épisode "**Les Fils du Temps”** est le 19e épisode de la saison 3 du Mythe de la Taverne

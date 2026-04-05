@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 25 septembre 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E28 - Dans la toile de l’araignée
+type: episode
 ---
 
 *L'épisode "**Dans la Toile de l’Araignée”** est le 28e épisode de la saison 3 du Mythe de la Taverne

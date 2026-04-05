@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 18 décembre 2024
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E03 - La ville flottante
+type: episode
 ---
 
 *L'épisode "**La Ville Flottante”** est le 3e épisode de la saison 4 du Mythe de la Taverne

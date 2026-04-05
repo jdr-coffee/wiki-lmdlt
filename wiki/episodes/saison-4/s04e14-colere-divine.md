@@ -1,8 +1,7 @@
 ---
-compteur_d_ep: 1
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E14 - Colère divine
+type: episode
 ---
 
 *L'épisode "**Colère Divine”** est le 13e épisode de la saison 4 du Mythe de la Taverne

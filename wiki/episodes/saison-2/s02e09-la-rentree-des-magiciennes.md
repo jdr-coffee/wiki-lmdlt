@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: leonard-montgomery
-compteur_d_ep: 1
 date: 16 mars 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: S02E09 - La rentrée des magiciennes
+type: episode
 ---
 
 *L'épisode "**La Rentrée des Magiciennes**" est le 9e épisode de la saison 2 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 22 septembre 2021
 saison: pilote
-univers: fantasy
 title: Pilote / Pt.01 - L'auberge de La Bonne Table
+type: pilote
 ---
 
 ## **Description de l'épisode**

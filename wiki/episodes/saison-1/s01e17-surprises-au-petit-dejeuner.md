@@ -1,10 +1,9 @@
 ---
-compteur_d_ep: 1
 date: 14 juillet 2021
 pnj_presents: lame
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E17 - Surprises au petit déjeuner
+type: episode
 ---
 
 *L'épisode "**Surprises au petit déjeuner**" est le 17e épisode de la saison 1 du Mythe de la Taverne

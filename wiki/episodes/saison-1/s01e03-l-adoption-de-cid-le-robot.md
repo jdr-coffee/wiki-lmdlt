@@ -1,13 +1,8 @@
 ---
-1ere_apparition_pour:
-  - cornelius
-  - mira
-  - cid
-compteur_d_ep: 1
 date: 18 janvier 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E03 - L'adoption de Cid le Robot
+type: episode
 ---
 
 *L'épisode "**L'adoption de Cid le Robot**" est le 3e épisode de la saison 1 du Mythe de la Taverne.

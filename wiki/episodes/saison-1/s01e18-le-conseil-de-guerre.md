@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 30 juillet 2021
-saison: saison-1
-univers: fantasy
+saison: "[[saison-1]]"
 title: S01E18 - Le conseil de guerre
+type: episode
 ---
 
 *L'épisode "**Le Conseil de Guerre**" est le 18e épisode de la saison 1 du Mythe de la Taverne

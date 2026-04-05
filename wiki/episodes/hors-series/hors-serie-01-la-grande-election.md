@@ -1,13 +1,9 @@
 ---
-1ere_apparition_pour: arakel
-compteur_d_ep: 1
 date: 27 octobre 2021
 pnj_presents: arakel
-saison:
-  - hors-serie
-  - saison-1
-univers: fantasy
+saison: hors-serie
 title: Hors-série#01 - La grande élection
+type: hors-serie
 ---
 
 *L'épisode "**La Grande Election**" est le 1er épisode Hors-Série du Mythe de la Taverne

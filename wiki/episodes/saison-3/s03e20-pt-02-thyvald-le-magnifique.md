@@ -1,11 +1,8 @@
 ---
-compteur_d_ep:
-  - 0
-  - 5
 date: 10 avril 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E20 / Pt.02 - Thyvald le magnifique
+type: episode
 ---
 
 *L'épisode "**Les Persifleurs de Sabrenas”** est le 20e épisode de la saison 3 du Mythe de la Taverne

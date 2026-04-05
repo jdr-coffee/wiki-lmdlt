@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: erasme-tombetoile
-compteur_d_ep: 1
 date: 6 mars 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E18 - L’Archimage Tombétoile
+type: episode
 ---
 
 *L'épisode "**L’Archimage Tombétoile”** est le 18e épisode de la saison 3 du Mythe de la Taverne

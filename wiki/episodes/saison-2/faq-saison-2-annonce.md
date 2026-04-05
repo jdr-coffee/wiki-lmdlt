@@ -1,10 +1,8 @@
 ---
-compteur_d_ep: 0
 date: 1 mars 2023
-saison:
-  - saison-2
-  - faq
+saison: "[[saison-2]]"
 title: FAQ saison 2 + ANNONCE !
+type: bonus
 ---
 
 *L'épisode "**FAQ saison 2 + Annonce !**" est un épisode bonus du Mythe de la Taverne.

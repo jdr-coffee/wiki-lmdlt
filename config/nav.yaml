@@ -10,10 +10,18 @@ nav:
 
   - title: Épisodes
     items:
-      - title: Tous les épisodes
-        path: episodes
-      - title: Par saison
-        path: saisons
+      - title: Saison 1
+        path: saisons/saison-1
+      - title: Saison 2
+        path: saisons/saison-2
+      - title: Saison 3
+        path: saisons/saison-3
+      - title: Saison 4
+        path: saisons/saison-4
+      - title: Pilotes
+        path: episodes/pilotes
+      - title: Hors-séries
+        path: episodes/hors-series
 
   - title: L'Univers
     items:

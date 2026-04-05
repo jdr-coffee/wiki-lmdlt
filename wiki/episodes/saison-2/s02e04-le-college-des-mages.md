@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 5 janvier 2022
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: S02E04 - Le Collège des Mages
+type: episode
 ---
 
 *L'épisode "**Le Collège des Mages**" est le 4e épisode de la saison 2 du Mythe de la Taverne

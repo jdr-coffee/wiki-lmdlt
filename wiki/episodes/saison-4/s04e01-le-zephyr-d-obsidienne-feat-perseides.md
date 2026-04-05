@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 9 octobre 2024
-saison: saison-4
-univers: fantasy
+saison: "[[saison-4]]"
 title: S04E01 - Le zéphyr d’obsidienne (feat. Perséïdes)
+type: episode
 ---
 
 *L'épisode "**Le Zéphiyr d’Obsidienne (feat. Perseïde)”** est le 1er épisode de la saison 4 du Mythe de la Taverne

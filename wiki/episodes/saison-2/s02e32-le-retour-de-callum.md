@@ -1,8 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 1 février 2023
-saison: saison-2
+saison: "[[saison-2]]"
 title: "S02E32\_- Le retour de Callum"
+type: episode
 ---
 
 *L'épisode "**Le Retour de Callum**" est le 32e épisode de la saison 2 du Mythe de la Taverne

@@ -1,10 +1,8 @@
 ---
-1ere_apparition_pour: ervin
-compteur_d_ep: 1
 date: 24 janvier 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E15 - Pactiser avec l’ennemi
+type: episode
 ---
 
 *L'épisode "**Pactiser avec l’Ennemi”** est le 15e épisode de la saison 3 du Mythe de la Taverne

@@ -1,9 +1,8 @@
 ---
-compteur_d_ep: 1
 date: 26 juin 2024
-saison: saison-3
-univers: fantasy
+saison: "[[saison-3]]"
 title: S03E26 - Le secret de l’horloge
+type: episode
 ---
 
 *L'épisode "**Le Secret de l’Horloge”** est le 26e épisode de la saison 3 du Mythe de la Taverne

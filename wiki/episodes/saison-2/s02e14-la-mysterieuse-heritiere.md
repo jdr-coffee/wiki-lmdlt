@@ -1,8 +1,4 @@
 ---
-1ere_apparition_pour:
-  - cody-berryman
-  - sarah-petrova
-compteur_d_ep: 1
 date: 25 mai 2022
 pnj_presents:
   - sarah-petrova
@@ -12,9 +8,9 @@ pnj_presents:
   - fox-sherman
   - adeline-roberts
   - billy-quattermack
-saison: saison-2
-univers: fantasy
+saison: "[[saison-2]]"
 title: "S02E14\_- La mystérieuse héritière"
+type: episode
 ---
 
 *L'épisode "**La Mystérieuse Héritière**" est le 14e épisode de la saison 2 du Mythe de la Taverne

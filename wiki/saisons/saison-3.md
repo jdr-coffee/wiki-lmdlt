@@ -1,7 +1,7 @@
 ---
 icon: disc-3
 title: Saison 3
-cover: assets/images/divers/saison-3.png
+cover: assets/images/autres/divers/saison-3.png
 ---
 
 ## Épisodes

@@ -6,7 +6,7 @@ present_dans_l_ep:
 title: Timothy Charlton
 ---
 
-![Timothy par  ](assets/images/personnages/timothy.png)
+![Timothy par  ](assets/images/zat/stickers/Timothy.png)
 
 Timothy par
 

@@ -8,7 +8,7 @@ title: Yana
 
 Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Mythe de la Taverne.
 
-![image.png](assets/images/personnages/yana-1.png)
+![image.png](assets/images/zat/personnages/Yana persifleuse.jpg)
 
 ## Histoire
 
@@ -20,9 +20,9 @@ Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Myt
 
 Yana est une jeune femme, petite de taille. Elle a des cheveux noirs, coupés au carré, avec un petit nez au milieu de son visage malicieux. Elle a l’air d’avoir entre 16 et 20 ans.
 
-![image.png](assets/images/personnages/yana-2.png)
+![image.png](assets/images/zat/scenes/Yana et Someul.jpg)
 
-![Yana par  ](assets/images/personnages/yana.png)
+![Yana par  ](assets/images/zat/stickers/Yana.png)
 
 Yana par  
 

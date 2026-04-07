@@ -15,7 +15,7 @@ ferait des envieux auprès des adeptes du Taureau Tricéphales. Elle porte un é
 
 Elle a l’air super contente d’être là. *“C’est rayon de soleil 3000”* (Louise) [S03E09 - 34:05]
 
-![image.png](assets/images/personnages/cera.png)
+![image.png](assets/images/zat/personnages/Cera.jpg)
 
 *Cera-par-ZatZatZatou*
 

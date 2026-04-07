@@ -10,7 +10,7 @@ title: Gorthor le Cruel
 
 Description : Homme grand et large d’épaule, un visage froid. Il porte une longue cape. Il a des cheveux long mais un côté rasé symbole de son appartenance à la guilde des vides poches.
 
-![image.png](assets/images/personnages/gorthor-le-cruel.png)
+![image.png](assets/images/zat/personnages/Le seigneur des Voleurs.jpg)
 
 *Gorthor-par-ZatZatZatou*
 

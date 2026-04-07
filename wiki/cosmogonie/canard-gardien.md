@@ -3,7 +3,7 @@ type_de_dieu: Dieu naissant
 title: Canard Gardien
 ---
 
-![image.png](assets/images/personnages/canard-gardien.png)
+![image.png](assets/images/leflopla/cosmogonie/canard-gardien.png)
 
       ***Canard Gardien, pixel art par LeFlopla***
 

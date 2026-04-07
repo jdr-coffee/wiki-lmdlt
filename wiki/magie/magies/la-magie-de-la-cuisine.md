@@ -7,7 +7,7 @@ title: La Magie de la Cuisine
 > 
 >      À l’inverse des décoctions et des breuvages magiques, aucun élément fantaisiste n’était utilisé dans la confection de ces recettes merveilleuses : les pratiquants utilisaient uniquement des ingrédients ordinaires.
 
-![image.png](assets/images/divers/la-magie-de-la-cuisine.png)
+![image.png](assets/images/autres/divers/la-magie-de-la-cuisine.png)
 
 *illustration-par-ZatZatZatou*
 
@@ -16,7 +16,7 @@ title: La Magie de la Cuisine
 > 
 >      Une légende parle néanmoins d’un ancien grimoire regroupant toutes les recettes les plus puissantes de cette magie perdue.
 
-![image.png](assets/images/divers/la-magie-de-la-cuisine-1.png)
+![image.png](assets/images/autres/divers/la-magie-de-la-cuisine-1.png)
 
 *illustration-par-ZatZatZatou*
 

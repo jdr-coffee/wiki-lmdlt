@@ -3,7 +3,7 @@ description_rapide: Le plus grand armateur de Cautel et ennemi direct de la Dame
 title: Barton Glover
 ---
 
-![image.png](assets/images/personnages/barton-glover.png)
+![image.png](assets/images/zat/personnages/Gareth Bretailleur.jpg)
 
 S04E06 - 29:50
 

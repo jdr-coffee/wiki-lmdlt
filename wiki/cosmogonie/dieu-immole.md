@@ -11,7 +11,7 @@ Le Dieu immolé a péri dans la douleur des flammes, animé d’une colère dest
 
 ## Saison 4
 
-![Dieu_immolé-removebg-preview.png](assets/images/cosmogonie/dieu-immole-sans-fond.png)
+![Dieu_immolé-removebg-preview.png](assets/images/autres/cosmogonie/dieu-immole-sans-fond.png)
 
 
 Il finit donc dans une lanterne

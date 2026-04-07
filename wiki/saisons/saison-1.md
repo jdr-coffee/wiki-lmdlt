@@ -1,7 +1,7 @@
 ---
 icon: disc-3
 title: Saison 1
-cover: assets/images/divers/saison-1.png
+cover: assets/images/autres/divers/saison-1.png
 ---
 
 ## Épisodes

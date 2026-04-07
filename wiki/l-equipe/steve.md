@@ -13,7 +13,7 @@ Steve est contre son gré (et un peu de son gré) affublé de nombreux sobriquet
 
 ## Fanarts
 
-![MouSteve par  ](assets/images/personnages/steve.png)
+![MouSteve par  ](assets/images/zat/stickers/Steve.png)
 
 MouSteve par  
 

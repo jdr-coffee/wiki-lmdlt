@@ -4,7 +4,7 @@ title: Fanarts de Lemon Pie
 
 *Fanarts de [[lemon-pie|Lemon Pie]]* 
 
-![Abigail](assets/images/personnages/abigail.jpg)
+![Abigail](assets/images/zat/personnages/Irena Von Camerling.jpg)
 
 Abigail
 
@@ -16,7 +16,7 @@ Cera et Magda
 
 Chelinka et Troudbald
 
-![Jaspe -  ](assets/images/personnages/jaspe.jpg)
+![Jaspe -  ](assets/images/zat/stickers/Jaspe.png)
 
 Jaspe -  
 
@@ -36,10 +36,10 @@ Neptune -
 
 Saoirse et Irena -  et  
 
-![Saoirse -  ](assets/images/personnages/saoirse.jpg)
+![Saoirse -  ](assets/images/zat/stickers/Saoirse.png)
 
 Saoirse -  
 
-![Yana -  ](assets/images/personnages/yana.jpg)
+![Yana -  ](assets/images/zat/stickers/Yana.png)
 
 Yana -

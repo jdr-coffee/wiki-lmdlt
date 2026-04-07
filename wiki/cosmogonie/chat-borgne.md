@@ -5,7 +5,7 @@ type_de_dieu: Dieu naissant
 title: Chat Borgne
 ---
 
-![image.png](assets/images/cosmogonie/chat-borgne-alt.png)
+![image.png](assets/images/autres/cosmogonie/chat-borgne-alt.png)
 
 ### Dieu du chaos, des soins et de la dualité
 
@@ -31,6 +31,6 @@ Le chat borgne est un dieu double-face, aussi bien perfide et cruel que sage et 
 > 
 > [*Etude des usages, savoirs et pratiques](https://www.instagram.com/p/C7wtpLktOyb/), par le mage Pierre Kubenni*
 
-![image.png](assets/images/cosmogonie/chat-borgne-1.png)
+![image.png](assets/images/autres/cosmogonie/chat-borgne-1.png)
 
                                                                 ***Le chat Borgne, pixel art part LeFlopla***

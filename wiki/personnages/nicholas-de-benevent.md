@@ -9,7 +9,7 @@ title: Nicholas de Bénévent
 ## Description
 
 
-![image.png](assets/images/personnages/nicholas-de-benevent.png)
+![image.png](assets/images/zat/personnages/Benevent.jpg)
 
 ## Histoire
 

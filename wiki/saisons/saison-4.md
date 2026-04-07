@@ -1,7 +1,7 @@
 ---
 icon: disc-3
 title: Saison 4
-cover: assets/images/divers/saison-4.png
+cover: assets/images/autres/divers/saison-4.png
 ---
 
 ## Épisodes

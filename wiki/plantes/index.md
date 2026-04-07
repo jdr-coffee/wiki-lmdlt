@@ -2,7 +2,7 @@
 title: Plantes
 ---
 
-![17507628987844368702248080725524.jpg](assets/images/autres/divers/plantes-illustration.jpg)
+![Illustration plantes](assets/images/autres/divers/plantes-illustration.jpg)
 
 ## Herbier
 

@@ -4,7 +4,7 @@ pays_royaumes: royaume-de-veloria
 title: Le Jarrier
 ---
 
-![image.png](assets/images/autres/lieux/le-jarrier.png)
+![Le jarrier](assets/images/autres/lieux/le-jarrier.png)
 
 ***Famille au pouvoir*** : Vertecime
 

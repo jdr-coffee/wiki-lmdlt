@@ -3,7 +3,7 @@ present_dans_l_ep: s02e18-la-guerre-des-guildes
 title: Les Jumeaux Milford
 ---
 
-![Jumeaux Milford par  ](assets/images/zat/stickers/Milford.png)
+![Jumeaux Milford par par [[zatzat]]](assets/images/zat/stickers/Milford.png)
 
 Jumeaux Milford par  
 

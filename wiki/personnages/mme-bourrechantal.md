@@ -1,5 +1,7 @@
 ---
 title: Mme Bourrechantal
+cover: "[[bourrechantal-highkick.png]]"
+cover_display: inline
 ---
 
 ## Introduction
@@ -14,7 +16,7 @@ Mme Bourrechantal est la dame de compagnie et garde du corps de Desdemona Vertec
 
 Marie Bourrechantal est une femme de petite taille, bien habillé et aux bonnes manières. Son caractère distingué se démarque fort de son courage et de sa bravoure, n’hésitant pas à défendre les jeunes nobles semblant être en danger.
 
-![*“ Cordiale mais n'ayant peur de rien, le personnage de [@petitevitesse](https://www.instagram.com/petitevitesse/) a fait une entrée mémorable dans l'aventure de nos joueuses ! On a hâte de vous montrer l'ampleur de son courage et de ses talents, bien à vous, cordialement. “*](assets/images/zat/personnages/Bourrechantal bonne leçon_.jpg)
+![Mme Bourrechantal par [[zatzat]]](assets/images/zat/personnages/bourrechantal-bonne-lecon_.jpg)
 
 *“ Cordiale mais n'ayant peur de rien, le personnage de [@petitevitesse](https://www.instagram.com/petitevitesse/) a fait une entrée mémorable dans l'aventure de nos joueuses ! On a hâte de vous montrer l'ampleur de son courage et de ses talents, bien à vous, cordialement. “*
 

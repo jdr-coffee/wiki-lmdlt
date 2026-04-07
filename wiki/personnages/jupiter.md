@@ -1,10 +1,9 @@
 ---
 description_rapide: Championne de la Louve Mère
+cover: "[[jupiter-louve.jpg]]"
 ---
 
-![Jupiter par  ](assets/images/zat/stickers/Jupiter_.png)
-
-Jupiter par  
+![Jupiter par [[zatzat]]](assets/images/zat/stickers/Jupiter_.png)
 
 ## Histoire
 

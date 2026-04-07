@@ -2,13 +2,13 @@
 description_rapide: Co-fondatrice de la guilde des persifleurs et grande amie de nos héroïnes
 present_dans_l_ep: s01e01-les-morts-disparus
 title: Yana
+cover: "[[yana-persifleuse.jpg]]"
 ---
 
 ## Introduction
 
 Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Mythe de la Taverne.
 
-![image.png](assets/images/zat/personnages/Yana persifleuse.jpg)
 
 ## Histoire
 
@@ -20,11 +20,9 @@ Yana apparaît pour la première fois dans le 1er épisode de la saison 1 du Myt
 
 Yana est une jeune femme, petite de taille. Elle a des cheveux noirs, coupés au carré, avec un petit nez au milieu de son visage malicieux. Elle a l’air d’avoir entre 16 et 20 ans.
 
-![image.png](assets/images/zat/scenes/Yana et Someul.jpg)
+![Yana et someul par [[zatzat]]](assets/images/zat/scenes/yana-et-someul.jpg)
 
-![Yana par  ](assets/images/zat/stickers/Yana.png)
-
-Yana par  
+![Yana par [[zatzat]]](assets/images/zat/stickers/Yana.png)
 
 ## Relations
 

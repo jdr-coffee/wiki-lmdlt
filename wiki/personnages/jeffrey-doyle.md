@@ -29,10 +29,6 @@ Il à tendance à s'habiller de vêtements extravagants et de couleurs criardes,
 
 Il est souvent emmitouflé dans de grosses peaux de bête ou couvertures, ne laissant dépasser que sa tête. Il est chauve (dépourvu de cheveux), ce qui lui vaut le surnom de "l'œuf". 
 
-![**Jeffreyllin par ** ](assets/images/zat/stickers/Milford.png)
-
-**Jeffreyllin par ** 
-
 ## Histoire
 
 

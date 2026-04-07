@@ -1,9 +1,8 @@
 ---
 description_rapide: Capitaine pirate
 title: La Dame d’Ebène
+cover: "[[la-dame-d_ebene-et-cie.jpg]]"
 ---
-
-![image.png](assets/images/zat/scenes/La dame d_Ebene et cie.jpg)
 
 
 ## Histoire

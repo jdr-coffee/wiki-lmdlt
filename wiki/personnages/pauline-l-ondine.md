@@ -6,7 +6,7 @@ present_dans_l_ep: s01e15-dernieres-revelations
 title: Pauline l’Ondine
 ---
 
-![image.png](assets/images/zat/personnages/Pistoche.jpg)
+![Pistoche par [[zatzat]]](assets/images/zat/personnages/pistoche.jpg)
 
 *Illustration par **Leflopla***
 

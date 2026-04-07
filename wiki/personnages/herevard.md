@@ -8,7 +8,7 @@ present_dans_l_ep: s01e07-chasse-a-la-sorciere
 ## Description
 
 
-![image.png](assets/images/zat/scenes/Herevard et Chelinka.png)
+![Herevard et chelinka par [[zatzat]]](assets/images/zat/scenes/herevard-et-chelinka.png)
 
 ## Histoire
 

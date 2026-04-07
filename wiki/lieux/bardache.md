@@ -3,7 +3,7 @@ description_rapide: Fief de forgerons
 pays_royaumes: royaume-de-veloria
 ---
 
-![image.png](assets/images/autres/lieux/bardache.png)
+![Bardache](assets/images/autres/lieux/bardache.png)
 
 **Famille au pouvoir** : Adhémar
 

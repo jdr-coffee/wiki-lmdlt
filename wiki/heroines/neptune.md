@@ -1,27 +1,28 @@
 ---
 featured: true
-membres: camille
+membres: Camille
 cover: "[[neptune.png]]"
+cover_display: inline
 ---
 
 ## Arrivée de Neptune dans le jeu
 
 Elle s’est retrouvée à Agener car elle a déterré des cadavres pour pouvoir étudier les arcanes de la mort.
 
-![Neptune par  ](assets/images/zat/personnages/Neptune officielle.jpg)
-
-Neptune par  
-
-![Neptune par  ](assets/images/zat/stickers/Neptune.png)
-
-Neptune par  
 
 ## Description
 
 Jeune femme assez jeune avec de long cheveux blancs. Elle porte constamment un air facétieux sur son visage, comme si elle était toujours prête à jouer un sale coup.
-Rusée Clerc du culte du Chat Borgne, elle est l’une des co-fondatrices de la guilde des Persifleurs. Malicieuse comme un chat, elle élabore les plans les plus farfelus, ses neptuneries comme elle aime les appeler, et semble diriger secrètement la guilde (PS : ça doit rester entre nous).
+Rusée Clerc du culte du Chat Borgne, elle est l’une des co-fondatrices de la guilde des Persifleurs. Malicieuse comme un chat, elle élabore les plans les plus farfelus, ses neptuneries comme elle aime les appeler, et semble diriger secrètement la guilde.
+
+> [!tip] Entre nous
+> Ne le répétez à personne, mais c’est elle qui dirige vraiment la guilde.
 
 ## Histoire de Neptune
+
+:::figure{align=left}
+![Neptune par [[zatzat]]](assets/images/zat/personnages/neptune-officielle.jpg)
+:::/figure
 
 ### Saison 1
 
@@ -37,7 +38,9 @@ Durant son échappatoire du palatinat de Sabrenas, Neptune appris de la bouche d
 
 ### Saison 4
 
-[en cours d’écriture]
+> [!note] En cours d’écriture
+> Cette section sera complétée au fil des épisodes.
+
 
 
 ## Équipement
@@ -47,10 +50,7 @@ Durant son échappatoire du palatinat de Sabrenas, Neptune appris de la bouche d
 | Dark-en-Ciel | Dague de légende brandie par le champion/la championne du Chat Borgne. Le manche est fait d’un assemblage de bois noir et blanc, incrusté d’un cristal bleu représentant l’œil du Dieu, avec une tête de chat ornant le pommeau. La lame noire courbée présente un aspect iridescent rappelant un arc-en-ciel, d’où son nom. On raconte que cette arme est capable d’aveugler ou paralyser ses ennemis, voire des pouvoirs plus farfelus comme des transformations en félin, des montagnes rendues invisibles et l’incarnation du Dieu dans le corps du Champion brandissant la dague. |
 | Chemise Musclée | Découpée dans un tissu bleu chamarré souple et léger, la chemise musclée pourrait passer pour un simple vêtement coûteux dans une garde-robe excentrique. Lorsqu’elle est enlevée de manière brusque, la chemise musclée révèle soudainement un torse bombé, musculeux et hâlé. Le porteur gagne temporairement une force inouïe et un charisme subjuguant. |
 
-![dark_en_ciel-removebg-preview.png](assets/images/leflopla/personnages/dark-en-ciel.png)
 
-> Dark-en-ciel
-> 
 
 ## Compétences
 
@@ -61,10 +61,24 @@ Durant son échappatoire du palatinat de Sabrenas, Neptune appris de la bouche d
 | Guérison | La Clerc en appelle à la grâce du Chat Borgne afin de guérir un allié de 1D4 points de vie. |
 | Échec Retardé | La Clerc invoque le Chat Borgne lorsqu’elle rate un jet de dé : ce jet est alors réussi. Cependant, plus tard dans la partie, de façon aléatoire, un jet réussi sera considéré comme raté. |
 
-![Illustration Booster Neptune par  ](assets/images/zat/personnages/Neptune Unif.png)
 
-Illustration Booster Neptune par  
+## Fanarts
 
-![MiNeptune par  ](assets/images/zat/personnages/Neptune neige.jpg)
-
-MiNeptune par
+:::gallery
+![Neptune Unif par [[zatzat]]](assets/images/zat/personnages/neptune-unif.png)
+![Neptune à la plage par [[zatzat]]](assets/images/zat/personnages/neptune-a-la-plage.jpg)
+![Neptune Twilight par [[zatzat]]](assets/images/zat/personnages/neptune-twilight.png)
+![Neptune bassiste par [[zatzat]]](assets/images/zat/personnages/neptune-bassiste.png)
+![Neptune chaotique par [[zatzat]]](assets/images/zat/personnages/neptune-chaotique.jpg)
+![Neptune chat par [[zatzat]]](assets/images/zat/personnages/neptune-chat.jpg)
+![Neptune (noir et blanc) par [[zatzat]]](assets/images/zat/personnages/neptune-noir-et-blanc.png)
+![Neptune déesse chatte borgne par [[zatzat]]](assets/images/zat/personnages/neptune-deesse-chatte-borgne.png)
+![MiNeptune par [[zatzat]]](assets/images/zat/personnages/neptune-neige.jpg)
+![Dame Neptune par [[zatzat]]](assets/images/zat/personnages/dame-neptune.png)
+![Neptune à Cautel par [[zatzat]]](assets/images/zat/scenes/neptune-cautel.png)
+![Neptune et Callum par [[zatzat]]](assets/images/zat/scenes/neptune-et-callum.png)
+![Neptune et Saoirse par [[zatzat]]](assets/images/zat/scenes/neptune-et-saoirse-crush.jpg)
+![Saoirse et Neptune par [[zatzat]]](assets/images/zat/scenes/saoirse-neptune-forevee.jpg)
+![Wanted Neptune par [[zatzat]]](assets/images/zat/scenes/wanted-neptune.jpg)
+![Neptune par [[leflopla]]](assets/images/leflopla/personnages/mineptune.png)
+:::/gallery

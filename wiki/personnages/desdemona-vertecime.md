@@ -16,7 +16,7 @@ Famille Vertecime.
 - Desdemona est une jeune femme rousse énergique de taille moyenne.
 - La première fois que l’on rencontre Desdemona, elle a la peau verte, les paupières violettes, du lierre lui poussant sur la peau et couvrant la majorité de son corps, cette apparence est due à une malédiction.
 
-![image.png](assets/images/zat/personnages/Distingué.e.s du destin.jpg)
+![Distingué.e.s du destin par [[zatzat]]](assets/images/zat/personnages/Distingué.e.s du destin.jpg)
 
 ## Histoire
 

@@ -21,7 +21,7 @@ Elle a un visage froid, fermé et dur. Elle à la peau très pâle, malgré des 
 
 Elle porte toujours sur elle Justice, son épée bâtarde en acier et cuir noir.
 
-![Caressa Skyke par  ](assets/images/autres/personnages/carissa-skyke.png)
+![Caressa Skyke](assets/images/autres/personnages/carissa-skyke.png)
 
 Caressa Skyke par  
 

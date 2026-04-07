@@ -3,8 +3,8 @@ univers: fantasy
 title: La souris d’Agener
 ---
 
-![1000021283.jpg](assets/images/autres/divers/souris-d-agener-1.jpg)
+![La souris d'Agener](assets/images/autres/divers/souris-d-agener-1.jpg)
 
-![1000021284.jpg](assets/images/autres/divers/souris-d-agener-2.jpg)
+![La souris d'Agener](assets/images/autres/divers/souris-d-agener-2.jpg)
 
-![1000021285.jpg](assets/images/autres/divers/souris-d-agener-3.jpg)
+![La souris d'Agener](assets/images/autres/divers/souris-d-agener-3.jpg)

@@ -1,8 +1,8 @@
 ---
 description_rapide: Mage de l’air et mage conseiller du palatinat de Sabrenas
+cover: "[[thorpe.jpg]]"
 ---
 
-![image.png](assets/images/zat/personnages/Thorpe.jpg)
 
 Première apparition *S03E09 - 44:09* mais n’est pas nommé. Décrit comme un vieil homme qui porte la robe du collège des mages
 

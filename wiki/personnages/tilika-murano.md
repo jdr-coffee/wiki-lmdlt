@@ -1,11 +1,8 @@
 ---
 description_rapide: Fille héritière des Murano et protégée de Chelinka
 title: Tilika Murano
+cover: "[[tilika-araignee_.jpg]]"
 ---
 
-![Tilika par  ](assets/images/zat/stickers/Tilika.png)
-
-Tilika par  
-
-![image.png](assets/images/zat/stickers/Tilika.png)
+![Tilika par [[zatzat]]](assets/images/zat/stickers/Tilika.png)
 

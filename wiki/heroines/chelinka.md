@@ -1,29 +1,28 @@
 ---
 featured: true
-membres: ninon
+membres: Ninon
 cover: "[[chelinka.png]]"
+cover_display: inline
+cover_position: "50% 30%"
 ---
 
-## Histoire :
-
-Après la disparition de Tilika, Chelinka a été accusée à tort de son kidnapping et a été envoyée à Agener.
-
-![feu.png](assets/images/autres/divers/feu.png)
-
-![image.png](assets/images/zat/personnages/Chelinka officielle.jpg)
-
-*Chelinka-par-ZatZatZatou*
+:::subtitle
+Ancienne dame de compagnie de Tilika Murano, mage de feu et co-fondatrice de la guilde des Persifleurs.
+:::/subtitle
 
 ## Description
 
- Jeune femme dans la vingtaine. Elle a de longs cheveux rouges bouclés, des yeux noisettes brillants et vifs. Elle possède un caractère plutôt doux et maternel, mais sait se révéler redoutable en cas de besoin.
-Magicienne au courbe généreuse, cette ancienne servante est l’une des co-fondatrices de la guilde des Persifleurs. Aussi chaude que sa magie du feu, elle collecte les différentes flammes et les 6 branches de l’Art pour mieux retrouver sa princesse disparue.
+Jeune femme dans la vingtaine aux longs cheveux rouges bouclés et aux yeux noisette vifs. Son caractère est doux et maternel, mais elle sait se révéler redoutable en cas de besoin. Aussi chaude que sa magie du feu, elle collectionne les différentes flammes et les six branches de l’Art pour mieux retrouver sa princesse disparue.
 
-## Histoire de Chelinka
+:::figure{align=right}
+![Chelinka par [[zatzat]]](assets/images/zat/personnages/chelinka-officielle.jpg)
+:::/figure
+
+## Histoire
 
 ### Saison 1
 
-Chelinka est une mage de feu, ancienne dame de compagnie de Tilika Murano. Après la disparition de Tilika, Chelinka a été accusée à tort de son kidnapping et envoyé à Agener. Néanmoins, en menant son enquête, elle découvrit que l’enlèvement de l’héritière avait été orchestré par Eogan et Saoirse Keller.
+Mage de feu et ancienne dame de compagnie de Tilika Murano, Chelinka a été accusée à tort du kidnapping de la princesse et envoyée à Agener. En menant son enquête, elle découvrit que l’enlèvement avait été orchestré par Eogan et Saoirse Keller.
 
 ### Saison 2
 
@@ -39,46 +38,53 @@ Durant la mission diplomatique à Sabrenas, elle retrouva finalement Tilika rete
 
 | Équipement | Effet |
 | --- | --- |
-| Haquebute | arme de trait en fer originaire de Sabrenas, utilisant la poudre noire pour envoyer un projectile à distance. L’haquebute à un allumage au boutefeu à mèche est le modèle le plus répandu. Parfois utilisé avec un fourquin, il mesure entre 1,30 m et 1,50 met nécessite une manipulation précise pour être chargé. Une fois armé, il peut envoyer des projectiles à une distance allant de 50 à 100 m selon l’aptitude de l’haquebutier qui le manie. |
-|  |  |
-|  |  |
+| Haquebute | Arme de trait en fer originaire de Sabrenas, utilisant la poudre noire pour propulser un projectile. Le modèle à allumage par boutefeu à mèche est le plus répandu. Parfois utilisé avec un fourquin, il mesure entre 1,30 m et 1,50 m et peut envoyer des projectiles entre 50 et 100 m. |
 
-![haquebute-removebg-preview (1).png](assets/images/autres/objets/haquebute.png)
-
-haquebute
+![Haquebute](assets/images/autres/objets/haquebute.png)
 
 ## Compétences
 
 | Compétence | Effet |
 | --- | --- |
-| Feu [base] | la magicienne peut invoquer et manipuler l’élément du feu. |
-| Botan’herboristerie [S01E10] | art de confectionner de puissants remèdes (ou des poisons) à l’aide de plantes. |
-| Electricité [S01E11] | la magicienne peut invoquer et manipuler l’élément de la foudre/l’électricité. |
-| Terre [S02E01] | la magicienne peut manipuler et plier à sa volonté l’élément de la terre. |
-| Eau [S02E09] | la magicienne peut manipuler l’élément de l’eau. |
-| Flamme Blanche [S02E07] | flamme capable de brûler des objets/personnes sous certaines conditions |
-| Flamme Verte [S02E26] | flamme d’une chaleur si intense qu’elle serait capable de fondre ou réduire en cendre n’importe quel matériau. |
-| Flamme Bleue [S04E06] | flamme capable de créer des explosions à la demande de son propriétaire. |
-| Pouvoirs du Dieu immolé [S04E07] | Pouvoirs :
-· **Charme** : Lorsque Chelinka tente de séduire un personnage non-joueur, elle peut faire un jet de Charisme et diviser le résultat obtenu par deux.
-· **Ferveur** : Lors d’un combat, Chelinka peut décider de jouer à la place d’un ennemi si ce dernier réussi son jet de dés. Elle utilise alors le résultat obtenu pour effectuer une action, même si elle a déjà joué durant ce tour. Le tour de l’ennemi est passé, Chelinka jouant à sa place.
+| Feu [base] | La magicienne peut invoquer et manipuler l’élément du feu. |
+| Botan’herboristerie [S01E10] | Art de confectionner de puissants remèdes (ou des poisons) à l’aide de plantes. |
+| Électricité [S01E11] | La magicienne peut invoquer et manipuler l’élément de la foudre. |
+| Terre [S02E01] | La magicienne peut manipuler et plier à sa volonté l’élément de la terre. |
+| Eau [S02E09] | La magicienne peut manipuler l’élément de l’eau. |
+| Flamme Blanche [S02E07] | Flamme capable de brûler des objets ou personnes sous certaines conditions. |
+| Flamme Verte [S02E26] | Flamme d’une chaleur si intense qu’elle serait capable de fondre ou réduire en cendre n’importe quel matériau. |
+| Flamme Bleue [S04E06] | Flamme capable de créer des explosions à la demande de son propriétaire. |
+| Pouvoirs du Dieu immolé [S04E07] | Ensemble de pouvoirs obtenus en portant le feu du Dieu immolé (voir ci-dessous). |
 
-✔️ Effets positifs :
-· **Ignifugé** : Chelinka n’est plus affectée par le feu. Elle ne subit aucune brûlure, aucune blessure ou aucun autre dégât lié au feu. Attention cependant : cela ne s’appplique  pas aux vêtements ou aux objets qu’elle transporte.
-· **Chaleur** : Chelinka n’a jamais froid. Un feu perpétuel brûle en elle et elle transporte les braises du brasier du dieu immolé partout où elle va. Les personnes qui voyagent avec elle profitent également de cette chaleur et ne souffrent pas du froid.
-❌Effets négatifs :
-· **Obscurcissement** : “Ce feu est le dernier que tu allumeras pour illuminer l’obscurité”
-· **Vulnérable** : Chelinka est maintenant désavantagée face à la magie de l’eau et la magie du givre. Elle est susceptible de subir des malus et des dégâts supplémentaires si elle combat des ennemis utilisant ces magies. |
-|  |  |
+### Pouvoirs du Dieu immolé
 
-![Illustration Chelinka Booster par  ](assets/images/zat/personnages/Chelinka unif.png)
+**Charme** : Lorsque Chelinka tente de séduire un personnage non-joueur, elle peut faire un jet de Charisme et diviser le résultat obtenu par deux.
 
-Illustration Chelinka Booster par  
+**Ferveur** : Lors d’un combat, Chelinka peut décider de jouer à la place d’un ennemi si ce dernier réussit son jet de dés. Elle utilise alors le résultat obtenu pour effectuer une action, même si elle a déjà joué durant ce tour. Le tour de l’ennemi est passé.
 
-![Chatlinka par  ](assets/images/zat/personnages/Chelinka sapin.jpg)
+**Ignifugé** : Chelinka n’est plus affectée par le feu. Elle ne subit aucune brûlure ni dégât lié au feu. Cela ne s’applique pas aux vêtements ou objets qu’elle transporte.
 
-Chatlinka par  
+**Chaleur** : Chelinka n’a jamais froid. Un feu perpétuel brûle en elle et elle transporte les braises du brasier du dieu immolé partout où elle va. Les personnes qui voyagent avec elle ne souffrent pas du froid.
 
-![Mini Chelinka par  ](assets/images/zat/stickers/Chelinka.png)
+**Obscurcissement** : “Ce feu est le dernier que tu allumeras pour illuminer l’obscurité.”
 
-Mini Chelinka par
+**Vulnérable** : Chelinka est désavantagée face à la magie de l’eau et du givre. Elle est susceptible de subir des malus et des dégâts supplémentaires face à des ennemis utilisant ces magies.
+
+## Fanarts
+
+:::gallery
+![Chelinka Unif par [[zatzat]]](assets/images/zat/personnages/chelinka-unif.png)
+![Chelinka Sapin par [[zatzat]]](assets/images/zat/personnages/chelinka-sapin.jpg)
+![Chelinka par [[zatzat]]](assets/images/zat/stickers-2025/chelinka.png)
+![Chelinka à la plage par [[zatzat]]](assets/images/zat/personnages/chelinka-a-la-plage.png)
+![Chelinka Twilight par [[zatzat]]](assets/images/zat/personnages/chelinka-twilight.png)
+![Chelinka chanteuse par [[zatzat]]](assets/images/zat/personnages/chelinka-chanteuse.jpg)
+![Chelinka araignée par [[zatzat]]](assets/images/zat/personnages/chelinka-araignee.jpg)
+![Chelinka à Cautel par [[zatzat]]](assets/images/zat/personnages/chelinka-cautel.jpg)
+![Chelinka déesse immolée par [[zatzat]]](assets/images/zat/personnages/chelinka-deesse-imolee.png)
+![Chelinka cuisinière, Lmdlttober par [[zatzat]]](assets/images/zat/personnages/chelinka-cuisinier.jpg)
+![Chelinka inventaire, Lmdlttober par [[zatzat]]](assets/images/zat/personnages/chelinka-inventaire.jpg)
+![Chelinka (noir et blanc) par [[zatzat]]](assets/images/zat/personnages/chelinka-noir-et-blanc.png)
+![Ciao mon reuf par [[zatzat]]](assets/images/zat/personnages/chelinka-ciao-mon-reuf.jpg)
+![Dame Chelinka par [[zatzat]]](assets/images/zat/personnages/dame-chelinka.png)
+:::/gallery

@@ -1,5 +1,5 @@
 ---
-membres: steve
+membres: Steve
 title: Maitre du Jeu
 featured: false
 ---
@@ -14,9 +14,8 @@ featured: false
 
 Kiki le MJ, Sdeve, Sneve, Smeve, Speve, Sleve [insert surnoms]
 
-![image.png](assets/images/autres/personnages/maitre-du-jeu.png)
+![Maitre du jeu](assets/images/autres/personnages/maitre-du-jeu.png)
 
-*Kiki-le-MJ-par-ZatZatZatou*
 
 ### Qu’est-ce qu’un MJ ?
 

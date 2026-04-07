@@ -9,10 +9,10 @@ title: Corbeau Cramoisi
 
 Le corbeau cramoisi est le patriarche du monde, survolant l’univers pour veiller sur les mortels, porteur de lumière, dieu du savoir et de la connaissance. Il accompagne les sages dans leurs recherches et guide les stratèges vers le triomphe. Le soleil est son symbole, le feu son élément. Le corbeau est aussi le dieu de la gloire mais il prône la gratitude et l’humilité dans la victoire. C’est une divinité tournée vers la perspicacité et l’attention. Bienveillant et protecteur, le corbeau est aussi le grand messager des mortels, informant les hommes des dangers qui les attendent.
 
-![image.png](assets/images/autres/cosmogonie/corbeau-cramoisi-alt.png)
+![Corbeau cramoisi alt par [[leflopla]]](assets/images/leflopla/cosmogonie/corbeau-cramoisi-alt.png)
 
 *cf. Post Instagram du 20.01.2025*
 
-![image.png](assets/images/autres/cosmogonie/corbeau-cramoisi-1.png)
+![Corbeau cramoisi 1 par [[leflopla]]](assets/images/leflopla/cosmogonie/corbeau-cramoisi-1.png)
 
                                                             ***Le Corbeau Cramoisi, pixel art par LeFlopla***

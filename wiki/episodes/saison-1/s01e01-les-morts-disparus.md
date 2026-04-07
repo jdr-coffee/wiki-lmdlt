@@ -9,7 +9,7 @@ type: episode
 
 Nos 4 héros arrivent à la prison d'Agener, une forteresse taillée dans une montagne glaciale.
 
-![Illustration par Leflopla](assets/images/autres/divers/s01e01-illustration.png)
+![Illustration par [[leflopla]]](assets/images/autres/divers/s01e01-illustration.png)
 
 *Illustration par Leflopla*
 

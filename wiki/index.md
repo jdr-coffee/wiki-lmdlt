@@ -15,7 +15,11 @@ Le podcast est écrit et scénarisé par [[steve|Steve]], accompagné de trois j
 
 ::query[/heroines]{view=gallery featured=true}
 
+[[heroines|Toutes les héroïnes →]]
+
 ## Épisodes
+
+[[saisons|Vue d'ensemble des saisons]]
 
 :::links
 [[saison-1|Saison 1]]
@@ -37,9 +41,25 @@ Le podcast est écrit et scénarisé par [[steve|Steve]], accompagné de trois j
 [[guildes|Guildes]]
 [[magie|Magie]]
 [[bestiaire|Bestiaire]]
+[[cosmogonie|Cosmogonie]]
+[[univers|Univers]]
+[[pays-royaumes|Pays & Royaumes]]
+[[objets-notables|Objets notables]]
+[[plantes|Plantes]]
 :::/links
 
 ---
+
+## L'Équipe & la communauté
+
+:::links
+[[l-equipe|L'équipe]]
+[[fanarts|Fanarts]]
+[[invitees|Invitées]]
+[[dictionnaire|Dictionnaire]]
+[[les-conseils-de-l-equipe|Conseils de l'équipe]]
+[[comment-contribuer|Contribuer au wiki]]
+:::/links
 
 ## Liens utiles
 
